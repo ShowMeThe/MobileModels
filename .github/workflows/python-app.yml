@@ -58,5 +58,7 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{secrets.GITHUB_TOKEN}}  
+        repository: 'ShowMeThe/MobileModels'
+        force: true
+        github_token: ${{ secrets.ACCESS_TOKEN }}
       
