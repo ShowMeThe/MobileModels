@@ -1,0 +1,62 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+name: Python application
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+  watch:
+    types: [started]
+  schedule:
+    - cron: '0 0 1 * *
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install flake8 pytest
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Lint with flake8
+      run: |
+        # stop the build if there are Python syntax errors or undefined names
+        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
+        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
+    - name: Update MobileModels
+      run: |
+        cd MobileModels
+        ls
+        git log
+        echo "LATEST_COMMIT=$(git log -1 --format="%H")" >> $GITHUB_ENV
+        cd ..
+    - name: Run
+      run: |
+        echo `date +"%Y-%m-%d %H:%M:%S"` begin
+        python phoneModel.py
+        git status
+    - name: Commit # 提交更新
+      run: |
+        git config --global user.email c.uvsuv8@163.com
+        git config --global user.name WAsd8787@
+        git add .
+        git diff-index --quiet HEAD || git commit -m "Sync with MobileModels $LATEST_COMMIT" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: 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 
