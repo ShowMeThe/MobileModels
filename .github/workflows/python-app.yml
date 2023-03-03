@@ -53,5 +53,5 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: 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  
+        github_token: ${{secrets.GITHUB_TOKEN}}  
       
