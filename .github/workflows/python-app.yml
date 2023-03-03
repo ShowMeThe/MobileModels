@@ -3,6 +3,10 @@
 
 name: Build Mobile Models CSV
 
+permissions:
+  pull-requests: write
+  issues: write
+  repository-projects: write
 
 on:
   push:
