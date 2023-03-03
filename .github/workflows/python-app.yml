@@ -24,8 +24,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-      with:
-        token: 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
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
@@ -41,13 +39,19 @@ jobs:
         flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
         # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
-        
+    - name: Set git config
+      run: |
+        git config --global user.email c.uvsuv@163.com
+        git config --global user.name ShowMeThe 
+    - uses: actions/checkout@v2
+      with:
+        token: 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  
     - name: Update MobileModels
       run: |
         ls
         git log
         echo "LATEST_COMMIT=$(git log -1 --format="%H")" >> $GITHUB_ENV
-        cd ..
+        cd ..    
     - name: Run
       run: |
         echo `date +"%Y-%m-%d %H:%M:%S"` begin
