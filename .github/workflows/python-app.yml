@@ -40,7 +40,6 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Update MobileModels
       run: |
-        cd MobileModels
         ls
         git log
         echo "LATEST_COMMIT=$(git log -1 --format="%H")" >> $GITHUB_ENV
