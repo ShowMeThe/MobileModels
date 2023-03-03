@@ -12,6 +12,7 @@ on:
     types: [started]
   schedule:
     - cron: '00 10 * * *'
+    
 
 permissions:
   contents: read
