@@ -59,4 +59,4 @@ jobs:
         git push
     - uses: actions/checkout@v2
       with:
-        github_token: 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 
+        github_token: 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 
