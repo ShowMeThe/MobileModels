@@ -55,7 +55,7 @@ jobs:
         git config --global user.name ShowMeThe
         git add .
         git diff-index --quiet HEAD || git commit -m "Sync with MobileModels $LATEST_COMMIT" -a
-    - name: Push changes
-      uses: ad-m/github-push-action@master
+        git push
+    - uses: actions/checkout@v2
       with:
         github_token: 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 
