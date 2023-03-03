@@ -24,6 +24,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+      with:
+        github_token: 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
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
@@ -57,7 +59,5 @@ jobs:
         git config --global user.name ShowMeThe
         git add .
         git diff-index --quiet HEAD || git commit -m "Sync with MobileModels $LATEST_COMMIT" -a
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: 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
+        git push
+      
