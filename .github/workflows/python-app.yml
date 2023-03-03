@@ -51,7 +51,7 @@ jobs:
         git status
     - name: Commit # 提交更新
       run: |
-        git config --global user.email c.uvsuv8@163.com
+        git config --global user.email c.uvsuv@163.com
         git config --global user.name WAsd8787@
         git add .
         git diff-index --quiet HEAD || git commit -m "Sync with MobileModels $LATEST_COMMIT" -a
