@@ -1,5 +1,11 @@
 # CHANGELOG
-## 2023-03-03
+## 2023-03-14
+- `realme_global_en` Add several new models.
+## 2023-03-13
+- `xiaomi_en` Add Redmi A2.
+## 2023-03-07
+- `honor_global_en` Add HONOR 70 Lite 5G.
+## 2023-03-04
 - `honor_global_en` Add HONOR Magic5, X6 5G.
 ## 2023-03-01
 - `xiaomi_en` Add Redmi Note 12 series (Global).

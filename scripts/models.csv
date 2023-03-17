@@ -1470,15 +1470,17 @@ NBR-WAI9,computer,honor,荣耀,,NobelBR,荣耀 MagicBook X 14,#i3
 NBR-WAH9,computer,honor,荣耀,,NobelBR,荣耀 MagicBook X 14,#i5
 NDR-WFH,computer,honor,荣耀,,NobelDR,荣耀 MagicBook X 14 2022,#i5 (11 代酷睿)
 FRI-F56,computer,honor,荣耀,,,荣耀 MagicBook X 14 2022,#i5 (12 代酷睿)
-FRI-G56,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i5 (16GB+512GB)
-FRI-G561,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i5 (16GB+1TB)
+FRI-F38,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i3 (8GB 内存)
+FRI-F56,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i5 (16GB 内存)
+FRI-G56,computer,honor,荣耀,,,荣耀 MagicBook X 14 Pro 2023,#i5 (16GB+512GB)
+FRI-G561,computer,honor,荣耀,,,荣耀 MagicBook X 14 Pro 2023,#i5 (16GB+1TB)
 BBR-WAI9,computer,honor,荣耀,,BohrBR,荣耀 MagicBook X 15,#i3
 BBR-WAH9,computer,honor,荣耀,,BohrBR,荣耀 MagicBook X 15,#i5
 BDR-WDH,computer,honor,荣耀,,BohrDR,荣耀 MagicBook X 15 2022,#i5 (8GB+512GB)
 BDR-WFH,computer,honor,荣耀,,BohrDR,荣耀 MagicBook X 15 2022,#i5 (16GB+512GB)
 BRN-F56,computer,honor,荣耀,,,荣耀 MagicBook X 16 2022,#i5
-BRN-G56,computer,honor,荣耀,,,荣耀 MagicBook X 16 2023,#i5 (16GB+512GB)
-BRN-G561,computer,honor,荣耀,,,荣耀 MagicBook X 16 2023,#i5 (16GB+1TB)
+BRN-G56,computer,honor,荣耀,,,荣耀 MagicBook X 16 Pro 2023,#i5 (16GB+512GB)
+BRN-G561,computer,honor,荣耀,,,荣耀 MagicBook X 16 Pro 2023,#i5 (16GB+1TB)
 FRD-WDG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (8GB+512GB)
 FRD-WFG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (16GB+512GB)
 FRR-WFG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (16GB+512GB)
@@ -1612,6 +1614,7 @@ NTN-LX1,mob,honor,HONOR,,NewtonH,HONOR 50 Lite,#5G
 NTN-L22,mob,honor,HONOR,,NewtonH,HONOR 50 Lite,#5G
 NTN-LX3,mob,honor,HONOR,,NewtonH,HONOR 50 Lite,#5G
 FNE-NX9,mob,honor,HONOR,,,HONOR 70,#5G
+RBN-NX1,mob,honor,HONOR,,,HONOR 70 Lite,#5G
 LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,#5G
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#
 ANY-NX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite 5G,#
@@ -2101,6 +2104,7 @@ WRTD-WFE9Q,computer,huawei,华为,,WrightD,HUAWEI MateBook 13 (2021),#i7 (16GB+5
 EMD-W58,computer,huawei,华为,,EmmyD,HUAWEI MateBook 13s,#i5 (8GB+512GB)
 EMD-W56,computer,huawei,华为,,EmmyD,HUAWEI MateBook 13s,#i5 (16GB+512GB)
 EMD-W76,computer,huawei,华为,,EmmyD,HUAWEI MateBook 13s,#i7 (16GB+512GB)
+EMF-16,computer,huawei,华为,,EmmyF,HUAWEI MateBook 13s,#12 代酷睿版
 KLV-W19,computer,huawei,华为,,Kelvin,HUAWEI MateBook 14,#i5
 KLV-W19DL,computer,huawei,华为,,Kelvin,HUAWEI MateBook 14,#i5 Linux 版
 KLV-W29,computer,huawei,华为,,Kelvin,HUAWEI MateBook 14,#i7
@@ -4146,6 +4150,8 @@ RMX3630,mob,realme,realme,,,10,#
 RMX3660,mob,realme,realme,,,10 Pro,#5G India
 RMX3661,mob,realme,realme,,,10 Pro,#5G Global
 RMX3686,mob,realme,realme,,,10 Pro,#5G
+RMX3612,mob,realme,realme,,,10T,#5G
+RMX3771,mob,realme,realme,,,11 Pro,#5G
 RMX1901,mob,realme,realme,,,X,#
 RMX1921,mob,realme,realme,,,XT,#Global
 RMX1922,mob,realme,realme,,,XT,#India
@@ -4203,7 +4209,8 @@ RMX3690,mob,realme,realme,,,C30s,#
 RMX3501,mob,realme,realme,,,C31,#
 RMX3502,mob,realme,realme,,,C31,#
 RMX3503,mob,realme,realme,,,C31,#
-RMX3624,mob,realme,realme,,,C33,#
+RMX3624,mob,realme,realme,,,C33|C33 2023,#
+RMX3624,mob,realme,realme,,,C33|C33 2023,1#
 RMX3511,mob,realme,realme,,,C35,#
 RMX3512,mob,realme,realme,,,C35,#
 RMX3513,mob,realme,realme,,,C35,#
@@ -4223,7 +4230,8 @@ RMX3242,mob,realme,realme,,,Narzo 30,#5G
 RMX2117,mob,realme,realme,,,Narzo 30 Pro,#5G
 RMX3171,mob,realme,realme,,,Narzo 30A,#
 RMX3286,mob,realme,realme,,,Narzo 50,#
-RMX3571,mob,realme,realme,,,Narzo 50,#5G
+RMX3571,mob,realme,realme,,,Narzo 50,#5G India
+RMX3572,mob,realme,realme,,,Narzo 50,#5G Global
 RMX3395,mob,realme,realme,,,Narzo 50 Pro,#5G India
 RMX3396,mob,realme,realme,,,Narzo 50 Pro,#5G Global
 RMX3430,mob,realme,realme,,,Narzo 50A,#
@@ -4768,6 +4776,7 @@ V2220A,mob,vivo,vivo,,PD2220,iQOO Z6,#
 V2164KA,mob,vivo,vivo,,PD2164K,iQOO Z6x,#
 V2270A,mob,vivo,vivo,,PD2270,iQOO Z7,#
 V2272A,mob,vivo,vivo,,PD2272,iQOO Z7x,#
+V2230EA,mob,vivo,vivo,,PD2230,iQOO Z7i,#
 V2023A,mob,vivo,vivo,,PD2023,iQOO U1,#
 V2065A,mob,vivo,vivo,,PD2065,iQOO U1x,#
 V2061A,mob,vivo,vivo,,PD2061,iQOO U3,#5G
@@ -4891,6 +4900,7 @@ M2012K11I,mob,xiaomi,小米,K11,haydnin,小米 11X Pro,#印度版
 22071212AG,mob,xiaomi,小米,L12A,plato,Xiaomi 12T,#国际版
 22081212UG,mob,xiaomi,小米,L12U,diting,Xiaomi 12T Pro,#国际版
 22081212R,mob,xiaomi,小米,L12U,diting,Xiaomi 12T Pro,#日本版 (SIM Free)
+22200414R,mob,xiaomi,小米,L12U,diting,Xiaomi 12T Pro,#日本版 (SIM Free)
 A201XM,mob,xiaomi,小米,L12U,diting,Xiaomi 12T Pro,#日本版 (SoftBank)
 2211133C,mob,xiaomi,小米,M3,fuxi,Xiaomi 13,#全网通版
 2211133G,mob,xiaomi,小米,M3,fuxi,Xiaomi 13,#国际版
@@ -5308,6 +5318,10 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,#印度版
 220733SFG,mob,xiaomi,小米,C3SF,snow,Redmi A1,#国际版
 220733SFH,mob,xiaomi,小米,C3SF,snow,Redmi A1,#国际版
 220743FI,mob,xiaomi,小米,C3SF,snow,Redmi A1,#印度版
+23026RN54G,mob,xiaomi,小米,,water,Redmi A2,#国际版
+23028RN4DG,mob,xiaomi,小米,,water,Redmi A2,#国际版
+23028RN4DH,mob,xiaomi,小米,,water,Redmi A2,#国际版
+23028RN4DI,mob,xiaomi,小米,,water,Redmi A2,#印度版
 22081283C,pad,xiaomi,小米,L83,yunluo,Redmi Pad,#国行版
 22081283G,pad,xiaomi,小米,L83,yunluo,Redmi Pad,#国际版
 M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,#
@@ -5330,6 +5344,7 @@ M2102J20SI,mob,xiaomi,小米,J20S,bhima,POCO X3 Pro,#印度版
 22041216G,mob,xiaomi,小米,L16,xaga,POCO X4 GT,#国际版
 22041216UG,mob,xiaomi,小米,L16U,xagapro,POCO X4 GT Pro,#国际版
 22111317PG,mob,xiaomi,小米,M17P,moonstone,POCO X5 5G,#国际版
+22111317PI,mob,xiaomi,小米,M17P,moonstone,POCO X5 5G,#印度版
 22101320G,mob,xiaomi,小米,M20,redwood,POCO X5 Pro 5G,#国际版
 22101320I,mob,xiaomi,小米,M20,redwood,POCO X5 Pro 5G,#印度版
 M2004J19PI,mob,xiaomi,小米,J19P,shiva,POCO M2,#印度版
@@ -5474,6 +5489,7 @@ M2012K11I,mob,xiaomi,Xiaomi,K11,haydnin,Mi 11X Pro,#India
 22071212AG,mob,xiaomi,Xiaomi,L12A,plato,Xiaomi 12T,#Global
 22081212UG,mob,xiaomi,Xiaomi,L12U,diting,Xiaomi 12T Pro,#Global
 22081212R,mob,xiaomi,Xiaomi,L12U,diting,Xiaomi 12T Pro,#Japan (SIM Free)
+22200414R,mob,xiaomi,Xiaomi,L12U,diting,Xiaomi 12T Pro,#Japan (SIM Free)
 A201XM,mob,xiaomi,Xiaomi,L12U,diting,Xiaomi 12T Pro,#Japan (SoftBank)
 2211133G,mob,xiaomi,Xiaomi,M3,fuxi,Xiaomi 13,#Global
 2211133C,mob,xiaomi,Xiaomi,M3,fuxi,Xiaomi 13,#China
@@ -5879,6 +5895,10 @@ M1903C3GI,mob,xiaomi,Xiaomi,C3G,tiare,Redmi Go,#India
 220733SFG,mob,xiaomi,Xiaomi,C3SF,snow,Redmi A1,#Global
 220733SFH,mob,xiaomi,Xiaomi,C3SF,snow,Redmi A1,#Global
 220743FI,mob,xiaomi,Xiaomi,C3SF,snow,Redmi A1,#India
+23026RN54G,mob,xiaomi,Xiaomi,,water,Redmi A2,#Global
+23028RN4DG,mob,xiaomi,Xiaomi,,water,Redmi A2,#Global
+23028RN4DH,mob,xiaomi,Xiaomi,,water,Redmi A2,#Global
+23028RN4DI,mob,xiaomi,Xiaomi,,water,Redmi A2,#India
 M1805E10A,mob,xiaomi,Xiaomi,E10,beryllium,POCO F1,#
 M2004J11G,mob,xiaomi,Xiaomi,J11,lmi,POCO F2 Pro,#Global
 M2012K11AG,mob,xiaomi,Xiaomi,K11A,alioth,POCO F3,#Global
@@ -5899,6 +5919,7 @@ M2102J20SI,mob,xiaomi,Xiaomi,J20S,bhima,POCO X3 Pro,#India
 22041216G,mob,xiaomi,Xiaomi,L16,xaga,POCO X4 GT,#Global
 22041216UG,mob,xiaomi,Xiaomi,L16U,xagapro,POCO X4 GT Pro,#Global
 22111317PG,mob,xiaomi,Xiaomi,M17P,moonstone,POCO X5 5G,#Global
+22111317PI,mob,xiaomi,Xiaomi,M17P,moonstone,POCO X5 5G,#India
 22101320G,mob,xiaomi,Xiaomi,M20,redwood,POCO X5 Pro 5G,#Global
 22101320I,mob,xiaomi,Xiaomi,M20,redwood,POCO X5 Pro 5G,#India
 M2004J19PI,mob,xiaomi,Xiaomi,J19P,shiva,POCO M2,#India
@@ -6023,6 +6044,7 @@ ZTE 7530N,mob,zte,中兴,,,中兴远航 10,#
 ZTE 9040N,mob,zte,中兴,,,中兴远航 20 Pro,#
 ZTE 7532N,mob,zte,中兴,,,中兴远航 30,#
 ZTE 7531N,mob,zte,中兴,,,中兴远航 30S,#
+ZTE 7534N,mob,zte,中兴,,,中兴远航 30 畅行版,#
 ZTE 8040N,mob,zte,中兴,,,中兴远航 30 Pro,#
 ZTE 9041N,mob,zte,中兴,,,中兴远航 30 Pro,#
 ZTE 1010L,mob,zte,中兴,,,中兴畅行 30,#

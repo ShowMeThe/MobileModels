@@ -1,4 +1,13 @@
 # 更新日志
+## 2023-03-17
+- `zte` 新增 中兴远航 30 畅行版。
+## 2023-03-13
+- `vivo` 新增 iQOO Z7i。
+- `xiaomi` 新增 Redmi A2。
+## 2023-03-09
+- `huawei_cn` 新增 HUAWEI MateBook 13s 12 代酷睿版。
+## 2023-03-06
+- `honor_cn` 新增 荣耀 MagicBook X 14 2023。
 ## 2023-03-03
 - `vivo` 新增 iQOO Z7 系列。
 - `zhixuan` 新增 麦芒 20。
@@ -8,7 +17,7 @@
 ## 2023-03-01
 - `xiaomi` 新增 Redmi Note 12 系列国际版。
 ## 2023-02-28
-- `honor_cn` 新增 荣耀 MagicBook X 2023。
+- `honor_cn` 新增 荣耀 MagicBook X Pro 2023。
 - `lenovo` 新增 联想拯救者 Y900。
 - `nubia` 新增 努比亚 Z50 Ultra。
 - `oneplus` 新增 一加 Ace 2V。
