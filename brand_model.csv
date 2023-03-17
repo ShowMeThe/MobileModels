@@ -871,6 +871,7 @@ zte,7530N,cn,中兴, 中兴远航 10
 zte,9040N,cn,中兴, 中兴远航 20 Pro
 zte,7532N,cn,中兴, 中兴远航 30
 zte,7531N,cn,中兴, 中兴远航 30S
+zte,7534N,cn,中兴, 中兴远航 30 畅行版
 zte,8040N,cn,中兴, 中兴远航 30 Pro
 zte,9041N,cn,中兴, 中兴远航 30 Pro+
 zte,1010L,cn,中兴, 中兴畅行 30
@@ -1434,6 +1435,7 @@ huawei,WRTD-WFE9Q,cn,华为, HUAWEI MateBook 13 (2021) i7 (16GB+512GB)
 huawei,EMD-W58,cn,华为, HUAWEI MateBook 13s i5 (8GB+512GB)
 huawei,EMD-W56,cn,华为, HUAWEI MateBook 13s i5 (16GB+512GB)
 huawei,EMD-W76,cn,华为, HUAWEI MateBook 13s i7 (16GB+512GB)
+huawei,EMF-16,cn,华为, HUAWEI MateBook 13s 12 代酷睿版
 huawei,KLV-W19,cn,华为, HUAWEI MateBook 14 i5
 huawei,KLV-W19DL,cn,华为, HUAWEI MateBook 14 i5 Linux 版
 huawei,KLV-W29,cn,华为, HUAWEI MateBook 14 i7
@@ -2108,7 +2110,6 @@ xiaomi,2206122SC,cn,小米, Xiaomi 12S Pro 全网通版
 xiaomi,2203121C,cn,小米, Xiaomi 12S Ultra 全网通版
 xiaomi,22071212AG,cn,小米, Xiaomi 12T 国际版
 xiaomi,22081212UG,cn,小米, Xiaomi 12T Pro 国际版
-xiaomi,22081212R,cn,小米, Xiaomi 12T Pro 日本版 (SIM Free)
 xiaomi,A201XM,cn,小米, Xiaomi 12T Pro 日本版 (SoftBank)
 xiaomi,2211133C,cn,小米, Xiaomi 13 全网通版
 xiaomi,2211133G,cn,小米, Xiaomi 13 国际版
@@ -2509,6 +2510,10 @@ xiaomi,220733SL,cn,小米, Redmi A1 拉美版
 xiaomi,220733SFG,cn,小米, Redmi A1+ 国际版
 xiaomi,220733SFH,cn,小米, Redmi A1+ 国际版
 xiaomi,220743FI,cn,小米, Redmi A1+ 印度版
+xiaomi,23026RN54G,cn,小米, Redmi A2 国际版
+xiaomi,23028RN4DG,cn,小米, Redmi A2 国际版
+xiaomi,23028RN4DH,cn,小米, Redmi A2 国际版
+xiaomi,23028RN4DI,cn,小米, Redmi A2 印度版
 xiaomi,22081283C,cn,小米, Redmi Pad 国行版
 xiaomi,22081283G,cn,小米, Redmi Pad 国际版
 xiaomi,M1805E10A,cn,小米, POCO F1
@@ -2531,6 +2536,7 @@ xiaomi,2201116PI,cn,小米, POCO X4 Pro 5G 印度版
 xiaomi,22041216G,cn,小米, POCO X4 GT 国际版
 xiaomi,22041216UG,cn,小米, POCO X4 GT Pro 国际版
 xiaomi,22111317PG,cn,小米, POCO X5 5G 国际版
+xiaomi,22111317PI,cn,小米, POCO X5 5G 印度版
 xiaomi,22101320G,cn,小米, POCO X5 Pro 5G 国际版
 xiaomi,22101320I,cn,小米, POCO X5 Pro 5G 印度版
 xiaomi,M2004J19PI,cn,小米, POCO M2 印度版
@@ -2670,7 +2676,6 @@ xiaomi,2206122SC,en,小米, Xiaomi 12S Pro China
 xiaomi,2203121C,en,小米, Xiaomi 12S Ultra China
 xiaomi,22071212AG,en,小米, Xiaomi 12T Global
 xiaomi,22081212UG,en,小米, Xiaomi 12T Pro Global
-xiaomi,22081212R,en,小米, Xiaomi 12T Pro Japan (SIM Free)
 xiaomi,A201XM,en,小米, Xiaomi 12T Pro Japan (SoftBank)
 xiaomi,2211133G,en,小米, Xiaomi 13 Global
 xiaomi,2211133C,en,小米, Xiaomi 13 China
@@ -3060,6 +3065,10 @@ xiaomi,220733SL,en,小米, Redmi A1 Latin America
 xiaomi,220733SFG,en,小米, Redmi A1+ Global
 xiaomi,220733SFH,en,小米, Redmi A1+ Global
 xiaomi,220743FI,en,小米, Redmi A1+ India
+xiaomi,23026RN54G,en,小米, Redmi A2 Global
+xiaomi,23028RN4DG,en,小米, Redmi A2 Global
+xiaomi,23028RN4DH,en,小米, Redmi A2 Global
+xiaomi,23028RN4DI,en,小米, Redmi A2 India
 xiaomi,M1805E10A,en,小米, POCO F1
 xiaomi,M2004J11G,en,小米, POCO F2 Pro Global
 xiaomi,M2012K11AG,en,小米, POCO F3 Global
@@ -3080,6 +3089,7 @@ xiaomi,2201116PI,en,小米, POCO X4 Pro 5G India
 xiaomi,22041216G,en,小米, POCO X4 GT Global
 xiaomi,22041216UG,en,小米, POCO X4 GT Pro Global
 xiaomi,22111317PG,en,小米, POCO X5 5G Global
+xiaomi,22111317PI,en,小米, POCO X5 5G India
 xiaomi,22101320G,en,小米, POCO X5 Pro 5G Global
 xiaomi,22101320I,en,小米, POCO X5 Pro 5G India
 xiaomi,M2004J19PI,en,小米, POCO M2 India
@@ -4142,15 +4152,17 @@ honor,NBR-WAI9,cn,荣耀, 荣耀 MagicBook X 14 i3
 honor,NBR-WAH9,cn,荣耀, 荣耀 MagicBook X 14 i5
 honor,NDR-WFH,cn,荣耀, 荣耀 MagicBook X 14 2022 i5 (11 代酷睿)
 honor,FRI-F56,cn,荣耀, 荣耀 MagicBook X 14 2022 i5 (12 代酷睿)
-honor,FRI-G56,cn,荣耀, 荣耀 MagicBook X 14 2023 i5 (16GB+512GB)
-honor,FRI-G561,cn,荣耀, 荣耀 MagicBook X 14 2023 i5 (16GB+1TB)
+honor,FRI-F38,cn,荣耀, 荣耀 MagicBook X 14 2023 i3 (8GB 内存)
+honor,FRI-F56,cn,荣耀, 荣耀 MagicBook X 14 2023 i5 (16GB 内存)
+honor,FRI-G56,cn,荣耀, 荣耀 MagicBook X 14 Pro 2023 i5 (16GB+512GB)
+honor,FRI-G561,cn,荣耀, 荣耀 MagicBook X 14 Pro 2023 i5 (16GB+1TB)
 honor,BBR-WAI9,cn,荣耀, 荣耀 MagicBook X 15 i3
 honor,BBR-WAH9,cn,荣耀, 荣耀 MagicBook X 15 i5
 honor,BDR-WDH,cn,荣耀, 荣耀 MagicBook X 15 2022 i5 (8GB+512GB)
 honor,BDR-WFH,cn,荣耀, 荣耀 MagicBook X 15 2022 i5 (16GB+512GB)
 honor,BRN-F56,cn,荣耀, 荣耀 MagicBook X 16 2022 i5
-honor,BRN-G56,cn,荣耀, 荣耀 MagicBook X 16 2023 i5 (16GB+512GB)
-honor,BRN-G561,cn,荣耀, 荣耀 MagicBook X 16 2023 i5 (16GB+1TB)
+honor,BRN-G56,cn,荣耀, 荣耀 MagicBook X 16 Pro 2023 i5 (16GB+512GB)
+honor,BRN-G561,cn,荣耀, 荣耀 MagicBook X 16 Pro 2023 i5 (16GB+1TB)
 honor,FRD-WDG9,cn,荣耀, 荣耀猎人游戏本 V700 i5 (8GB+512GB)
 honor,FRD-WFG9,cn,荣耀, 荣耀猎人游戏本 V700 i5 (16GB+512GB)
 honor,FRR-WFG9,cn,荣耀, 荣耀猎人游戏本 V700 i5 (16GB+512GB)
@@ -4912,6 +4924,7 @@ honor,NTN-LX1,en,荣耀, HONOR 50 Lite 5G
 honor,NTN-L22,en,荣耀, HONOR 50 Lite 5G
 honor,NTN-LX3,en,荣耀, HONOR 50 Lite 5G
 honor,FNE-NX9,en,荣耀, HONOR 70 5G
+honor,RBN-NX1,en,荣耀, HONOR 70 Lite 5G
 honor,LGE-NX9,en,荣耀, HONOR Magic4 Pro 5G
 honor,ANY-LX1,en,荣耀, HONOR Magic4 Lite
 honor,ANY-NX1,en,荣耀, HONOR Magic4 Lite 5G
@@ -5162,6 +5175,7 @@ vivo,V2220A,cn,VIVO, iQOO Z6
 vivo,V2164KA,cn,VIVO, iQOO Z6x
 vivo,V2270A,cn,VIVO, iQOO Z7
 vivo,V2272A,cn,VIVO, iQOO Z7x
+vivo,V2230EA,cn,VIVO, iQOO Z7i
 vivo,V2023A,cn,VIVO, iQOO U1
 vivo,V2065A,cn,VIVO, iQOO U1x
 vivo,V2061A,cn,VIVO, iQOO U3 5G
@@ -5230,6 +5244,8 @@ realme,RMX3630,en,真我, realme 10
 realme,RMX3660,en,真我, realme 10 Pro 5G India
 realme,RMX3661,en,真我, realme 10 Pro 5G Global
 realme,RMX3686,en,真我, realme 10 Pro+ 5G
+realme,RMX3612,en,真我, realme 10T 5G
+realme,RMX3771,en,真我, realme 11 Pro 5G
 realme,RMX1901,en,真我, realme X
 realme,RMX1921,en,真我, realme XT Global
 realme,RMX1922,en,真我, realme XT India
@@ -5287,7 +5303,7 @@ realme,RMX3690,en,真我, realme C30s
 realme,RMX3501,en,真我, realme C31
 realme,RMX3502,en,真我, realme C31
 realme,RMX3503,en,真我, realme C31
-realme,RMX3624,en,真我, realme C33
+realme,RMX3624,en,真我, realme C33 / realme C33 2023
 realme,RMX3511,en,真我, realme C35
 realme,RMX3512,en,真我, realme C35
 realme,RMX3513,en,真我, realme C35
@@ -5307,7 +5323,8 @@ realme,RMX3242,en,真我, realme Narzo 30 5G
 realme,RMX2117,en,真我, realme Narzo 30 Pro 5G
 realme,RMX3171,en,真我, realme Narzo 30A
 realme,RMX3286,en,真我, realme Narzo 50
-realme,RMX3571,en,真我, realme Narzo 50 5G
+realme,RMX3571,en,真我, realme Narzo 50 5G India
+realme,RMX3572,en,真我, realme Narzo 50 5G Global
 realme,RMX3395,en,真我, realme Narzo 50 Pro 5G India
 realme,RMX3396,en,真我, realme Narzo 50 Pro 5G Global
 realme,RMX3430,en,真我, realme Narzo 50A
