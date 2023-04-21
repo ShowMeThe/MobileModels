@@ -365,6 +365,12 @@
 
 `2210132C`: Xiaomi 13 Pro China
 
+**[`M1`] Xiaomi 13 Ultra (`ishtar`):**
+
+`2304FPN6DG`: Xiaomi 13 Ultra Global
+
+`2304FPN6DC`: Xiaomi 13 Ultra China
+
 **[`L9S`] Xiaomi 13 Lite (`ziyi`):**
 
 `2210129SG`: Xiaomi 13 Lite Global
@@ -1253,7 +1259,7 @@
 
 `23021RAAEG`: Redmi Note 12 Global
 
-`23021RAAEI`: Redmi Note 12 India
+`23027RAD4I`: Redmi Note 12 India
 
 `23028RA60L`: Redmi Note 12 Latin America
 
@@ -1268,6 +1274,20 @@
 `22111317I`: Redmi Note 12 5G India
 
 `22101317C`: Redmi Note 12 5G China
+
+**Redmi Note 12S (`sea`):**
+
+`2303CRA44A`: Redmi Note 12S Global
+
+`2303ERA42L`: Redmi Note 12S Latin America
+
+**Redmi Note 12S (`ocean`):**
+
+`23030RAC7Y`: Redmi Note 12S Global (NFC)
+
+**[`K6A`] Redmi Note 12 Pro (`sweet`):**
+
+`2209116AG`: Redmi Note 12 Pro Global
 
 **[`M16`] Redmi Note 12 Pro 5G (`ruby`):**
 
@@ -1292,6 +1312,10 @@
 **[`M20`] Redmi Note 12 Pro Speed (`redwood`):**
 
 `22101320C`: Redmi Note 12 Pro Speed China
+
+**[`M16T`] Redmi Note 12 Turbo (`marble`):**
+
+`23049RAD8C`: Redmi Note 12 Turbo China
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
@@ -1453,11 +1477,15 @@
 
 `220743FI`: Redmi A1+ India
 
-**Redmi A2 (`water`):**
+**Redmi A2 (`cloud`):**
 
 `23026RN54G` `23028RN4DG` `23028RN4DH`: Redmi A2 Global
 
 `23028RN4DI`: Redmi A2 India
+
+**Redmi A2+ (`water`):**
+
+`23028RNCAG`: Redmi A2+ Global
 
 ## POCO Phones
 
@@ -1488,6 +1516,18 @@
 `21121210G`: POCO F4 GT Global
 
 `21121210I`: POCO F4 GT India
+
+**[`M16T`] POCO F5 (`marble`):**
+
+`23049PCD8G`: POCO F5 Global
+
+`23049PCD8I`: POCO F5 India
+
+**[`M11A`] POCO F5 Pro (`mondrian`):**
+
+`23013PC75G`: POCO F5 Pro Global
+
+`23013PC75I`: POCO F5 Pro India
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 
@@ -1668,6 +1708,16 @@
 **[`L81A`] Xiaomi Pad 5 Pro 12.4 (`dagu`):**
 
 `22081281AC`: Xiaomi Pad 5 Pro 12.4
+
+**[`M82`] Xiaomi Pad 6 (`pipa`):**
+
+`23043RP34G`: Xiaomi Pad 6 Global
+
+`23043RP34C`: Xiaomi Pad 6 China
+
+**[`M81`] Xiaomi Pad 6 Pro (`liuqin`):**
+
+`23046RP50C`: Xiaomi Pad 6 Pro
 
 **[`L83`] Redmi Pad (`yunluo`):**
 

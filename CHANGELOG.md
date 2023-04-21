@@ -1,5 +1,47 @@
 # 更新日志
+## 2023-04-20
+- `mitv_cn` 新增 Redmi 电视 X85。
+- `oneplus` 新增 一加 Nord N30。
+- `zte` 新增 中兴远航 40。
+## 2023-04-17
+- `huawei_cn` 新增 nova 11 系列等。
+- `vivo_cn` 新增 vivo Y78, Y78+, Y78m。
+## 2023-04-16
+- `honor_cn` 新增 荣耀 X50i。
+- `mitv_cn` 新增 小米电视大师 86" Mini LED。
+## 2023-04-15
+- `zte` 新增 中兴畅行 40 SE。
+## 2023-04-13
+- `asus` 新增 ROG Phone 7。
+- `honor_cn` 新增 荣耀 MagicBook 14 2023。
+## 2023-04-09
+- `zhixuan` 新增 Hi 畅享 60 5G。
+## 2023-04-07
+- `coolpad` 新增 酷派 COOL 30。
+## 2023-04-06
+- `coolpad` 新增 酷派锋尚 40。
+- `xiaomi` 新增 Redmi Note 12S, Note 12 Pro 4G。
+## 2023-04-05
+- `oneplus` 新增 OnePlus Nord CE 3 Lite。
+## 2023-04-03
+- `oppo_cn` 新增 OPPO A1 5G (2023)。
+## 2023-04-01
+- `vivo` 新增 X Fold2, X Flip, Y11, Pad2。
+## 2023-03-30
+- `meizu_cn` 新增 魅族 20 INFINITY 无界版。
+- `oppo_cn` 新增 OPPO A1x。
+## 2023-03-28
+- `honor_cn` 新增 荣耀 Play7T 系列。
+## 2023-03-24
+- `coolpad` 新增 酷派大观 40s。
+- `zte` 新增 中兴远航 41。
+## 2023-03-23
+- `huawei_cn` 新增 HUAWEI P60, Mate X3, MatePad 11 2023。
+## 2023-03-21
+- `mitv_cn` 新增 小米电视 S 系列。
 ## 2023-03-17
+- `samsung_cn` 新增 Galaxy A54。
+- `xiaomi` 新增 13 Ultra, Note 12 Turbo, 平板 6, POCO F5。
 - `zte` 新增 中兴远航 30 畅行版。
 ## 2023-03-13
 - `vivo` 新增 iQOO Z7i。

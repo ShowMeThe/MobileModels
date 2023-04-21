@@ -210,7 +210,7 @@
 
 `SDY-AN00`: 荣耀 70 Pro 5G
 
-**荣耀 70 Pro+:**
+**荣耀 70 Pro+ (`Hepburn`):**
 
 `HPB-TN00`: 荣耀 70 Pro+ 5G
 
@@ -470,9 +470,13 @@
 
 `DIO-AN00`: 荣耀 X40i 5G
 
-**荣耀 X40 GT (`AndyT`):**
+**荣耀 X40 GT (`AndyGT`):**
 
 `ADT-AN00`: 荣耀 X40 GT 5G
+
+**荣耀 X50i:**
+
+`CRT-AN00`: 荣耀 X50i 5G
 
 ## 荣耀 Play 系列
 
@@ -553,6 +557,14 @@
 **荣耀 Play6C (`Vinnie`):**
 
 `VNE-AN40`: 荣耀 Play6C 5G
+
+**荣耀 Play7T (`Rocky`):**
+
+`RKY-AN10`: 荣耀 Play7T 5G
+
+**荣耀 Play7T Pro (`Dior`):**
+
+`DIO-AN00`: 荣耀 Play7T Pro 5G
 
 ## 荣耀 Note 系列
 
@@ -998,6 +1010,16 @@
 
 `GLO-N76`: 荣耀 MagicBook 14 2022 R7
 
+**荣耀 MagicBook 14 2023:**
+
+`GLO-G56`: 荣耀 MagicBook 14 2023 i5 (16GB+512GB)
+
+`GLO-G561`: 荣耀 MagicBook 14 2023 i5 (16GB+1TB)
+
+**荣耀 MagicBook 14 Pro 2023:**
+
+`GLO-G561`: 荣耀 MagicBook 14 Pro 2023 i5 (16GB+1TB)
+
 **荣耀 MagicBook 15 (`BohrB`):**
 
 `Boh-WAH9HN`: 荣耀 MagicBook 15 i5
@@ -1126,9 +1148,11 @@
 
 **荣耀 MagicBook X 14 2023:**
 
-`FRI-F38`: 荣耀 MagicBook X 14 2023 i3 (8GB 内存)
+`FRI-F38`: 荣耀 MagicBook X 14 2023 i3 (8GB+256GB)
 
-`FRI-F56`: 荣耀 MagicBook X 14 2023 i5 (16GB 内存)
+`FRI-F56`: 荣耀 MagicBook X 14 2023 i5 (16GB+512GB)
+
+`FRI-F561`: 荣耀 MagicBook X 14 2023 i5 (16GB+1TB)
 
 **荣耀 MagicBook X 14 Pro 2023:**
 

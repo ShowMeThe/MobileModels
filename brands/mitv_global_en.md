@@ -97,6 +97,10 @@
 
 `L65M6-RA`: Redmi Smart TV X65
 
+**Redmi Smart Fire TV:**
+
+`L32R8-FVIN`: Redmi Smart Fire TV 32
+
 **Mi Box:**
 
 `MDZ-22-AB`: Mi Box 4K
@@ -232,6 +236,10 @@
 `MDZ-16-AA` `MDZ-16-AB`: Mi Box
 
 `MDZ-22-AB`: Mi Box S
+
+**Xiaomi TV Box:**
+
+`MDZ-28-AA`: Xiaomi TV Box
 
 **Mi TV Stick:**
 

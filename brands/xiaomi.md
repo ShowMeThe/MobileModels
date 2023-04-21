@@ -368,6 +368,12 @@
 
 `2210132G`: Xiaomi 13 Pro 国际版
 
+**[`M1`] Xiaomi 13 Ultra (`ishtar`):**
+
+`2304FPN6DC`: Xiaomi 13 Ultra 全网通版
+
+`2304FPN6DG`: Xiaomi 13 Ultra 国际版
+
 **[`L9S`] Xiaomi 13 Lite (`ziyi`):**
 
 `2210129SG`: Xiaomi 13 Lite 国际版
@@ -595,6 +601,16 @@
 **[`L81A`] 小米平板 5 Pro (`dagu`):**
 
 `22081281AC`: 小米平板 5 Pro 12.4 英寸
+
+**[`M82`] 小米平板 6 (`pipa`):**
+
+`23043RP34C`: 小米平板 6 国行版
+
+`23043RP34G`: 小米平板 6 国际版
+
+**[`M81`] 小米平板 6 Pro (`liuqin`):**
+
+`23046RP50C`: 小米平板 6 Pro
 
 ## 红米 / Redmi 数字系列
 
@@ -1326,7 +1342,7 @@
 
 `23021RAAEG`: Redmi Note 12 国际版
 
-`23021RAAEI`: Redmi Note 12 印度版
+`23027RAD4I`: Redmi Note 12 印度版
 
 `23028RA60L`: Redmi Note 12 拉美版
 
@@ -1341,6 +1357,20 @@
 `22111317G`: Redmi Note 12 5G 国际版
 
 `22111317I`: Redmi Note 12 5G 印度版
+
+**Redmi Note 12S (`sea`):**
+
+`2303CRA44A`: Redmi Note 12S 国际版
+
+`2303ERA42L`: Redmi Note 12S 拉美版
+
+**Redmi Note 12S (`ocean`):**
+
+`23030RAC7Y`: Redmi Note 12S 国际版 (NFC)
+
+**[`K6A`] Redmi Note 12 Pro (`sweet`):**
+
+`2209116AG`: Redmi Note 12 Pro 国际版
 
 **[`M16`] Redmi Note 12 Pro (`ruby`):**
 
@@ -1365,6 +1395,10 @@
 **[`M20`] Redmi Note 12 Pro 极速版 (`redwood`):**
 
 `22101320C`: Redmi Note 12 Pro 极速版 全网通版
+
+**[`M16T`] Redmi Note 12 Turbo (`marble`):**
+
+`23049RAD8C`: Redmi Note 12 Turbo 全网通版
 
 ## Redmi X 系列
 
@@ -1532,11 +1566,15 @@
 
 `220743FI`: Redmi A1+ 印度版
 
-**Redmi A2 (`water`):**
+**Redmi A2 (`cloud`):**
 
 `23026RN54G` `23028RN4DG` `23028RN4DH`: Redmi A2 国际版
 
 `23028RN4DI`: Redmi A2 印度版
+
+**Redmi A2+ (`water`):**
+
+`23028RNCAG`: Redmi A2+ 国际版
 
 ## Redmi 平板
 
@@ -1575,6 +1613,18 @@
 `21121210G`: POCO F4 GT 国际版
 
 `21121210I`: POCO F4 GT 印度版
+
+**[`M16T`] POCO F5 (`marble`):**
+
+`23049PCD8G`: POCO F5 国际版
+
+`23049PCD8I`: POCO F5 印度版
+
+**[`M11A`] POCO F5 Pro (`mondrian`):**
+
+`23013PC75G`: POCO F5 Pro 国际版
+
+`23013PC75I`: POCO F5 Pro 印度版
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 

@@ -422,9 +422,17 @@
 
 `PFTM10`: OPPO A97
 
+**OPPO A1:**
+
+`PHS110`: OPPO A1 (2023)
+
 **OPPO A1 Pro:**
 
 `PHQ110`: OPPO A1 Pro
+
+**OPPO A1x:**
+
+`PHJ110`: OPPO A1x
 
 ## K 系列
 

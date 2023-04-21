@@ -13,6 +13,8 @@ model,dtype,brand,brand_title,code,code_alias,model_name,ver_name
 1807-A01,mob,360,360,,,N7,#
 1809-A01,mob,360,360,,,N7 Pro,#
 1803-A01,mob,360,360,,,N7 Lite,#
+8676-A01,mob,360,360,,,大神 Note 3,#全网通版
+8676-M01,mob,360,360,,,大神 Note 3,#移动版
 1711-A01,mob,360,360,,,vizza,#
 1501-M02,mob,360,360,,,F4,#移动版
 1501-A02,mob,360,360,,,F4,#全网通版
@@ -940,6 +942,8 @@ ASUS_AI2201_A,mob,asus,华硕,,AI2201,ROG Phone 6,#游戏手机 6
 ASUS_AI2201_B,mob,asus,华硕,,AI2201,ROG Phone 6,#游戏手机 6 Pro
 ASUS_AI2203_A,mob,asus,华硕,,AI2203,ROG Phone 6D,#游戏手机 6 天玑版
 ASUS_AI2203_B,mob,asus,华硕,,AI2203,ROG Phone 6D,#游戏手机 6 天玑至尊版
+ASUS_AI2205_A,mob,asus,华硕,,AI2205,ROG Phone 7,#游戏手机 7
+ASUS_AI2205_B,mob,asus,华硕,,AI2205,ROG Phone 7,#游戏手机 7 Pro
 ASUS_I007D,mob,asus,华硕,,,Smartphone for Snapdragon Insiders,#
 SKR-A0,mob,blackshark,黑鲨,,shark,黑鲨游戏手机,#全网通版
 SKR-H0,mob,blackshark,黑鲨,,shark,黑鲨游戏手机,#国际版
@@ -988,6 +992,21 @@ SHARK PAR-A0,mob,blackshark,BlackShark,,patriot,Black Shark 5,#China
 SHARK KSR-A0,mob,blackshark,BlackShark,,kaiser,Black Shark 5 RS,#China
 SHARK KTUS-H0,mob,blackshark,BlackShark,,katyusha,Black Shark 5 Pro,#Global
 SHARK KTUS-A0,mob,blackshark,BlackShark,,katyusha,Black Shark 5 Pro,#China
+8297,mob,coolpad,酷派,,,酷派大神 F1,#移动 3G 版
+8297W,mob,coolpad,酷派,,,酷派大神 F1,#联通 3G 版
+8297D,mob,coolpad,酷派,,,酷派大神 F1,#青春版
+8297-C00,mob,coolpad,酷派,,,酷派大神 F1,#电信 4G 版
+8297-W01,mob,coolpad,酷派,,,酷派大神 F1,#Plus 联通 4G 版
+8297-T01,mob,coolpad,酷派,,,酷派大神 F1,#Plus 移动 4G 版 & 酷派大神 F1 极速版
+8675-HD,mob,coolpad,酷派,,,酷派大神 F2,#移动版
+8675-W00,mob,coolpad,酷派,,,酷派大神 F2,#联通版
+8675A,mob,coolpad,酷派,,,酷派大神 F2,#全网通版
+8675-FHD,mob,coolpad,酷派,,,酷派大神 F2,#全高清版
+8675-F01,mob,coolpad,酷派,,,酷派大神 F2,#全高清移动版
+8690,mob,coolpad,酷派,,,酷派大神 X7,#双网通版
+8690-T00,mob,coolpad,酷派,,,酷派大神 X7,#移动版
+8691,mob,coolpad,酷派,,,酷派大神 X7,#全网通版
+8670,mob,coolpad,酷派,,,酷派大神 Note,#
 C105,mob,coolpad,酷派,,,酷派 COOL Changer S1,#
 C105-6,mob,coolpad,酷派,,,酷派 COOL Changer S1,#
 C105-8,mob,coolpad,酷派,,,酷派 COOL Changer S1,#
@@ -1024,11 +1043,13 @@ CHA-A0,mob,coolpad,酷派,,,酷派酷玩 10,#
 SEA-A0,mob,coolpad,酷派,,,酷派 COOL 10 / 酷派锋尚 N5,#
 DET-A0,mob,coolpad,酷派,,,酷派 COOL 10C,#
 BOS-A0,mob,coolpad,酷派,,,酷派 COOL 10 青春版,#
-HOU-5GA,mob,coolpad,酷派,,,酷派 X10,#
-PHO-5GT,mob,coolpad,酷派,,,酷派锋尚 A11,#
-CP03,mob,coolpad,酷派,,,酷派 COOL 20,#
+HOU-5GA,mob,coolpad,酷派,,,酷派 X10,#5G
+PHO-5GT,mob,coolpad,酷派,,,酷派锋尚 A11,#5G
+CP03,mob,coolpad,酷派,,,酷派 COOL 20 / 酷派锋尚 40,#
 CP05,mob,coolpad,酷派,,,酷派 COOL 20 Pro,#5G
 CP07,mob,coolpad,酷派,,,酷派 COOL 20s,#5G
+CP13,mob,coolpad,酷派,,,酷派 COOL 30,#
+CP16t,mob,coolpad,酷派,,,酷派大观 40s,#5G
 G-2PW4100,mob,google,Google,,sailfish,Pixel,#North America
 G-2PW4200,mob,google,Google,,sailfish,Pixel,#Rest of the world
 G-2PW2100,mob,google,Google,,marlin,Pixel XL,#North America
@@ -1160,7 +1181,7 @@ TNA-TN00,mob,honor,荣耀,,Tina,荣耀 60 Pro,#5G 移动版
 GIA-AN00,mob,honor,荣耀,,Gina,荣耀 60 SE,#5G
 FNE-AN00,mob,honor,荣耀,,,荣耀 70,#5G
 SDY-AN00,mob,honor,荣耀,,Sandy,荣耀 70 Pro,#5G
-HPB-TN00,mob,honor,荣耀,,,荣耀 70 Pro,#5G
+HPB-TN00,mob,honor,荣耀,,Hepburn,荣耀 70 Pro,#5G
 ANN-AN00,mob,honor,荣耀,,Anna,荣耀 80,#5G
 ANP-AN00,mob,honor,荣耀,,,荣耀 80 Pro,#5G
 ANB-AN00,mob,honor,荣耀,,,荣耀 80 Pro 直屏版,#5G
@@ -1247,7 +1268,8 @@ TFY-AN00,mob,honor,荣耀,,Tiffany,荣耀 X30i,#5G
 KKG-AN70,mob,honor,荣耀,,Kingkong,荣耀 X30 Max,#5G
 RMO-AN00,mob,honor,荣耀,,Rambo,荣耀 X40,#5G
 DIO-AN00,mob,honor,荣耀,,Dior,荣耀 X40i,#5G
-ADT-AN00,mob,honor,荣耀,,AndyT,荣耀 X40 GT,#5G
+ADT-AN00,mob,honor,荣耀,,AndyGT,荣耀 X40 GT,#5G
+CRT-AN00,mob,honor,荣耀,,,荣耀 X50i,#5G
 JMM-AL00,mob,honor,荣耀,,Jimmy,荣耀 V9 Play,#全网通标配版
 JMM-AL10,mob,honor,荣耀,,Jimmy,荣耀 V9 Play,#全网通高配版
 JMM-TL00,mob,honor,荣耀,,Jimmy,荣耀 V9 Play,#移动定制标配版
@@ -1271,6 +1293,8 @@ CHL-AL00,mob,honor,荣耀,,Chanel,荣耀 Play5T Pro,#
 CMA-AN40,mob,honor,荣耀,,Carmella,荣耀 Play6T,#5G
 TFY-AN40,mob,honor,荣耀,,Tiffany,荣耀 Play6T Pro,#5G
 VNE-AN40,mob,honor,荣耀,,Vinnie,荣耀 Play6C,#5G
+RKY-AN10,mob,honor,荣耀,,Rocky,荣耀 Play7T,#5G
+DIO-AN00,mob,honor,荣耀,,Dior,荣耀 Play7T Pro,#5G
 EDI-AL10,mob,honor,荣耀,,Edison,荣耀 Note8,#全网通版
 EDI-DL00,mob,honor,荣耀,,Edison,荣耀 Note8,#移动/联通版
 RVL-AL09,mob,honor,荣耀,,Ravel,荣耀 Note10,#
@@ -1425,6 +1449,9 @@ GLO-F56,computer,honor,荣耀,,,荣耀 MagicBook 14 2022,#i5
 GLO-F76,computer,honor,荣耀,,,荣耀 MagicBook 14 2022,#i7
 GLO-N56,computer,honor,荣耀,,,荣耀 MagicBook 14 2022 锐龙版,#R5
 GLO-N76,computer,honor,荣耀,,,荣耀 MagicBook 14 2022 锐龙版,#R7
+GLO-G56,computer,honor,荣耀,,,荣耀 MagicBook 14 2023,#i5 (16GB+512GB)
+GLO-G561,computer,honor,荣耀,,,荣耀 MagicBook 14 2023,#i5 (16GB+1TB)
+GLO-G561,computer,honor,荣耀,,,荣耀 MagicBook 14 Pro 2023,#i5 (16GB+1TB)
 Boh-WAH9HN,computer,honor,荣耀,,BohrB,荣耀 MagicBook 15,#i5
 Boh-WAH9HNP,computer,honor,荣耀,,BohrB,荣耀 MagicBook 15,#i5 (16GB+512GB)
 Boh-WAE9HN,computer,honor,荣耀,,BohrB,荣耀 MagicBook 15,#i7
@@ -1470,8 +1497,9 @@ NBR-WAI9,computer,honor,荣耀,,NobelBR,荣耀 MagicBook X 14,#i3
 NBR-WAH9,computer,honor,荣耀,,NobelBR,荣耀 MagicBook X 14,#i5
 NDR-WFH,computer,honor,荣耀,,NobelDR,荣耀 MagicBook X 14 2022,#i5 (11 代酷睿)
 FRI-F56,computer,honor,荣耀,,,荣耀 MagicBook X 14 2022,#i5 (12 代酷睿)
-FRI-F38,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i3 (8GB 内存)
-FRI-F56,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i5 (16GB 内存)
+FRI-F38,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i3 (8GB+256GB)
+FRI-F56,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i5 (16GB+512GB)
+FRI-F561,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i5 (16GB+1TB)
 FRI-G56,computer,honor,荣耀,,,荣耀 MagicBook X 14 Pro 2023,#i5 (16GB+512GB)
 FRI-G561,computer,honor,荣耀,,,荣耀 MagicBook X 14 Pro 2023,#i5 (16GB+1TB)
 BBR-WAI9,computer,honor,荣耀,,BohrBR,荣耀 MagicBook X 15,#i3
@@ -1691,36 +1719,37 @@ LYA-AL00P,mob,huawei,华为,,Laya,HUAWEI Mate 20 RS 保时捷设计,#
 TAS-AL00,mob,huawei,华为,,Taurus,HUAWEI Mate 30,#全网通版
 TAS-TL00,mob,huawei,华为,,Taurus,HUAWEI Mate 30,#移动 4G+ 版
 TAS-AN00,mob,huawei,华为,,Taurus,HUAWEI Mate 30,#5G 全网通版
-TAS-TN00,mob,huawei,华为,,Taurus,HUAWEI Mate 30,#5G 移动定制版
+TAS-TN00,mob,huawei,华为,,Taurus,HUAWEI Mate 30,#5G 移动版
 LIO-AL00,mob,huawei,华为,,Lion,HUAWEI Mate 30 Pro,#全网通版
 LIO-TL00,mob,huawei,华为,,Lion,HUAWEI Mate 30 Pro,#移动 4G+ 版
 LIO-AN00,mob,huawei,华为,,Lion,HUAWEI Mate 30 Pro,#5G 全网通版
-LIO-TN00,mob,huawei,华为,,Lion,HUAWEI Mate 30 Pro,#5G 移动定制版
-LIO-AN00m,mob,huawei,华为,,Lion,HUAWEI Mate 30E Pro,#5G 全网通版
+LIO-TN00,mob,huawei,华为,,Lion,HUAWEI Mate 30 Pro,#5G 移动版
+LIO-AN00m,mob,huawei,华为,,Lion,HUAWEI Mate 30E Pro,#5G
 LIO-AN00P,mob,huawei,华为,,Lion,HUAWEI Mate 30 RS 保时捷设计,#
-OCE-AN10,mob,huawei,华为,,Ocean,HUAWEI Mate 40,#5G 全网通版
-OCE-AN50,mob,huawei,华为,,Ocean,HUAWEI Mate 40E,#5G 全网通版
-OCE-AL50,mob,huawei,华为,,Ocean,HUAWEI Mate 40E,#4G 全网通版
-NOH-AN00,mob,huawei,华为,,Noah,HUAWEI Mate 40 Pro,#5G 全网通版
-NOH-AN01,mob,huawei,华为,,Noah,HUAWEI Mate 40 Pro,#5G 全网通版
-NOH-AL00,mob,huawei,华为,,Noah,HUAWEI Mate 40 Pro,#4G 全网通版
-NOH-AL10,mob,huawei,华为,,Noah,HUAWEI Mate 40 Pro,#4G 全网通版
-NOH-AN50,mob,huawei,华为,,Noah,HUAWEI Mate 40E Pro,#5G 全网通版
-NOH-AN80,mob,huawei,华为,,Noah,HUAWEI Mate 40E Pro,#5G 全网通版
-NOP-AN00,mob,huawei,华为,,NoahP,HUAWEI Mate 40 Pro,#5G 全网通版
+OCE-AN10,mob,huawei,华为,,Ocean,HUAWEI Mate 40,#5G
+OCE-AN50,mob,huawei,华为,,Ocean,HUAWEI Mate 40E,#5G
+OCE-AL50,mob,huawei,华为,,Ocean,HUAWEI Mate 40E,#4G
+NOH-AN00,mob,huawei,华为,,Noah,HUAWEI Mate 40 Pro,#5G
+NOH-AN01,mob,huawei,华为,,Noah,HUAWEI Mate 40 Pro,#5G
+NOH-AL00,mob,huawei,华为,,Noah,HUAWEI Mate 40 Pro,#4G
+NOH-AL10,mob,huawei,华为,,Noah,HUAWEI Mate 40 Pro,#4G
+NOH-AN50,mob,huawei,华为,,Noah,HUAWEI Mate 40E Pro,#5G
+NOH-AN80,mob,huawei,华为,,Noah,HUAWEI Mate 40E Pro,#5G
+NOP-AN00,mob,huawei,华为,,NoahP,HUAWEI Mate 40 Pro,#5G
 NOP-AN00,mob,huawei,华为,,NoahP,HUAWEI Mate 40 RS 保时捷设计,#
-CET-AL00,mob,huawei,华为,,Cetus,HUAWEI Mate 50,#4G 全网通版
-CET-AL60,mob,huawei,华为,,Cetus-,HUAWEI Mate 50E,#4G 全网通版
-DCO-AL00,mob,huawei,华为,,Draco,HUAWEI Mate 50 Pro,#4G 全网通版
+CET-AL00,mob,huawei,华为,,Cetus,HUAWEI Mate 50,#
+CET-AL60,mob,huawei,华为,,Cetus-,HUAWEI Mate 50E,#
+DCO-AL00,mob,huawei,华为,,Draco,HUAWEI Mate 50 Pro,#
 DCO-AL00,mob,huawei,华为,,Draco,HUAWEI Mate 50 RS 保时捷设计,#
 TAH-AN00,mob,huawei,华为,,Tahiti,HUAWEI Mate X,#
 TAH-AN00m,mob,huawei,华为,,Tahiti,HUAWEI Mate Xs,#
-TET-AN00,mob,huawei,华为,,Teton,HUAWEI Mate X2,#5G 全网通版
-TET-AN10,mob,huawei,华为,,Teton,HUAWEI Mate X2,#5G 全网通版
-TET-AN50,mob,huawei,华为,,Teton,HUAWEI Mate X2,#典藏版 5G 全网通版
-TET-AL00,mob,huawei,华为,,Teton,HUAWEI Mate X2,#4G 全网通版
-PAL-AL00,mob,huawei,华为,,Palau,HUAWEI Mate Xs 2,#4G 全网通版
-PAL-AL10,mob,huawei,华为,,Palau,HUAWEI Mate Xs 2,#4G 全网通版
+TET-AN00,mob,huawei,华为,,Teton,HUAWEI Mate X2,#5G
+TET-AN10,mob,huawei,华为,,Teton,HUAWEI Mate X2,#5G
+TET-AN50,mob,huawei,华为,,Teton,HUAWEI Mate X2,#典藏版 5G
+TET-AL00,mob,huawei,华为,,Teton,HUAWEI Mate X2,#4G
+PAL-AL00,mob,huawei,华为,,Palau,HUAWEI Mate Xs 2,#
+PAL-AL10,mob,huawei,华为,,Palau,HUAWEI Mate Xs 2,#
+ALT-AL00,mob,huawei,华为,,,HUAWEI Mate X3,#
 HUAWEI U9200,mob,huawei,华为,,,华为 Ascend P1,#
 HUAWEI U9200E,mob,huawei,华为,,,华为 Ascend P1,#XL
 HUAWEI U9200S,mob,huawei,华为,,,华为 Ascend P1,#S
@@ -1768,21 +1797,24 @@ VOG-AL10,mob,huawei,华为,,Vogue,HUAWEI P30 Pro,#全网通版
 VOG-TL00,mob,huawei,华为,,Vogue,HUAWEI P30 Pro,#移动 4G+ 版
 ANA-AL00,mob,huawei,华为,,Anna,HUAWEI P40,#4G 全网通版
 ANA-AN00,mob,huawei,华为,,Anna,HUAWEI P40,#5G 全网通版
-ANA-TN00,mob,huawei,华为,,Anna,HUAWEI P40,#5G 移动定制版
+ANA-TN00,mob,huawei,华为,,Anna,HUAWEI P40,#5G 移动版
 ELS-AN00,mob,huawei,华为,,Elsa,HUAWEI P40 Pro,#5G 全网通版
-ELS-TN00,mob,huawei,华为,,Elsa,HUAWEI P40 Pro,#5G 移动定制版
+ELS-TN00,mob,huawei,华为,,Elsa,HUAWEI P40 Pro,#5G 移动版
 ELS-AN10,mob,huawei,华为,,ElsaP,HUAWEI P40 Pro,#5G 全网通版
-ELS-TN10,mob,huawei,华为,,ElsaP,HUAWEI P40 Pro,#5G 移动定制版
-ABR-AL00,mob,huawei,华为,,Amber,HUAWEI P50,#4G 全网通版
-ABR-AL80,mob,huawei,华为,,Amber,HUAWEI P50,#4G 全网通版
-ABR-AL60,mob,huawei,华为,,Amber,HUAWEI P50E,#4G 全网通版
-ABR-AL90,mob,huawei,华为,,Amber,HUAWEI P50E,#4G 全网通版
-JAD-AL00,mob,huawei,华为,,Jade,HUAWEI P50 Pro,#4G 全网通版 (骁龙 888)
-JAD-AL80,mob,huawei,华为,,Jade,HUAWEI P50 Pro,#4G 全网通版 (骁龙 888)
-JAD-AL50,mob,huawei,华为,,Jade,HUAWEI P50 Pro,#4G 全网通版 (麒麟 9000)
-JAD-AL60,mob,huawei,华为,,Jade,HUAWEI P50 Pro,#4G 全网通版 (麒麟 9000)
-BAL-AL00,mob,huawei,华为,,Bali,HUAWEI P50 Pocket,#4G 全网通版
-BAL-AL60,mob,huawei,华为,,Bali,HUAWEI Pocket S,#4G 全网通版
+ELS-TN10,mob,huawei,华为,,ElsaP,HUAWEI P40 Pro,#5G 移动版
+ABR-AL00,mob,huawei,华为,,Amber,HUAWEI P50,#
+ABR-AL80,mob,huawei,华为,,Amber,HUAWEI P50,#
+ABR-AL60,mob,huawei,华为,,Amber,HUAWEI P50E,#
+ABR-AL90,mob,huawei,华为,,Amber,HUAWEI P50E,#
+JAD-AL00,mob,huawei,华为,,Jade,HUAWEI P50 Pro,#骁龙 888
+JAD-AL80,mob,huawei,华为,,Jade,HUAWEI P50 Pro,#骁龙 888
+JAD-AL50,mob,huawei,华为,,Jade,HUAWEI P50 Pro,#麒麟 9000
+JAD-AL60,mob,huawei,华为,,Jade,HUAWEI P50 Pro,#麒麟 9000
+BAL-AL00,mob,huawei,华为,,Bali,HUAWEI P50 Pocket,#
+LNA-AL00,mob,huawei,华为,,Leona,HUAWEI P60,#
+MNA-AL00,mob,huawei,华为,,Mona,HUAWEI P60 Pro,#
+MNA-AL00,mob,huawei,华为,,Mona,HUAWEI P60 Art,#
+BAL-AL60,mob,huawei,华为,,Bali,HUAWEI Pocket S,#
 HUAWEI CAZ-AL00,mob,huawei,华为,,Cannes,HUAWEI nova,#全网通标配版
 HUAWEI CAZ-AL10,mob,huawei,华为,,Cannes,HUAWEI nova,#全网通高配版
 HUAWEI CAZ-TL10,mob,huawei,华为,,Cannes,HUAWEI nova,#移动定制标配版
@@ -1816,39 +1848,42 @@ SPN-AL00,mob,huawei,华为,,Saipan,HUAWEI nova 5i Pro,#全网通版
 SPN-TL00,mob,huawei,华为,,Saipan,HUAWEI nova 5i Pro,#移动 4G+ 版
 SPN-AL00,mob,huawei,华为,,Saipan,HUAWEI nova 5z,#全网通版
 SPN-TL00,mob,huawei,华为,,Saipan,HUAWEI nova 5z,#移动 4G+ 版
-WLZ-AL10,mob,huawei,华为,,Waltz,HUAWEI nova 6,#4G 全网通版
-WLZ-AN00,mob,huawei,华为,,WaltzS,HUAWEI nova 6,#5G 全网通版
+WLZ-AL10,mob,huawei,华为,,Waltz,HUAWEI nova 6,#4G
+WLZ-AN00,mob,huawei,华为,,WaltzS,HUAWEI nova 6,#5G
 JNY-AL10,mob,huawei,华为,,Jenny,HUAWEI nova 6 SE,#全网通版
-JNY-TL10,mob,huawei,华为,,Jenny,HUAWEI nova 6 SE,#移动全网通版
+JNY-TL10,mob,huawei,华为,,Jenny,HUAWEI nova 6 SE,#移动版
 JEF-AN00,mob,huawei,华为,,Jennifer,HUAWEI nova 7,#5G 全网通版
 JEF-AN20,mob,huawei,华为,,Jennifer,HUAWEI nova 7,#5G 全网通版
-JEF-TN00,mob,huawei,华为,,Jennifer,HUAWEI nova 7,#5G 移动全网通版
-JEF-TN20,mob,huawei,华为,,Jennifer,HUAWEI nova 7,#5G 移动全网通版
+JEF-TN00,mob,huawei,华为,,Jennifer,HUAWEI nova 7,#5G 移动版
+JEF-TN20,mob,huawei,华为,,Jennifer,HUAWEI nova 7,#5G 移动版
 JER-AN10,mob,huawei,华为,,JenniferR,HUAWEI nova 7 Pro,#5G 全网通版
 JER-AN20,mob,huawei,华为,,JenniferR,HUAWEI nova 7 Pro,#5G 全网通版
-JER-TN10,mob,huawei,华为,,JenniferR,HUAWEI nova 7 Pro,#5G 移动全网通版
-JER-TN20,mob,huawei,华为,,JenniferR,HUAWEI nova 7 Pro,#5G 移动全网通版
+JER-TN10,mob,huawei,华为,,JenniferR,HUAWEI nova 7 Pro,#5G 移动版
+JER-TN20,mob,huawei,华为,,JenniferR,HUAWEI nova 7 Pro,#5G 移动版
 CDY-AN00,mob,huawei,华为,,CindyN,HUAWEI nova 7 SE,#5G 全网通版
 CDY-AN20,mob,huawei,华为,,CindyN,HUAWEI nova 7 SE,#5G 全网通版
-CDY-TN00,mob,huawei,华为,,CindyN,HUAWEI nova 7 SE,#5G 移动全网通版
-CDY-TN20,mob,huawei,华为,,CindyN,HUAWEI nova 7 SE,#5G 移动全网通版
-CND-AN00,mob,huawei,华为,,CindyC,HUAWEI nova 7 SE 5G 活力版,#全网通版
-CDL-AN50,mob,huawei,华为,,CindyL,HUAWEI nova 7 SE 5G 乐活版,#全网通版
-ANG-AN00,mob,huawei,华为,,Angela,HUAWEI nova 8,#5G 全网通版
-BRQ-AN00,mob,huawei,华为,,Barbieq,HUAWEI nova 8 Pro,#5G 全网通版
-BRQ-AL00,mob,huawei,华为,,Barbieq,HUAWEI nova 8 Pro,#4G 全网通版
+CDY-TN00,mob,huawei,华为,,CindyN,HUAWEI nova 7 SE,#5G 移动版
+CDY-TN20,mob,huawei,华为,,CindyN,HUAWEI nova 7 SE,#5G 移动版
+CND-AN00,mob,huawei,华为,,CindyC,HUAWEI nova 7 SE 5G 活力版,#
+CDL-AN50,mob,huawei,华为,,CindyL,HUAWEI nova 7 SE 5G 乐活版,#
+ANG-AN00,mob,huawei,华为,,Angela,HUAWEI nova 8,#5G
+BRQ-AN00,mob,huawei,华为,,Barbie,HUAWEI nova 8 Pro,#5G
+BRQ-AL00,mob,huawei,华为,,Barbie,HUAWEI nova 8 Pro,#4G
 JSC-AN00,mob,huawei,华为,,Jessica,HUAWEI nova 8 SE,#5G 全网通版
-JSC-TN00,mob,huawei,华为,,Jessica,HUAWEI nova 8 SE,#5G 移动全网通版
+JSC-TN00,mob,huawei,华为,,Jessica,HUAWEI nova 8 SE,#5G 移动版
 JSC-AL50,mob,huawei,华为,,Jessica,HUAWEI nova 8 SE,#4G 全网通版
-CHL-AL60,mob,huawei,华为,,Chanel,HUAWEI nova 8 SE 活力版,#全网通版
-NAM-AL00,mob,huawei,华为,,NottinghamN,HUAWEI nova 9,#4G 全网通版
-RTE-AL00,mob,huawei,华为,,,HUAWEI nova 9 Pro,#4G 全网通版
-JLN-AL00,mob,huawei,华为,,JuliaQN,HUAWEI nova 9 SE,#4G 全网通版
-NCO-AL00,mob,huawei,华为,,Nicole,HUAWEI nova 10,#4G 全网通版
-GLA-AL00,mob,huawei,华为,,Gloria,HUAWEI nova 10 Pro,#4G 全网通版
-CHA-AL80,mob,huawei,华为,,Chanel,HUAWEI nova 10z,#全网通版
-BNE-AL00,mob,huawei,华为,,,HUAWEI nova 10 SE,#全网通版
-JLN-AL00,mob,huawei,华为,,JuliaQN,HUAWEI nova 10 青春版,#4G 全网通版
+CHL-AL60,mob,huawei,华为,,Chanel,HUAWEI nova 8 SE 活力版,#
+NAM-AL00,mob,huawei,华为,,NottinghamN,HUAWEI nova 9,#
+RTE-AL00,mob,huawei,华为,,,HUAWEI nova 9 Pro,#
+JLN-AL00,mob,huawei,华为,,JuliaQN,HUAWEI nova 9 SE,#
+NCO-AL00,mob,huawei,华为,,Nicole,HUAWEI nova 10,#
+GLA-AL00,mob,huawei,华为,,Gloria,HUAWEI nova 10 Pro,#
+CHA-AL80,mob,huawei,华为,,Chanel,HUAWEI nova 10z,#
+BNE-AL00,mob,huawei,华为,,,HUAWEI nova 10 SE,#
+JLN-AL00,mob,huawei,华为,,JuliaQN,HUAWEI nova 10 青春版,#
+FOA-AL00,mob,huawei,华为,,Fiona,HUAWEI nova 11,#
+GOA-AL80,mob,huawei,华为,,Giona,HUAWEI nova 11 Pro,#
+GOA-AL80U,mob,huawei,华为,,Giona,HUAWEI nova 11 Ultra,#
 HUAWEI G6-T00,mob,huawei,华为,,,华为 Ascend G6,#移动版
 HUAWEI G6-U00,mob,huawei,华为,,,华为 Ascend G6,#联通版
 HUAWEI G6-C00,mob,huawei,华为,,,华为 Ascend G6,#电信版
@@ -1861,7 +1896,7 @@ HUAWEI VNS-TL00,mob,huawei,华为,,Venus,HUAWEI G9 青春版,#移动版
 HUAWEI VNS-DL00,mob,huawei,华为,,Venus,HUAWEI G9 青春版,#双 4G 版
 HUAWEI VNS-CL00,mob,huawei,华为,,Venus,HUAWEI G9 青春版,#电信版
 HUAWEI MLA-TL00,mob,huawei,华为,,Milan,HUAWEI G9 Plus,#移动 4G 版
-HUAWEI MLA-TL10,mob,huawei,华为,,Milan,HUAWEI G9 Plus,#移动全网通版
+HUAWEI MLA-TL10,mob,huawei,华为,,Milan,HUAWEI G9 Plus,#移动版
 HUAWEI MLA-UL00,mob,huawei,华为,,Milan,HUAWEI G9 Plus,#双 4G 版
 HUAWEI A199,mob,huawei,华为,,,华为麦芒 A199,#
 HUAWEI B199,mob,huawei,华为,,,华为麦芒 B199,#
@@ -1871,11 +1906,11 @@ HUAWEI RIO-AL00,mob,huawei,华为,,Rio,华为麦芒 4,#全网通版
 HUAWEI RIO-CL00,mob,huawei,华为,,Rio,华为麦芒 4,#电信 4G 版
 HUAWEI MLA-AL00,mob,huawei,华为,,Milan,HUAWEI 麦芒 5,#全网通标配版
 HUAWEI MLA-AL10,mob,huawei,华为,,Milan,HUAWEI 麦芒 5,#全网通高配版
-RNE-AL00,mob,huawei,华为,,Rhone,HUAWEI 麦芒 6,#全网通版
-SNE-AL00,mob,huawei,华为,,SydneyM,HUAWEI 麦芒 7,#全网通版
-POT-AL00,mob,huawei,华为,,Potterpro,HUAWEI 麦芒 8,#全网通版
-POT-AL10,mob,huawei,华为,,Potterpro,HUAWEI 麦芒 8,#全网通版
-TNN-AN00,mob,huawei,华为,,Tianshan,华为麦芒 9,#5G 全网通版
+RNE-AL00,mob,huawei,华为,,Rhone,HUAWEI 麦芒 6,#
+SNE-AL00,mob,huawei,华为,,SydneyM,HUAWEI 麦芒 7,#
+POT-AL00,mob,huawei,华为,,Potterpro,HUAWEI 麦芒 8,#
+POT-AL10,mob,huawei,华为,,Potterpro,HUAWEI 麦芒 8,#
+TNN-AN00,mob,huawei,华为,,Tianshan,华为麦芒 9,#5G
 HUAWEI TIT-AL00,mob,huawei,华为,,,华为畅享 5,#全网通版
 HUAWEI TIT-TL00,mob,huawei,华为,,,华为畅享 5,#移动 4G 版
 HUAWEI TIT-CL00,mob,huawei,华为,,,华为畅享 5,#电信 4G 版
@@ -1939,19 +1974,21 @@ AQM-TL00,mob,huawei,华为,,Aquaman,华为畅享 10S,#移动 4G+ 版
 MED-AL00,mob,huawei,华为,,Merida,华为畅享 10e,#全网通版
 MED-AL20,mob,huawei,华为,,Merida,华为畅享 10e,#全网通版
 MED-TL00,mob,huawei,华为,,Merida,华为畅享 10e,#移动 4G+ 版
-DVC-AN00,mob,huawei,华为,,Davinci,华为畅享 Z,#5G 全网通版
+DVC-AN00,mob,huawei,华为,,Davinci,华为畅享 Z,#5G
 DVC-AN20,mob,huawei,华为,,Davinci,华为畅享 20 Pro,#5G 全网通版
-DVC-TN20,mob,huawei,华为,,Davinci,华为畅享 20 Pro,#5G 移动定制版
+DVC-TN20,mob,huawei,华为,,Davinci,华为畅享 20 Pro,#5G 移动版
 WKG-AN00,mob,huawei,华为,,Wukong,华为畅享 20,#5G 全网通版
-WKG-TN00,mob,huawei,华为,,Wukong,华为畅享 20,#5G 移动定制版
+WKG-TN00,mob,huawei,华为,,Wukong,华为畅享 20,#5G 移动版
 FRL-AN00a,mob,huawei,华为,,Franklin,华为畅享 20 Plus,#5G 全网通版
-FRL-TN00,mob,huawei,华为,,Franklin,华为畅享 20 Plus,#5G 移动定制版
-PPA-AL20,mob,huawei,华为,,Peppa,华为畅享 20 SE,#全网通版
-MLD-AL00,mob,huawei,华为,,,华为畅享 20e,#全网通版 (麒麟 710A)
-MLD-AL10,mob,huawei,华为,,,华为畅享 20e,#全网通版 (Helio P35)
-MGA-AL00,mob,huawei,华为,,Mega,华为畅享 50,#全网通版
-CTR-AL00,mob,huawei,华为,,,华为畅享 50 Pro,#全网通版
-EVE-AL00,mob,huawei,华为,,,华为畅享 50z,#全网通版
+FRL-TN00,mob,huawei,华为,,Franklin,华为畅享 20 Plus,#5G 移动版
+PPA-AL20,mob,huawei,华为,,Peppa,华为畅享 20 SE,#
+MLD-AL00,mob,huawei,华为,,,华为畅享 20e,#麒麟 710A
+MLD-AL10,mob,huawei,华为,,,华为畅享 20e,#Helio P35
+MGA-AL00,mob,huawei,华为,,Mega,华为畅享 50,#
+CTR-AL00,mob,huawei,华为,,Cartier,华为畅享 50 Pro,#
+EVE-AL00,mob,huawei,华为,,,华为畅享 50z,#
+MGA-AL40,mob,huawei,华为,,Mega,华为畅享 60,#
+STG-AL00,mob,huawei,华为,,,华为畅享 60X,#
 S8-301W,pad,huawei,华为,,,华为 MediaPad M1,#Wi-Fi 版
 S8-301U,pad,huawei,华为,,,华为 MediaPad M1,#3G 版
 S8-303L,pad,huawei,华为,,,华为 MediaPad M1,#LTE 版
@@ -1993,18 +2030,18 @@ MRX-W19,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 Wi-Fi 版 (8GB+2
 MRX-W39,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 Wi-Fi 版 (8GB+256GB)
 MRX-AL19,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 全网通版 (8GB+512GB)
 MRX-AN19,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 5G 全网通版
-MRR-W29,pad,huawei,华为,,MarxR,HUAWEI MatePad Pro 10.8,#英寸 (2021) Wi-Fi 版
-MRR-W39,pad,huawei,华为,,MarxR,HUAWEI MatePad Pro 10.8,#英寸 (2021) Wi-Fi 版
+MRR-W29,pad,huawei,华为,,MarxR,HUAWEI MatePad Pro 10.8,#英寸 2021 Wi-Fi 版
+MRR-W39,pad,huawei,华为,,MarxR,HUAWEI MatePad Pro 10.8,#英寸 2021 Wi-Fi 版
 GOT-W29,pad,huawei,华为,,Goethe,HUAWEI MatePad Pro 11,#英寸 Wi-Fi 版
 GOT-W09,pad,huawei,华为,,Goethe,HUAWEI MatePad Pro 11,#英寸 性能版 Wi-Fi 版
 GOT-AL09,pad,huawei,华为,,Goethe,HUAWEI MatePad Pro 11,#英寸 性能版 全网通版
 GOT-AL19,pad,huawei,华为,,Goethe,HUAWEI MatePad Pro 11,#英寸 性能版 全网通版 (12GB+512GB)
-WGR-W09,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6,#英寸 (2021) Wi-Fi 版 (麒麟 9000E)
-WGR-W19,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6,#英寸 (2021) Wi-Fi 版 (麒麟 9000)
-WGR-AN19,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6,#英寸 (2021) 全网通版 (麒麟 9000)
-WGRR-W09,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6,#英寸 (2022) Wi-Fi 版 (麒麟 9000E)
-WGRR-W19,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6,#英寸 (2022) Wi-Fi 版 (麒麟 9000)
-WGRR-AN19,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6,#英寸 (2022) 全网通版 (麒麟 9000)
+WGR-W09,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6,#英寸 2021 Wi-Fi 版
+WGR-W19,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6,#英寸 2021 Wi-Fi 版
+WGR-AN19,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6,#英寸 2021 全网通版
+WGRR-W09,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6,#英寸 2022 Wi-Fi 版
+WGRR-W19,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6,#英寸 2022 Wi-Fi 版
+WGRR-AN19,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6,#英寸 2022 全网通版
 BAH3-W09,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 Wi-Fi 版 (麒麟 810)
 BAH3-W59,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 Wi-Fi 版 (麒麟 820)
 BAH3-AL00,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 全网通版 (麒麟 810)
@@ -2012,12 +2049,15 @@ BAH3-AN10,pad,huawei,华为,,Bach3,HUAWEI MatePad,#5G 10.4 英寸 全网通版 (
 SCMR-W09,pad,huawei,华为,,SchumannR,HUAWEI MatePad 10.8,#英寸 Wi-Fi 版
 SCMR-AL09,pad,huawei,华为,,SchumannR,HUAWEI MatePad 10.8,#英寸 全网通版
 DBY-W09,pad,huawei,华为,,Debussy,HUAWEI MatePad 11,#英寸 Wi-Fi 版
-BAH4-W09,pad,huawei,华为,,Bach4,HUAWEI MatePad (2022),#10.4 英寸 2022 款 Wi-Fi 版 (麒麟 710A)
-BAH4-W29,pad,huawei,华为,,Bach4,HUAWEI MatePad (2022),#10.4 英寸 2022 款 Wi-Fi 版 (麒麟 710A)
-BAH4-W19,pad,huawei,华为,,Bach4,HUAWEI MatePad (2022),#10.4 英寸 2022 款 悦动版 Wi-Fi 版 (骁龙 778G 4G)
-BAH4-AL10,pad,huawei,华为,,Bach4,HUAWEI MatePad (2022),#10.4 英寸 2022 款 悦动版 全网通版 (骁龙 778G 4G)
-HMW-W09,pad,huawei,华为,,,HUAWEI MatePad Paper,#10.3 英寸 Wi-Fi 版
-HMW-AL10,pad,huawei,华为,,,HUAWEI MatePad Paper,#典藏版 10.3 英寸 全网通版
+BAH4-W09,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
+BAH4-W29,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
+BAH4-W39,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
+BAH4-W19,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 悦动版 Wi-Fi 版 (骁龙 778G 4G)
+BAH4-AL10,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 悦动版 全网通版 (骁龙 778G 4G)
+DBR-W00,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 2023,#英寸 2023 Wi-Fi 版
+DBR-W10,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 2023,#英寸 2023 柔光版 Wi-Fi 版
+HMW-W09,pad,huawei,华为,,Hemingway,HUAWEI MatePad Paper,#10.3 英寸 Wi-Fi 版
+HMW-AL10,pad,huawei,华为,,Hemingway,HUAWEI MatePad Paper,#典藏版 10.3 英寸 全网通版
 AGS3K-W20,pad,huawei,华为,,Agassi3K,HUAWEI MatePad SE,#10.1 英寸 Wi-Fi 版
 AGS3K-AL20,pad,huawei,华为,,Agassi3K,HUAWEI MatePad SE,#10.1 英寸 全网通版
 AGS5-W00,pad,huawei,华为,,Agassi5,HUAWEI MatePad SE 10.4,#英寸 Wi-Fi 版
@@ -2034,94 +2074,94 @@ BZK-W00,pad,huawei,华为,,Kobe,华为平板 C3,#(华为平板 T3 行业专享�
 BZK-L00,pad,huawei,华为,,Kobe,华为平板 C3,#(华为平板 T3 行业专享版) 8 英寸 LTE 版
 BZA-W00,pad,huawei,华为,,Agassi,华为平板 C3,#(华为平板 T3 行业专享版) 9.6 英寸 Wi-Fi 版
 BZA-L00,pad,huawei,华为,,Agassi,华为平板 C3,#(华为平板 T3 行业专享版) 9.6 英寸 LTE 版
-BZD-W00,pad,huawei,华为,,,华为平板 C3 (2020),#8 英寸 2020 款 Wi-Fi 版
-BZD-AL00,pad,huawei,华为,,,华为平板 C3 (2020),#8 英寸 2020 款 全网通版
-BZD-AL10,pad,huawei,华为,,,华为平板 C3 (2020),#8 英寸 2020 款 全网通版
-BZC-W00,pad,huawei,华为,,,华为平板 C3 (2020),#9.7 英寸 2020 款 Wi-Fi 版
-BZC-AL00,pad,huawei,华为,,,华为平板 C3 (2020),#9.7 英寸 2020 款 全网通版
-BZH-W00,pad,huawei,华为,,,华为平板 C3 (2021),#9.7 英寸 2022 款 Wi-Fi 版
-BZH-W30,pad,huawei,华为,,,华为平板 C3 (2021),#9.7 英寸 2022 款 Wi-Fi 版
+BZD-W00,pad,huawei,华为,,,华为平板 C3 (2020),#8 英寸 2020 Wi-Fi 版
+BZD-AL00,pad,huawei,华为,,,华为平板 C3 (2020),#8 英寸 2020 全网通版
+BZD-AL10,pad,huawei,华为,,,华为平板 C3 (2020),#8 英寸 2020 全网通版
+BZC-W00,pad,huawei,华为,,,华为平板 C3 (2020),#9.7 英寸 2020 Wi-Fi 版
+BZC-AL00,pad,huawei,华为,,,华为平板 C3 (2020),#9.7 英寸 2020 全网通版
+BZH-W00,pad,huawei,华为,,,华为平板 C3 (2022),#9.7 英寸 2022 Wi-Fi 版
+BZH-W30,pad,huawei,华为,,,华为平板 C3 (2022),#9.7 英寸 2022 Wi-Fi 版
 MON-W19,pad,huawei,华为,,,华为平板 C5,#8 英寸 Wi-Fi 版
 MON-AL19,pad,huawei,华为,,,华为平板 C5,#8 英寸 全网通版
 BZT-W09,pad,huawei,华为,,,华为平板 C5,#10.1 英寸 Wi-Fi 版
 BZT-AL00,pad,huawei,华为,,,华为平板 C5,#10.1 英寸 全网通标配版
 BZT-AL10,pad,huawei,华为,,,华为平板 C5,#10.1 英寸 全网通高配版
-BZW-AL00,pad,huawei,华为,,,华为平板 C5 (2020),#8 英寸 2020 款 全网通版 (4GB+32GB)
-BZW-AL10,pad,huawei,华为,,,华为平板 C5 (2020),#8 英寸 2020 款 全网通版 (4GB+64GB)
-BZT3-W09,pad,huawei,华为,,,华为平板 C5 (2020),#10.4 英寸 2020 款 Wi-Fi 版
-BZT3-AL00,pad,huawei,华为,,,华为平板 C5 (2020),#10.4 英寸 2020 款 全网通版
-BZT3-W59,pad,huawei,华为,,,华为平板 C5 (2021),#10.4 英寸 2021 款 Wi-Fi 版
-BZT3-W69,pad,huawei,华为,,,华为平板 C5 (2021),#10.4 英寸 2021 款 Wi-Fi 版
-BZT4-W19,pad,huawei,华为,,,华为平板 C5 (2022),#10.4 英寸 2022 款 Wi-Fi 版
-BZT4-AL10,pad,huawei,华为,,,华为平板 C5 (2022),#10.4 英寸 2022 款 全网通版
-BZI-W00,pad,huawei,华为,,,华为平板 C5e,#10.1 英寸 2022 款 Wi-Fi 版
-DBY-W09,pad,huawei,华为,,Debussy,华为平板 C7,#10.95 英寸 2022 款 Wi-Fi 版
+BZW-AL00,pad,huawei,华为,,,华为平板 C5 (2020),#8 英寸 2020 全网通版 (4GB+32GB)
+BZW-AL10,pad,huawei,华为,,,华为平板 C5 (2020),#8 英寸 2020 全网通版 (4GB+64GB)
+BZT3-W09,pad,huawei,华为,,,华为平板 C5 (2020),#10.4 英寸 2020 Wi-Fi 版
+BZT3-AL00,pad,huawei,华为,,,华为平板 C5 (2020),#10.4 英寸 2020 全网通版
+BZT3-W59,pad,huawei,华为,,,华为平板 C5 (2021),#10.4 英寸 2021 Wi-Fi 版
+BZT3-W69,pad,huawei,华为,,,华为平板 C5 (2021),#10.4 英寸 2021 Wi-Fi 版
+BZT4-W19,pad,huawei,华为,,,华为平板 C5 (2022),#10.4 英寸 2022 Wi-Fi 版
+BZT4-AL10,pad,huawei,华为,,,华为平板 C5 (2022),#10.4 英寸 2022 全网通版
+BZI-W00,pad,huawei,华为,,,华为平板 C5e,#10.1 英寸 2022 Wi-Fi 版
+DBY-W09,pad,huawei,华为,,Debussy,华为平板 C7,#10.95 英寸 2022 Wi-Fi 版
 HZ-W09,computer,huawei,华为,,Hertz,HUAWEI MateBook,#m3
 HZ-W19,computer,huawei,华为,,Hertz,HUAWEI MateBook,#m5
 HZ-W29,computer,huawei,华为,,Hertz,HUAWEI MateBook,#m7
 WT-W09,computer,huawei,华为,,Watt,HUAWEI MateBook X,#i5
 WT-W19,computer,huawei,华为,,Watt,HUAWEI MateBook X,#i7
-EUL-W19,computer,huawei,华为,,Euler,HUAWEI MateBook X (2020),#i5 (8GB+512GB)
-EUL-W19P,computer,huawei,华为,,Euler,HUAWEI MateBook X (2020),#i5 (16GB+512GB)
-EUL-W29P,computer,huawei,华为,,Euler,HUAWEI MateBook X (2020),#i7 (16GB+512GB)
-EULD-WFH9,computer,huawei,华为,,EulerD,HUAWEI MateBook X (2021),#i5
+EUL-W19,computer,huawei,华为,,Euler,HUAWEI MateBook X 2020,#i5 (8GB+512GB)
+EUL-W19P,computer,huawei,华为,,Euler,HUAWEI MateBook X 2020,#i5 (16GB+512GB)
+EUL-W29P,computer,huawei,华为,,Euler,HUAWEI MateBook X 2020,#i7 (16GB+512GB)
+EULD-WFH9,computer,huawei,华为,,EulerD,HUAWEI MateBook X 2021,#i5
 MACH-W19,computer,huawei,华为,,Mach,HUAWEI MateBook X Pro,#i5
 MACH-W29,computer,huawei,华为,,Mach,HUAWEI MateBook X Pro,#i7
-MACHR-W19,computer,huawei,华为,,MachR,HUAWEI MateBook X Pro (2019),#i5
-MACHR-W19L,computer,huawei,华为,,MachR,HUAWEI MateBook X Pro (2019),#i5 Linux 版
-MACHR-W29,computer,huawei,华为,,MachR,HUAWEI MateBook X Pro (2019),#i7
-MACHR-W29BL,computer,huawei,华为,,MachR,HUAWEI MateBook X Pro (2019),#i7 Linux 版
-MACHC-WAH9LP,computer,huawei,华为,,MachC,HUAWEI MateBook X Pro (2020),#i5
-MACHC-WAE9LP,computer,huawei,华为,,MachC,HUAWEI MateBook X Pro (2020),#i7
-MACHD-WFH9,computer,huawei,华为,,MachD,HUAWEI MateBook X Pro (2021),#i5
-MACHD-WFH9Q,computer,huawei,华为,,MachD,HUAWEI MateBook X Pro (2021),#i5
-MACHD-WFE9,computer,huawei,华为,,MachD,HUAWEI MateBook X Pro (2021),#i7
-MACHD-WFE9Q,computer,huawei,华为,,MachD,HUAWEI MateBook X Pro (2021),#i7
-MRG-W56,computer,huawei,华为,,Morgan,HUAWEI MateBook X Pro (2022),#i5
-MRG-W76,computer,huawei,华为,,Morgan,HUAWEI MateBook X Pro (2022),#i7
-MRGF-16,computer,huawei,华为,,MorganF,HUAWEI MateBook X Pro (2022),#12 代酷睿版
+MACHR-W19,computer,huawei,华为,,MachR,HUAWEI MateBook X Pro 2019,#i5
+MACHR-W19L,computer,huawei,华为,,MachR,HUAWEI MateBook X Pro 2019,#i5 Linux 版
+MACHR-W29,computer,huawei,华为,,MachR,HUAWEI MateBook X Pro 2019,#i7
+MACHR-W29BL,computer,huawei,华为,,MachR,HUAWEI MateBook X Pro 2019,#i7 Linux 版
+MACHC-WAH9LP,computer,huawei,华为,,MachC,HUAWEI MateBook X Pro 2020,#i5
+MACHC-WAE9LP,computer,huawei,华为,,MachC,HUAWEI MateBook X Pro 2020,#i7
+MACHD-WFH9,computer,huawei,华为,,MachD,HUAWEI MateBook X Pro 2021,#i5
+MACHD-WFH9Q,computer,huawei,华为,,MachD,HUAWEI MateBook X Pro 2021,#i5
+MACHD-WFE9,computer,huawei,华为,,MachD,HUAWEI MateBook X Pro 2021,#i7
+MACHD-WFE9Q,computer,huawei,华为,,MachD,HUAWEI MateBook X Pro 2021,#i7
+MRG-W56,computer,huawei,华为,,Morgan,HUAWEI MateBook X Pro 2022,#i5
+MRG-W76,computer,huawei,华为,,Morgan,HUAWEI MateBook X Pro 2022,#i7
+MRGF-16,computer,huawei,华为,,MorganF,HUAWEI MateBook X Pro 2022,#12 代酷睿版
 WRT-W19,computer,huawei,华为,,Wright,HUAWEI MateBook 13,#i5
 WRT-W19L,computer,huawei,华为,,Wright,HUAWEI MateBook 13,#i5 Linux 版
 WRT-W29,computer,huawei,华为,,Wright,HUAWEI MateBook 13,#i7
 WRT-W29L,computer,huawei,华为,,Wright,HUAWEI MateBook 13,#i7 Linux 版
 HN-W19R,computer,huawei,华为,,HengK,HUAWEI MateBook 13,#锐龙版
 HN-W19L,computer,huawei,华为,,HengK,HUAWEI MateBook 13,#锐龙 Linux 版
-WRTB-WAH9L,computer,huawei,华为,,WrightB,HUAWEI MateBook 13 (2020),#i5 (8GB+512GB)
-WRTB-WFH9L,computer,huawei,华为,,WrightB,HUAWEI MateBook 13 (2020),#i5 (16GB+512GB)
-WRTB-WFE9L,computer,huawei,华为,,WrightB,HUAWEI MateBook 13 (2020),#i7 (16GB+512GB)
-HNL-WDQ9Q,computer,huawei,华为,,HengL,HUAWEI MateBook 13 (2020),#R5 (8GB+512GB)
-HNL-WDP9Q,computer,huawei,华为,,HengL,HUAWEI MateBook 13 (2020),#R7 (8GB+512GB)
-HNL-WFQ9,computer,huawei,华为,,HengL,HUAWEI MateBook 13 (2020),#R5 (16GB+512GB)
-HNL-WFP9,computer,huawei,华为,,HengL,HUAWEI MateBook 13 (2020),#R7 (16GB+512GB)
-HNL-WFP9Q,computer,huawei,华为,,HengL,HUAWEI MateBook 13 (2020),#R7 (16GB+512GB)
-WRTD-WDH9,computer,huawei,华为,,WrightD,HUAWEI MateBook 13 (2021),#i5 (8GB+512GB)
-WRTD-WDH9Q,computer,huawei,华为,,WrightD,HUAWEI MateBook 13 (2021),#i5 (8GB+512GB)
-WRTD-WDE9Q,computer,huawei,华为,,WrightD,HUAWEI MateBook 13 (2021),#i7 (8GB+512GB)
-WRTD-WFH9,computer,huawei,华为,,WrightD,HUAWEI MateBook 13 (2021),#i5 (16GB+512GB)
-WRTD-WFH9Q,computer,huawei,华为,,WrightD,HUAWEI MateBook 13 (2021),#i5 (16GB+512GB)
-WRTD-WFE9,computer,huawei,华为,,WrightD,HUAWEI MateBook 13 (2021),#i7 (16GB+512GB)
-WRTD-WFE9Q,computer,huawei,华为,,WrightD,HUAWEI MateBook 13 (2021),#i7 (16GB+512GB)
+WRTB-WAH9L,computer,huawei,华为,,WrightB,HUAWEI MateBook 13 2020,#i5 (8GB+512GB)
+WRTB-WFH9L,computer,huawei,华为,,WrightB,HUAWEI MateBook 13 2020,#i5 (16GB+512GB)
+WRTB-WFE9L,computer,huawei,华为,,WrightB,HUAWEI MateBook 13 2020,#i7 (16GB+512GB)
+HNL-WDQ9Q,computer,huawei,华为,,HengL,HUAWEI MateBook 13 2020,#R5 (8GB+512GB)
+HNL-WDP9Q,computer,huawei,华为,,HengL,HUAWEI MateBook 13 2020,#R7 (8GB+512GB)
+HNL-WFQ9,computer,huawei,华为,,HengL,HUAWEI MateBook 13 2020,#R5 (16GB+512GB)
+HNL-WFP9,computer,huawei,华为,,HengL,HUAWEI MateBook 13 2020,#R7 (16GB+512GB)
+HNL-WFP9Q,computer,huawei,华为,,HengL,HUAWEI MateBook 13 2020,#R7 (16GB+512GB)
+WRTD-WDH9,computer,huawei,华为,,WrightD,HUAWEI MateBook 13 2021,#i5 (8GB+512GB)
+WRTD-WDH9Q,computer,huawei,华为,,WrightD,HUAWEI MateBook 13 2021,#i5 (8GB+512GB)
+WRTD-WDE9Q,computer,huawei,华为,,WrightD,HUAWEI MateBook 13 2021,#i7 (8GB+512GB)
+WRTD-WFH9,computer,huawei,华为,,WrightD,HUAWEI MateBook 13 2021,#i5 (16GB+512GB)
+WRTD-WFH9Q,computer,huawei,华为,,WrightD,HUAWEI MateBook 13 2021,#i5 (16GB+512GB)
+WRTD-WFE9,computer,huawei,华为,,WrightD,HUAWEI MateBook 13 2021,#i7 (16GB+512GB)
+WRTD-WFE9Q,computer,huawei,华为,,WrightD,HUAWEI MateBook 13 2021,#i7 (16GB+512GB)
 EMD-W58,computer,huawei,华为,,EmmyD,HUAWEI MateBook 13s,#i5 (8GB+512GB)
 EMD-W56,computer,huawei,华为,,EmmyD,HUAWEI MateBook 13s,#i5 (16GB+512GB)
 EMD-W76,computer,huawei,华为,,EmmyD,HUAWEI MateBook 13s,#i7 (16GB+512GB)
-EMF-16,computer,huawei,华为,,EmmyF,HUAWEI MateBook 13s,#12 代酷睿版
+EMF-16,computer,huawei,华为,,EmmyF,HUAWEI MateBook 13s,#2023
 KLV-W19,computer,huawei,华为,,Kelvin,HUAWEI MateBook 14,#i5
 KLV-W19DL,computer,huawei,华为,,Kelvin,HUAWEI MateBook 14,#i5 Linux 版
 KLV-W29,computer,huawei,华为,,Kelvin,HUAWEI MateBook 14,#i7
-KLVC-WAH9L,computer,huawei,华为,,KelvinC,HUAWEI MateBook 14 (2020),#i5 (8GB+512GB)
-KLVC-WFH9L,computer,huawei,华为,,KelvinC,HUAWEI MateBook 14 (2020),#i5 (16GB+512GB)
-KLVC-WFE9L,computer,huawei,华为,,KelvinC,HUAWEI MateBook 14 (2020),#i7 (16GB+512GB)
-KLVL-WFH9,computer,huawei,华为,,KelvinL,HUAWEI MateBook 14 (2020),#R5
-KLVL-WFE9,computer,huawei,华为,,KelvinL,HUAWEI MateBook 14 (2020),#R7
-KLVL-WFE9Q,computer,huawei,华为,,KelvinL,HUAWEI MateBook 14 (2020),#R7
-KLVD-WDH9,computer,huawei,华为,,KelvinD,HUAWEI MateBook 14 (2021),#i5 (8GB+512GB)
-KLVD-WDH9Q,computer,huawei,华为,,KelvinD,HUAWEI MateBook 14 (2021),#i5 (8GB+512GB)
-KLVD-WDE9Q,computer,huawei,华为,,KelvinD,HUAWEI MateBook 14 (2021),#i7 (8GB+512GB)
-KLVD-WFH9,computer,huawei,华为,,KelvinD,HUAWEI MateBook 14 (2021),#i5 (16GB+512GB)
-KLVD-WFE9,computer,huawei,华为,,KelvinD,HUAWEI MateBook 14 (2021),#i7 (16GB+512GB)
-KLVL-W56W,computer,huawei,华为,,KelvinL,HUAWEI MateBook 14 (2021),#R5
-KLVL-W76W,computer,huawei,华为,,KelvinL,HUAWEI MateBook 14 (2021),#R7
-KLVF-16,computer,huawei,华为,,KelvinF,HUAWEI MateBook 14 (2022),#
+KLVC-WAH9L,computer,huawei,华为,,KelvinC,HUAWEI MateBook 14 2020,#i5 (8GB+512GB)
+KLVC-WFH9L,computer,huawei,华为,,KelvinC,HUAWEI MateBook 14 2020,#i5 (16GB+512GB)
+KLVC-WFE9L,computer,huawei,华为,,KelvinC,HUAWEI MateBook 14 2020,#i7 (16GB+512GB)
+KLVL-WFH9,computer,huawei,华为,,KelvinL,HUAWEI MateBook 14 2020,#R5
+KLVL-WFE9,computer,huawei,华为,,KelvinL,HUAWEI MateBook 14 2020,#R7
+KLVL-WFE9Q,computer,huawei,华为,,KelvinL,HUAWEI MateBook 14 2020,#R7
+KLVD-WDH9,computer,huawei,华为,,KelvinD,HUAWEI MateBook 14 2021,#i5 (8GB+512GB)
+KLVD-WDH9Q,computer,huawei,华为,,KelvinD,HUAWEI MateBook 14 2021,#i5 (8GB+512GB)
+KLVD-WDE9Q,computer,huawei,华为,,KelvinD,HUAWEI MateBook 14 2021,#i7 (8GB+512GB)
+KLVD-WFH9,computer,huawei,华为,,KelvinD,HUAWEI MateBook 14 2021,#i5 (16GB+512GB)
+KLVD-WFE9,computer,huawei,华为,,KelvinD,HUAWEI MateBook 14 2021,#i7 (16GB+512GB)
+KLVL-W56W,computer,huawei,华为,,KelvinL,HUAWEI MateBook 14 2021,#R5
+KLVL-W76W,computer,huawei,华为,,KelvinL,HUAWEI MateBook 14 2021,#R7
+KLVF-16,computer,huawei,华为,,KelvinF,HUAWEI MateBook 14 2022,#
 HKD-W58,computer,huawei,华为,,HookeD,HUAWEI MateBook 14s,#i5 (8GB+512GB)
 HKD-W56,computer,huawei,华为,,HookeD,HUAWEI MateBook 14s,#i5 (16GB+512GB)
 HKD-W76,computer,huawei,华为,,HookeD,HUAWEI MateBook 14s,#i7 (16GB+512GB/1TB)
@@ -2145,48 +2185,50 @@ Nbl-WAQ9L,computer,huawei,华为,,NobelK,HUAWEI MateBook D 14,#R5 Linux 版
 NbB-WAH9,computer,huawei,华为,,NobelB,HUAWEI MateBook D 14,#i5 (8GB+512GB)
 NbB-WAH9P,computer,huawei,华为,,NobelB,HUAWEI MateBook D 14,#i5 (16GB+512GB)
 NbB-WAE9P,computer,huawei,华为,,NobelB,HUAWEI MateBook D 14,#i7 (16GB+512GB)
-NblL-WFQ9,computer,huawei,华为,,NobelL,HUAWEI MateBook D 14,#(2020) R5
-NblL-WFP9,computer,huawei,华为,,NobelL,HUAWEI MateBook D 14,#(2020) R7
-NbD-WFH9,computer,huawei,华为,,NobelD,HUAWEI MateBook D 14,#(2021) i5
-NbD-WFE9,computer,huawei,华为,,NobelD,HUAWEI MateBook D 14,#(2021) i7
-NbM-WDQ9D,computer,huawei,华为,,NobelM,HUAWEI MateBook D 14,#(2021) R5 (8GB+512GB)
-NbM-WFQ9,computer,huawei,华为,,NobelM,HUAWEI MateBook D 14,#(2021) R5 (16GB+512GB)
-NbM-WFP9,computer,huawei,华为,,NobelM,HUAWEI MateBook D 14,#(2021) R7 (16GB+512GB)
-NbDE-WFH9,computer,huawei,华为,,NobelDE,HUAWEI MateBook D 14,#(2022) i5
-NbDE-WFE9,computer,huawei,华为,,NobelDE,HUAWEI MateBook D 14,#(2022) i7
+NblL-WFQ9,computer,huawei,华为,,NobelL,HUAWEI MateBook D 14,#2020 R5
+NblL-WFP9,computer,huawei,华为,,NobelL,HUAWEI MateBook D 14,#2020 R7
+NbD-WFH9,computer,huawei,华为,,NobelD,HUAWEI MateBook D 14,#2021 i5
+NbD-WFE9,computer,huawei,华为,,NobelD,HUAWEI MateBook D 14,#2021 i7
+NbM-WDQ9D,computer,huawei,华为,,NobelM,HUAWEI MateBook D 14,#2021 R5 (8GB+512GB)
+NbM-WFQ9,computer,huawei,华为,,NobelM,HUAWEI MateBook D 14,#2021 R5 (16GB+512GB)
+NbM-WFP9,computer,huawei,华为,,NobelM,HUAWEI MateBook D 14,#2021 R7 (16GB+512GB)
+NbDE-WFH9,computer,huawei,华为,,NobelDE,HUAWEI MateBook D 14,#2022 i5
+NbDE-WFE9,computer,huawei,华为,,NobelDE,HUAWEI MateBook D 14,#2022 i7
 NbDE-WDH9,computer,huawei,华为,,NobelDE,HUAWEI MateBook D 14 SE,#i5
-NbF-08,computer,huawei,华为,,NobelF,HUAWEI MateBook D 14 12 代酷睿版,#(2022) 12 代酷睿版 (8GB 内存)
-NbF-16,computer,huawei,华为,,NobelF,HUAWEI MateBook D 14 12 代酷睿版,#(2022) 12 代酷睿版 (16GB 内存)
+NbF-08,computer,huawei,华为,,NobelF,HUAWEI MateBook D 14 12 代酷睿版,#2022 12 代酷睿版 (8GB 内存)
+NbF-16,computer,huawei,华为,,NobelF,HUAWEI MateBook D 14 12 代酷睿版,#2022 12 代酷睿版 (16GB 内存)
 NbF-08,computer,huawei,华为,,NobelF,HUAWEI MateBook D 14 SE 12 代酷睿版,#8GB 内存
 NbF-16,computer,huawei,华为,,NobelF,HUAWEI MateBook D 14 SE 12 代酷睿版,#16GB 内存
+MDG-16,computer,huawei,华为,,,HUAWEI MateBook D 14,#2023
 Boh-WAQ9R,computer,huawei,华为,,BohrK,HUAWEI MateBook D 15,#R5 (8GB+512GB)
 Boh-WAQ9RP,computer,huawei,华为,,BohrK,HUAWEI MateBook D 15,#R5 (16GB+256GB+1TB)
 Boh-WAQ9L,computer,huawei,华为,,BohrK,HUAWEI MateBook D 15,#R5 Linux 版
 BoB-WAH9,computer,huawei,华为,,BohrB,HUAWEI MateBook D 15,#i5 (8GB+512GB)
 BoB-WAH9P,computer,huawei,华为,,BohrB,HUAWEI MateBook D 15,#i5 (16GB+512GB)
 BoB-WAE9P,computer,huawei,华为,,BohrB,HUAWEI MateBook D 15,#i7 (16GB+512GB)
-BohL-WFQ9,computer,huawei,华为,,BohrL,HUAWEI MateBook D 15,#(2020) R5
-BohL-WFP9,computer,huawei,华为,,BohrL,HUAWEI MateBook D 15,#(2020) R7
-BoD-WFH9,computer,huawei,华为,,BohrD,HUAWEI MateBook D 15,#(2021) i5
-BoD-WFE9,computer,huawei,华为,,BohrD,HUAWEI MateBook D 15,#(2021) i7
-BoM-WFQ9,computer,huawei,华为,,BohrM,HUAWEI MateBook D 15,#(2021) R5
-BoM-WFP9,computer,huawei,华为,,BohrM,HUAWEI MateBook D 15,#(2021) R7
-BoDE-WFH9,computer,huawei,华为,,BohrDE,HUAWEI MateBook D 15,#(2022) i5
-BoDE-WFE9,computer,huawei,华为,,BohrDE,HUAWEI MateBook D 15,#(2022) i7
+BohL-WFQ9,computer,huawei,华为,,BohrL,HUAWEI MateBook D 15,#2020 R5
+BohL-WFP9,computer,huawei,华为,,BohrL,HUAWEI MateBook D 15,#2020 R7
+BoD-WFH9,computer,huawei,华为,,BohrD,HUAWEI MateBook D 15,#2021 i5
+BoD-WFE9,computer,huawei,华为,,BohrD,HUAWEI MateBook D 15,#2021 i7
+BoM-WFQ9,computer,huawei,华为,,BohrM,HUAWEI MateBook D 15,#2021 R5
+BoM-WFP9,computer,huawei,华为,,BohrM,HUAWEI MateBook D 15,#2021 R7
+BoDE-WFH9,computer,huawei,华为,,BohrDE,HUAWEI MateBook D 15,#2022 i5
+BoDE-WFE9,computer,huawei,华为,,BohrDE,HUAWEI MateBook D 15,#2022 i7
 BoDE-WDH9,computer,huawei,华为,,BohrDE,HUAWEI MateBook D 15 SE,#i5
-BoF-16,computer,huawei,华为,,BohrF,HUAWEI MateBook D 15 12 代酷睿版,#(2022) 12 代酷睿版 (16GB 内存)
+BoF-16,computer,huawei,华为,,BohrF,HUAWEI MateBook D 15 12 代酷睿版,#2022 12 代酷睿版 (16GB 内存)
 RLEF-16,computer,huawei,华为,,RolleF,HUAWEI MateBook D 16,#2022
 RLEF-16,computer,huawei,华为,,RolleF,HUAWEI MateBook D 16,#SE
+RLEG-16,computer,huawei,华为,,RolleG,HUAWEI MateBook D 16,#2023
 BL-W09,computer,huawei,华为,,,HUAWEI MateBook E,#i3
 BL-W19,computer,huawei,华为,,,HUAWEI MateBook E,#i5
 PAK-AL09,computer,huawei,华为,,Planck,HUAWEI MateBook E (2019),#
-DRC-W58,computer,huawei,华为,,Dirac,HUAWEI MateBook E (2021),#i5 (8GB+256GB)
-DRC-W56,computer,huawei,华为,,Dirac,HUAWEI MateBook E (2021),#i5 (16GB+512GB)
-DRC-W76,computer,huawei,华为,,Dirac,HUAWEI MateBook E (2021),#i7 (16GB+512GB)
+DRC-W58,computer,huawei,华为,,Dirac,HUAWEI MateBook E 2021,#i5 (8GB+256GB)
+DRC-W56,computer,huawei,华为,,Dirac,HUAWEI MateBook E 2021,#i5 (16GB+512GB)
+DRC-W76,computer,huawei,华为,,Dirac,HUAWEI MateBook E 2021,#i7 (16GB+512GB)
 GK-G58,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#全网通 (8GB+256GB)
 GK-G56,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#全网通 (16GB+512GB)
 GK-W76,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#性能版 Wi-Fi
-GK-W76,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#2023 款 Wi-Fi
+GK-W76,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#2023 Wi-Fi
 NBZ-WBH9,computer,huawei,华为,,NobelBZ,HUAWEI MateBook B3-410,#i5 (8GB+256GB)
 NBZ-WBM9,computer,huawei,华为,,NobelBZ,HUAWEI MateBook B3-410,#i5 (8GB+512GB)
 NBZ-WBE9,computer,huawei,华为,,NobelBZ,HUAWEI MateBook B3-410,#i7
@@ -2216,6 +2258,8 @@ MDZ-WFE9A,computer,huawei,华为,,MachDZ,HUAWEI MateBook B7-410,#i7 (16GB+512GB)
 MDZ-WFE9B,computer,huawei,华为,,MachDZ,HUAWEI MateBook B7-410,#i7 (16GB+1TB)
 MRGF-5651,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i5
 MRGF-7651,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i7
+YTFZ-5651SP,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i5
+YTFZ-7651SP,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i7
 KLVU-WDU0,computer,huawei,华为,,KelvinU,华为擎云 L410,#8GB+256GB
 KLVU-WDU0B,computer,huawei,华为,,KelvinU,华为擎云 L410,#8GB+512GB
 KLVV-W5821,computer,huawei,华为,,KelvinV,华为擎云 L420,#
@@ -2225,12 +2269,12 @@ HEGE-560,tv,huawei,华为,,Hege,华为智慧屏 V 系列,#65
 HEGE-560B,tv,huawei,华为,,Hege,华为智慧屏 V 系列,#65i
 HEGE-560S,tv,huawei,华为,,Hege,华为智慧屏 V 系列,#65 尊爵版
 HEGE-570,tv,huawei,华为,,Hege,华为智慧屏 V 系列,#75
-HD55THAA,tv,huawei,华为,,,华为智慧屏 V 系列 2021 款,#55 2021 款
-HD65THAA,tv,huawei,华为,,,华为智慧屏 V 系列 2021 款,#65 2021 款
-HD75THAA,tv,huawei,华为,,,华为智慧屏 V 系列 2021 款,#75 2021 款
-HD75FREA,tv,huawei,华为,,,华为智慧屏 V 系列 2021 款,#75 Super
-HD85THAA,tv,huawei,华为,,,华为智慧屏 V 系列 2021 款,#85 2021 款
-HD98SOKA,tv,huawei,华为,,,华为智慧屏 V 系列 2021 款,#98 2021 款
+HD55THAA,tv,huawei,华为,,,华为智慧屏 V 系列 2021,#55 2021
+HD65THAA,tv,huawei,华为,,,华为智慧屏 V 系列 2021,#65 2021
+HD75THAA,tv,huawei,华为,,,华为智慧屏 V 系列 2021,#75 2021
+HD75FREA,tv,huawei,华为,,,华为智慧屏 V 系列 2021,#75 Super
+HD85THAA,tv,huawei,华为,,,华为智慧屏 V 系列 2021,#85 2021
+HD98SOKA,tv,huawei,华为,,,华为智慧屏 V 系列 2021,#98 2021
 HD65FRUA,tv,huawei,华为,,,华为智慧屏 V Pro 系列,#65 Pro
 HD75FRUA,tv,huawei,华为,,,华为智慧屏 V Pro 系列,#75 Pro
 HD65FRUB,tv,huawei,华为,,,华为智慧屏 V 三代,#65 三代
@@ -2247,6 +2291,8 @@ HD55AJMA,tv,huawei,华为,,,华为智慧屏 S 二代,#55 二代
 HD65AJMA,tv,huawei,华为,,,华为智慧屏 S 二代,#65 二代
 HD75AJMA,tv,huawei,华为,,,华为智慧屏 S 二代,#75 二代
 HD86KEPA,tv,huawei,华为,,Kepler,华为智慧屏 S Pro,#86 Pro
+HD65AJMS,tv,huawei,华为,,,华为智慧屏 S3 Pro,#65
+HD75AJMS,tv,huawei,华为,,,华为智慧屏 S3 Pro,#75
 HD55DESA,tv,huawei,华为,,,华为智慧屏 SE 系列,#55 (2GB+16GB)
 HD55DESZ,tv,huawei,华为,,,华为智慧屏 SE 系列,#55 畅连通话版 1080P (2GB+16GB)
 HD55DESY,tv,huawei,华为,,,华为智慧屏 SE 系列,#55 畅连通话版 1080P 金属底座 (2GB+16GB)
@@ -2257,20 +2303,23 @@ HD65DESZ,tv,huawei,华为,,,华为智慧屏 SE 系列,#65 畅连通话版 1080P 
 HD65DESY,tv,huawei,华为,,,华为智慧屏 SE 系列,#65 畅连通话版 1080P 金属底座 (2GB+16GB)
 HD65DESV,tv,huawei,华为,,,华为智慧屏 SE 系列,#65 畅连通话版 4K (2GB+16GB)
 HD75DESA,tv,huawei,华为,,,华为智慧屏 SE 系列,#75 (2GB+16GB)
-HD43KHAA,tv,huawei,华为,,,华为智慧屏 SE 系列 2022 款,#43 (2022)
-HD55KHAA,tv,huawei,华为,,,华为智慧屏 SE 系列 2022 款,#55 (2022)
-HD55KHAS,tv,huawei,华为,,,华为智慧屏 SE 系列 2022 款,#55 Pro (2022)
-HD65KHAA,tv,huawei,华为,,,华为智慧屏 SE 系列 2022 款,#65 (2022)
-HD65KHAS,tv,huawei,华为,,,华为智慧屏 SE 系列 2022 款,#65 Pro (2022)
+HD43KHAA,tv,huawei,华为,,,华为智慧屏 SE 系列 2022,#43 2022
+HD55KHAA,tv,huawei,华为,,,华为智慧屏 SE 系列 2022,#55 2022
+HD55KHAS,tv,huawei,华为,,,华为智慧屏 SE 系列 2022,#55 Pro 2022
+HD65KHAA,tv,huawei,华为,,,华为智慧屏 SE 系列 2022,#65 2022
+HD65KHAS,tv,huawei,华为,,,华为智慧屏 SE 系列 2022,#65 Pro 2022
 HD65FRUC,tv,huawei,华为,,,华为 Vision 智慧屏,#Z65 电竞版
 HD75FRUC,tv,huawei,华为,,,华为 Vision 智慧屏,#Z75 电竞版
+HD65MILA,tv,huawei,华为,,,华为 Vision 智慧屏,#65
 HD75MILA,tv,huawei,华为,,,华为 Vision 智慧屏,#75
 HD86KHAA,tv,huawei,华为,,,华为 Vision 智慧屏,#86
+HD55DESB,tv,huawei,华为,,,华为智慧屏 B 系列,#3-500
+HD65DESB,tv,huawei,华为,,,华为智慧屏 B 系列,#3-600
 HD55KANY,tv,huawei,华为,,,华为智慧屏 B 系列,#5-510
 HD65KANY,tv,huawei,华为,,,华为智慧屏 B 系列,#5-610
 HEGE-550AX,tv,huawei,华为,,,华为智慧屏 B 系列,#7-500
 HEGE-550X,tv,huawei,华为,,,华为智慧屏 B 系列,#7-510
-BLM-00,pad,huawei,华为,,,华为小精灵学习智慧屏,#
+BLM-00,pad,huawei,华为,,,华为小精灵学习智慧屏 / 华为智慧屏便携版,#
 HUAWEI U9500,mob,huawei,华为,,,华为 Ascend D1,#
 HUAWEI U9500E,mob,huawei,华为,,,华为 Ascend D1,#XL
 HUAWEI U9510,mob,huawei,华为,,,华为 Ascend D1,#四核
@@ -2747,7 +2796,8 @@ M172Q,mob,meizu,魅族,,m2172,魅族 18X,#
 M182Q,mob,meizu,魅族,,m2182,魅族 18s,#
 M192Q,mob,meizu,魅族,,m2192,魅族 18s Pro,#
 M381Q,mob,meizu,魅族,,m2381,魅族 20,#
-M391Q,mob,meizu,魅族,,m2391,魅族 20 Pro,#
+M391Q,mob,meizu,魅族,,m2391,魅族 20 PRO,#
+M392Q,mob,meizu,魅族,,m2392,魅族 20 INFINITY 无界版,#
 M852Q,mob,meizu,魅族,,m1852,魅族 X8,#公开版
 M852H,mob,meizu,魅族,,m1852,魅族 X8,#国际版
 M813Q,mob,meizu,魅族,,m1813,魅族 V8 高配版,#
@@ -2929,7 +2979,8 @@ M172Q,mob,meizu,MEIZU,,m2172,MEIZU 18X,#
 M182Q,mob,meizu,MEIZU,,m2182,MEIZU 18s,#
 M192Q,mob,meizu,MEIZU,,m2192,MEIZU 18s Pro,#
 M381Q,mob,meizu,MEIZU,,m2381,MEIZU 20,#
-M391Q,mob,meizu,MEIZU,,m2391,MEIZU 20 Pro,#
+M391Q,mob,meizu,MEIZU,,m2391,MEIZU 20 PRO,#
+M392Q,mob,meizu,MEIZU,,m2392,MEIZU 20 INFINITY,#
 M463H,mob,meizu,MEIZU,,m71,MEIZU m1 note,#Global
 M463M,mob,meizu,MEIZU,,m71,MEIZU m1 note,#China Mobile
 M463U,mob,meizu,MEIZU,,m71,MEIZU m1 note,#China Unicom
@@ -3158,6 +3209,9 @@ L55M9-SP,tv,mitv,小米,,,小米电视 ES Pro,#55
 L65M9-SP,tv,mitv,小米,,,小米电视 ES Pro,#65
 L75M9-SP,tv,mitv,小米,,,小米电视 ES Pro,#75
 L86M8-ES,tv,mitv,小米,,,小米电视 ES Pro,#86
+L55M9-S,tv,mitv,小米,,,小米电视 S,#55
+L65M9-S,tv,mitv,小米,,,小米电视 S,#65
+L75M9-S,tv,mitv,小米,,,小米电视 S,#75
 L65M5-BH,tv,mitv,小米,,,小米壁画电视,#65 英寸
 L75M5-BH,tv,mitv,小米,,,小米壁画电视,#75 英寸
 L55M6-TM,tv,mitv,小米,,,小米电视 大师系列,小米透明电视 55 英寸
@@ -3165,6 +3219,7 @@ L65M5-OD,tv,mitv,小米,,,小米电视 大师系列,#65 英寸 OLED
 O77M8-MAS,tv,mitv,小米,,,小米电视 大师系列,#77 英寸 OLED
 L82M6-4K,tv,mitv,小米,,,小米电视 大师系列,#82 英寸
 L82M6-8KP,tv,mitv,小米,,,小米电视 大师系列,#82 英寸 至尊纪念版
+L86M9-MAS,tv,mitv,小米,,,小米电视 大师系列,#86 英寸 Mini LED
 L55M8-SP,tv,mitv,小米,,,小米电子水牌,#55 英寸
 L40M5-RA,tv,mitv,小米,,,Redmi 智能电视 A,#红米电视 40 英寸 R40A
 L42R7-RA,tv,mitv,小米,,,Redmi 智能电视 A,#42 英寸
@@ -3185,11 +3240,12 @@ L75R8-A,tv,mitv,小米,,,Redmi 智能电视 A 2022 款,#75 2022 款
 L50M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,#50 (2020)
 L55M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,#55 (2020)
 L65M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,#65 (2020)
-L50R8-X,tv,mitv,小米,,,Redmi 智能电视 X 2022 款,#50 2022 款
-L55R8-X,tv,mitv,小米,,,Redmi 智能电视 X 2022 款,#55 2022 款
-L65R8-X,tv,mitv,小米,,,Redmi 智能电视 X 2022 款,#65 2022 款
-L75R8-X,tv,mitv,小米,,,Redmi 智能电视 X 2022 款,#75 2022 款
-L86R9-X,tv,mitv,小米,,,Redmi 智能电视 X 2022 款,#86
+L50R8-X,tv,mitv,小米,,,Redmi 智能电视 X,#50 2022 款
+L55R8-X,tv,mitv,小米,,,Redmi 智能电视 X,#55 2022 款
+L65R8-X,tv,mitv,小米,,,Redmi 智能电视 X,#65 2022 款
+L75R8-X,tv,mitv,小米,,,Redmi 智能电视 X,#75 2022 款
+L85RA-RX,tv,mitv,小米,,,Redmi 智能电视 X,#85
+L86R9-X,tv,mitv,小米,,,Redmi 智能电视 X,#86
 L55RA-XT,tv,mitv,小米,,,Redmi 智能电视 XT,#55T
 L65RA-XT,tv,mitv,小米,,,Redmi 智能电视 XT,#65T
 L75RA-XT,tv,mitv,小米,,,Redmi 智能电视 XT,#75T
@@ -3255,6 +3311,7 @@ L43R7-7AIN,tv,mitv,Xiaomi,,,Redmi Smart TV,#X43
 L50M6-RA,tv,mitv,Xiaomi,,,Redmi Smart TV,#X50
 L55M6-RA,tv,mitv,Xiaomi,,,Redmi Smart TV,#X55
 L65M6-RA,tv,mitv,Xiaomi,,,Redmi Smart TV,#X65
+L32R8-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,#32
 MDZ-22-AB,tv,mitv,Xiaomi,,,Mi Box,#4K
 L32M5-AN,tv,mitv,Xiaomi,,,Mi TV 4 / 4A (Indonesia),#32
 L43M5-AN,tv,mitv,Xiaomi,,,Mi TV 4 / 4A (Indonesia),#43
@@ -3306,6 +3363,7 @@ L55M7-FVEU,tv,mitv,Xiaomi,,,Xiaomi Fire TV F2,#55
 MDZ-16-AA,tv,mitv,Xiaomi,,,Mi Box,#
 MDZ-16-AB,tv,mitv,Xiaomi,,,Mi Box,#
 MDZ-22-AB,tv,mitv,Xiaomi,,,Mi Box,#S
+MDZ-28-AA,tv,mitv,Xiaomi,,,Xiaomi TV Box,#
 MDZ-24-AA,tv,mitv,Xiaomi,,,Mi TV Stick,#
 MDZ-24-AB,tv,mitv,Xiaomi,,,Mi TV Stick,#
 MDZ-27-AA,tv,mitv,Xiaomi,,,Xiaomi TV Stick,#4K
@@ -3522,7 +3580,7 @@ CPH2449,mob,oneplus,一加,,salami,一加 11,#欧洲版/国际版
 CPH2451,mob,oneplus,一加,,salami,一加 11,#北美版
 PHK110,mob,oneplus,一加,,udon,一加 Ace 2|一加 11R,#全网通版
 CPH2487,mob,oneplus,一加,,udon,一加 Ace 2|一加 11R,1#印度版
-PHP110,mob,oneplus,一加,,,一加 Ace 2V,#全网通版
+PHP110,mob,oneplus,一加,,vitamin,一加 Ace 2V,#全网通版
 AC2001,mob,oneplus,一加,,avicii,OnePlus Nord,#印度版
 AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版/国际版
 BE2025,mob,oneplus,一加,,billie8,OnePlus Nord N10,#Metro 版
@@ -3536,6 +3594,8 @@ BE2015,mob,oneplus,一加,,bengal,OnePlus Nord N100,#Metro 版
 GN2200,mob,oneplus,一加,,,OnePlus Nord N20,#
 CPH2459,mob,oneplus,一加,,,OnePlus Nord N20,#
 CPH2469,mob,oneplus,一加,,,OnePlus Nord N20 SE,#20 SE
+CPH2513,mob,oneplus,一加,,,OnePlus Nord N30,#
+CPH2515,mob,oneplus,一加,,,OnePlus Nord N30,#
 DE2117,mob,oneplus,一加,,dre9,OnePlus Nord N200,#北美版
 DE2118,mob,oneplus,一加,,dre8t,OnePlus Nord N200,#T-Mobile 版
 CPH2389,mob,oneplus,一加,,,OnePlus Nord N300,#
@@ -3548,6 +3608,8 @@ CPH2401,mob,oneplus,一加,,karen,OnePlus Nord 2T,#印度版
 IV2201,mob,oneplus,一加,,ivan,OnePlus Nord CE 2,#印度版
 CPH2381,mob,oneplus,一加,,oscar,OnePlus Nord CE 2 Lite,#印度版
 CPH2409,mob,oneplus,一加,,oscar,OnePlus Nord CE 2 Lite,#欧洲版/国际版
+CPH2465,mob,oneplus,一加,,,OnePlus Nord CE 3 Lite,#国际版
+CPH2467,mob,oneplus,一加,,,OnePlus Nord CE 3 Lite,#印度版
 ONE A0001,mob,oneplus,OnePlus,,bacon,OnePlus One,#
 ONE A1001,mob,oneplus,OnePlus,,bacon,OnePlus One,#
 ONE A2001,mob,oneplus,OnePlus,,oneplus2,OnePlus 2,#China
@@ -3638,7 +3700,7 @@ CPH2449,mob,oneplus,OnePlus,,salami,OnePlus 11,#EU / Global
 CPH2451,mob,oneplus,OnePlus,,salami,OnePlus 11,#North America
 PHK110,mob,oneplus,OnePlus,,udon,OnePlus 11R|OnePlus Ace 2,1#China
 CPH2487,mob,oneplus,OnePlus,,udon,OnePlus 11R|OnePlus Ace 2,#India
-PHP110,mob,oneplus,OnePlus,,,OnePlus Ace 2V,#China
+PHP110,mob,oneplus,OnePlus,,vitamin,OnePlus Ace 2V,#China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#EU / Global
 BE2025,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,#Metro
@@ -3652,6 +3714,8 @@ BE2015,mob,oneplus,OnePlus,,bengal,OnePlus Nord N100,#Metro
 GN2200,mob,oneplus,OnePlus,,,OnePlus Nord N20,#
 CPH2459,mob,oneplus,OnePlus,,,OnePlus Nord N20,#
 CPH2469,mob,oneplus,OnePlus,,,OnePlus Nord N20 SE,#20 SE
+CPH2513,mob,oneplus,OnePlus,,,OnePlus Nord N30,#
+CPH2515,mob,oneplus,OnePlus,,,OnePlus Nord N30,#
 DE2117,mob,oneplus,OnePlus,,dre9,OnePlus Nord N200,#North America
 DE2118,mob,oneplus,OnePlus,,dre8t,OnePlus Nord N200,#T-Mobile
 CPH2389,mob,oneplus,OnePlus,,,OnePlus Nord N300,#
@@ -3664,6 +3728,8 @@ CPH2401,mob,oneplus,OnePlus,,karen,OnePlus Nord 2T,#India
 IV2201,mob,oneplus,OnePlus,,ivan,OnePlus Nord CE 2,#India
 CPH2381,mob,oneplus,OnePlus,,oscar,OnePlus Nord CE 2 Lite,#India
 CPH2409,mob,oneplus,OnePlus,,oscar,OnePlus Nord CE 2 Lite,#EU / Global
+CPH2465,mob,oneplus,OnePlus,,,OnePlus Nord CE 3 Lite,#Global
+CPH2467,mob,oneplus,OnePlus,,,OnePlus Nord CE 3 Lite,#India
 PAFM00,mob,oppo,OPPO,,,OPPO Find X,#标准版 全网通版
 PAFT00,mob,oppo,OPPO,,,OPPO Find X,#标准版 移动版
 PAHM00,mob,oppo,OPPO,,,OPPO Find X,#超级闪充版/兰博基尼版 全网通版
@@ -3792,7 +3858,9 @@ PELM00,mob,oppo,OPPO,,,OPPO A95,#
 PFUM10,mob,oppo,OPPO,,,OPPO A96,#
 PHA120,mob,oppo,OPPO,,,OPPO A96,#
 PFTM10,mob,oppo,OPPO,,,OPPO A97,#
+PHS110,mob,oppo,OPPO,,,OPPO A1,#2023
 PHQ110,mob,oppo,OPPO,,,OPPO A1 Pro,#
+PHJ110,mob,oppo,OPPO,,,OPPO A1x,#
 PBCM30,mob,oppo,OPPO,,,OPPO K1,#
 PCGM00,mob,oppo,OPPO,,,OPPO K3,#全网通版
 PCGT00,mob,oppo,OPPO,,,OPPO K3,#移动版
@@ -4016,6 +4084,7 @@ CPH2203,mob,oppo,OPPO,,,OPPO A94,#
 CPH2211,mob,oppo,OPPO,,,OPPO A94,#5G
 CPH2365,mob,oppo,OPPO,,,OPPO A95,#
 CPH2333,mob,oppo,OPPO,,,OPPO A96,#
+CPH2529,mob,oppo,OPPO,,,OPPO A98,#5G
 CPH1955,mob,oppo,OPPO,,,OPPO K3,#
 CPH2373,mob,oppo,OPPO,,,OPPO K10,#
 CPH2237,mob,oppo,OPPO,,,OPPO K10,#5G
@@ -4209,8 +4278,8 @@ RMX3690,mob,realme,realme,,,C30s,#
 RMX3501,mob,realme,realme,,,C31,#
 RMX3502,mob,realme,realme,,,C31,#
 RMX3503,mob,realme,realme,,,C31,#
-RMX3624,mob,realme,realme,,,C33|C33 2023,#
-RMX3624,mob,realme,realme,,,C33|C33 2023,1#
+RMX3624,mob,realme,realme,,,C33,#
+RMX3627,mob,realme,realme,,,C33 2023,#
 RMX3511,mob,realme,realme,,,C35,#
 RMX3512,mob,realme,realme,,,C35,#
 RMX3513,mob,realme,realme,,,C35,#
@@ -4240,6 +4309,7 @@ RMX3517,mob,realme,realme,,,Narzo 50A Prime,#
 RMX3231,mob,realme,realme,,,Narzo 50i,#India
 RMX3235,mob,realme,realme,,,Narzo 50i,#Global
 RMX3506,mob,realme,realme,,,Narzo 50i Prime,#
+RMX3711,mob,realme,realme,,,Narzo N55,#
 RMX2202,mob,realme,realme,,,GT,#5G
 RMX3360,mob,realme,realme,,,GT Master Edition,#
 RMX3363,mob,realme,realme,,,GT Master Edition,#
@@ -4396,7 +4466,8 @@ SM-A9080,mob,samsung,三星,,r3q,Galaxy A90 5G,#
 SM-A5160,mob,samsung,三星,,a51x,Galaxy A51 5G,#
 SM-A7160,mob,samsung,三星,,a71x,Galaxy A71 5G,#
 SM-A5260,mob,samsung,三星,,a52xq,Galaxy A52 5G,#
-SM-A5360,mob,samsung,三星,,a53xq,Galaxy A53 5G,#
+SM-A5360,mob,samsung,三星,,a53x,Galaxy A53 5G,#
+SM-A5460,mob,samsung,三星,,a54x,Galaxy A54 5G,#
 SM-E5260,mob,samsung,三星,,f52x,Galaxy F52 5G,#
 SM-M3070,mob,samsung,三星,,m30s,Galaxy M30s,#
 SM-C5000,mob,samsung,三星,,c5ltechn,Galaxy C5,#
@@ -4606,6 +4677,8 @@ V2229A,mob,vivo,vivo,,PD2229,X Fold,#
 V2241A,mob,vivo,vivo,,PD2241,X90,#
 V2242A,mob,vivo,vivo,,PD2242,X90 Pro,#
 V2227A,mob,vivo,vivo,,PD2227,X90 Pro,#
+V2266A,mob,vivo,vivo,,PD2266,X Fold2,#
+V2256A,mob,vivo,vivo,,PD2256,X Flip,#
 V1831A,mob,vivo,vivo,,PD1831,S1,#全网通版
 V1831T,mob,vivo,vivo,,PD1831,S1,#移动全网通版
 V1832A,mob,vivo,vivo,,PD1832,S1 Pro,#全网通版
@@ -4617,7 +4690,7 @@ V2020A,mob,vivo,vivo,,PD2020,S7,#
 V2020CA,mob,vivo,vivo,,PD2020,S7,#
 V2080A,mob,vivo,vivo,,PD2080,S7t,#
 V2031A,mob,vivo,vivo,,PD2031,S7e,#
-V2031EA,mob,vivo,vivo,,PD2031E,S7e 活力版,#
+V2031EA,mob,vivo,vivo,,PD2031EA,S7e 活力版,#
 V2072A,mob,vivo,vivo,,PD2072,S9,#
 V2048A,mob,vivo,vivo,,PD2048,S9e,#
 V2121A,mob,vivo,vivo,,PD2121,S10,#
@@ -4646,6 +4719,7 @@ V1945T,mob,vivo,vivo,,PD1945,Y9s,#移动全网通版
 V2140A,mob,vivo,vivo,,PD2140,Y10,#
 V2168A,mob,vivo,vivo,,PD2168,Y10 (t1 版),#
 V2180A,mob,vivo,vivo,,PD2180,Y10 (t2 版),#
+V2236A,mob,vivo,vivo,,PD2236,Y11,#
 V2034A,mob,vivo,vivo,,PD2034,Y30,#
 V2036A,mob,vivo,vivo,,PD2036,Y30 标准版,#
 V2099A,mob,vivo,vivo,,PD2099,Y30 2021,#
@@ -4682,14 +4756,17 @@ V2102A,mob,vivo,vivo,,PD2102,Y71t,vivo Y70t 5G
 V2164A,mob,vivo,vivo,,PD2164,Y72t,#5G
 V1731CA,mob,vivo,vivo,,PD1731C,Y73,#
 V2031A,mob,vivo,vivo,,PD2031,Y73s,#5G
-V2164PA,mob,vivo,vivo,,PD2164P,Y73t,#5G
+V2164PA,mob,vivo,vivo,,PD2164U,Y73t,#5G
 V2009A,mob,vivo,vivo,,PD2009,Y74s,#5G
 V2069BA,mob,vivo,vivo,,PD2069,Y75s (2022),#5G
 V2156A,mob,vivo,vivo,,PD2156,Y76s,#5G
-V2156FA,mob,vivo,vivo,,PD2156F,Y76s (t1 版),#5G
+V2156FA,mob,vivo,vivo,,PD2156U,Y76s (t1 版),#5G
 V2219A,mob,vivo,vivo,,PD2219,Y77,#5G
-V2166BA,mob,vivo,vivo,,PD2166B,Y77e|Y77e (t1 版),#5G
-V2166BA,mob,vivo,vivo,,PD2166B,Y77e|Y77e (t1 版),1#5G
+V2166BA,mob,vivo,vivo,,PD2224,Y77e|Y77e (t1 版),#5G
+V2166BA,mob,vivo,vivo,,PD2224,Y77e|Y77e (t1 版),1#5G
+V2278A,mob,vivo,vivo,,PD2278,Y78|Y78m,#5G
+V2278A,mob,vivo,vivo,,PD2278,Y78|Y78m,1#5G
+V2271A,mob,vivo,vivo,,PD2271,Y78,#5G
 V1732A,mob,vivo,vivo,,PD1732,Y81,#全网通版
 V1732T,mob,vivo,vivo,,PD1732,Y81,#移动全网通版
 V1732A,mob,vivo,vivo,,PD1732,Y81s,#全网通版
@@ -4699,8 +4776,9 @@ V1818CA,mob,vivo,vivo,,PD1818C,Y91,#全网通版
 V1818CT,mob,vivo,vivo,,PD1818C,Y91,#移动全网通版
 V1818A,mob,vivo,vivo,,PD1818,Y93,#全网通版
 V1818T,mob,vivo,vivo,,PD1818,Y93,#移动全网通版
-V1818CA,mob,vivo,vivo,,PD1818C,Y93 标准版,#全网通版
-V1818CT,mob,vivo,vivo,,PD1818C,Y93 标准版,#移动全网通版
+V1818BA,mob,vivo,vivo,,PD1818B,Y93 标准版,#全网通版
+V1818CA,mob,vivo,vivo,,PD1818B,Y93 标准版,#全网通版
+V1818CT,mob,vivo,vivo,,PD1818B,Y93 标准版,#移动全网通版
 V1818CA,mob,vivo,vivo,,PD1818C,Y93s,#全网通版
 V1818CT,mob,vivo,vivo,,PD1818C,Y93s,#移动全网通版
 V1813A,mob,vivo,vivo,,PD1813,Y97,#全网通版
@@ -4773,7 +4851,7 @@ V2073A,mob,vivo,vivo,,PD2073,iQOO Z3,#
 V2148A,mob,vivo,vivo,,PD2148,iQOO Z5,#
 V2131A,mob,vivo,vivo,,PD2131,iQOO Z5x,#
 V2220A,mob,vivo,vivo,,PD2220,iQOO Z6,#
-V2164KA,mob,vivo,vivo,,PD2164K,iQOO Z6x,#
+V2164KA,mob,vivo,vivo,,PD2164U,iQOO Z6x,#
 V2270A,mob,vivo,vivo,,PD2270,iQOO Z7,#
 V2272A,mob,vivo,vivo,,PD2272,iQOO Z7x,#
 V2230EA,mob,vivo,vivo,,PD2230,iQOO Z7i,#
@@ -4785,7 +4863,174 @@ V2143A,mob,vivo,vivo,,PD2143,iQOO U3x 标准版,#
 V2165A,mob,vivo,vivo,,PD2165,iQOO U5,#5G
 V2180GA,mob,vivo,vivo,,PD2180G,iQOO U5x,#
 V2197A,mob,vivo,vivo,,PD2197,iQOO U5e,#5G
-PA2170,pad,vivo,vivo,,PA2170,,#vivo Pad
+PA2170,pad,vivo,vivo,,DPD2106,,#vivo Pad
+PA2373,pad,vivo,vivo,,DPD2221,2,#
+vivo 1939,mob,vivo,vivo,,,X50,#
+vivo 2004,mob,vivo,vivo,,,X50,#
+vivo 2005,mob,vivo,vivo,,,X50,#
+vivo 2006,mob,vivo,vivo,,,X50 Pro,#
+V2006,mob,vivo,vivo,,,X50 Pro,#
+V1930,mob,vivo,vivo,,,X50e,#5G
+V2006,mob,vivo,vivo,,,X51,#5G
+V2045,mob,vivo,vivo,,,X60,#
+V2046,mob,vivo,vivo,,,X60 Pro,#
+V2047,mob,vivo,vivo,,,X60 Pro,#
+V2104,mob,vivo,vivo,,,X70,#
+V2105,mob,vivo,vivo,,,X70 Pro,#
+V2114,mob,vivo,vivo,,,X70 Pro,#
+V2144,mob,vivo,vivo,,,X80,#
+V2145,mob,vivo,vivo,,,X80 Pro,#
+V2208,mob,vivo,vivo,,,X80 Lite,#5G
+V2218,mob,vivo,vivo,,,X90,#
+V2219,mob,vivo,vivo,,,X90 Pro,#
+vivo 1819,mob,vivo,vivo,,,V15,#
+vivo 1920,mob,vivo,vivo,,,V17,#
+vivo 1907,mob,vivo,vivo,,,V17 Neo,#
+V2025,mob,vivo,vivo,,,V20,#
+vivo 2018,mob,vivo,vivo,,,V20 Pro,#
+V2022,mob,vivo,vivo,,,V20 SE,#
+V2023,mob,vivo,vivo,,,V20 SE,#
+V2040,mob,vivo,vivo,,,V20 2021,#
+V2108,mob,vivo,vivo,,,V21,#
+V2066,mob,vivo,vivo,,,V21,#
+V2050,mob,vivo,vivo,,,V21,#5G
+V2061,mob,vivo,vivo,,,V21e,#
+V2055,mob,vivo,vivo,,,V21e,#5G
+V2130,mob,vivo,vivo,,,V23,#5G
+V2132,mob,vivo,vivo,,,V23 Pro,#
+V2115,mob,vivo,vivo,,,V23e,#
+V2116,mob,vivo,vivo,,,V23e,#
+V2126,mob,vivo,vivo,,,V23e,#5G
+V2202,mob,vivo,vivo,,,V25,#
+V2228,mob,vivo,vivo,,,V25,#
+V2158,mob,vivo,vivo,,,V25 Pro,#
+V2201,mob,vivo,vivo,,,V25e,#
+V2209,mob,vivo,vivo,,,V25e,#
+V2242,mob,vivo,vivo,,,V25e,#
+V2231,mob,vivo,vivo,,,V27,#
+V2246,mob,vivo,vivo,,,V27,#
+V2230,mob,vivo,vivo,,,V27 Pro,#
+V2237,mob,vivo,vivo,,,V27e,#
+V2244,mob,vivo,vivo,,,V29 Lite,#5G
+vivo 1907,mob,vivo,vivo,,,S1,#
+V1937,mob,vivo,vivo,,,S1 Prime,#
+vivo 1920,mob,vivo,vivo,,,S1 Pro,#
+vivo 1920_20,mob,vivo,vivo,,,S1 Pro,#
+V2153,mob,vivo,vivo,,,T1,#
+V2168,mob,vivo,vivo,,,T1,#
+V2141,mob,vivo,vivo,,,T1,#5G
+V2150,mob,vivo,vivo,,,T1,#5G
+V2157,mob,vivo,vivo,,,T1,#5G
+V2143,mob,vivo,vivo,,,T1x,#
+V2151,mob,vivo,vivo,,,T1 Pro,#5G
+V2240,mob,vivo,vivo,,,T2,#5G
+V2253,mob,vivo,vivo,,,T2x,#5G
+vivo 1929,mob,vivo,vivo,,,Y1s,#
+vivo 2015,mob,vivo,vivo,,,Y1s,#
+vivo 2015_21,mob,vivo,vivo,,,Y1s,#
+V2044,mob,vivo,vivo,,,Y3s,#
+vivo 1902,mob,vivo,vivo,,,Y5,#
+V2118,mob,vivo,vivo,,,Y01,#
+V2166,mob,vivo,vivo,,,Y01A,#
+V2213,mob,vivo,vivo,,,Y02,#
+V2217,mob,vivo,vivo,,,Y02,#
+V2234_PK,mob,vivo,vivo,,,Y02,#
+V2236,mob,vivo,vivo,,,Y02,#
+V2234,mob,vivo,vivo,,,Y02A,#
+V2203,mob,vivo,vivo,,,Y02s,#
+V2221,mob,vivo,vivo,,,Y02s,#
+V2229,mob,vivo,vivo,,,Y02s,#
+V2252,mob,vivo,vivo,,,Y02t,#
+V2254,mob,vivo,vivo,,,Y02t,#
+V2028,mob,vivo,vivo,,,Y11s,#
+vivo 1904,mob,vivo,vivo,,,Y12,#
+V2026,mob,vivo,vivo,,,Y12A,#
+V2048,mob,vivo,vivo,,,Y12D,#
+V2026,mob,vivo,vivo,,,Y12s,#
+V2026_21,mob,vivo,vivo,,,Y12s,#
+V2042,mob,vivo,vivo,,,Y12s,#
+vivo 1901,mob,vivo,vivo,,,Y15,#
+vivo 1901,mob,vivo,vivo,,,Y15 2020,#
+V2134,mob,vivo,vivo,,,Y15A,#
+V2147,mob,vivo,vivo,,,Y15C,#
+V2162,mob,vivo,vivo,,,Y15C,#
+V2212,mob,vivo,vivo,,,Y15C,#
+vivo 1901,mob,vivo,vivo,,,Y15s,#
+V2120,mob,vivo,vivo,,,Y15s,#
+V2125,mob,vivo,vivo,,,Y15s,#
+V2139,mob,vivo,vivo,,,Y15s,#
+V2204,mob,vivo,vivo,,,Y16,#
+V2214,mob,vivo,vivo,,,Y16,#
+vivo 1902,mob,vivo,vivo,,,Y17,#
+vivo 1915,mob,vivo,vivo,,,Y19,#
+V2027,mob,vivo,vivo,,,Y20,#
+V2037,mob,vivo,vivo,,,Y20G,#
+V2032,mob,vivo,vivo,,,Y20i,#
+V2029,mob,vivo,vivo,,,Y20s,#
+V2038,mob,vivo,vivo,,,Y20s,#G
+V2129,mob,vivo,vivo,,,Y20T,#
+V2043,mob,vivo,vivo,,,Y20 2021,#
+V2043_21,mob,vivo,vivo,,,Y20 2021,#
+V2065,mob,vivo,vivo,,,Y20G 2021,#
+V2026,mob,vivo,vivo,,,Y20i 2021,#
+V2111,mob,vivo,vivo,,,Y21,#
+V2149,mob,vivo,vivo,,,Y21A,#
+V2111-EG,mob,vivo,vivo,,,Y21A,#
+V2140,mob,vivo,vivo,,,Y21e,#
+V2152,mob,vivo,vivo,,,Y21G,#
+V2110,mob,vivo,vivo,,,Y21s,#
+V2136,mob,vivo,vivo,,,Y21s,#
+V2131,mob,vivo,vivo,,,Y21T,#
+V2135,mob,vivo,vivo,,,Y21T,#
+V2207,mob,vivo,vivo,,,Y22,#
+V2238,mob,vivo,vivo,,,Y22,#
+V2206,mob,vivo,vivo,,,Y22s,#
+V2160,mob,vivo,vivo,,,Y30,#5G
+V2036,mob,vivo,vivo,,,Y31,#
+V2036_21,mob,vivo,vivo,,,Y31,#
+V2057,mob,vivo,vivo,,,Y33,#
+V2109-EG,mob,vivo,vivo,,,Y33A,#
+V2109,mob,vivo,vivo,,,Y33s,#
+V2146,mob,vivo,vivo,,,Y33T,#
+V2205,mob,vivo,vivo,,,Y35,#
+V2024,mob,vivo,vivo,,,Y51,#
+V2030,mob,vivo,vivo,,,Y51,#
+V2035,mob,vivo,vivo,,,Y51,#
+V2031,mob,vivo,vivo,,,Y51s,#
+V2031_21,mob,vivo,vivo,,,Y51s,#
+V2053,mob,vivo,vivo,,,Y52,#5G
+V2058,mob,vivo,vivo,,,Y53s,#
+V2154,mob,vivo,vivo,,,Y55,#
+V2127,mob,vivo,vivo,,,Y55,#5G
+V2225,mob,vivo,vivo,,,Y56,#5G
+V2041,mob,vivo,vivo,,,Y72,#
+V2060,mob,vivo,vivo,,,Y72,#5G
+V2059,mob,vivo,vivo,,,Y73,#
+V2059-EG,mob,vivo,vivo,,,Y73,#
+V2117,mob,vivo,vivo,,,Y75,#
+V2142,mob,vivo,vivo,,,Y75,#5G
+V2124,mob,vivo,vivo,,,Y76,#5G
+V2169,mob,vivo,vivo,,,Y77,#5G
+V2244,mob,vivo,vivo,,,Y78,#5G
+V2239,mob,vivo,vivo,,,Y100,#
+V2222,mob,vivo,vivo,,,Y100A,#
+I2201,mob,vivo,vivo,,,iQOO 9T,#
+I2022,mob,vivo,vivo,,,iQOO 9 Pro,#
+I2019,mob,vivo,vivo,,,iQOO 9 SE,#
+I2212,mob,vivo,vivo,,,iQOO 11,#
+I2202,mob,vivo,vivo,,,iQOO Neo6,#
+I2214,mob,vivo,vivo,,,iQOO Neo7,#5G
+I2011,mob,vivo,vivo,,,iQOO Z3,#5G
+I2018,mob,vivo,vivo,,,iQOO Z5,#
+I2127,mob,vivo,vivo,,,iQOO Z6,#
+I2203,mob,vivo,vivo,,,iQOO Z6,#
+I2206,mob,vivo,vivo,,,iQOO Z6,#
+I2126,mob,vivo,vivo,,,iQOO Z6 Pro,#
+I2208,mob,vivo,vivo,,,iQOO Z6 Lite,#5G
+I2205,mob,vivo,vivo,,,iQOO Z6 Pro SE,#
+I2207,mob,vivo,vivo,,,iQOO Z7,#5G
+I2213,mob,vivo,vivo,,,iQOO Z7,#5G
+I2216,mob,vivo,vivo,,,iQOO Z7x,#5G
 MI-ONE PLUS,mob,xiaomi,小米,X1,mione_plus,小米 1,#联通版
 MI-ONE C1,mob,xiaomi,小米,X1,mione_plus,小米 1,#电信版
 MI-ONE,mob,xiaomi,小米,X1,mione_plus,小米 1,#青春版
@@ -4906,6 +5151,8 @@ A201XM,mob,xiaomi,小米,L12U,diting,Xiaomi 12T Pro,#日本版 (SoftBank)
 2211133G,mob,xiaomi,小米,M3,fuxi,Xiaomi 13,#国际版
 2210132C,mob,xiaomi,小米,M2,nuwa,Xiaomi 13 Pro,#全网通版
 2210132G,mob,xiaomi,小米,M2,nuwa,Xiaomi 13 Pro,#国际版
+2304FPN6DC,mob,xiaomi,小米,M1,ishtar,Xiaomi 13 Ultra,#全网通版
+2304FPN6DG,mob,xiaomi,小米,M1,ishtar,Xiaomi 13 Ultra,#国际版
 2210129SG,mob,xiaomi,小米,L9S,ziyi,Xiaomi 13 Lite,#国际版
 2014616,mob,xiaomi,小米,X5,virgo,小米 Note,#双网通版
 2014619,mob,xiaomi,小米,X5,virgo,小米 Note,#全网通版
@@ -4973,6 +5220,9 @@ M1806D9PE,pad,xiaomi,小米,D9P,clover,小米平板 4 Plus,#LTE 版
 M2105K81AC,pad,xiaomi,小米,K81A,elish,小米平板 5 Pro,#Wi-Fi 版
 M2105K81C,pad,xiaomi,小米,K81,enuma,小米平板 5 Pro 5G,#
 22081281AC,pad,xiaomi,小米,L81A,dagu,小米平板 5 Pro,#12.4 英寸
+23043RP34C,pad,xiaomi,小米,M82,pipa,小米平板 6,#国行版
+23043RP34G,pad,xiaomi,小米,M82,pipa,小米平板 6,#国际版
+23046RP50C,pad,xiaomi,小米,M81,liuqin,小米平板 6 Pro,#
 2013022,mob,xiaomi,小米,H2TD,wt93007,红米手机,#移动版
 2013023,mob,xiaomi,小米,H2W,wt98007,红米手机,#联通版
 2013029,mob,xiaomi,小米,H2A,armani,红米 1S,#联通版
@@ -5250,12 +5500,16 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 全网通版
 22041216UC,mob,xiaomi,小米,L16U,xagapro,Redmi Note 11T Pro,#全网通版
 22095RA98C,mob,xiaomi,小米,L19P,light,Redmi Note 11R,#5G 全网通版
 23021RAAEG,mob,xiaomi,小米,,tapas,Redmi Note 12,#国际版
-23021RAAEI,mob,xiaomi,小米,,tapas,Redmi Note 12,#印度版
+23027RAD4I,mob,xiaomi,小米,,tapas,Redmi Note 12,#印度版
 23028RA60L,mob,xiaomi,小米,,tapas,Redmi Note 12,#拉美版
 23021RAA2Y,mob,xiaomi,小米,,topaz,Redmi Note 12,#国际版 (NFC)
 22101317C,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G,#全网通版
 22111317G,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G,#国际版
 22111317I,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G,#印度版
+2303CRA44A,mob,xiaomi,小米,,sea,Redmi Note 12S,#国际版
+2303ERA42L,mob,xiaomi,小米,,sea,Redmi Note 12S,#拉美版
+23030RAC7Y,mob,xiaomi,小米,,ocean,Redmi Note 12S,#国际版 (NFC)
+2209116AG,mob,xiaomi,小米,K6A,sweet,Redmi Note 12 Pro,#国际版
 22101316C,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,#全网通版
 22101316G,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,#5G 国际版
 22101316I,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,#5G 印度版
@@ -5264,6 +5518,7 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 全网通版
 22101316UP,mob,xiaomi,小米,M16UP,rubypro,Redmi Note 12 Pro,#5G 印度版
 22101316UC,mob,xiaomi,小米,M16U,rubyplus,Redmi Note 12 探索版,#全网通版
 22101320C,mob,xiaomi,小米,M20,redwood,Redmi Note 12 Pro 极速版,#全网通版
+23049RAD8C,mob,xiaomi,小米,M16T,marble,Redmi Note 12 Turbo,#全网通版
 M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,#全网通版
 M2004J7BC,mob,xiaomi,小米,J7B,bomb,Redmi 10X Pro 5G,#全网通版
 M2003J15SC,mob,xiaomi,小米,J15S,merlin,Redmi 10X 4G,#全网通版
@@ -5318,10 +5573,11 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,#印度版
 220733SFG,mob,xiaomi,小米,C3SF,snow,Redmi A1,#国际版
 220733SFH,mob,xiaomi,小米,C3SF,snow,Redmi A1,#国际版
 220743FI,mob,xiaomi,小米,C3SF,snow,Redmi A1,#印度版
-23026RN54G,mob,xiaomi,小米,,water,Redmi A2,#国际版
-23028RN4DG,mob,xiaomi,小米,,water,Redmi A2,#国际版
-23028RN4DH,mob,xiaomi,小米,,water,Redmi A2,#国际版
-23028RN4DI,mob,xiaomi,小米,,water,Redmi A2,#印度版
+23026RN54G,mob,xiaomi,小米,,cloud,Redmi A2,#国际版
+23028RN4DG,mob,xiaomi,小米,,cloud,Redmi A2,#国际版
+23028RN4DH,mob,xiaomi,小米,,cloud,Redmi A2,#国际版
+23028RN4DI,mob,xiaomi,小米,,cloud,Redmi A2,#印度版
+23028RNCAG,mob,xiaomi,小米,,water,Redmi A2,#国际版
 22081283C,pad,xiaomi,小米,L83,yunluo,Redmi Pad,#国行版
 22081283G,pad,xiaomi,小米,L83,yunluo,Redmi Pad,#国际版
 M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,#
@@ -5332,6 +5588,10 @@ M2104K10I,mob,xiaomi,小米,K10,aresin,POCO F3 GT,#印度版
 22021211RI,mob,xiaomi,小米,L11R,munch,POCO F4,#印度版
 21121210G,mob,xiaomi,小米,L10,ingres,POGO F4 GT,POCO F4 GT 国际版
 21121210I,mob,xiaomi,小米,L10,ingres,POGO F4 GT,POCO F4 GT 印度版
+23049PCD8G,mob,xiaomi,小米,M16T,marble,POCO F5,#国际版
+23049PCD8I,mob,xiaomi,小米,M16T,marble,POCO F5,#印度版
+23013PC75G,mob,xiaomi,小米,M11A,mondrian,POCO F5 Pro,#国际版
+23013PC75I,mob,xiaomi,小米,M11A,mondrian,POCO F5 Pro,#印度版
 M1912G7BI,mob,xiaomi,小米,G7B,phoenixin,POCO X2,#印度版
 M2007J20CI,mob,xiaomi,小米,J20C,karna,POCO X3,#印度版
 M2007J20CG,mob,xiaomi,小米,J20C,surya,POCO X3 NFC,#国际版
@@ -5495,6 +5755,8 @@ A201XM,mob,xiaomi,Xiaomi,L12U,diting,Xiaomi 12T Pro,#Japan (SoftBank)
 2211133C,mob,xiaomi,Xiaomi,M3,fuxi,Xiaomi 13,#China
 2210132G,mob,xiaomi,Xiaomi,M2,nuwa,Xiaomi 13 Pro,#Global
 2210132C,mob,xiaomi,Xiaomi,M2,nuwa,Xiaomi 13 Pro,#China
+2304FPN6DG,mob,xiaomi,Xiaomi,M1,ishtar,Xiaomi 13 Ultra,#Global
+2304FPN6DC,mob,xiaomi,Xiaomi,M1,ishtar,Xiaomi 13 Ultra,#China
 2210129SG,mob,xiaomi,Xiaomi,L9S,ziyi,Xiaomi 13 Lite,#Global
 2015011,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#Global
 2014616,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#China
@@ -5827,12 +6089,16 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 22041216UC,mob,xiaomi,Xiaomi,L16U,xagapro,Redmi Note 11T Pro,#5G China
 22095RA98C,mob,xiaomi,Xiaomi,L19P,light,Redmi Note 11R,#5G China
 23021RAAEG,mob,xiaomi,Xiaomi,,tapas,Redmi Note 12,#Global
-23021RAAEI,mob,xiaomi,Xiaomi,,tapas,Redmi Note 12,#India
+23027RAD4I,mob,xiaomi,Xiaomi,,tapas,Redmi Note 12,#India
 23028RA60L,mob,xiaomi,Xiaomi,,tapas,Redmi Note 12,#Latin America
 23021RAA2Y,mob,xiaomi,Xiaomi,,topaz,Redmi Note 12,#Global (NFC)
 22111317G,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G,#Global
 22111317I,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G,#India
 22101317C,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G,#China
+2303CRA44A,mob,xiaomi,Xiaomi,,sea,Redmi Note 12S,#Global
+2303ERA42L,mob,xiaomi,Xiaomi,,sea,Redmi Note 12S,#Latin America
+23030RAC7Y,mob,xiaomi,Xiaomi,,ocean,Redmi Note 12S,#Global (NFC)
+2209116AG,mob,xiaomi,Xiaomi,K6A,sweet,Redmi Note 12 Pro,#Global
 22101316G,mob,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,#Global
 22101316I,mob,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,#India
 22101316C,mob,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,#China
@@ -5841,6 +6107,7 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 22101316UCP,mob,xiaomi,Xiaomi,M16UP,rubypro,Redmi Note 12 Pro+ 5G,#China
 22101316UC,mob,xiaomi,Xiaomi,M16U,rubyplus,Redmi Note 12 Discovery Edition,#China
 22101320C,mob,xiaomi,Xiaomi,M20,redwood,Redmi Note 12 Pro Speed,#China
+23049RAD8C,mob,xiaomi,Xiaomi,M16T,marble,Redmi Note 12 Turbo,#China
 M2004J7AC,mob,xiaomi,Xiaomi,J7A,atom,Redmi 10X 5G,#China
 M2004J7BC,mob,xiaomi,Xiaomi,J7B,bomb,Redmi 10X Pro 5G,#China
 M2003J15SC,mob,xiaomi,Xiaomi,J15S,merlin,Redmi 10X 4G,#China
@@ -5895,10 +6162,11 @@ M1903C3GI,mob,xiaomi,Xiaomi,C3G,tiare,Redmi Go,#India
 220733SFG,mob,xiaomi,Xiaomi,C3SF,snow,Redmi A1,#Global
 220733SFH,mob,xiaomi,Xiaomi,C3SF,snow,Redmi A1,#Global
 220743FI,mob,xiaomi,Xiaomi,C3SF,snow,Redmi A1,#India
-23026RN54G,mob,xiaomi,Xiaomi,,water,Redmi A2,#Global
-23028RN4DG,mob,xiaomi,Xiaomi,,water,Redmi A2,#Global
-23028RN4DH,mob,xiaomi,Xiaomi,,water,Redmi A2,#Global
-23028RN4DI,mob,xiaomi,Xiaomi,,water,Redmi A2,#India
+23026RN54G,mob,xiaomi,Xiaomi,,cloud,Redmi A2,#Global
+23028RN4DG,mob,xiaomi,Xiaomi,,cloud,Redmi A2,#Global
+23028RN4DH,mob,xiaomi,Xiaomi,,cloud,Redmi A2,#Global
+23028RN4DI,mob,xiaomi,Xiaomi,,cloud,Redmi A2,#India
+23028RNCAG,mob,xiaomi,Xiaomi,,water,Redmi A2,#Global
 M1805E10A,mob,xiaomi,Xiaomi,E10,beryllium,POCO F1,#
 M2004J11G,mob,xiaomi,Xiaomi,J11,lmi,POCO F2 Pro,#Global
 M2012K11AG,mob,xiaomi,Xiaomi,K11A,alioth,POCO F3,#Global
@@ -5907,6 +6175,10 @@ M2104K10I,mob,xiaomi,Xiaomi,K10,aresin,POCO F3 GT,#India
 22021211RI,mob,xiaomi,Xiaomi,L11R,munch,POCO F4,#India
 21121210G,mob,xiaomi,Xiaomi,L10,ingres,POGO F4 GT,POCO F4 GT Global
 21121210I,mob,xiaomi,Xiaomi,L10,ingres,POGO F4 GT,POCO F4 GT India
+23049PCD8G,mob,xiaomi,Xiaomi,M16T,marble,POCO F5,#Global
+23049PCD8I,mob,xiaomi,Xiaomi,M16T,marble,POCO F5,#India
+23013PC75G,mob,xiaomi,Xiaomi,M11A,mondrian,POCO F5 Pro,#Global
+23013PC75I,mob,xiaomi,Xiaomi,M11A,mondrian,POCO F5 Pro,#India
 M1912G7BI,mob,xiaomi,Xiaomi,G7B,phoenixin,POCO X2,#India
 M2007J20CI,mob,xiaomi,Xiaomi,J20C,karna,POCO X3,#India
 M2007J20CG,mob,xiaomi,Xiaomi,J20C,surya,POCO X3 NFC,#Global
@@ -5958,6 +6230,9 @@ M1806D9PE,pad,xiaomi,Xiaomi,D9P,clover,Mi Pad 4 Plus,#LTE
 M2105K81AC,pad,xiaomi,Xiaomi,K81A,elish,Xiaomi Pad 5 Pro,#Wi-Fi
 M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,#
 22081281AC,pad,xiaomi,Xiaomi,L81A,dagu,Xiaomi Pad 5 Pro 12.4,#
+23043RP34G,pad,xiaomi,Xiaomi,M82,pipa,Xiaomi Pad 6,#Global
+23043RP34C,pad,xiaomi,Xiaomi,M82,pipa,Xiaomi Pad 6,#China
+23046RP50C,pad,xiaomi,Xiaomi,M81,liuqin,Xiaomi Pad 6 Pro,#
 22081283G,pad,xiaomi,Xiaomi,L83,yunluo,Redmi Pad,#Global
 22081283C,pad,xiaomi,Xiaomi,L83,yunluo,Redmi Pad,#China
 XMWT01,watch,xiaomi,Xiaomi,,baiji,Mi Watch,#
@@ -5992,6 +6267,7 @@ NAT-TN70,mob,zhixuan,华为智选,,,TD Tech N8 Pro,#
 TDT-MA01,mob,zhixuan,华为智选,,,TD Tech M40,#
 AVA-PA00,mob,zhixuan,华为智选,,,TD Tech P50,#
 LFT-AN00,mob,zhixuan,华为智选,,,WIKO 5G,#
+GAR-AN00,mob,zhixuan,华为智选,,,Hi 畅享 60,#5G
 ZTE A2017,mob,zte,中兴,,,中兴天机 7,#
 ZTE A2018,mob,zte,中兴,,,中兴天机 7S,#
 ZTE C2017,mob,zte,中兴,,,中兴天机 7 MAX,#
@@ -6048,5 +6324,8 @@ ZTE 7534N,mob,zte,中兴,,,中兴远航 30 畅行版,#
 ZTE 8040N,mob,zte,中兴,,,中兴远航 30 Pro,#
 ZTE 9041N,mob,zte,中兴,,,中兴远航 30 Pro,#
 ZTE 1010L,mob,zte,中兴,,,中兴畅行 30,#
+ZTE 7542N,mob,zte,中兴,,,中兴远航 40,#
 ZTE 9042N,mob,zte,中兴,,,中兴远航 40 Pro,#
+ZTE 7541N,mob,zte,中兴,,,中兴远航 41,#
+ZTE 1021L,mob,zte,中兴,,,中兴畅行 40 SE,#
 ZTE 9043N,mob,zte,中兴,,,中兴 V70 Pro,#

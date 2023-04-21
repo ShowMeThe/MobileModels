@@ -258,7 +258,7 @@
 
 `CPH2487`: 一加 11R 印度版
 
-**一加 Ace 2V:**
+**一加 Ace 2V (`vitamin`):**
 
 `PHP110`: 一加 Ace 2V 全网通版
 
@@ -297,6 +297,10 @@
 **OnePlus Nord N20 SE:**
 
 `CPH2469`: OnePlus Nord 20 SE
+
+**OnePlus Nord N30:**
+
+`CPH2513` `CPH2515`: OnePlus Nord N30
 
 **OnePlus Nord N200 (`dre9`):**
 
@@ -337,3 +341,9 @@
 `CPH2381`: OnePlus Nord CE 2 Lite 印度版
 
 `CPH2409`: OnePlus Nord CE 2 Lite 欧洲版/国际版
+
+**OnePlus Nord CE 3 Lite:**
+
+`CPH2465`: OnePlus Nord CE 3 Lite 国际版
+
+`CPH2467`: OnePlus Nord CE 3 Lite 印度版

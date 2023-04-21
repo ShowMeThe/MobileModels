@@ -1,4 +1,24 @@
 # CHANGELOG
+## 2023-04-20
+- `oneplus_en` Add OnePlus Nord N30.
+- `vivo_global_en` Add Y02t, Y78, V29 Lite 5G.
+## 2023-04-17
+- `vivo_global_en` Add vivo international smartphone models.
+## 2023-04-12
+- `realme_en` Add realme Narzo N55.
+## 2023-04-05
+- `oneplus_en` Add OnePlus Nord CE 3 Lite.
+- `xiaomi_en` Add Redmi Note 12S, Note 12 Pro 4G.
+## 2023-03-30
+- `meizu_en` Add MEIZU 20 INFINITY.
+## 2023-03-28
+- `mitv_global_en` Add Xiaomi TV Box.
+## 2023-03-22
+- `mitv_global_en` Add Redmi Smart Fire TV.
+## 2023-03-21
+- `oppo_global_en` Add OPPO A98 5G.
+## 2023-03-17
+- `xiaomi_en` Add 13 Ultra, Note 12 Turbo, Pad 6, POCO F5.
 ## 2023-03-14
 - `realme_global_en` Add several new models.
 ## 2023-03-13
