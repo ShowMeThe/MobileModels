@@ -160,9 +160,9 @@
 
 `CP03`: 酷派 COOL 20 / 酷派锋尚 40
 
-**酷派 COOL 20 Pro:**
+**酷派 COOL 20 Pro / 酷派大观 40 Pro:**
 
-`CP05`: 酷派 COOL 20 Pro 5G
+`CP05`: 酷派 COOL 20 Pro 5G / 酷派大观 40 Pro 5G
 
 **酷派 COOL 20s:**
 
@@ -172,6 +172,14 @@
 
 `CP13`: 酷派 COOL 30
 
+**酷派 COOL 30 Pro:**
+
+`CP15`: 酷派 COOL 30 Pro 5G
+
 **酷派大观 40s:**
 
 `CP16t`: 酷派大观 40s 5G
+
+**酷派大观 50s:**
+
+`CP17`: 酷派大观 50s 5G

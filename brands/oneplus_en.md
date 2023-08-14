@@ -263,6 +263,50 @@
 
 `AC2003`: OnePlus Nord EU / Global
 
+**OnePlus Nord 2 (`denniz`):**
+
+`DN2101`: OnePlus Nord 2 India
+
+`DN2103`: OnePlus Nord 2 EU
+
+**OnePlus Nord 2T (`karen`):**
+
+`CPH2399`: OnePlus Nord 2T Global
+
+`CPH2401`: OnePlus Nord 2T India
+
+**OnePlus Nord 3 (`vitamin`):**
+
+`CPH2491`: OnePlus Nord 3 India
+
+`CPH2493`: OnePlus Nord 3 EU
+
+**OnePlus Nord CE (`ebba`):**
+
+`EB2101`: OnePlus Nord CE India
+
+`EB2103`: OnePlus Nord CE EU / Global
+
+**OnePlus Nord CE 2 (`ivan`):**
+
+`IV2201`: OnePlus Nord CE 2 India
+
+**OnePlus Nord CE 2 Lite (`oscar`):**
+
+`CPH2381`: OnePlus Nord CE 2 Lite India
+
+`CPH2409`: OnePlus Nord CE 2 Lite EU / Global
+
+**OnePlus Nord CE 3:**
+
+`CPH2569`: OnePlus Nord CE 3 India
+
+**OnePlus Nord CE 3 Lite:**
+
+`CPH2465`: OnePlus Nord CE 3 Lite Global
+
+`CPH2467`: OnePlus Nord CE 3 Lite India
+
 **OnePlus Nord N10 (`billie8`):**
 
 `BE2025`: OnePlus Nord N10 Metro
@@ -309,36 +353,6 @@
 
 `CPH2389`: OnePlus Nord N300
 
-**OnePlus Nord CE (`ebba`):**
+**OnePlus Pad:**
 
-`EB2101`: OnePlus Nord CE India
-
-`EB2103`: OnePlus Nord CE EU / Global
-
-**OnePlus Nord 2 (`denniz`):**
-
-`DN2101`: OnePlus Nord 2 5G India
-
-`DN2103`: OnePlus Nord 2 5G EU
-
-**OnePlus Nord 2T (`karen`):**
-
-`CPH2399`: OnePlus Nord 2T Global
-
-`CPH2401`: OnePlus Nord 2T India
-
-**OnePlus Nord CE 2 (`ivan`):**
-
-`IV2201`: OnePlus Nord CE 2 India
-
-**OnePlus Nord CE 2 Lite (`oscar`):**
-
-`CPH2381`: OnePlus Nord CE 2 Lite India
-
-`CPH2409`: OnePlus Nord CE 2 Lite EU / Global
-
-**OnePlus Nord CE 3 Lite:**
-
-`CPH2465`: OnePlus Nord CE 3 Lite Global
-
-`CPH2467`: OnePlus Nord CE 3 Lite India
+`OPD2203`: OnePlus Pad

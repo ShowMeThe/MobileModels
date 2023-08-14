@@ -80,6 +80,10 @@
 
 `ZTE A2023P`: 中兴 Axon 40 Ultra
 
+**中兴 Axon 50 Ultra:**
+
+`ZTE A2024H`: 中兴 Axon 50 Ultra
+
 **中兴天机 A41:**
 
 `ZTE A2023BH`: 中兴天机 A41
@@ -236,6 +240,18 @@
 
 `ZTE 1021L`: 中兴畅行 40 SE
 
+**中兴小鲜 50:**
+
+`ZTE 7543N`: 中兴小鲜 50
+
+**中兴 V70:**
+
+`ZTE 9041N`: 中兴 V70
+
 **中兴 V70 Pro:**
 
 `ZTE 9043N`: 中兴 V70 Pro
+
+**中兴 Axon Pad:**
+
+`ZTE PA01`: 中兴 Axon Pad

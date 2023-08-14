@@ -159,9 +159,17 @@
 
 `RMX3612`: realme 10T 5G
 
+**realme 11:**
+
+`RMX3636`: realme 11
+
 **realme 11 Pro:**
 
 `RMX3771`: realme 11 Pro 5G
+
+**realme 11 Pro+:**
+
+`RMX3741`: realme 11 Pro+ 5G
 
 ## X series
 
@@ -311,6 +319,16 @@
 
 `RMX3511` `RMX3512` `RMX3513`: realme C35
 
+**realme C51:**
+
+`RMX3830`: realme C51
+
+**realme C53:**
+
+`RMX3760`: realme C53 Global
+
+`RMX3762`: realme C53 India
+
 **realme C55:**
 
 `RMX3710`: realme C55
@@ -397,9 +415,21 @@
 
 `RMX3506`: realme Narzo 50i Prime
 
+**realme Narzo N53:**
+
+`RMX3761`: realme Narzo N53
+
 **realme Narzo N55:**
 
-`RMX3711`: realme Narzo N55
+`RMX3710`: realme Narzo N55
+
+**realme Narzo 60:**
+
+`RMX3750`: realme Narzo 60 5G
+
+**realme Narzo 60 Pro:**
+
+`RMX3771`: realme Narzo 60 Pro 5G
 
 ## GT series
 
@@ -456,3 +486,9 @@
 `RMP2107`: realme Pad X 5G
 
 `RMP2108`: realme Pad X Wi-Fi
+
+**realme Pad 2:**
+
+`RMP2204`: realme Pad 2 LTE
+
+`RMP2205`: realme Pad 2 Wi-Fi

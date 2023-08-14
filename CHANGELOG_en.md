@@ -1,4 +1,69 @@
 # CHANGELOG
+## 2023-08-11
+- `realme_global_en` Add realme 11 4G.
+- `xiaomi_en` Add Redmi 12 5G.
+## 2023-08-04
+- `oneplus_en` Add OnePlus Nord CE 3.
+- `xiaomi_en` Add MIX Fold 3, Xiaomi 13T, POCO M6 Pro 5G.
+## 2023-07-30
+- `honor_global_en` Add HONOR X5 Plus & X6a.
+## 2023-07-24
+- `xiaomi_en` Add Redmi 12 5G.
+## 2023-07-20
+- `realme_global_en` Add realme Pad 2.
+- `vivo_global_en` Add vivo Y29.
+## 2023-07-18
+- `huawei_global_en` Add HUAWEI MatePad 11.5.
+## 2023-07-13
+- `oppo_global_en` Add OPPO Pad 2.
+## 2023-07-07
+- `honor_global_en` Add HONOR Pad X9.
+## 2023-07-06
+- `oppo_global_en` Add OPPO Reno10 series.
+- `realme_global_en` Add realme Narzo 60 series.
+## 2023-07-05
+- `huawei_global_en` Add several models.
+## 2023-06-27
+- `xiaomi_en` Add several new models.
+## 2023-06-17
+- `huawei_global_en` Add HUAWEI nova 11.
+## 2023-06-16
+- `xiaomi_en` Add Redmi 12.
+## 2023-06-13
+- `honor_global_en` Add HONOR 90 Lite.
+- `oppo_global_en` Add OPPO Reno9 A.
+## 2023-06-01
+- `vivo_global_en` Add vivo Y27 5G, iQOO Neo7 Pro.
+## 2023-05-29
+- `xiaomi_en` Add Redmi Note 12T Pro.
+## 2023-05-23
+- `vivo_global_en` Add vivo Y36 5G.
+## 2023-05-22
+- `realme_global_en` Add realme Narzo N53.
+- `xiaomi_en` Add Xiaomi Civi 3.
+## 2023-05-20
+- `huawei_global_en` Add HUAWEI nova Y91, HUAWEI MediaPad & MatePad series.
+- `vivo_global_en` Add vivo V29e 5G.
+## 2023-05-18
+- `oneplus_en` Add OnePlus Nord 3.
+## 2023-05-15
+- `oppo_global_en` Add OPPO F23 5G.
+- `xiaomi_en` Add internal names for several devices.
+## 2023-05-14
+- `google_en` Add Pixel 7a, Pixel Fold & Tablet.
+## 2023-05-08
+- `huawei_global_en` Add HUAWEI Mate X3.
+## 2023-05-07
+- `realme_global_en` Add realme 11 Pro+, realme C53.
+## 2023-05-03
+- `huawei_global_en` Add HUAWEI P60, nova 11i.
+- `oneplus_en` Add OnePlus Pad.
+- `vivo_global_en` Add vivo Y36.
+- `xiaomi_en` Add Redmi Note 12R Pro, POCO C51.
+## 2023-04-23
+- `honor_global_en` Add HONOR X8a 5G.
+## 2023-04-22
+- `vivo_global_en` Add iQOO Z7s.
 ## 2023-04-20
 - `oneplus_en` Add OnePlus Nord N30.
 - `vivo_global_en` Add Y02t, Y78, V29 Lite 5G.

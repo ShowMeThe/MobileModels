@@ -1,6 +1,6 @@
 # 华为手机型号汇总
 
-- 汇总范围: 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及部分早期型号
+- 汇总范围: 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及穿戴设备
 - codename: ✅
 - 是否包含海外机型: [单独汇总 (英文)](brands/huawei_global_en.md)
 - 华为智选手机汇总: [单独汇总](brands/zhixuan.md)
@@ -519,7 +519,7 @@
 
 `CDY-TN00` `CDY-TN20`: HUAWEI nova 7 SE 5G 移动版
 
-**HUAWEI nova 7 SE 5G 活力版 (`CindyC`):**
+**HUAWEI nova 7 SE 5G 活力版 (`CindyMN`):**
 
 `CND-AN00`: HUAWEI nova 7 SE 5G 活力版
 
@@ -573,7 +573,7 @@
 
 `CHA-AL80`: HUAWEI nova 10z
 
-**HUAWEI nova 10 SE:**
+**HUAWEI nova 10 SE (`Bonnie`):**
 
 `BNE-AL00`: HUAWEI nova 10 SE
 
@@ -865,7 +865,7 @@
 
 `CTR-AL00`: 华为畅享 50 Pro
 
-**华为畅享 50z:**
+**华为畅享 50z (`Eevee`):**
 
 `EVE-AL00`: 华为畅享 50z
 
@@ -877,7 +877,11 @@
 
 `STG-AL00`: 华为畅享 60X
 
-## 平板电脑
+**华为畅享 60 Pro:**
+
+`MAO-AL00`: 华为畅享 60 Pro
+
+## 华为平板 M 系列
 
 **华为 MediaPad M1:**
 
@@ -971,15 +975,17 @@
 
 `SCM-AL09`: 华为平板 M6 10.8 英寸 全网通版
 
+## HUAWEI MatePad Pro 系列
+
 **HUAWEI MatePad Pro (`Marx`):**
 
 `MRX-W09` `MRX-W29`: HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (6GB+128GB/8GB+256GB)
 
-`MRX-AL09`: HUAWEI MatePad Pro 10.8 英寸 全网通版 (6GB+128GB/8GB+256GB)
+`MRX-AL09`: HUAWEI MatePad Pro 10.8 英寸 4G 全网通版 (6GB+128GB/8GB+256GB)
 
 `MRX-W19` `MRX-W39`: HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (8GB+256GB)
 
-`MRX-AL19`: HUAWEI MatePad Pro 10.8 英寸 全网通版 (8GB+512GB)
+`MRX-AL19`: HUAWEI MatePad Pro 10.8 英寸 4G 全网通版 (8GB+512GB)
 
 `MRX-AN19`: HUAWEI MatePad Pro 10.8 英寸 5G 全网通版
 
@@ -1001,13 +1007,13 @@
 
 `WGR-W09` `WGR-W19`: HUAWEI MatePad Pro 12.6 英寸 2021 Wi-Fi 版
 
-`WGR-AN19`: HUAWEI MatePad Pro 12.6 英寸 2021 全网通版
+`WGR-AN19`: HUAWEI MatePad Pro 12.6 英寸 2021 5G 全网通版
 
 **HUAWEI MatePad Pro 12.6 (`WagnerR`):**
 
 `WGRR-W09` `WGRR-W19`: HUAWEI MatePad Pro 12.6 英寸 2022 Wi-Fi 版
 
-`WGRR-AN19`: HUAWEI MatePad Pro 12.6 英寸 2022 全网通版
+## HUAWEI MatePad 系列
 
 **HUAWEI MatePad (`Bach3`):**
 
@@ -1019,6 +1025,18 @@
 
 `BAH3-AN10`: HUAWEI MatePad 5G 10.4 英寸 全网通版 (麒麟 820)
 
+**HUAWEI MatePad (`Bach4`):**
+
+`BAH4-W09` `BAH4-W29` `BAH4-W39`: HUAWEI MatePad 10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
+
+`BAH4-W19`: HUAWEI MatePad 10.4 英寸 2022 悦动版 Wi-Fi 版 (骁龙 778G 4G)
+
+`BAH4-AL10`: HUAWEI MatePad 10.4 英寸 2022 悦动版 全网通版 (骁龙 778G 4G)
+
+**HUAWEI MatePad (`Bartok`):**
+
+`BTK-W00`: HUAWEI MatePad 11.5 英寸 2023 Wi-Fi 版
+
 **HUAWEI MatePad 10.8 (`SchumannR`):**
 
 `SCMR-W09`: HUAWEI MatePad 10.8 英寸 Wi-Fi 版
@@ -1029,37 +1047,21 @@
 
 `DBY-W09`: HUAWEI MatePad 11 英寸 Wi-Fi 版
 
-**HUAWEI MatePad (`Bach4`):**
-
-`BAH4-W09` `BAH4-W29` `BAH4-W39`: HUAWEI MatePad 10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
-
-`BAH4-W19`: HUAWEI MatePad 10.4 英寸 2022 悦动版 Wi-Fi 版 (骁龙 778G 4G)
-
-`BAH4-AL10`: HUAWEI MatePad 10.4 英寸 2022 悦动版 全网通版 (骁龙 778G 4G)
-
 **HUAWEI MatePad 11 2023 (`DebussyR`):**
 
 `DBR-W00`: HUAWEI MatePad 11 英寸 2023 Wi-Fi 版
 
 `DBR-W10`: HUAWEI MatePad 11 英寸 2023 柔光版 Wi-Fi 版
 
-**HUAWEI MatePad Paper (`Hemingway`):**
+## HUAWEI MatePad Air 系列
 
-`HMW-W09`: HUAWEI MatePad Paper 10.3 英寸 Wi-Fi 版
+**HUAWEI MatePad Air (`Debussy2`):**
 
-`HMW-AL10`: HUAWEI MatePad Paper 典藏版 10.3 英寸 全网通版
+`DBY2-W00`: HUAWEI MatePad Air 11.5 英寸 Wi-Fi 版
 
-**HUAWEI MatePad SE (`Agassi3K`):**
+`DBY2-AL00`: HUAWEI MatePad Air 11.5 英寸 全网通版
 
-`AGS3K-W20`: HUAWEI MatePad SE 10.1 英寸 Wi-Fi 版
-
-`AGS3K-AL20`: HUAWEI MatePad SE 10.1 英寸 全网通版
-
-**HUAWEI MatePad SE 10.4 (`Agassi5`):**
-
-`AGS5-W00`: HUAWEI MatePad SE 10.4 英寸 Wi-Fi 版
-
-`AGS5-AL00`: HUAWEI MatePad SE 10.4 英寸 全网通版
+## HUAWEI MatePad SE 和畅享平板系列
 
 **华为畅享平板 (`Agassi2`):**
 
@@ -1077,6 +1079,28 @@
 
 `AGS3-AL00` `AGS3K-AL00`: 华为畅享平板 2 10.1 英寸 全网通版
 
+**HUAWEI MatePad SE (`Agassi3K`):**
+
+`AGS3K-W20`: HUAWEI MatePad SE 10.1 英寸 Wi-Fi 版
+
+`AGS3K-AL20`: HUAWEI MatePad SE 10.1 英寸 全网通版
+
+**HUAWEI MatePad SE 10.4 (`Agassi5`):**
+
+`AGS5-W00`: HUAWEI MatePad SE 10.4 英寸 Wi-Fi 版
+
+`AGS5-AL00`: HUAWEI MatePad SE 10.4 英寸 全网通版
+
+## HUAWEI MatePad Paper 系列
+
+**HUAWEI MatePad Paper (`Hemingway`):**
+
+`HMW-W09`: HUAWEI MatePad Paper 10.3 英寸 Wi-Fi 版
+
+`HMW-AL10`: HUAWEI MatePad Paper 典藏版 10.3 英寸 全网通版
+
+## 华为商用平板
+
 **华为平板 C3 (`Kobe`):**
 
 `BZK-W00`: 华为平板 C3 (华为平板 T3 行业专享版) 8 英寸 Wi-Fi 版
@@ -1089,7 +1113,7 @@
 
 `BZA-L00`: 华为平板 C3 (华为平板 T3 行业专享版) 9.6 英寸 LTE 版
 
-**华为平板 C3 (2020):**
+**华为平板 C3 2020:**
 
 `BZD-W00`: 华为平板 C3 8 英寸 2020 Wi-Fi 版
 
@@ -1099,7 +1123,7 @@
 
 `BZC-AL00`: 华为平板 C3 9.7 英寸 2020 全网通版
 
-**华为平板 C3 (2022):**
+**华为平板 C3 2022:**
 
 `BZH-W00` `BZH-W30`: 华为平板 C3 9.7 英寸 2022 Wi-Fi 版
 
@@ -1115,7 +1139,7 @@
 
 `BZT-AL10`: 华为平板 C5 10.1 英寸 全网通高配版
 
-**华为平板 C5 (2020):**
+**华为平板 C5 2020:**
 
 `BZW-AL00`: 华为平板 C5 8 英寸 2020 全网通版 (4GB+32GB)
 
@@ -1125,23 +1149,47 @@
 
 `BZT3-AL00`: 华为平板 C5 10.4 英寸 2020 全网通版
 
-**华为平板 C5 (2021):**
+**华为平板 C5 2021:**
 
 `BZT3-W59` `BZT3-W69`: 华为平板 C5 10.4 英寸 2021 Wi-Fi 版
 
-**华为平板 C5 (2022):**
+**华为平板 C5 2022:**
 
 `BZT4-W19`: 华为平板 C5 10.4 英寸 2022 Wi-Fi 版
 
 `BZT4-AL10`: 华为平板 C5 10.4 英寸 2022 全网通版
 
+**华为擎云 C5 (`Kobe2KZ`):**
+
+`KOB2KZ-W09`: 华为擎云 C5 8 英寸 2023 Wi-Fi 版
+
+`KOB2KZ-AL00`: 华为擎云 C5 8 英寸 2023 全网通版
+
+**华为擎云 C5 (`BartokZ`):**
+
+`BTKZ-W00`: 华为擎云 C5 11.5 英寸 2023 Wi-Fi 版
+
+`BTKZ-AL00`: 华为擎云 C5 11.5 英寸 2023 全网通版
+
 **华为平板 C5e:**
 
-`BZI-W00`: 华为平板 C5e 10.1 英寸 2022 Wi-Fi 版
+`BZI-W00` `BZI-W20`: 华为平板 C5e 10.1 英寸 2022 Wi-Fi 版
+
+`BZI-AL00` `BZI-AL20`: 华为平板 C5e 10.1 英寸 2022 全网通版
+
+**华为擎云 C5e (`Agassi5Z`):**
+
+`AGS5Z-W09`: 华为擎云 C5e 10.4 英寸 2023 Wi-Fi 版
+
+`AGS5Z-AL00`: 华为擎云 C5e 10.4 英寸 2023 全网通版
 
 **华为平板 C7 (`Debussy`):**
 
 `DBY-W09`: 华为平板 C7 10.95 英寸 2022 Wi-Fi 版
+
+**华为擎云 C7 (`Debussy2Z`):**
+
+`DBY2Z-AL00`: 华为擎云 C7 11.5 英寸 2023 Wi-Fi 版
 
 ## 笔记本电脑
 
@@ -1208,6 +1256,12 @@
 **HUAWEI MateBook X Pro 2022 (`MorganF`):**
 
 `MRGF-16`: HUAWEI MateBook X Pro 2022 12 代酷睿版
+
+**HUAWEI MateBook X Pro 2023 (`MorganFG`):**
+
+`MRGFG-16`: HUAWEI MateBook X Pro 2023 (16GB 内存)
+
+`MRGFG-32`: HUAWEI MateBook X Pro 2023 (32GB 内存)
 
 **HUAWEI MateBook 13 (`Wright`):**
 
@@ -1307,6 +1361,12 @@
 
 `KLVF-16`: HUAWEI MateBook 14 2022
 
+**HUAWEI MateBook 14 2023 (`KelvinG`):**
+
+`KLVG-16`: HUAWEI MateBook 14 2023 (16GB 内存)
+
+`KLVG-32`: HUAWEI MateBook 14 2023 (32GB 内存)
+
 **HUAWEI MateBook 14s (`HookeD`):**
 
 `HKD-W58`: HUAWEI MateBook 14s i5 (8GB+512GB)
@@ -1315,9 +1375,15 @@
 
 `HKD-W76`: HUAWEI MateBook 14s i7 (16GB+512GB/1TB)
 
-**HUAWEI MateBook 14s (`HookeF`):**
+**HUAWEI MateBook 14s 2022 (`HookeF`):**
 
 `HKF-16`: HUAWEI MateBook 14s 2022
+
+**HUAWEI MateBook 14s 2023 (`HookeFG`):**
+
+`HKFG-16`: HUAWEI MateBook 14s 2023 (16GB 内存)
+
+`HKFG-32`: HUAWEI MateBook 14s 2023 (32GB 内存)
 
 **HUAWEI MateBook 16 (`CurieM`):**
 
@@ -1329,6 +1395,12 @@
 
 `CREF-16`: HUAWEI MateBook 16s
 
+**HUAWEI MateBook 16s 2023 (`CurieFG`):**
+
+`CREFG-16`: HUAWEI MateBook 16s 2023 (16GB 内存)
+
+`CREFG-32`: HUAWEI MateBook 16s 2023 (32GB 内存)
+
 **HUAWEI MateBook D (`Pascal`):**
 
 `PL-W09`: HUAWEI MateBook D i5 集显
@@ -1337,21 +1409,21 @@
 
 `PL-W29`: HUAWEI MateBook D i7
 
-**HUAWEI MateBook D (2018) (`MarconiC`):**
+**HUAWEI MateBook D 2018 (`MarconiC`):**
 
-`MRC-W00`: HUAWEI MateBook D (2018) i3 集显
+`MRC-W00`: HUAWEI MateBook D 2018 i3 集显
 
-`MRC-W10BR`: HUAWEI MateBook D (2018) i5 集显
+`MRC-W10BR`: HUAWEI MateBook D 2018 i5 集显
 
-`MRC-W50`: HUAWEI MateBook D (2018) i5 独显
+`MRC-W50`: HUAWEI MateBook D 2018 i5 独显
 
-`MRC-W50R`: HUAWEI MateBook D (2018) i5 独显 (8GB+512GB)
+`MRC-W50R`: HUAWEI MateBook D 2018 i5 独显 (8GB+512GB)
 
-`MRC-W60`: HUAWEI MateBook D (2018) i7 独显
+`MRC-W60`: HUAWEI MateBook D 2018 i7 独显
 
-`MRC-W60R`: HUAWEI MateBook D (2018) i7 独显 (8GB+512GB)
+`MRC-W60R`: HUAWEI MateBook D 2018 i7 独显 (8GB+512GB)
 
-`MRC-W70`: HUAWEI MateBook D (2018) i3 集显
+`MRC-W70`: HUAWEI MateBook D 2018 i3 集显
 
 **HUAWEI MateBook D 14 (`NobelK`):**
 
@@ -1413,7 +1485,9 @@
 
 **HUAWEI MateBook D 14:**
 
-`MDG-16`: HUAWEI MateBook D 14 2023
+`MDF-16`: HUAWEI MateBook D 14 2023 12 代酷睿版
+
+`MDG-16`: HUAWEI MateBook D 14 2023 13 代酷睿版
 
 **HUAWEI MateBook D 15 (`BohrK`):**
 
@@ -1477,17 +1551,23 @@
 
 `BL-W19`: HUAWEI MateBook E i5
 
-**HUAWEI MateBook E (2019) (`Planck`):**
+**HUAWEI MateBook E 2019 (`Planck`):**
 
-`PAK-AL09`: HUAWEI MateBook E (2019)
+`PAK-AL09`: HUAWEI MateBook E 2019
 
-**HUAWEI MateBook E 2021 (`Dirac`):**
+**HUAWEI MateBook E 2022 (`Dirac`):**
 
-`DRC-W58`: HUAWEI MateBook E 2021 i5 (8GB+256GB)
+`DRC-W58`: HUAWEI MateBook E 2022 i5 (8GB+256GB)
 
-`DRC-W56`: HUAWEI MateBook E 2021 i5 (16GB+512GB)
+`DRC-W56`: HUAWEI MateBook E 2022 i5 (16GB+512GB)
 
-`DRC-W76`: HUAWEI MateBook E 2021 i7 (16GB+512GB)
+`DRC-W76`: HUAWEI MateBook E 2022 i7 (16GB+512GB)
+
+**HUAWEI MateBook E 2023 (`DiracR`):**
+
+`DRR-W56`: HUAWEI MateBook E 2023 i5
+
+`DRR-W76`: HUAWEI MateBook E 2023 i7
 
 **HUAWEI MateBook E Go (`Gaokun`):**
 
@@ -1663,6 +1743,12 @@
 
 `HD75AJMA`: 华为智慧屏 S 75 二代
 
+**华为智慧屏 S Pro:**
+
+`HD55DESU`: 华为智慧屏 S55i Pro
+
+`HD65DESU`: 华为智慧屏 S65i Pro
+
 **华为智慧屏 S Pro (`Kepler`):**
 
 `HD86KEPA`: 华为智慧屏 S86 Pro
@@ -1672,6 +1758,8 @@
 `HD65AJMS`: 华为智慧屏 S3 Pro 65
 
 `HD75AJMS`: 华为智慧屏 S3 Pro 75
+
+`HD86AJMS`: 华为智慧屏 S3 Pro 86
 
 **华为智慧屏 SE 系列:**
 
@@ -1719,6 +1807,14 @@
 
 `HD86KHAA`: 华为 Vision 智慧屏 86
 
+**华为 Vision 智慧屏 3:**
+
+`HD65QINA`: 华为 Vision 智慧屏 3 65
+
+`HD75QINA`: 华为 Vision 智慧屏 3 75
+
+`HD86QINA`: 华为 Vision 智慧屏 3 86
+
 **华为智慧屏 B 系列:**
 
 `HD55DESB`: 华为智慧屏 B3-500
@@ -1733,9 +1829,243 @@
 
 `HEGE-550X`: 华为智慧屏 B7-510
 
-**华为小精灵学习智慧屏 / 华为智慧屏便携版:**
+**华为小精灵学习智慧屏 / 华为智慧屏便携版 / 华为全屋智能中控屏（桌面版）:**
 
-`BLM-00`: 华为小精灵学习智慧屏 / 华为智慧屏便携版
+`BLM-00`: 华为小精灵学习智慧屏 / 华为智慧屏便携版 / 华为全屋智能中控屏（桌面版）
+
+## 穿戴
+
+**HUAWEI WATCH 2 (`Leo`):**
+
+`Leo-B09`: HUAWEI WATCH 2 蓝牙版
+
+`Leo-B19`: HUAWEI WATCH 2 Classic
+
+`Leo-L00E`: HUAWEI WATCH 2 2018
+
+`Leo-L09S`: HUAWEI WATCH 2 4G
+
+`Leo-L19E`: HUAWEI WATCH 2 Pro
+
+`LEO-DLXXU`: PORSCHE DESIGN | HUAWEI Smartwatch
+
+**HUAWEI WATCH 3 (`Galileo`):**
+
+`GLL-AL00` `GLL-AL30`: HUAWEI WATCH 3
+
+**HUAWEI WATCH 3 Pro (`GalileoPro`):**
+
+`GLL-AL01`: HUAWEI WATCH 3 Pro
+
+**HUAWEI WATCH 3 Pro new (`GalileoPro`):**
+
+`GLL-AL08`: HUAWEI WATCH 3 Pro new 时尚款
+
+`GLL-AL09`: HUAWEI WATCH 3 Pro new 尊享款
+
+**HUAWEI WATCH 4 (`Archi`):**
+
+`ARC-AL00`: HUAWEI WATCH 4
+
+**HUAWEI WATCH 4 Pro (`Medes`):**
+
+`MDS-AL00` `MDS-AL10`: HUAWEI WATCH 4 Pro
+
+**HUAWEI WATCH Ultimate:**
+
+`CLB-B19`: HUAWEI WATCH Ultimate
+
+**HUAWEI WATCH GT:**
+
+`ELA-B19`: HUAWEI WATCH GT 雅致款
+
+`FTN-B19`: HUAWEI WATCH GT 时尚版/运动版
+
+**HUAWEI WATCH GT 2:**
+
+`DAN-B19`: HUAWEI WATCH GT 2 42mm
+
+`LTN-B19`: HUAWEI WATCH GT 2 46mm
+
+**HUAWEI WATCH GT 2e:**
+
+`HCT-B19`: HUAWEI WATCH GT 2e
+
+**HUAWEI WATCH GT 2 Pro (`Vidar`):**
+
+`VID-B19`: HUAWEI WATCH GT 2 Pro
+
+`VID-B99`: HUAWEI WATCH GT 2 Pro ECG
+
+**HUAWEI WATCH GT 3 (`Milo`):**
+
+`MIL-B19`: HUAWEI WATCH GT 3 42mm
+
+**HUAWEI WATCH GT 3 (`Jupiter`):**
+
+`JPT-B19`: HUAWEI WATCH GT 3 46mm
+
+**HUAWEI WATCH GT 3 Pro:**
+
+`FRG-B19`: HUAWEI WATCH GT 3 Pro 43mm
+
+`ODN-B19`: HUAWEI WATCH GT 3 Pro 46mm
+
+**HUAWEI WATCH GT 3 Pro 典藏版:**
+
+`FRG-B19`: HUAWEI WATCH GT 3 Pro 典藏版
+
+**HUAWEI WATCH GT 3 保时捷设计:**
+
+`ODN-B19`: HUAWEI WATCH GT 3 保时捷设计
+
+**HUAWEI WATCH GT Runner (`Runner`):**
+
+`RUN-B19`: HUAWEI WATCH GT Runner
+
+**HUAWEI WATCH GT 2022 典藏版:**
+
+`OCF-B29`: HUAWEI WATCH GT 2022 典藏版
+
+**HUAWEI WATCH GT Cyber:**
+
+`AND-B19`: HUAWEI WATCH GT Cyber
+
+**HUAWEI WATCH FIT:**
+
+`TIA-B19` `TIA-B29`: HUAWEI WATCH FIT
+
+**HUAWEI WATCH FIT 2 (`Yoda`):**
+
+`YDA-B09S` `YDA-B19S` `YDA-B19V`: HUAWEI WATCH FIT 2
+
+**HUAWEI WATCH D:**
+
+`MLY-B10` `MLY-B11`: HUAWEI WATCH D
+
+**HUAWEI WATCH Buds (`Saga`):**
+
+`SGA-B19`: HUAWEI WATCH Buds
+
+**华为运动手环:**
+
+`ERS-B29`: 华为运动手环
+
+**华为手环 3 (`Terra`):**
+
+`TER-B09`: 华为手环 3
+
+**华为手环 3 Pro (`Terra`):**
+
+`TER-B29`: 华为手环 3 Pro
+
+**华为手环 3e:**
+
+`AW70-B29`: 华为手环 3e
+
+**华为手环 4:**
+
+`ADS-B29`: 华为手环 4
+
+**华为手环 4 Pro (`Terra`):**
+
+`TER-B29S`: 华为手环 4 Pro
+
+**华为手环 4e:**
+
+`AW70-B39`: 华为手环 4e
+
+`AW70-B49`: 华为手环 4e 活力版
+
+**华为手环 6:**
+
+`FRA-B19`: 华为手环 6 标准版
+
+`FRA-B29`: 华为手环 6 NFC 版
+
+**华为手环 6 Pro:**
+
+`FRA-B39`: 华为手环 6 Pro
+
+**华为手环 7:**
+
+`LEA-B19`: 华为手环 7 标准版
+
+`LEA-B29`: 华为手环 7 NFC 版
+
+**华为手环 8:**
+
+`ASK-B19`: 华为手环 8 标准版
+
+`ASK-B29`: 华为手环 8 NFC 版
+
+**华为手环 B3 (`Gemini`):**
+
+`GMN-BX9`: 华为手环 B3
+
+**华为手环 B3 青春版:**
+
+`GRU-B09`: 华为手环 B3 青春版
+
+**华为手环 B5 (`Janus`):**
+
+`JNS-BX9`: 华为手环 B5
+
+**华为手环 B6 (`Fides`):**
+
+`FDS-B19`: 华为手环 B6
+
+**华为通话手环 B7 (`Fides`):**
+
+`FDS-B49`: 华为通话手环 B7
+
+**华为儿童手表 3 Pro (`Simba`):**
+
+`SIM-AL00`: 华为儿童手表 3 Pro
+
+**华为儿童手表 3s (`Nemo`):**
+
+`NEO-AL10`: 华为儿童手表 3s
+
+**华为儿童手表 3X (`Alex`):**
+
+`ALX-AL10`: 华为儿童手表 3X
+
+**华为儿童手表 4 Pro:**
+
+`ASN-AL10`: 华为儿童手表 4 Pro
+
+**华为儿童手表 4X (`Nick`):**
+
+`NIK-AL00`: 华为儿童手表 4X
+
+**华为儿童手表 5:**
+
+`KTY-L10`: 华为儿童手表 5
+
+**华为儿童手表 5X:**
+
+`ALA-AL10`: 华为儿童手表 5X
+
+**华为儿童手表 5X Pro:**
+
+`AHP-AL10`: 华为儿童手表 5X Pro
+
+**HUAWEI X GENTLE MONSTER Eyewear:**
+
+`CMG0-PER`: HUAWEI X GENTLE MONSTER Eyewear
+
+**HUAWEI X GENTLE MONSTER Eyewear II:**
+
+`FIJ-CG020`: HUAWEI X GENTLE MONSTER Eyewear II
+
+**华为智能眼镜:**
+
+`EVI-CG010`: 华为智能眼镜
+
+**HUAWEI Vision Glass:**
+
+`ALI-CG01`: HUAWEI Vision Glass
 
 ## 华为早期手机产品 
 

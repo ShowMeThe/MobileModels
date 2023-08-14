@@ -1,6 +1,6 @@
 # 荣耀手机型号汇总
 
-- 汇总范围: 荣耀手机/平板/笔记本电脑/智慧屏
+- 汇总范围: 荣耀手机/平板/笔记本电脑/智慧屏/穿戴设备
 - codename: ✅
 - 是否包含海外机型: [单独汇总 (英文)](brands/honor_global_en.md)
 
@@ -234,6 +234,14 @@
 
 `AGT-AN00`: 荣耀 80 GT 5G
 
+**荣耀 90:**
+
+`REA-AN00`: 荣耀 90 5G
+
+**荣耀 90 Pro:**
+
+`REP-AN00`: 荣耀 90 Pro 5G
+
 ## 荣耀 V 系列 (Vera 系列 / View 系列)
 
 **荣耀 V8 (`Knight`):**
@@ -345,6 +353,14 @@
 **荣耀 Magic5 至臻版 (`Piaget`):**
 
 `PGT-AN20`: 荣耀 Magic5 至臻版 5G
+
+**荣耀 Magic V2:**
+
+`VER-AN10`: 荣耀 Magic V2 5G
+
+**荣耀 Magic V2 至臻版:**
+
+`VER-AN10`: 荣耀 Magic V2 至臻版 5G
 
 ## 荣耀 X 系列
 
@@ -473,6 +489,10 @@
 **荣耀 X40 GT (`AndyGT`):**
 
 `ADT-AN00`: 荣耀 X40 GT 5G
+
+**荣耀 X50 (`Ali`):**
+
+`ALI-AN00`: 荣耀 X50 5G
 
 **荣耀 X50i:**
 
@@ -748,6 +768,10 @@
 
 `CMA-AN00`: 荣耀畅玩 30 Plus 5G
 
+**荣耀畅玩 40 / 荣耀畅玩 40C (`Woody`):**
+
+`WDY-AN00`: 荣耀畅玩 40 5G / 荣耀畅玩 40C 5G
+
 **荣耀畅玩 40 Plus (`Rocky`):**
 
 `RKY-AN00`: 荣耀畅玩 40 Plus 5G
@@ -784,13 +808,13 @@
 
 **荣耀平板 V6 (`Karajan`):**
 
-`KRJ-W09`: 荣耀平板 V6 10.4 英寸 Wi-Fi 版
+`KRJ-W09`: 荣耀平板 V6 10.4 英寸 Wi-Fi 版 (华为终端)
 
-`KRJ-AN00`: 荣耀平板 V6 10.4 英寸 5G 版
+`KRJ-AN00`: 荣耀平板 V6 10.4 英寸 5G 版 (华为终端)
 
 **荣耀平板 V6 (`KarajanR`):**
 
-`KJR-W09`: 荣耀平板 V6 10.4 英寸 Wi-Fi 版
+`KJR-W09`: 荣耀平板 V6 10.4 英寸 Wi-Fi 版 (荣耀终端)
 
 **荣耀平板 6 (`Agassi3`):**
 
@@ -838,13 +862,25 @@
 
 `AGM3-W09HN`: 荣耀平板 X8 10.1 英寸 Wi-Fi 版
 
+**荣耀平板 X8 Pro:**
+
+`ELN-W09`: 荣耀平板 X8 Pro 11.5 英寸 Wi-Fi 版
+
 **荣耀平板 8 (`Hendry`):**
 
 `HEY-W09`: 荣耀平板 8 12 英寸 Wi-Fi 版
 
+**荣耀平板 V8 (`Britten`):**
+
+`BRT-W09`: 荣耀平板 V8 11 英寸 Wi-Fi 版
+
 **荣耀平板 V8 Pro:**
 
 `ROD-W09`: 荣耀平板 V8 Pro 12.1 英寸 Wi-Fi 版
+
+**荣耀平板 MagicPad:**
+
+`GDI-W09`: 荣耀平板 MagicPad 13 英寸 Wi-Fi 版
 
 **荣耀 Waterplay (`Haydn`):**
 
@@ -974,21 +1010,23 @@
 
 **荣耀 MagicBook 14 2021 (`NobelD`):**
 
-`NbD-WFH9HN`: 荣耀 MagicBook 14 2021 i5 
+`NbD-WFH9HN`: 荣耀 MagicBook 14 2021 i5 (华为终端)
 
-`NbD-WFE9HN`: 荣耀 MagicBook 14 2021 i7
+`NbD-WFE9HN`: 荣耀 MagicBook 14 2021 i7 (华为终端)
 
 **荣耀 MagicBook 14 2021 (`NobelDR`):**
 
-`NDR-WFH9HN`: 荣耀 MagicBook 14 2021 i5 
+`NDR-WFH9HN`: 荣耀 MagicBook 14 2021 i5 (荣耀终端)
 
-`NDR-WFE9HN`: 荣耀 MagicBook 14 2021 i7
+`NDR-WFE9HN`: 荣耀 MagicBook 14 2021 i7 (荣耀终端)
 
 **荣耀 MagicBook 14 SE 2021 (`NobelLR`):**
 
-`NLR-WAQ9HNRP`: 荣耀 MagicBook 14 SE 2021 R5
+`NLR-WAQ9HNR`: 荣耀 MagicBook 14 SE 2021 R5 (8GB+256GB)
 
-`NLR-WAQ9HNR`: 荣耀 MagicBook 14 SE 2021 R5
+`Nbl-WAQ9HNRP`: 荣耀 MagicBook 14 SE 2021 R5 (16GB+512GB)
+
+`NIR-WAP9HNRP`: 荣耀 MagicBook 14 SE 2021 R7
 
 **荣耀 MagicBook 14 2021 锐龙版 (`NobelMH`):**
 
@@ -1050,15 +1088,15 @@
 
 **荣耀 MagicBook 15 2021 (`BohrD`):**
 
-`BoD-WFH9HN`: 荣耀 MagicBook 15 2021 i5
+`BoD-WFH9HN`: 荣耀 MagicBook 15 2021 i5 (华为终端)
 
-`BoD-WFE9HN`: 荣耀 MagicBook 15 2021 i7
+`BoD-WFE9HN`: 荣耀 MagicBook 15 2021 i7 (华为终端)
 
 **荣耀 MagicBook 15 2021 (`BohrDR`):**
 
-`BDR-WFH9HN`: 荣耀 MagicBook 15 2021 i5
+`BDR-WFH9HN`: 荣耀 MagicBook 15 2021 i5 (荣耀终端)
 
-`BDR-WFE9HN`: 荣耀 MagicBook 15 2021 i7
+`BDR-WFE9HN`: 荣耀 MagicBook 15 2021 i7 (荣耀终端)
 
 **荣耀 MagicBook 15 2021 锐龙版 (`BohrMH`):**
 
@@ -1100,15 +1138,15 @@
 
 **荣耀 MagicBook Pro 2020 (`HalleyL`):**
 
-`HLYL-WFQ9`: 荣耀 MagicBook Pro 2020 R5
+`HLYL-WFQ9`: 荣耀 MagicBook Pro 2020 R5 (华为终端)
 
-`HLYL-WFP9`: 荣耀 MagicBook Pro 2020 R7
+`HLYL-WFP9`: 荣耀 MagicBook Pro 2020 R7 (华为终端)
 
 **荣耀 MagicBook Pro 2020 (`HalleyLR`):**
 
-`HYLR-WDQ9`: 荣耀 MagicBook Pro 2020 R5
+`HYLR-WDQ9`: 荣耀 MagicBook Pro 2020 R5 (荣耀终端)
 
-`HYLR-WFP9`: 荣耀 MagicBook Pro 2020 R7
+`HYLR-WFP9`: 荣耀 MagicBook Pro 2020 R7 (荣耀终端)
 
 **荣耀 MagicBook 16 (`HalleyM`):**
 
@@ -1160,6 +1198,8 @@
 
 `FRI-G561`: 荣耀 MagicBook X 14 Pro 2023 i5 (16GB+1TB)
 
+`FRI-H76`: 荣耀 MagicBook X 14 Pro 2023 R7 (16GB+512GB)
+
 **荣耀 MagicBook X 15 (`BohrBR`):**
 
 `BBR-WAI9`: 荣耀 MagicBook X 15 i3
@@ -1176,19 +1216,35 @@
 
 `BRN-F56`: 荣耀 MagicBook X 16 2022 i5
 
+**荣耀 MagicBook X 16 2023:**
+
+`BRN-F56`: 荣耀 MagicBook X 16 2023 i5 (16GB+512GB)
+
+`BRN-F561`: 荣耀 MagicBook X 16 2023 i5 (16GB+1TB)
+
 **荣耀 MagicBook X 16 Pro 2023:**
 
 `BRN-G56`: 荣耀 MagicBook X 16 Pro 2023 i5 (16GB+512GB)
 
 `BRN-G561`: 荣耀 MagicBook X 16 Pro 2023 i5 (16GB+1TB)
 
+`BRN-H76`: 荣耀 MagicBook X 16 Pro 2023 R7 (16GB+512GB)
+
+**荣耀 MagicBook Z3 14 2023:**
+
+`FRI-F56Z`: 荣耀 MagicBook Z3 14 2023 i5
+
 **荣耀猎人游戏本 V700:**
 
-`FRD-WDG9`: 荣耀猎人游戏本 V700 i5 (8GB+512GB)
+`FRD-WDG9`: 荣耀猎人游戏本 V700 i5 (8GB+512GB) (华为终端)
 
-`FRD-WFG9` `FRR-WFG9`: 荣耀猎人游戏本 V700 i5 (16GB+512GB)
+`FRD-WFG9`: 荣耀猎人游戏本 V700 i5 (16GB+512GB) (华为终端)
 
-`FRD-WFD9` `FRR-WFD9`: 荣耀猎人游戏本 V700 i7 (16GB+512GB)
+`FRD-WFD9`: 荣耀猎人游戏本 V700 i7 (16GB+512GB) (华为终端)
+
+`FRR-WFG9`: 荣耀猎人游戏本 V700 i5 (16GB+512GB) (荣耀终端)
+
+`FRR-WFD9`: 荣耀猎人游戏本 V700 i7 (16GB+512GB) (荣耀终端)
 
 ## 荣耀智慧屏
 
@@ -1203,6 +1259,12 @@
 `OSCA-550`: 荣耀智慧屏 PRO 55 英寸 (2GB+32GB)
 
 `OSCA-550X`: 荣耀智慧屏 PRO 55 英寸 (4GB+64GB)
+
+**荣耀智慧屏 5:**
+
+`HN65TAG`: 荣耀智慧屏 5 65 英寸
+
+`HN75TAG`: 荣耀智慧屏 5 75 英寸
 
 **荣耀智慧屏 X1 (`Locke`):**
 
@@ -1243,6 +1305,104 @@
 `HN65BYRA`: 荣耀智慧屏 X3i 65 英寸
 
 `HN75BYRA`: 荣耀智慧屏 X3i 75 英寸
+
+**荣耀智慧屏 Z3:**
+
+`HN43DNTH`: 荣耀智慧屏 Z3 43 英寸
+
+## 荣耀穿戴设备
+
+**荣耀手表魔法系列:**
+
+`TLS-B19`: 荣耀手表魔法系列
+
+**HONOR MagicWatch 2:**
+
+`HBE-B19`: HONOR MagicWatch 2 42mm (华为终端)
+
+`HBE-B39`: HONOR MagicWatch 2 42mm (荣耀终端)
+
+`MNS-B19`: HONOR MagicWatch 2 46mm (华为终端)
+
+`MNS-B39`: HONOR MagicWatch 2 46mm (荣耀终端)
+
+**荣耀手表 ES:**
+
+`HES-B19`: 荣耀手表 ES (华为终端)
+
+`HES-B59`: 荣耀手表 ES (荣耀终端)
+
+**荣耀手表 GS Pro:**
+
+`KAN-B19`: 荣耀手表 GS Pro (华为终端)
+
+`KAN-B39`: 荣耀手表 GS Pro (荣耀终端)
+
+**荣耀手表 GS 3:**
+
+`MUS-B19`: 荣耀手表 GS 3
+
+**荣耀手表 GS 3i:**
+
+`MNS-B39`: 荣耀手表 GS 3i
+
+**荣耀手表 4:**
+
+`TUM-L19`: 荣耀手表 4
+
+**荣耀手环 3:**
+
+`NYX-B10HN`: 荣耀手环 3 标准版
+
+`NYX-B20HN`: 荣耀手环 3 NFC 版
+
+**荣耀手环 4 (`Crius`):**
+
+`CRS-B19`: 荣耀手环 4 标准版
+
+`CRS-B29`: 荣耀手环 4 NFC 版
+
+**荣耀手环 4 Running 版:**
+
+`AW70-B19HN`: 荣耀手环 4 Running 版
+
+**荣耀手环 5 (`Crius`):**
+
+`CRS-B19S`: 荣耀手环 5 标准版 (华为终端)
+
+`CRS-B29S`: 荣耀手环 5 NFC 版 (华为终端)
+
+`CRS-B39`: 荣耀手环 5 标准版 (荣耀终端)
+
+`CRS-B59`: 荣耀手环 5 NFC 版 (荣耀终端)
+
+**荣耀手环 5i:**
+
+`ADS-B19`: 荣耀手环 5i
+
+**荣耀手环 5 篮球版:**
+
+`AW70-B39HN`: 荣耀手环 5 篮球版
+
+**荣耀手环 6:**
+
+`ARG-B19`: 荣耀手环 6 标准版 (华为终端)
+
+`ARG-B29`: 荣耀手环 6 NFC 版 (华为终端)
+
+`ARG-B39`: 荣耀手环 6 标准版 (荣耀终端)
+
+`ARG-B59`: 荣耀手环 6 NFC 版 (荣耀终端)
+
+**荣耀手环 7:**
+
+`FLA-B19`: 荣耀手环 7 标准版
+
+`FLA-B39`: 荣耀手环 7 NFC 版
+
+**荣耀观影眼镜:**
+
+`CGN-A00`: 荣耀观影眼镜
 
 ## 荣耀独立前产品 
 

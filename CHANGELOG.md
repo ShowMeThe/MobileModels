@@ -1,4 +1,117 @@
 # 更新日志
+## 2023-08-11
+- `xiaomi` 新增 Redmi 12 5G 国行版。
+## 2023-08-10
+- `lenovo` 新增 联想小新学习平板。
+## 2023-08-09
+- `huawei_cn` 新增 HUAWEI MateBook 系列 32GB 内存版。
+## 2023-08-08
+- `360shouji` 新增 360OS M50 & T20 Pro。
+- `huawei_cn` 增补 部分穿戴设备代号。
+- `vivo_cn` 新增 vivo Y77t。
+## 2023-08-04
+- `mitv_cn` 新增 小米电视 S Pro 100。
+- `oneplus` 新增 一加 Nord CE 3。
+- `xiaomi` 新增 MIX Fold 3, Pad 6 Max, K60 至尊版, Redmi Pad SE 等。
+## 2023-07-31
+- `samsung_cn` 新增 Galaxy Z Fold5, Flip5, Watch6 系列, Tab S9 系列。
+## 2023-07-29
+- `lenovo` 新增 联想小新 Pad Pro 12.7。
+## 2023-07-27
+- `honor_cn` 新增 荣耀 MagicBook X Pro 锐龙版。
+## 2023-07-24
+- `xiaomi` 新增 Redmi 12 5G。
+## 2023-07-22
+- `zte` 新增 中兴小鲜 50。
+## 2023-07-21
+- `mitv_cn` 新增 Redmi 智能电视 A 2024 款。
+## 2023-07-20
+- `lenovo` 新增 部分平板电脑型号。
+- `vivo_cn` 新增 vivo Pad Air。
+## 2023-07-18
+- `huawei_cn` 新增 HUAWEI MatePad 11.5。
+- `oppo_cn` 新增 OPPO K11。
+## 2023-07-14
+- `honor_cn` 新增 荣耀畅玩 40C。
+## 2023-07-12
+- `honor_cn` 新增 荣耀 Magic V2 & 荣耀手表 4。
+## 2023-07-11
+- `nubia` 新增 nubia Z50S Pro。
+## 2023-07-10
+- `mitv_cn` 新增 小米电视 EA 系列 (2023)。
+## 2023-07-05
+- `honor_cn` 新增 荣耀平板 X8 Pro, MagicPad, MagicBook X16, 智慧屏 5。
+- `nubia` 新增 红魔电竞平板。
+## 2023-07-04
+- `coolpad` 新增 酷派大观 40 Pro。
+## 2023-06-29
+- `mitv_cn` 新增 小米电视 EA32 (2023)。
+## 2023-06-28
+- `honor_cn` 新增 荣耀智慧屏 Z3。
+- `huawei_cn` 新增 华为智慧屏 S3 Pro 86。
+- `zhixuan` 新增 Hi nova 11。
+## 2023-06-27
+- `xiaomi` 新增 Redmi Note 12R、部分海外型号。
+## 2023-06-26
+- `vivo_cn` 新增 iQOO 11S。
+## 2023-06-25
+- `honor_cn` 新增 荣耀 X50。
+- `nubia` 新增 红魔 8S Pro。
+## 2023-06-19
+- `mitv_cn` 新增 小米电视 EA43 (2023)。
+- `zhixuan` 新增 Hi 畅享 60 Pro。
+## 2023-06-16
+- `xiaomi` 新增 Redmi 12。
+## 2023-06-13
+- `360shouji` 新增 奇少年 Q30。
+## 2023-06-12
+- `zhixuan` 新增 麦芒 A20。
+## 2023-06-09
+- `coolpad` 新增 酷派大观 50s。
+- `zte` 新增 中兴 Axon 50 Ultra, Axon Pad。
+## 2023-06-07
+- `huawei_cn` 增补 华为通话手环 B7。
+## 2023-06-02
+- `zte` 新增 中兴 V70。
+## 2023-06-01
+- `motorola` 新增 moto razr 40 系列。
+## 2023-05-31
+- `vivo_cn` 新增 vivo S17t。
+## 2023-05-29
+- `xiaomi` 新增 Redmi Note 12T Pro。
+## 2023-05-23
+- `mitv_cn` 新增 小米电视 S85。
+## 2023-05-22
+- `huawei_cn` 新增 华为擎云 C5。
+- `xiaomi` 新增 Xiaomi Civi 3。
+## 2023-05-20
+- `oppo_cn` 新增 Reno10 系列, K11x, A1 活力版。
+- `vivo_cn` 新增 iQOO Pad。
+## 2023-05-19
+- `nubia` 新增 nubia N5, nubia Pad 3D。
+## 2023-05-18
+- `honor_cn` 新增 荣耀穿戴设备型号。
+- `huawei_cn` 新增 华为新品, 华为穿戴设备型号。
+- `oneplus` 新增 OnePlus Nord 3。
+## 2023-05-17
+- `honor_cn` 新增 荣耀 90 系列, 荣耀畅玩 40。
+## 2023-05-16
+- `coolpad` 新增 酷派 COOL 30 Pro。
+## 2023-05-15
+- `xiaomi` 增补部分设备内部名称。
+## 2023-05-11
+- `sony_cn` 新增 Xperia 1 V。
+## 2023-05-08
+- `huawei_cn` 新增部分商用型号。
+## 2023-05-07
+- `vivo_cn` 新增 X90S, S17 系列, Y35+, iQOO Neo8 系列。
+## 2023-05-03
+- `honor_cn` 新增 荣耀平板 V8。
+- `huawei_cn` 更新部分代号。
+- `mitv_cn` 新增部分型号。
+- `oneplus` 新增 OnePlus Pad。
+- `realme_cn` 新增 真我 11 系列。
+- `xiaomi` 新增 Redmi Note 12R Pro, POCO C51。
 ## 2023-04-20
 - `mitv_cn` 新增 Redmi 电视 X85。
 - `oneplus` 新增 一加 Nord N30。
