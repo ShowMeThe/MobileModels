@@ -124,9 +124,9 @@
 
 `NX702J`: nubia Z40S Pro
 
-**nubia Z50:**
+**nubia Z50 / nubia Z50S:**
 
-`NX711J`: nubia Z50
+`NX711J`: nubia Z50 / nubia Z50S
 
 **nubia Z50 Ultra:**
 
@@ -257,6 +257,10 @@
 **红魔 8S Pro / 红魔 8S Pro+:**
 
 `NX729S`: 红魔 8S Pro / 红魔 8S Pro+
+
+**红魔 9 Pro / 红魔 9 Pro+:**
+
+`NX769J`: 红魔 9 Pro / 红魔 9 Pro+
 
 **红魔电竞平板:**
 

@@ -78,7 +78,7 @@
 
 `GT-I9508V`: Galaxy S4 移动 4G 定制版
 
-**Galaxy S4 Zoon (`mproject3g`):**
+**Galaxy S4 Zoom (`mproject3g`):**
 
 `SM-C101`: Galaxy S4 zoom
 
@@ -227,6 +227,10 @@
 **Galaxy S23 Ultra (`dm3q`):**
 
 `SM-S9180`: Galaxy S23 Ultra 5G
+
+**Galaxy S23 FE (`r11q`):**
+
+`SM-S7110`: Galaxy S23 FE 5G
 
 ## Galaxy Note 系列
 
@@ -700,6 +704,14 @@
 
 `SM-W7023`: 三星 W23 Flip 5G
 
+**三星 W24 (`v5q`):**
+
+`SM-W9024`: 三星 W24 5G
+
+**三星 W24 Flip (`e5q`):**
+
+`SM-W7024`: 三星 W24 Flip 5G
+
 ## 三星其他手机系列
 
 **Galaxy Folder (`eliteltechn`):**
@@ -868,6 +880,22 @@
 
 `SM-X916C`: Galaxy Tab S9 Ultra 5G
 
+**Galaxy Tab S9 FE (`gts9fewifi`):**
+
+`SM-X510`: Galaxy Tab S9 FE WLAN
+
+**Galaxy Tab S9 FE (`gts9fe`):**
+
+`SM-X516C`: Galaxy Tab S9 FE 5G
+
+**Galaxy Tab S9 FE+ (`gts9fepwifi`):**
+
+`SM-X610`: Galaxy Tab S9 FE WLAN
+
+**Galaxy Tab S9 FE+ (`gts9fep`):**
+
+`SM-X616C`: Galaxy Tab S9 FE 5G
+
 ## Galaxy Tab A 系列
 
 **Galaxy Tab A 8.0 (`gt58wifichn`):**
@@ -953,6 +981,14 @@
 **Galaxy Tab A8 (`gta8`):**
 
 `SM-X205C`: Galaxy Tab A8 LTE
+
+**Galaxy Tab A9+ (`gta9pwifi`):**
+
+`SM-X210`: Galaxy Tab A9+ WLAN
+
+**Galaxy Tab A9+ (`gta9p`):**
+
+`SM-X216C`: Galaxy Tab A9+ 5G
 
 ## Galaxy Tab 系列
 

@@ -97,6 +97,10 @@
 
 `MGZ-BD00`: Hi nova 10 Pro 5G
 
+**Hi nova 10 SE:**
+
+`MRK-BD00`: Hi nova 10 SE 5G
+
 **Hi nova 11:**
 
 `MIZ-BD00`: Hi nova 11 5G
@@ -130,6 +134,10 @@
 **Hi 畅享 60:**
 
 `GAR-AN00`: Hi 畅享 60 5G
+
+**Hi 畅享 60s:**
+
+`GAR-AN60`: Hi 畅享 60s 5G
 
 **Hi 畅享 60 Pro:**
 

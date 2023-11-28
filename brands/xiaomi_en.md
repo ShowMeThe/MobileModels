@@ -379,11 +379,29 @@
 
 `2306EPN60G`: Xiaomi 13T Global
 
-`2306EPN60R`: Xiaomi 13T Japan
+`2306EPN60R`: Xiaomi 13T Japan (SIM Free)
+
+`XIG04`: Xiaomi 13T Japan (KDDI)
 
 **[`M12`] Xiaomi 13T Pro (`corot`):**
 
 `23078PND5G`: Xiaomi 13T Pro Global
+
+`23088PND5R`: Xiaomi 13T Pro Japan (SIM Free)
+
+`A301XM`: Xiaomi 13T Pro Japan (SoftBank)
+
+**[`N3`] Xiaomi 14 (`houji`):**
+
+`23127PN0CG`: Xiaomi 14 Global
+
+`23127PN0CC`: Xiaomi 14 China
+
+**[`N2`] Xiaomi 14 Pro (`shennong`):**
+
+`23116PN5BG`: Xiaomi 14 Pro Global
+
+`23116PN5BC`: Xiaomi 14 Pro China
 
 **[`X5`] Mi Note (`virgo`):**
 
@@ -909,13 +927,23 @@
 
 `23053RN02Y`: Redmi 12 Global (NFC)
 
-**[`M19`] Redmi 12 5G (`sky`):**
+**[`M19`] Redmi 12 5G (`river`):**
 
 `23076RN8DY`: Redmi 12 5G Global (NFC)
 
 `23077RABDC`: Redmi 12 5G China
 
+`23076RA4BR`: Redmi 12 5G Japan (SIM Free)
+
+`XIG03`: Redmi 12 5G Japan (KDDI)
+
+**[`M19`] Redmi 12 5G (`sky`):**
+
 `23076RN4BI`: Redmi 12 5G India
+
+**[`M19`] Redmi 12R (`sky`):**
+
+`23076RA4BC`: Redmi 12R China
 
 **[`C3T`] Redmi 12C (`earth`):**
 
@@ -930,6 +958,16 @@
 **[`C3TN`] Redmi 12C (`aether`):**
 
 `22126RN91Y`: Redmi 12C Global (NFC)
+
+**Redmi 13C (`gale`):**
+
+`23106RN0DA`: Redmi 13C Global
+
+`23100RN82L`: Redmi 13C Latin America
+
+**Redmi 13C (`gust`):**
+
+`23108RN04Y`: Redmi 13C Global (NFC)
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
@@ -1339,7 +1377,7 @@
 
 `22101316C`: Redmi Note 12 Pro 5G China
 
-**[`M16UP`] Redmi Note 12 Pro+ 5G (`rubypro`):**
+**[`M16U`] Redmi Note 12 Pro+ 5G (`rubypro`):**
 
 `22101316UG`: Redmi Note 12 Pro+ 5G Global
 
@@ -1362,6 +1400,34 @@
 **[`M16T`] Redmi Note 12 Turbo (`marble`):**
 
 `23049RAD8C`: Redmi Note 12 Turbo China
+
+**[`N17`] Redmi Note 13 5G (`gold`):**
+
+`2312DRAABG`: Redmi Note 13 5G Global
+
+`2312DRAABI`: Redmi Note 13 5G India
+
+`2312DRAABC`: Redmi Note 13 5G China
+
+**[`N16`] Redmi Note 13 Pro 5G (`garnet`):**
+
+`2312DRA50G`: Redmi Note 13 Pro 5G Global
+
+`2312DRA50I`: Redmi Note 13 Pro 5G India
+
+`2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 5G China
+
+**[`N16U`] Redmi Note 13 Pro+ 5G (`zircon`):**
+
+`23090RA98G`: Redmi Note 13 Pro+ 5G Global
+
+`23090RA98I`: Redmi Note 13 Pro+ 5G India
+
+`23090RA98C`: Redmi Note 13 Pro+ 5G China
+
+**[`N17`] Redmi Note 13R Pro (`gold`):**
+
+`2311FRAFDC`: Redmi Note 13R Pro China
 
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
@@ -1482,6 +1548,18 @@
 **[`M12`] Redmi K60 Ultra (`corot`):**
 
 `23078RKD5C`: Redmi K60 Ultra China
+
+**[`N11`] Redmi K70 (`vermeer`):**
+
+`23113RKC6C`: Redmi K70 China
+
+**[`N11R`] Redmi K70 Pro (`manet`):**
+
+`23117RK66C`: Redmi K70 Pro China
+
+**[`N11A`] Redmi K70E (`duchamp`):**
+
+`2311DRK48C`: Redmi K70E China
 
 **[`H3C`] Redmi Pro (`omega`):**
 
@@ -1633,6 +1711,16 @@
 
 `22101320I`: POCO X5 Pro 5G India
 
+**[`N16P`] POCO X6 5G (`garnet`):**
+
+`23122PCD1G`: POCO X6 5G Global
+
+`23122PCD1I`: POCO X6 5G India
+
+**[`N17`] POCO X6 Neo (`gold`):**
+
+`2312FRAFDI`: POCO X6 Neo India
+
 **[`J19P`] POCO M2 (`shiva`):**
 
 `M2004J19PI`: POCO M2 India
@@ -1726,6 +1814,10 @@
 `22127PC95G`: POCO C55 Global
 
 `22127PC95H` `22127PC95I`: POCO C55 India
+
+**POCO C65 (`gust`):**
+
+`2310FPCA4G`: POCO C65 Global
 
 ## Tablets
 

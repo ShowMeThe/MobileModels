@@ -257,6 +257,14 @@
 
 `PHP110`: OnePlus Ace 2V China
 
+**OnePlus Ace 2 Pro (`xigua`):**
+
+`PJA110`: OnePlus Ace 2 Pro China
+
+**OnePlus 12:**
+
+`PJD110`: OnePlus 12 China
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India
@@ -353,6 +361,14 @@
 
 `CPH2389`: OnePlus Nord N300
 
+**OnePlus Open (`hedwig`):**
+
+`CPH2551`: OnePlus Open
+
 **OnePlus Pad:**
 
 `OPD2203`: OnePlus Pad
+
+**OnePlus Pad Go:**
+
+`OPD2304`: OnePlus Pad Go

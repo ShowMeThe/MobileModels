@@ -262,6 +262,14 @@
 
 `PHP110`: 一加 Ace 2V 全网通版
 
+**一加 Ace 2 Pro (`xigua`):**
+
+`PJA110`: 一加 Ace 2 Pro 全网通版
+
+**一加 12:**
+
+`PJD110`: 一加 12 全网通版
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord 印度版
@@ -358,6 +366,14 @@
 
 `CPH2389`: OnePlus Nord N300
 
+**OnePlus Open (`hedwig`):**
+
+`CPH2551`: OnePlus Open
+
 **OnePlus Pad:**
 
 `OPD2203`: OnePlus Pad
+
+**OnePlus Pad Go:**
+
+`OPD2304`: OnePlus Pad Go

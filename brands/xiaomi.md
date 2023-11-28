@@ -382,11 +382,29 @@
 
 `2306EPN60G`: Xiaomi 13T 国际版
 
-`2306EPN60R`: Xiaomi 13T 日本版
+`2306EPN60R`: Xiaomi 13T 日本版 (SIM Free)
+
+`XIG04`: Xiaomi 13T 日本版 (KDDI)
 
 **[`M12`] Xiaomi 13T Pro (`corot`):**
 
 `23078PND5G`: Xiaomi 13T Pro 国际版
+
+`23088PND5R`: Xiaomi 13T Pro 日本版 (SIM Free)
+
+`A301XM`: Xiaomi 13T Pro 日本版 (SoftBank)
+
+**[`N3`] Xiaomi 14 (`houji`):**
+
+`23127PN0CC`: Xiaomi 14 全网通版
+
+`23127PN0CG`: Xiaomi 14 国际版
+
+**[`N2`] Xiaomi 14 Pro (`shennong`):**
+
+`23116PN5BC`: Xiaomi 14 Pro 全网通版
+
+`23116PN5BG`: Xiaomi 14 Pro 国际版
 
 ## 小米 Note 系列
 
@@ -990,13 +1008,23 @@
 
 `23053RN02Y`: Redmi 12 国际版 (NFC)
 
-**[`M19`] Redmi 12 5G (`sky`):**
+**[`M19`] Redmi 12 5G (`river`):**
 
 `23077RABDC`: Redmi 12 5G 全网通版
 
 `23076RN8DY`: Redmi 12 5G 国际版 (NFC)
 
+`23076RA4BR`: Redmi 12 5G 日本版 (SIM Free)
+
+`XIG03`: Redmi 12 5G 日本版 (KDDI)
+
+**[`M19`] Redmi 12 5G (`sky`):**
+
 `23076RN4BI`: Redmi 12 5G 印度版
+
+**[`M19`] Redmi 12R (`sky`):**
+
+`23076RA4BC`: Redmi 12R 全网通版
 
 **[`C3T`] Redmi 12C (`earth`):**
 
@@ -1011,6 +1039,16 @@
 **[`C3TN`] Redmi 12C (`aether`):**
 
 `22126RN91Y`: Redmi 12C 国际版 (NFC)
+
+**Redmi 13C (`gale`):**
+
+`23106RN0DA`: Redmi 13C 国际版
+
+`23100RN82L`: Redmi 13C 拉美版
+
+**Redmi 13C (`gust`):**
+
+`23108RN04Y`: Redmi 13C 国际版 (NFC)
 
 ## 红米 / Redmi Note 系列
 
@@ -1428,7 +1466,7 @@
 
 `22101316I`: Redmi Note 12 Pro 5G 印度版
 
-**[`M16UP`] Redmi Note 12 Pro+ (`rubypro`):**
+**[`M16U`] Redmi Note 12 Pro+ (`rubypro`):**
 
 `22101316UCP`: Redmi Note 12 Pro+ 全网通版
 
@@ -1451,6 +1489,34 @@
 **[`M16T`] Redmi Note 12 Turbo (`marble`):**
 
 `23049RAD8C`: Redmi Note 12 Turbo 全网通版
+
+**[`N17`] Redmi Note 13 5G (`gold`):**
+
+`2312DRAABC`: Redmi Note 13 5G 全网通版
+
+`2312DRAABG`: Redmi Note 13 5G 国际版
+
+`2312DRAABI`: Redmi Note 13 5G 印度版
+
+**[`N16`] Redmi Note 13 Pro (`garnet`):**
+
+`2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 全网通版
+
+`2312DRA50G`: Redmi Note 13 Pro 5G 国际版
+
+`2312DRA50I`: Redmi Note 13 Pro 5G 印度版
+
+**[`N16U`] Redmi Note 13 Pro+ (`zircon`):**
+
+`23090RA98C`: Redmi Note 13 Pro+ 全网通版
+
+`23090RA98G`: Redmi Note 13 Pro+ 5G 国际版
+
+`23090RA98I`: Redmi Note 13 Pro+ 5G 印度版
+
+**[`N17`] Redmi Note 13R Pro (`gold`):**
+
+`2311FRAFDC`: Redmi Note 13R Pro 全网通版
 
 ## Redmi X 系列
 
@@ -1575,6 +1641,18 @@
 **[`M12`] Redmi K60 至尊版 (`corot`):**
 
 `23078RKD5C`: Redmi K60 至尊版 全网通版
+
+**[`N11`] Redmi K70 (`vermeer`):**
+
+`23113RKC6C`: Redmi K70 全网通版
+
+**[`N11R`] Redmi K70 Pro (`manet`):**
+
+`23117RK66C`: Redmi K70 Pro 全网通版
+
+**[`N11A`] Redmi K70E (`duchamp`):**
+
+`2311DRK48C`: Redmi K70E 全网通版
 
 ## 其他红米 Redmi 手机
 
@@ -1744,6 +1822,16 @@
 
 `22101320I`: POCO X5 Pro 5G 印度版
 
+**[`N16P`] POCO X6 5G (`garnet`):**
+
+`23122PCD1G`: POCO X6 5G 国际版
+
+`23122PCD1I`: POCO X6 5G 印度版
+
+**[`N17`] POCO X6 Neo (`gold`):**
+
+`2312FRAFDI`: POCO X6 Neo 印度版
+
 **[`J19P`] POCO M2 (`shiva`):**
 
 `M2004J19PI`: POCO M2 印度版
@@ -1837,6 +1925,10 @@
 `22127PC95G`: POCO C55 国际版
 
 `22127PC95H` `22127PC95I`: POCO C55 印度版
+
+**POCO C65 (`gust`):**
+
+`2310FPCA4G`: POCO C65 国际版
 
 ## 其他系列
 

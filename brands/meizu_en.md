@@ -221,9 +221,9 @@
 
 `M192Q`: MEIZU 18s Pro
 
-**MEIZU 20 (`m2381`):**
+**MEIZU 20 / MEIZU 20 Classic (`m2381`):**
 
-`M381Q`: MEIZU 20
+`M381Q`: MEIZU 20 / MEIZU 20 Classic
 
 **MEIZU 20 PRO (`m2391`):**
 
@@ -232,6 +232,10 @@
 **MEIZU 20 INFINITY (`m2392`):**
 
 `M392Q`: MEIZU 20 INFINITY
+
+**MEIZU 21 (`m2461`):**
+
+`M461Q`: MEIZU 21
 
 **MEIZU m1 note (`m71`):**
 

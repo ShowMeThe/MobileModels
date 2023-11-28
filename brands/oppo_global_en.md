@@ -55,13 +55,21 @@
 
 ## Find N series
 
-**OPPO Find N2:**
+**OPPO Find N2 (`whiteswan`):**
 
 `CPH2439`: OPPO Find N2
 
-**OPPO Find N2 Flip:**
+**OPPO Find N2 Flip (`dragonfly`):**
 
 `CPH2437`: OPPO Find N2 Flip
+
+**OPPO Find N3 (`hedwig`):**
+
+`CPH2499`: OPPO Find N3
+
+**OPPO Find N3 Flip (`flamingo`):**
+
+`CPH2519`: OPPO Find N3 Flip
 
 ## Reno series
 
@@ -427,6 +435,10 @@
 
 `CPH2471`: OPPO A17k
 
+**OPPO A18:**
+
+`CPH2591`: OPPO A18
+
 **OPPO A31:**
 
 `CPH2015` `CPH2031` `CPH2073` `CPH2081`: OPPO A31
@@ -434,6 +446,10 @@
 **OPPO A33:**
 
 `CPH2127` `CPH2137`: OPPO A33
+
+**OPPO A38:**
+
+`CPH2579`: OPPO A38
 
 **OPPO A52:**
 
@@ -479,6 +495,10 @@
 
 `CPH2385`: OPPO A57s
 
+**OPPO A58:**
+
+`CPH2577`: OPPO A58
+
 **OPPO A72:**
 
 `CPH2067`: OPPO A72
@@ -514,6 +534,10 @@
 `CPH2565`: OPPO A78
 
 `CPH2483` `CPH2495`: OPPO A78 5G
+
+**OPPO A79:**
+
+`CPH2557`: OPPO A79 5G
 
 **OPPO A91:**
 

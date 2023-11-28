@@ -4,7 +4,81 @@
 - codename: ✅
 - 是否包含海外机型: [单独汇总 (英文)](brands/honor_global_en.md)
 
-## 荣耀 HONOR 系列 (数字系列 / N 系列)
+## 荣耀 Magic 系列
+
+**荣耀 Magic:**
+
+`NTS-AL00`: 荣耀 Magic 全网通版
+
+**荣耀 Magic2 (`Tony`):**
+
+`TNY-AL00`: 荣耀 Magic2 全网通版
+
+`TNY-AL10`: 荣耀 Magic2 3D 感光版
+
+`TNY-TL00`: 荣耀 Magic2 移动 4G+ 版
+
+**荣耀 Magic3 (`Elizabeth`):**
+
+`ELZ-AN00`: 荣耀 Magic3 5G
+
+**荣耀 Magic3 Pro (`Elizabeth`):**
+
+`ELZ-AN10`: 荣耀 Magic3 Pro 5G
+
+**荣耀 Magic3 至臻版 (`Elizabeth`):**
+
+`ELZ-AN20`: 荣耀 Magic3 至臻版 5G
+
+**荣耀 Magic V (`Maggie`):**
+
+`MGI-AN00`: 荣耀 Magic V 5G
+
+**荣耀 Magic4 (`Lange`):**
+
+`LGE-AN00`: 荣耀 Magic4 5G
+
+**荣耀 Magic4 Pro (`Lange`):**
+
+`LGE-AN10`: 荣耀 Magic4 Pro 5G
+
+**荣耀 Magic4 至臻版 (`Lange`):**
+
+`LGE-AN20`: 荣耀 Magic4 至臻版 5G
+
+**荣耀 Magic Vs:**
+
+`FRI-AN00`: 荣耀 Magic Vs 5G
+
+**荣耀 Magic Vs 至臻版:**
+
+`FRI-AN10`: 荣耀 Magic Vs 至臻版 5G
+
+**荣耀 Magic5 (`Piaget`):**
+
+`PGT-AN00`: 荣耀 Magic5 5G
+
+**荣耀 Magic5 Pro (`Piaget`):**
+
+`PGT-AN10`: 荣耀 Magic5 Pro 5G
+
+**荣耀 Magic5 至臻版 (`Piaget`):**
+
+`PGT-AN20`: 荣耀 Magic5 至臻版 5G
+
+**荣耀 Magic V2:**
+
+`VER-AN10`: 荣耀 Magic V2 5G
+
+**荣耀 Magic V2 至臻版:**
+
+`VER-AN10`: 荣耀 Magic V2 至臻版 5G
+
+**荣耀 Magic Vs2:**
+
+`VER-AN00`: 荣耀 Magic Vs2 5G
+
+## 荣耀数字系列 (HONOR 系列 / N 系列)
 
 **荣耀 6 (`Mogolia`):**
 
@@ -242,6 +316,14 @@
 
 `REP-AN00`: 荣耀 90 Pro 5G
 
+**荣耀 100:**
+
+`MAA-AN00`: 荣耀 100 5G
+
+**荣耀 100 Pro:**
+
+`MAA-AN10`: 荣耀 100 Pro 5G
+
 ## 荣耀 V 系列 (Vera 系列 / View 系列)
 
 **荣耀 V8 (`Knight`):**
@@ -292,75 +374,11 @@
 
 `ALA-AN70`: 荣耀 V40 轻奢版 5G
 
-## 荣耀 Magic 系列
+## 荣耀 V Purse 系列
 
-**荣耀 Magic:**
+**荣耀 V Purse (`Victoria`):**
 
-`NTS-AL00`: 荣耀 Magic 全网通版
-
-**荣耀 Magic2 (`Tony`):**
-
-`TNY-AL00`: 荣耀 Magic2 全网通版
-
-`TNY-AL10`: 荣耀 Magic2 3D 感光版
-
-`TNY-TL00`: 荣耀 Magic2 移动 4G+ 版
-
-**荣耀 Magic3 (`Elizabeth`):**
-
-`ELZ-AN00`: 荣耀 Magic3 5G
-
-**荣耀 Magic3 Pro (`Elizabeth`):**
-
-`ELZ-AN10`: 荣耀 Magic3 Pro 5G
-
-**荣耀 Magic3 至臻版 (`Elizabeth`):**
-
-`ELZ-AN20`: 荣耀 Magic3 至臻版 5G
-
-**荣耀 Magic V (`Maggie`):**
-
-`MGI-AN00`: 荣耀 Magic V 5G
-
-**荣耀 Magic4 (`Lange`):**
-
-`LGE-AN00`: 荣耀 Magic4 5G
-
-**荣耀 Magic4 Pro (`Lange`):**
-
-`LGE-AN10`: 荣耀 Magic4 Pro 5G
-
-**荣耀 Magic4 至臻版 (`Lange`):**
-
-`LGE-AN20`: 荣耀 Magic4 至臻版 5G
-
-**荣耀 Magic Vs:**
-
-`FRI-AN00`: 荣耀 Magic Vs 5G
-
-**荣耀 Magic Vs 至臻版:**
-
-`FRI-AN10`: 荣耀 Magic Vs 至臻版 5G
-
-**荣耀 Magic5 (`Piaget`):**
-
-`PGT-AN00`: 荣耀 Magic5 5G
-
-**荣耀 Magic5 Pro (`Piaget`):**
-
-`PGT-AN10`: 荣耀 Magic5 Pro 5G
-
-**荣耀 Magic5 至臻版 (`Piaget`):**
-
-`PGT-AN20`: 荣耀 Magic5 至臻版 5G
-
-**荣耀 Magic V2:**
-
-`VER-AN10`: 荣耀 Magic V2 5G
-
-**荣耀 Magic V2 至臻版:**
-
-`VER-AN10`: 荣耀 Magic V2 至臻版 5G
+`VCA-AN00`: 荣耀 V Purse 5G
 
 ## 荣耀 X 系列
 
@@ -486,17 +504,21 @@
 
 `DIO-AN00`: 荣耀 X40i 5G
 
-**荣耀 X40 GT (`AndyGT`):**
+**荣耀 X40 GT / 荣耀 X40 GT 竞速版 (`AndyGT`):**
 
-`ADT-AN00`: 荣耀 X40 GT 5G
+`ADT-AN00`: 荣耀 X40 GT 5G / 荣耀 X40 GT 竞速版 5G
 
 **荣耀 X50 (`Ali`):**
 
 `ALI-AN00`: 荣耀 X50 5G
 
-**荣耀 X50i:**
+**荣耀 X50i (`Cartier`):**
 
 `CRT-AN00`: 荣耀 X50i 5G
+
+**荣耀 X50i+:**
+
+`LLY-AN00`: 荣耀 X50i+ 5G
 
 ## 荣耀 Play 系列
 
@@ -585,6 +607,10 @@
 **荣耀 Play7T Pro (`Dior`):**
 
 `DIO-AN00`: 荣耀 Play7T Pro 5G
+
+**荣耀 Play8T:**
+
+`CLK-AN00`: 荣耀 Play8T 5G
 
 ## 荣耀 Note 系列
 
@@ -768,13 +794,17 @@
 
 `CMA-AN00`: 荣耀畅玩 30 Plus 5G
 
-**荣耀畅玩 40 / 荣耀畅玩 40C (`Woody`):**
+**荣耀畅玩 40 / 荣耀畅玩 40C / 荣耀畅玩 40S (`Woody`):**
 
-`WDY-AN00`: 荣耀畅玩 40 5G / 荣耀畅玩 40C 5G
+`WDY-AN00`: 荣耀畅玩 40 5G / 荣耀畅玩 40C 5G / 荣耀畅玩 40S 5G
 
 **荣耀畅玩 40 Plus (`Rocky`):**
 
 `RKY-AN00`: 荣耀畅玩 40 Plus 5G
+
+**荣耀畅玩 50 Plus:**
+
+`CLK-AN00`: 荣耀畅玩 50 Plus 5G
 
 ## 荣耀平板
 
@@ -862,7 +892,7 @@
 
 `AGM3-W09HN`: 荣耀平板 X8 10.1 英寸 Wi-Fi 版
 
-**荣耀平板 X8 Pro:**
+**荣耀平板 X8 Pro (`Eileen`):**
 
 `ELN-W09`: 荣耀平板 X8 Pro 11.5 英寸 Wi-Fi 版
 
@@ -874,7 +904,7 @@
 
 `BRT-W09`: 荣耀平板 V8 11 英寸 Wi-Fi 版
 
-**荣耀平板 V8 Pro:**
+**荣耀平板 V8 Pro (`Rolland`):**
 
 `ROD-W09`: 荣耀平板 V8 Pro 12.1 英寸 Wi-Fi 版
 
@@ -1053,6 +1083,8 @@
 `GLO-G56`: 荣耀 MagicBook 14 2023 i5 (16GB+512GB)
 
 `GLO-G561`: 荣耀 MagicBook 14 2023 i5 (16GB+1TB)
+
+`GLO-G52`: 荣耀 MagicBook 14 2023 i5 (32GB+1TB)
 
 **荣耀 MagicBook 14 Pro 2023:**
 
@@ -1348,7 +1380,11 @@
 
 **荣耀手表 4:**
 
-`TUM-L19`: 荣耀手表 4
+`TMA-L19`: 荣耀手表 4
+
+**荣耀手表 4 Pro:**
+
+`TUM-L19`: 荣耀手表 4 Pro
 
 **荣耀手环 3:**
 

@@ -205,7 +205,7 @@
 
 `REA-NX9`: HONOR 90 5G
 
-**HONOR 90 Lite:**
+**HONOR 90 Lite (`Cartier`):**
 
 `CRT-NX1` `CRT-NX3`: HONOR 90 Lite 5G
 
@@ -235,7 +235,11 @@
 
 **HONOR Magic5 Lite 5G (`Rambo`):**
 
-`RMO-NX1`: HONOR Magic5 Lite 5G
+`RMO-NX1` `RMO-NX3`: HONOR Magic5 Lite 5G
+
+**HONOR Magic6 Lite 5G (`Ali`):**
+
+`ALI-NX1` `ALI-NX3`: HONOR Magic6 Lite 5G
 
 **HONOR X5:**
 
@@ -275,7 +279,7 @@
 
 `TFY-LX1` `TFY-LX2` `TFY-LX3`: HONOR X8
 
-**HONOR X8a:**
+**HONOR X8a (`Cartier`):**
 
 `CRT-LX1` `CRT-LX2` `CRT-LX3`: HONOR X8a
 
@@ -299,6 +303,10 @@
 
 `RMO-NX1`: HONOR X9a 5G
 
+**HONOR X9b 5G (`Ali`):**
+
+`ALI-NX1`: HONOR X9b 5G
+
 **HONOR Pad 8 (`Hendry`):**
 
 `HEY-W09`: HONOR Pad 8
@@ -313,7 +321,7 @@
 
 `AGM-W09HN`: HONOR Pad X8 Lite
 
-**HONOR Pad X9:**
+**HONOR Pad X9 (`Eileen`):**
 
 `ELN-W09`: HONOR Pad X9 Wi-Fi
 

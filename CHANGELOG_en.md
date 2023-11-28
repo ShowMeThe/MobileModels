@@ -1,4 +1,63 @@
 # CHANGELOG
+## 2023-11-21
+- `xiaomi_en` Add Redmi K70, POCO X6, Note 13R Pro.
+## 2023-11-20
+- `meizu_en` Add MEIZU 21.
+## 2023-11-14
+- `xiaomi_en` Add Redmi 13C, POCO C65.
+## 2023-11-08
+- `mitv_global_en` Add several new models.
+## 2023-11-05
+- `vivo_global_en` Add several early iQOO models.
+## 2023-10-27
+- `honor_global_en` Add HONOR Magic6 Lite 5G.
+- `oneplus_en` Add OnePlus 12 China.
+## 2023-10-26
+- `xiaomi_en` Add Xiaomi 14 series.
+## 2023-10-22
+- `oneplus_en` Add OnePlus Open.
+## 2023-10-19
+- `meizu_en` Add MEIZU 20 Classic.
+## 2023-10-17
+- `apple_en` Add China mainland eSIM model for iPad 10th gen.
+## 2023-10-12
+- `honor_global_en` Add HONOR X9b 5G.
+## 2023-10-11
+- `vivo_global_en` Add several new models.
+## 2023-10-08
+- `oppo_global_en` Add OPPO Find N3.
+## 2023-10-04
+- `google_en` Add Pixel 8, Pixel Watch 2.
+## 2023-10-01
+- `mitv_global_en` Add several new models.
+## 2023-09-27
+- `xiaomi_en` Add Redmi 12 5G Japan.
+## 2023-09-26
+- `oppo_global_en` Add OPPO A79 5G.
+## 2023-09-22
+- `apple_en` Add iPhone 15, Apple Watch Series 9/Ultra 2.
+## 2023-09-21
+- `xiaomi_en` Add Redmi Note 13 series.
+## 2023-09-17
+- `vivo_global_en` Add several new models.
+## 2023-09-12
+- `realme_global_en` Add realme Narzo 60x.
+## 2023-09-10
+- `oppo_global_en` Add OPPO A38 4G, A58 4G.
+## 2023-09-01
+- `vivo_global_en` Add vivo T2 Pro.
+## 2023-08-30
+- `vivo_global_en` Add several new models.
+## 2023-08-29
+- `huawei_global_en` Add HUAWEI Mate 60 Pro.
+## 2023-08-25
+- `xiaomi_en` Add Redmi 12R.
+## 2023-08-23
+- `realme_global_en` Add realme 11 5G series.
+## 2023-08-16
+- `oneplus_en` Add OnePlus Ace 2 Pro.
+## 2023-08-15
+- `mitv_global_en` Add several Indian models.
 ## 2023-08-11
 - `realme_global_en` Add realme 11 4G.
 - `xiaomi_en` Add Redmi 12 5G.

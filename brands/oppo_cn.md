@@ -1,7 +1,7 @@
 # OPPO 手机型号汇总
 
 - 汇总范围: 2018 年起新型号命名方式的机型
-- codename: ❌
+- codename: ⏹
 - 是否包含海外机型: [单独汇总 (英文)](brands/oppo_global_en.md)
 
 ## Find X 系列
@@ -26,47 +26,59 @@
 
 `PDEM30`: OPPO Find X2 Pro
 
-**OPPO Find X3:**
+**OPPO Find X3 (`horee`):**
 
 `PEDM00`: OPPO Find X3
 
-**OPPO Find X3 Pro:**
+**OPPO Find X3 Pro (`fussi`):**
 
 `PEEM00`: OPPO Find X3 Pro
 
-**OPPO Find X5:**
+**OPPO Find X3 Pro 摄影师版 (`fluorite`):**
+
+`PEEM00`: OPPO Find X3 Pro 摄影师版
+
+**OPPO Find X5 (`luwu`):**
 
 `PFFM10`: OPPO Find X5
 
-**OPPO Find X5 Pro:**
+**OPPO Find X5 Pro (`baize`):**
 
 `PFEM10`: OPPO Find X5 Pro
 
-**OPPO Find X5 Pro 天玑版:**
+**OPPO Find X5 Pro 天玑版 (`diting`):**
 
 `PFFM20`: OPPO Find X5 Pro 天玑版
 
-**OPPO Find X6:**
+**OPPO Find X6 (`luna`):**
 
 `PGFM10`: OPPO Find X6
 
-**OPPO Find X6 Pro:**
+**OPPO Find X6 Pro (`wukong`):**
 
 `PGEM10`: OPPO Find X6 Pro
 
 ## Find N 系列
 
-**OPPO Find N:**
+**OPPO Find N (`peacock`):**
 
 `PEUM00`: OPPO Find N
 
-**OPPO Find N2:**
+**OPPO Find N2 (`whiteswan`):**
 
 `PGU110`: OPPO Find N2
 
-**OPPO Find N2 Flip:**
+**OPPO Find N2 Flip (`dragonfly`):**
 
 `PGT110`: OPPO Find N2 Flip
+
+**OPPO Find N3 (`hedwig`):**
+
+`PHN110`: OPPO Find N3 / OPPO Find N3 典藏版
+
+**OPPO Find N3 Flip (`flamingo`):**
+
+`PHT110`: OPPO Find N3 Flip
 
 ## Reno 系列
 
@@ -136,45 +148,45 @@
 
 `PEAT00`: OPPO Reno4 SE 移动版
 
-**OPPO Reno5:**
+**OPPO Reno5 (`kunlun`):**
 
 `PEGM00`: OPPO Reno5 全网通版
 
 `PEGT00`: OPPO Reno5 移动版
 
-**OPPO Reno5 K:**
+**OPPO Reno5 K (`wudang`):**
 
 `PEGM10`: OPPO Reno5 K 全网通版
 
 `PEGT10`: OPPO Reno5 K 移动版
 
-**OPPO Reno5 Pro:**
+**OPPO Reno5 Pro (`chaka`):**
 
 `PDSM00`: OPPO Reno5 Pro 全网通版
 
 `PDST00`: OPPO Reno5 Pro 移动版
 
-**OPPO Reno5 Pro+:**
+**OPPO Reno5 Pro+ (`hima`):**
 
 `PDRM00`: OPPO Reno5 Pro+
 
-**OPPO Reno6:**
+**OPPO Reno6 (`garen`):**
 
 `PEQM00`: OPPO Reno6
 
-**OPPO Reno6 Pro:**
+**OPPO Reno6 Pro (`yasuo`):**
 
 `PEPM00`: OPPO Reno6 Pro
 
-**OPPO Reno6 Pro+:**
+**OPPO Reno6 Pro+ (`jin`):**
 
 `PENM00`: OPPO Reno6 Pro+
 
-**OPPO Reno7:**
+**OPPO Reno7 (`libai`):**
 
 `PFJM10`: OPPO Reno7
 
-**OPPO Reno7 Pro:**
+**OPPO Reno7 Pro (`mozi`):**
 
 `PFDM00`: OPPO Reno7 Pro
 
@@ -182,41 +194,49 @@
 
 `PFCM00`: OPPO Reno7 SE
 
-**OPPO Reno8:**
+**OPPO Reno8 (`ali`):**
 
 `PGBM10`: OPPO Reno8
 
-**OPPO Reno8 Pro:**
+**OPPO Reno8 Pro (`wuyi`):**
 
 `PGAM10`: OPPO Reno8 Pro
 
-**OPPO Reno8 Pro+:**
+**OPPO Reno8 Pro+ (`taibai`):**
 
 `PFZM10`: OPPO Reno8 Pro+
 
-**OPPO Reno9:**
+**OPPO Reno9 (`lantian`):**
 
 `PHM110`: OPPO Reno9
 
-**OPPO Reno9 Pro:**
+**OPPO Reno9 Pro (`linhai`):**
 
 `PGX110`: OPPO Reno9 Pro
 
-**OPPO Reno9 Pro+:**
+**OPPO Reno9 Pro+ (`lvzhou`):**
 
 `PGW110`: OPPO Reno9 Pro+
 
-**OPPO Reno10:**
+**OPPO Reno10 (`taylor`):**
 
 `PHW110`: OPPO Reno10
 
-**OPPO Reno10 Pro:**
+**OPPO Reno10 Pro (`viven`):**
 
 `PHV110`: OPPO Reno10 Pro
 
-**OPPO Reno10 Pro+:**
+**OPPO Reno10 Pro+ (`monroe`):**
 
 `PHU110`: OPPO Reno10 Pro+
+
+**OPPO Reno11 (`huahai`):**
+
+`PJH110`: OPPO Reno11
+
+**OPPO Reno11 Pro (`daoxiang`):**
+
+`PJJ110`: OPPO Reno11 Pro
 
 ## Ace 系列
 
@@ -414,7 +434,7 @@
 
 `PEHT00`: OPPO A93 移动版
 
-**OPPO A93s:**
+**OPPO A93s (`odin-a`):**
 
 `PFGM00`: OPPO A93s
 
@@ -434,13 +454,29 @@
 
 `PHS110`: OPPO A1 (2023)
 
-**OPPO A1 Pro:**
+**OPPO A1 Pro (`hepburn`):**
 
 `PHQ110`: OPPO A1 Pro
 
 **OPPO A1x / OPPO A1 活力版:**
 
 `PHJ110`: OPPO A1x / OPPO A1 活力版
+
+**OPPO A2:**
+
+`PJB110`: OPPO A2
+
+**OPPO A2m:**
+
+`PJU110`: OPPO A2m
+
+**OPPO A2x:**
+
+`PJS110`: OPPO A2x
+
+**OPPO A2 Pro (`givenchy`):**
+
+`PJG110`: OPPO A2 Pro
 
 ## K 系列
 
@@ -472,15 +508,15 @@
 
 `PEXM00`: OPPO K9
 
-**OPPO K9s / OPPO K10 活力版:**
+**OPPO K9s (`walle`) / OPPO K10 活力版 (`walle-k`):**
 
 `PERM10`: OPPO K9s / OPPO K10 活力版
 
-**OPPO K9 Pro:**
+**OPPO K9 Pro (`tiga`):**
 
 `PEYM00`: OPPO K9 Pro
 
-**OPPO K9x:**
+**OPPO K9x (`apollo-o`):**
 
 `PGCM10`: OPPO K9x
 
@@ -488,19 +524,19 @@
 
 `PGJM10`: OPPO K10
 
-**OPPO K10 Pro:**
+**OPPO K10 Pro (`eva`):**
 
 `PGIM10`: OPPO K10 Pro
 
-**OPPO K10x:**
+**OPPO K10x (`oscar-y`):**
 
 `PGGM10`: OPPO K10x
 
-**OPPO K11:**
+**OPPO K11 (`ziti`):**
 
 `PJC110`: OPPO K11
 
-**OPPO K11x:**
+**OPPO K11x (`larry`):**
 
 `PHF110`: OPPO K11x
 
@@ -517,6 +553,10 @@
 **OPPO Pad 2:**
 
 `OPD2201`: OPPO Pad 2
+
+**OPPO Pad Air2 (`bluey`):**
+
+`OPD2301`: OPPO Pad Air2
 
 ## Watch 系列
 
@@ -551,3 +591,7 @@
 `OWW211`: OPPO Watch 3 Pro
 
 `OWW213`: OPPO Watch 3 SE
+
+**OPPO Watch 4 (`comet`):**
+
+`OWW221`: OPPO Watch 4 Pro
