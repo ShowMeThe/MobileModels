@@ -573,7 +573,7 @@
 
 `NAM-AL00`: HUAWEI nova 9
 
-**HUAWEI nova 9 Pro:**
+**HUAWEI nova 9 Pro (`Rena`):**
 
 `RTE-AL00`: HUAWEI nova 9 Pro
 
@@ -605,17 +605,33 @@
 
 `FOA-AL00`: HUAWEI nova 11
 
-**HUAWEI nova 11 Pro (`Giona`):**
+**HUAWEI nova 11 Pro (`Gloria`):**
 
 `GOA-AL80`: HUAWEI nova 11 Pro
 
-**HUAWEI nova 11 Ultra (`Giona`):**
+**HUAWEI nova 11 Ultra (`Gloria`):**
 
 `GOA-AL80U`: HUAWEI nova 11 Ultra
 
 **HUAWEI nova 11 SE:**
 
 `BON-AL00`: HUAWEI nova 11 SE
+
+**HUAWEI nova 12:**
+
+`BLK-AL00`: HUAWEI nova 12
+
+**HUAWEI nova 12 活力版 (`Fiona+`):**
+
+`FIN-AL60`: HUAWEI nova 12 活力版
+
+**HUAWEI nova 12 Pro (`Adela`):**
+
+`ADA-AL00`: HUAWEI nova 12 Pro
+
+**HUAWEI nova 12 Ultra (`Adela`):**
+
+`ADA-AL00U`: HUAWEI nova 12 Ultra
 
 ## HUAWEI G 系列
 
@@ -897,13 +913,21 @@
 
 `MGA-AL40`: 华为畅享 60
 
-**华为畅享 60X:**
+**华为畅享 60X (`Santiago`):**
 
 `STG-AL00`: 华为畅享 60X
 
-**华为畅享 60 Pro:**
+**华为畅享 60 Pro (`Mario`):**
 
 `MAO-AL00`: 华为畅享 60 Pro
+
+**华为畅享 70:**
+
+`FGD-AL00`: 华为畅享 70
+
+**华为畅享 70 Pro (`Cartier`):**
+
+`CTR-AL20`: 华为畅享 70 Pro
 
 ## 华为平板 M 系列
 
@@ -1027,6 +1051,10 @@
 
 `GOT-AL19`: HUAWEI MatePad Pro 11 英寸 性能版 全网通版 (12GB+512GB)
 
+**HUAWEI MatePad Pro 11 (`Xiaoyao`):**
+
+`XYAO-W00`: HUAWEI MatePad Pro 11 英寸 2024 Wi-Fi 版
+
 **HUAWEI MatePad Pro 12.6 (`Wagner`):**
 
 `WGR-W09` `WGR-W19`: HUAWEI MatePad Pro 12.6 英寸 2021 Wi-Fi 版
@@ -1042,6 +1070,8 @@
 `PCE-W30`: HUAWEI MatePad Pro 13.2 英寸 Wi-Fi 版
 
 `PCE-W40`: HUAWEI MatePad Pro 13.2 英寸 Wi-Fi 版 (16GB+1TB)
+
+`PCE-AL40`: HUAWEI MatePad Pro 13.2 英寸 典藏版 全网通版
 
 ## HUAWEI MatePad 系列
 
@@ -1066,6 +1096,8 @@
 **HUAWEI MatePad (`Bartok`):**
 
 `BTK-W00`: HUAWEI MatePad 11.5 英寸 2023 Wi-Fi 版
+
+`BTK-AL00`: HUAWEI MatePad 11.5 英寸 2023 全网通版
 
 **HUAWEI MatePad 10.8 (`SchumannR`):**
 
@@ -1513,9 +1545,11 @@
 
 `NbF-16`: HUAWEI MateBook D 14 SE 12 代酷睿版 (16GB 内存)
 
-**HUAWEI MateBook D 14:**
+**HUAWEI MateBook D 14 (`MendelF`):**
 
 `MDF-16`: HUAWEI MateBook D 14 2023 12 代酷睿版 / HUAWEI MateBook D 14 SE 2023
+
+**HUAWEI MateBook D 14 (`MendelG`):**
 
 `MDG-16`: HUAWEI MateBook D 14 2023 13 代酷睿版 / HUAWEI MateBook D 14 SE 13 代酷睿版
 
@@ -1574,6 +1608,14 @@
 **HUAWEI MateBook D 16 (`RolleG`):**
 
 `RLEG-16`: HUAWEI MateBook D 16 2023
+
+**HUAWEI MateBook D 16 SE (`MitchellF`):**
+
+`MCLF-16`: HUAWEI MateBook D 16 SE 2024 12 代酷睿版
+
+**HUAWEI MateBook D 16 (`MitchellG`):**
+
+`MCLG-16`: HUAWEI MateBook D 16 2024 / HUAWEI MateBook D 16 SE 2024 13 代酷睿版 / HUAWEI MateBook D 16 高能版 2024
 
 **HUAWEI MateBook E:**
 
@@ -1687,6 +1729,12 @@
 
 `MRGF-7651`: HUAWEI MateBook B7-420 i7
 
+**华为擎云 S520 (`YutuFZ`):**
+
+`YTSFZ-5651TP`: 华为擎云 S520 i5
+
+`YTSFZ-7611T`: 华为擎云 S520 i7
+
 **华为擎云 S540 (`YutuFZ`):**
 
 `YTFZ-5651SP`: 华为擎云 S540 i5
@@ -1744,6 +1792,10 @@
 `HD65FRUB`: 华为智慧屏 V 65 三代
 
 `HD75FRUB`: 华为智慧屏 V 75 三代
+
+**华为智慧屏 V5:**
+
+`HD85ARKB`: 华为智慧屏 V5 85
 
 **华为智慧屏 V5 Pro:**
 
@@ -1951,7 +2003,7 @@
 
 **HUAWEI WATCH GT 3 (`Jupiter`):**
 
-`JPT-B19`: HUAWEI WATCH GT 3 46mm
+`JPT-B19` `JPT-B29`: HUAWEI WATCH GT 3 46mm
 
 **HUAWEI WATCH GT 3 Pro:**
 
@@ -1975,7 +2027,7 @@
 
 **HUAWEI WATCH GT Runner (`Runner`):**
 
-`RUN-B19`: HUAWEI WATCH GT Runner
+`RUN-B19` `RUN-B29`: HUAWEI WATCH GT Runner
 
 **HUAWEI WATCH GT 2022 典藏版:**
 

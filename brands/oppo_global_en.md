@@ -247,9 +247,19 @@
 
 `CPH2525`: OPPO Reno10 Pro 5G
 
+`CPH2541`: OPPO Reno10 Pro 5G (Japan)
+
 **OPPO Reno10 Pro+:**
 
 `CPH2521`: OPPO Reno10 Pro+ 5G
+
+**OPPO Reno11:**
+
+`CPH2599`: OPPO Reno11 5G
+
+**OPPO Reno11 Pro:**
+
+`CPH2607`: OPPO Reno11 Pro 5G
 
 ## F series
 
@@ -409,7 +419,11 @@
 
 **OPPO A15:**
 
-`CPH2179` `CPH2185`: OPPO A15
+`CPH2185`: OPPO A15
+
+**OPPO A15s:**
+
+`CPH2179`: OPPO A15s
 
 **OPPO A16:**
 
@@ -498,6 +512,10 @@
 **OPPO A58:**
 
 `CPH2577`: OPPO A58
+
+**OPPO A59:**
+
+`CPH2617`: OPPO A59 5G
 
 **OPPO A72:**
 
@@ -590,6 +608,12 @@
 **OPPO Pad 2:**
 
 `OPD2202`: OPPO Pad 2
+
+**OPPO Pad Neo:**
+
+`OPD2302`: OPPO Pad Neo Wi-Fi Version
+
+`OPD2303`: OPPO Pad Neo LTE Version
 
 ## Watch series
 

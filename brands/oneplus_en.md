@@ -253,17 +253,33 @@
 
 `CPH2487`: OnePlus 11R India
 
-**OnePlus Ace 2V (`vitamin`):**
+**OnePlus Ace 2V / OnePlus Nord 3 (`vitamin`):**
 
 `PHP110`: OnePlus Ace 2V China
+
+`CPH2491`: OnePlus Nord 3 India
+
+`CPH2493`: OnePlus Nord 3 EU
 
 **OnePlus Ace 2 Pro (`xigua`):**
 
 `PJA110`: OnePlus Ace 2 Pro China
 
-**OnePlus 12:**
+**OnePlus 12 (`waffle`):**
 
 `PJD110`: OnePlus 12 China
+
+`CPH2573`: OnePlus 12 India
+
+`CPH2581`: OnePlus 12 EU / Global
+
+`CPH2583`: OnePlus 12 North America
+
+**OnePlus Ace 3 / OnePlus 12R (`aston`):**
+
+`PJE110`: OnePlus Ace 3 China
+
+`CPH2611`: OnePlus 12R India
 
 **OnePlus Nord (`avicii`):**
 
@@ -282,12 +298,6 @@
 `CPH2399`: OnePlus Nord 2T Global
 
 `CPH2401`: OnePlus Nord 2T India
-
-**OnePlus Nord 3 (`vitamin`):**
-
-`CPH2491`: OnePlus Nord 3 India
-
-`CPH2493`: OnePlus Nord 3 EU
 
 **OnePlus Nord CE (`ebba`):**
 
@@ -349,6 +359,10 @@
 
 `CPH2513` `CPH2515`: OnePlus Nord N30
 
+**OnePlus Nord N30 SE (`fanli`):**
+
+`CPH2605`: OnePlus Nord N30 SE EU
+
 **OnePlus Nord N200 (`dre9`):**
 
 `DE2117`: OnePlus Nord N200 North America
@@ -365,10 +379,12 @@
 
 `CPH2551`: OnePlus Open
 
-**OnePlus Pad:**
+**OnePlus Pad (`aries`):**
 
 `OPD2203`: OnePlus Pad
 
-**OnePlus Pad Go:**
+**OnePlus Pad Go (`bluey`):**
 
-`OPD2304`: OnePlus Pad Go
+`OPD2304`: OnePlus Pad Go LTE
+
+`OPD2305`: OnePlus Pad Go Wi-Fi

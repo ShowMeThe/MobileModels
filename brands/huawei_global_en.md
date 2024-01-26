@@ -417,9 +417,9 @@
 
 `WKG-LX9`: HUAWEI nova Y60
 
-**HUAWEI nova Y61 (`Eevee`):**
+**HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Plus (`Eevee`):**
 
-`EVE-LX9` `EVE-LX9N` `EVE-LX3`: HUAWEI nova Y61
+`EVE-LX9` `EVE-LX9N` `EVE-LX3`: HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Plus
 
 **HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71 (`Mega`):**
 
@@ -639,6 +639,8 @@
 
 `DBR-W09`: HUAWEI MatePad 11 2023 Wi-Fi
 
+`DBR-W19`: HUAWEI MatePad 11 2023 PaperMatte Edition Wi-Fi
+
 **HUAWEI MatePad Air (`Debussy2`):**
 
 `DBY2-W09`: HUAWEI MatePad Air Wi-Fi
@@ -666,6 +668,10 @@
 **HUAWEI MatePad Pro 12.6 2022 (`WagnerR`):**
 
 `WGRR-W09`: HUAWEI MatePad Pro 12.6 2022 Wi-Fi
+
+**HUAWEI MatePad Pro 13.2 (`Poincare`):**
+
+`PCE-W29`: HUAWEI MatePad Pro 13.2 Wi-Fi
 
 **HUAWEI MatePad Paper (`Hemingway`):**
 

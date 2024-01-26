@@ -1,4 +1,44 @@
 # 更新日志
+## 2024-01-25
+- `huawei_cn` 增补 HUAWEI MatePad 11.5 全网通版。
+## 2024-01-24
+- `coolpad` 新增 酷派大观 Y60s。
+## 2024-01-20
+- `samsung_cn` 新增 Galaxy S24 系列。
+## 2024-01-18
+- `vivo_cn` 新增 vivo G2, Y100 GT。
+## 2024-01-17
+- `oppo_cn` 新增 OPPO Find X7 Ultra 卫星通信版。
+## 2024-01-11
+- `honor_cn` 新增 荣耀 Magic6 系列。
+- `huawei_cn` 增补 部分遗漏型号。
+- `xiaomi` 新增 POCO M6 Pro, Redmi Note 13 Pro 4G。
+## 2024-01-09
+- `asus` 新增 ROG Phone 8。
+## 2023-12-29
+- `xiaomi` 新增 Redmi Note 13 4G 国际版。
+## 2023-12-26
+- `honor_cn` 新增 荣耀 X50 Pro, 荣耀笔记本 X 2024。
+- `huawei_cn` 新增 nova 12 系列, HUAWEI MatePad Pro 13.2 典藏版。
+## 2023-12-22
+- `motorola` 新增 moto g34。
+## 2023-12-18
+- `honor_cn` 新增 荣耀 90 GT, 荣耀平板 9。
+## 2023-12-15
+- `nubia` 新增 nubia Neo 5G。
+## 2023-12-14
+- `vivo_cn` 新增 vivo S18 系列, iQOO Neo9 系列。
+## 2023-12-13
+- `nubia` 新增 nubia Z50 SE, Z60 Ultra。
+## 2023-12-11
+- `oppo_cn` 新增 OPPO Find X7 系列。
+- `xiaomi` 新增 部分 POCO 型号。
+## 2023-12-09
+- `oneplus` 新增 一加 Ace 3。
+## 2023-11-29
+- `xiaomi` 新增 部分海外型号。
+## 2023-11-28
+- `huawei_cn` 新增 HUAWEI MatePad Pro 11 2024, 畅享 70 系列。
 ## 2023-11-24
 - `oppo_cn` 补充更多代号。
 ## 2023-11-22

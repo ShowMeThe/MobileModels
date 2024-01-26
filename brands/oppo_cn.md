@@ -58,6 +58,16 @@
 
 `PGEM10`: OPPO Find X6 Pro
 
+**OPPO Find X7 (`nvwa`):**
+
+`PHZ110`: OPPO Find X7
+
+**OPPO Find X7 Ultra (`pangu`):**
+
+`PHY110`: OPPO Find X7 Ultra
+
+`PHY120`: OPPO Find X7 Ultra 卫星通信版
+
 ## Find N 系列
 
 **OPPO Find N (`peacock`):**
@@ -72,7 +82,7 @@
 
 `PGT110`: OPPO Find N2 Flip
 
-**OPPO Find N3 (`hedwig`):**
+**OPPO Find N3 (`xueying`):**
 
 `PHN110`: OPPO Find N3 / OPPO Find N3 典藏版
 
@@ -550,7 +560,7 @@
 
 `OPD2102`: OPPO Pad Air
 
-**OPPO Pad 2:**
+**OPPO Pad 2 (`aries`):**
 
 `OPD2201`: OPPO Pad 2
 
@@ -592,6 +602,10 @@
 
 `OWW213`: OPPO Watch 3 SE
 
-**OPPO Watch 4 (`comet`):**
+**OPPO Watch 4 Pro (`comet`):**
 
 `OWW221`: OPPO Watch 4 Pro
+
+**OPPO Watch 4 Round (`star`):**
+
+`OWW231`: OPPO Watch 4 Round

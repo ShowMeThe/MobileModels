@@ -341,6 +341,18 @@
 
 `RMX3710`: realme C55
 
+**realme C67:**
+
+`RMX3890`: realme C67
+
+`RMX3782`: realme C67 5G
+
+## Note series
+
+**realme Note 50:**
+
+`RMX3834`: realme Note 50
+
 ## U series
 
 **realme U1:**

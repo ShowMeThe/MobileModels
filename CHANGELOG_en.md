@@ -1,4 +1,31 @@
 # CHANGELOG
+## 2024-01-23
+- `realme_global_en` Add realme Note 50.
+- `vivo_global_en` Add several new models.
+## 2024-01-11
+- `xiaomi_en` Add POCO M6 Pro, Redmi Note 13 Pro 4G.
+## 2024-01-03
+- `huawei_global_en` Add HUAWEI nova Y62.
+## 2023-12-30
+- `huawei_global_en` Add HUAWEI MatePad Pro 13.2.
+## 2023-12-29
+- `xiaomi_en` Add Redmi Note 13 4G.
+## 2023-12-24
+- `oppo_global_en` Add OPPO A59 5G.
+## 2023-12-23
+- `oneplus_en` Add Nord N30 SE.
+## 2023-12-18
+- `honor_global_en` Add HONOR X7b, X8b.
+## 2023-12-14
+- `realme_global_en` Add realme C67.
+## 2023-12-11
+- `vivo_global_en` Add several new models.
+- `xiaomi_en` Add several POCO models.
+## 2023-12-09
+- `oneplus_en` Add OnePlus Ace 3.
+## 2023-11-29
+- `mitv_global_en` Add several Indian models.
+- `xiaomi_en` Add Redmi 13C 5G, POCO X6 Pro 5G.
 ## 2023-11-21
 - `xiaomi_en` Add Redmi K70, POCO X6, Note 13R Pro.
 ## 2023-11-20

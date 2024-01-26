@@ -959,15 +959,25 @@
 
 `22126RN91Y`: Redmi 12C Global (NFC)
 
-**Redmi 13C (`gale`):**
+**[`C3U`] Redmi 13C (`gale`):**
 
 `23106RN0DA`: Redmi 13C Global
 
+`2311DRN14I`: Redmi 13C India
+
 `23100RN82L`: Redmi 13C Latin America
 
-**Redmi 13C (`gust`):**
+**[`C3UN`] Redmi 13C (`gust`):**
 
 `23108RN04Y`: Redmi 13C Global (NFC)
+
+**[`C3V`] Redmi 13C 5G / Redmi 13R 5G (`air`):**
+
+`23124RN87G`: Redmi 13C 5G Global
+
+`23124RN87I`: Redmi 13C 5G India
+
+`23124RN87C`: Redmi 13C 5G China / Redmi 13R 5G China
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
@@ -1401,13 +1411,29 @@
 
 `23049RAD8C`: Redmi Note 12 Turbo China
 
-**[`N17`] Redmi Note 13 5G (`gold`):**
+**[`N7`] Redmi Note 13 (`sapphire`):**
+
+`23129RAA4G`: Redmi Note 13 Global
+
+`23129RA5FL`: Redmi Note 13 Latin America
+
+**[`N7N`] Redmi Note 13 (`sapphiren`):**
+
+`23124RA7EO`: Redmi Note 13 Global (NFC)
+
+**[`N17`] Redmi Note 13 5G (`iron`):**
 
 `2312DRAABG`: Redmi Note 13 5G Global
+
+**[`N17`] Redmi Note 13 5G (`gold`):**
 
 `2312DRAABI`: Redmi Note 13 5G India
 
 `2312DRAABC`: Redmi Note 13 5G China
+
+**[`N6`] Redmi Note 13 Pro (`emerald`):**
+
+`23117RA68G`: Redmi Note 13 Pro Global
 
 **[`N16`] Redmi Note 13 Pro 5G (`garnet`):**
 
@@ -1657,6 +1683,12 @@
 
 `23013PC75G`: POCO F5 Pro Global
 
+**[`N11`] POCO F6 Pro (`vermeer`):**
+
+`23113RKC6G`: POCO F6 Pro Global
+
+`23113RKC6I`: POCO F6 Pro India
+
 **[`G7B`] POCO X2 (`phoenixin`):**
 
 `M1912G7BI`: POCO X2 India
@@ -1716,6 +1748,12 @@
 `23122PCD1G`: POCO X6 5G Global
 
 `23122PCD1I`: POCO X6 5G India
+
+**[`N11A`] POCO X6 Pro 5G (`duchamp`):**
+
+`2311DRK48G`: POCO X6 Pro 5G Global
+
+`2311DRK48I`: POCO X6 Pro 5G India
 
 **[`N17`] POCO X6 Neo (`gold`):**
 
@@ -1781,6 +1819,14 @@
 
 `2207117BPG`: POCO M5s Global
 
+**[`C3VP`] POCO M6 5G (`air`):**
+
+`23128PC33I`: POCO M6 5G India
+
+**[`N6P`] POCO M6 Pro (`emerald`):**
+
+`2312FPCA6G`: POCO M6 Pro Global
+
 **[`M19`] POCO M6 Pro 5G (`sky`):**
 
 `23076PC4BI`: POCO M6 Pro 5G India
@@ -1815,9 +1861,13 @@
 
 `22127PC95H` `22127PC95I`: POCO C55 India
 
-**POCO C65 (`gust`):**
+**[`C3UP`] POCO C65 (`gust`):**
 
 `2310FPCA4G`: POCO C65 Global
+
+**[`C3UP`] POCO C65 (`gale`):**
+
+`2310FPCA4I`: POCO C65 India
 
 ## Tablets
 
