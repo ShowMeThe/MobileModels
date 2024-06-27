@@ -334,6 +334,8 @@
 
 `SM-N9600`: Galaxy Note9 全网通版
 
+**Galaxy Note9 (`crownqltecmcc`):**
+
 `SM-N9608`: Galaxy Note9 4G+
 
 **Galaxy Note10 (`d1q`):**
@@ -581,6 +583,10 @@
 `SM-C9000`: Galaxy C9 Pro 全网通版
 
 `SM-C9008`: Galaxy C9 Pro 4G+
+
+**Galaxy C55 (`m55xq`):**
+
+`SM-C5560`: Galaxy C55 5G
 
 ## Galaxy J 系列
 

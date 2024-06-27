@@ -162,6 +162,14 @@
 
 `NX651J`: nubia Play
 
+**nubia Flip:**
+
+`NX724J`: nubia Flip
+
+**nubia 小牛:**
+
+`NX302J`: nubia 小牛
+
 **nubia My 布拉格:**
 
 `NX513J`: nubia My 布拉格 全网通版
@@ -199,6 +207,22 @@
 **nubia Neo:**
 
 `nubia 8150N`: nubia Neo 5G
+
+**nubia Neo 2:**
+
+`Z2352N`: nubia Neo 2 5G
+
+**nubia Music:**
+
+`Z2353`: nubia Music
+
+**nubia Blade A72:**
+
+`Z6255CA`: nubia Blade A72
+
+**nubia V50 Vita:**
+
+`nubia 8550`: nubia V50 Vita
 
 **nubia Pad 3D:**
 

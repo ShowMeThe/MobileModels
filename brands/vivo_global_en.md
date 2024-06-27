@@ -73,6 +73,10 @@
 
 `V2309`: vivo X100 Pro
 
+**vivo X Fold3 Pro:**
+
+`V2330`: vivo X Fold3 Pro
+
 **vivo V15:**
 
 `vivo 1819`: vivo V15
@@ -175,17 +179,39 @@
 
 `V2319`: vivo Y30 Pro
 
+**vivo V30e:**
+
+`V2339` `V2340`: vivo V30e
+
 **vivo V30 Lite:**
 
-`V2314`: vivo V30 Lite
+`V2342`: vivo V30 Lite
+
+`V2314` `V2327`: vivo V30 Lite 5G
 
 **vivo V30 SE:**
 
-`V2349`: vivo V30 SE
+`V2327` `V2349`: vivo V30 SE
+
+**vivo V40:**
+
+`V2348`: vivo V40
+
+**vivo V40 Pro:**
+
+`V2347`: vivo V40 Pro
+
+**vivo V40e:**
+
+`V2403`: vivo V40e
+
+**vivo V40 Lite:**
+
+`V2341`: vivo V40 Lite
 
 **vivo V40 SE:**
 
-`V2337`: vivo V40 SE 5G
+`V2337` `V2342`: vivo V40 SE 5G
 
 **vivo S1:**
 
@@ -227,6 +253,18 @@
 
 `V2253` `V2312`: vivo T2x 5G
 
+**vivo T3:**
+
+`V2334`: vivo T3 5G
+
+**vivo T3x:**
+
+`V2338`: vivo T3x 5G
+
+**vivo T3 Lite:**
+
+`V2356`: vivo T3 Lite 5G
+
 **vivo Y1s:**
 
 `vivo 1929` `vivo 2015` `vivo 2015_21`: vivo Y1s
@@ -262,6 +300,10 @@
 **vivo Y02t:**
 
 `V2252` `V2254` `V2325`: vivo Y02t
+
+**vivo Y03:**
+
+`V2332` `V2406`: vivo Y03
 
 **vivo Y11s:**
 
@@ -314,6 +356,18 @@
 **vivo Y17s:**
 
 `V2310` `V2331`: vivo Y17s
+
+**vivo Y18:**
+
+`V2333` `V2345`: vivo Y18
+
+**vivo Y18s:**
+
+`V2410`: vivo Y18s
+
+**vivo Y18e:**
+
+`V2350`: vivo Y18e
 
 **vivo Y19:**
 
@@ -401,7 +455,17 @@
 
 **vivo Y28:**
 
+`V2352` `V2353`: vivo Y28
+
 `V2315`: vivo Y28 5G
+
+**vivo Y28s:**
+
+`V2346` `V2351`: vivo Y28s 5G
+
+**vivo Y28e:**
+
+`V2407`: vivo Y28e 5G
 
 **vivo Y30:**
 
@@ -437,6 +501,10 @@
 
 `V2248`: vivo Y36 5G
 
+**vivo Y38:**
+
+`V2343`: vivo Y38 5G
+
 **vivo Y51:**
 
 `V2024` `V2030` `V2035`: vivo Y51
@@ -462,6 +530,10 @@
 **vivo Y56:**
 
 `V2225` `V2311`: vivo Y56 5G
+
+**vivo Y58:**
+
+`V2355`: vivo Y58 5G
 
 **vivo Y72:**
 
@@ -493,7 +565,9 @@
 
 **vivo Y100:**
 
-`V2239`: vivo Y100 5G
+`V2342` `V2412`: vivo Y100
+
+`V2239` `V2327`: vivo Y100 5G
 
 **vivo Y100A:**
 
@@ -502,6 +576,10 @@
 **vivo Y200:**
 
 `V2307`: vivo Y200 5G
+
+**vivo Y200 Pro:**
+
+`V2303` `V2401`: vivo Y200 Pro 5G
 
 **vivo Y200e:**
 
@@ -602,3 +680,15 @@
 **iQOO Z7 Pro:**
 
 `I2301`: iQOO Z7 Pro 5G
+
+**iQOO Z9:**
+
+`I2218` `I2302`: iQOO Z9 5G
+
+**iQOO Z9x:**
+
+`I2219`: iQOO Z9x 5G
+
+**iQOO Z9 Lite:**
+
+`I2306`: iQOO Z9 Lite 5G

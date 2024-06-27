@@ -1,4 +1,113 @@
 # CHANGELOG
+## 2024-06-24
+- `oneplus_en` Add OnePlus Pad Pro, OnePlus Watch 2 (China).
+## 2024-06-20
+- `realme_global_en` Add realme GT 6.
+## 2024-06-14
+- `oneplus_en` Add OnePlus Nord CE4 Lite.
+## 2024-06-12
+- `mitv_global_en` Add several new models.
+## 2024-06-07
+- `huawei_global_en` Add HUAWEI MatePad SE 11.
+## 2024-06-02
+- `realme_global_en` Add realme C63.
+## 2024-05-31
+- `oppo_global_en` Add OPPO Reno12 F.
+- `vivo_global_en` Add several new models.
+## 2024-05-30
+- `oneplus_en` Add OnePlus Ace 3 Pro.
+- `oppo_global_en` Add several new models.
+## 2024-05-28
+- `xiaomi_en` Add Redmi A3x, POCO M6 Plus 5G.
+## 2024-05-17
+- `vivo_global_en` Add several new models.
+- `xiaomi_en` Add Redmi Note 13R.
+## 2024-05-15
+- `huawei_global_en` Add HUAWEI MatePad 11.5" S.
+- `samsung_global_en` Add Galaxy M35 5G.
+## 2024-05-14
+- `realme_global_en` Add realme GT 6T.
+## 2024-05-13
+- `apple_en` Add iPad Pro (M4), iPad Air (M2).
+## 2024-05-10
+- `meizu_en` Add MEIZU 21 Note.
+- `vivo_global_en` Add several new models.
+## 2024-05-08
+- `google` Add Pixel 8a.
+## 2024-05-06
+- `xiaomi_en` Add Xiaomi 14 Civi.
+## 2024-05-03
+- `vivo_global_en` Add several new models.
+## 2024-05-02
+- `huawei_global_en` Add HUAWEI Pura 70 series.
+## 2024-05-01
+- `samsung_global_en` Add Galaxy A series, F series and M series.
+## 2024-04-29
+- `realme_global_en` Add several new models.
+## 2024-04-26
+- `honor_global_en` Add HONOR 200 Lite.
+## 2024-04-21
+- `xiaomi_en` Add Redmi 13 5G.
+## 2024-04-17
+- `oppo_global_en` Add OPPO A60.
+- `xiaomi_en` Add several new models.
+## 2024-04-15
+- `realme_global_en` Add realme P1 series.
+## 2024-04-10
+- `xiaomi_en` Add Redmi Pad Pro.
+## 2024-04-06
+- `vivo_global_en` Add vivo Y38.
+## 2024-04-05
+- `realme_global_en` Add several codenames.
+- `vivo_global_en` Add vivo T3x, iQOO Z9x.
+## 2024-04-03
+- `oneplus_en` Add OnePlus Nord CE4.
+- `vivo_global_en` Add several new models.
+## 2024-04-01
+- `xiaomi_en` Add Redmi Turbo 3.
+## 2024-03-27
+- `huawei_global_en` Add HUAWEI nova 12 series.
+## 2024-03-22
+- `samsung_global_en` Add Galaxy Z series, Galaxy Note 9 and onwards, Galaxy S10 series.
+## 2024-03-21
+- `samsung_global_en` Add Galaxy S20 and onwards.
+- `xiaomi_en` Add Xiaomi Civi 4 Pro, Xiaomi Watch 2.
+## 2024-03-19
+- `realme_global_en` Add NARZO 70 Pro 5G.
+## 2024-03-12
+- `xiaomi_en` Add POCO F6.
+## 2024-03-11
+- `oneplus_en` Add OnePlus Ace 3V.
+## 2024-03-09
+- `honor_global_en` Add several new models.
+## 2024-03-06
+- `realme_global_en` Add realme 12 5G.
+## 2024-03-05
+- `nothing` Add Nothing Phone (2a).
+- `vivo_global_en` Add vivo Y200 Pro.
+## 2024-03-01
+- `xiaomi_en` Add Redmi A3, POCO C61.
+## 2024-02-29
+- `honor_global_en` Add HONOR Magic6 Pro.
+- `meizu_en` Add MEIZU 21 PRO, Polestar Phone.
+- `oppo_global_en` Add OPPO F25 Pro 5G.
+- `realme_global_en` Add realme 12+ 5G.
+## 2024-02-22
+- `xiaomi_en` Add Xiaomi 14 Pro Ti Satellite Communication Edition.
+## 2024-02-19
+- `xiaomi_en` Add Xiaomi Pad 6S Pro 12.4.
+## 2024-02-07
+- `vivo_global_en` Add several new models.
+## 2024-02-06
+- `oppo_global_en` Add OPPO Reno11 F.
+- `xiaomi_en` Add Xiaomi 14 Ultra.
+## 2024-02-05
+- `honor_global_en` Add HONOR Pad 9.
+- `vivo_global_en` Add several new models.
+## 2024-01-30
+- `oneplus_en` Add OnePlus 12R Global variant.
+## 2024-01-29
+- `realme_global_en` Add realme 12 Pro series.
 ## 2024-01-23
 - `realme_global_en` Add realme Note 50.
 - `vivo_global_en` Add several new models.

@@ -2,7 +2,7 @@
 
 - 汇总范围: 2018 年起新型号命名方式的机型
 - codename: ✅
-- 是否包含海外机型: ❌
+- 是否包含海外机型: [单独汇总 (英文)](brands/vivo_global_en.md)
 
 ## NEX 系列
 
@@ -190,6 +190,28 @@
 
 `V2324A`: vivo X100 Pro
 
+**vivo X Fold3 (`PD2303`):**
+
+`V2303A`: vivo X Fold3
+
+**vivo X Fold3 Pro (`PD2337`):**
+
+`V2337A`: vivo X Fold3 Pro
+
+**vivo X100s (`PD2359`):**
+
+`V2359A`: vivo X100s
+
+**vivo X100s Pro (`PD2324`):**
+
+`V2324HA`: vivo X100s Pro
+
+**vivo X100 Ultra (`PD2366`):**
+
+`V2366GA`: vivo X100 Ultra
+
+`V2366HA`: vivo X100 Ultra 卫星通信版
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -310,6 +332,14 @@
 
 `V2334A`: vivo S18e
 
+**vivo S19 (`PD2364`):**
+
+`V2364A`: vivo S19
+
+**vivo S19 Pro (`PD2362`):**
+
+`V2362A`: vivo S19 Pro
+
 ## vivo Y 系列
 
 **vivo Y3 (`PD1901`):**
@@ -410,11 +440,11 @@
 
 **vivo Y32t (`PD2168`):**
 
-`V2168A`: vivo Y32t (8GB+128GB)
+`V2168A`: vivo Y32t (P70)
 
 **vivo Y32t (`PD2180`):**
 
-`V2180A`: vivo Y32t (8GB+256GB)
+`V2180A`: vivo Y32t (骁龙 680)
 
 **vivo Y33s (`PD2166`):**
 
@@ -436,9 +466,13 @@
 
 `V2279A`: vivo Y35+ 5G / vivo Y35m+ 5G
 
-**vivo Y36 / vivo Y36m / vivo Y36i (`PD2318`):**
+**vivo Y36 / vivo Y36m / vivo Y36i / vivo Y36s (`PD2318`):**
 
-`V2318A`: vivo Y36 5G / vivo Y36m 5G / vivo Y36i 5G
+`V2318A`: vivo Y36 5G / vivo Y36m 5G / vivo Y36i 5G / vivo Y36s 5G
+
+**vivo Y36t (`PD2327`):**
+
+`V2327A`: vivo Y36t
 
 **vivo Y50 (`PD1965`):**
 
@@ -618,9 +652,9 @@
 
 `V2313A`: vivo Y100 5G
 
-**vivo Y100 GT (`PD2314`):**
+**vivo Y100t (`PD2314`):**
 
-`V2314DA`: vivo Y100 GT 5G
+`V2314DA`: vivo Y100t 5G
 
 **vivo Y100i (`PD2279`):**
 
@@ -629,6 +663,22 @@
 **vivo Y100i 长续航版 (`PD2312`):**
 
 `V2312BA`: vivo Y100i 长续航版 5G
+
+**vivo Y200 (`PD2343`):**
+
+`V2343A`: vivo Y200 5G
+
+**vivo Y200 GT (`PD2361`):**
+
+`V2361GA`: vivo Y200 GT 5G
+
+**vivo Y200t (`PD2353`):**
+
+`V2353DA`: vivo Y200t 5G
+
+**vivo Y200i (`PD2354`):**
+
+`V2354A`: vivo Y200i 5G
 
 ## vivo T 系列
 
@@ -892,6 +942,10 @@
 
 `V2339A`: iQOO Neo9 Pro
 
+**iQOO Neo9S Pro (`PD2339`):**
+
+`V2339FA`: iQOO Neo9S Pro
+
 ## iQOO Z 系列
 
 **iQOO Z1 (`PD1986`):**
@@ -916,7 +970,7 @@
 
 **iQOO Z6 (`PD2220`):**
 
-`V2220A`: iQOO Z6
+`V2220A`: iQOO Z6 / iQOO Z6 活力版
 
 **iQOO Z6x (`PD2164U`):**
 
@@ -941,6 +995,18 @@
 **iQOO Z8x (`PD2312`):**
 
 `V2312A`: iQOO Z8x
+
+**iQOO Z9 (`PD2361`):**
+
+`V2361A`: iQOO Z9
+
+**iQOO Z9 Turbo (`PD2352`):**
+
+`V2352A`: iQOO Z9 Turbo
+
+**iQOO Z9x (`PD2353`):**
+
+`V2353A`: iQOO Z9x
 
 ## iQOO U 系列
 
@@ -990,6 +1056,26 @@
 
 `PA2353`: vivo Pad Air
 
+**vivo Pad3 (`DPD2345`):**
+
+`PA2455`: vivo Pad3
+
+**vivo Pad3 Pro (`DPD2329`):**
+
+`PA2473`: vivo Pad3 Pro
+
 **iQOO Pad (`DPD2307`):**
 
 `iPA2375`: iQOO Pad
+
+**iQOO Pad Air (`DPD2305`):**
+
+`iPA2451`: iQOO Pad Air
+
+**iQOO Pad2 (`DPD2345`):**
+
+`iPA2453`: iQOO Pad2
+
+**iQOO Pad2 Pro (`DPD2329`):**
+
+`iPA2475`: iQOO Pad2 Pro

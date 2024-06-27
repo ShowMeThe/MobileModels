@@ -169,3 +169,19 @@
 **moto g34 (`fogos`):**
 
 `XT2363-4`: moto g34
+
+**moto X50 Ultra (`ctwo`):**
+
+`XT2401-2`: moto X50 Ultra
+
+**moto S50 Neo (`malmo`):**
+
+`XT2427-4`: moto S50 Neo
+
+**moto razr 50 (`aito`):**
+
+`XT2453-2`: moto razr 50
+
+**moto razr 50 Ultra (`arcfox`):**
+
+`XT2451-4`: moto razr 50 Ultra

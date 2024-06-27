@@ -105,6 +105,10 @@
 
 `MIZ-BD00`: Hi nova 11 5G
 
+**Hi nova 12 SE:**
+
+`SUP-BD00`: Hi nova 12 SE 5G
+
 ## 雷鸟 FFALCON
 
 **雷鸟 FF1:**
@@ -142,3 +146,7 @@
 **Hi 畅享 60 Pro:**
 
 `LGN-AN00`: Hi 畅享 60 Pro 5G
+
+**Hi 畅享 70 Pro:**
+
+`BAL-AN20`: Hi 畅享 70 Pro 5G

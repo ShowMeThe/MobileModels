@@ -22,7 +22,7 @@
 | [coolpad](brands/coolpad.md) | 酷派 (Coolpad) | 酷派近年智能手机机型 | ❌ | ❌ | -- |
 | [google](brands/google.md) | Google | Google Pixel 手机/平板/手表 | ✅ | ✅ | -- |
 | [honor_cn](brands/honor_cn.md) | 荣耀 (HONOR) | 荣耀手机/平板/笔记本电脑/智慧屏/穿戴设备 | ⏹ | ⏹ | [海外机型单独汇总](brands/honor_global_en.md) |
-| [huawei_cn](brands/huawei_cn.md) | 华为 (HUAWEI) | 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及穿戴设备 | ⏹ | ⏹ | [海外机型单独汇总](brands/huawei_global_en.md)；[其他早期型号参阅此处](misc/early-huawei-models.md) |
+| [huawei_cn](brands/huawei_cn.md) | 华为 (HUAWEI) | 华为 Mate/Pura/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及穿戴设备 | ⏹ | ⏹ | [海外机型单独汇总](brands/huawei_global_en.md)；[其他早期型号参阅此处](misc/early-huawei-models.md) |
 | [lenovo](brands/lenovo.md) | 联想 (Lenovo) | 联想品牌 2017 年起上市的机型、ZUK 全部机型 | ✅ | ❌ | -- |
 | [letv](brands/letv.md) | 乐视 (Letv) | 全部手机机型 | ❌ | ❌ | 不包含电视产品 |
 | [meizu](brands/meizu.md) | 魅族 (MEIZU) | 全部机型 | ✅ | ✅ | -- |
@@ -33,12 +33,13 @@
 | [nubia](brands/nubia.md) | 努比亚 (nubia) | 全部机型 | ❌ | ⏹ | -- |
 | [oneplus](brands/oneplus.md) | 一加 (OnePlus) | 全部机型 | ✅ | ✅ | -- |
 | [oppo_cn](brands/oppo_cn.md) | OPPO | 2018 年起新型号命名方式的机型 | ⏹ | ⏹ | [海外机型单独汇总](brands/oppo_global_en.md) |
-| [realme_cn](brands/realme_cn.md) | 真我 (realme) | 全部机型 | ❌ | ✅ | [海外机型单独汇总](brands/realme_global_en.md) |
+| [realme_cn](brands/realme_cn.md) | 真我 (realme) | 全部机型 | ⏹ | ✅ | [海外机型单独汇总](brands/realme_global_en.md) |
 | [samsung_cn](brands/samsung_cn.md) | 三星 (Samsung) | Galaxy S/Note/A/Z/M/C/J/On/Tab/心系天下系列及个别其他机型 | ✅ | ⏹ | [海外机型单独汇总](brands/samsung_global_en.md)；[其他早期型号参阅此处](misc/early-samsung-models.md) |
 | [smartisan](brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | ✅ | ❌ | -- |
 | [sony_cn](brands/sony_cn.md) | 索尼 (SONY) | 国内上市的较新款机型 | ❌ | ❌ | -- |
 | [vivo_cn](brands/vivo_cn.md) | vivo | 2018 年起新型号命名方式的机型 | ✅ | ❌ | [海外机型单独汇总](brands/vivo_global_en.md) |
-| [xiaomi](brands/xiaomi.md) | 小米 (Xiaomi) | 小米/Redmi/POCO 手机、小米/Redmi 平板等 | ✅ | ✅ | -- |
+| [xiaomi](brands/xiaomi.md) | 小米 (Xiaomi) | 小米/Redmi/POCO 手机 & 平板等 | ✅ | ✅ | -- |
+| [xiaomi-wear](brands/xiaomi-wear.md) | 小米 (Xiaomi) | 小米/Redmi 手表、手环等穿戴设备 | ⏹ | ✅ | -- |
 | [zhixuan](brands/zhixuan.md) | 华为智选 | U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO | ❌ | ❌ | -- |
 | [zte](brands/zte.md) | 中兴 (ZTE) | 2017 年起上市的机型 | ❌ | ❌ | -- |
 
@@ -51,6 +52,9 @@
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a> 进行许可。
 
 ## 项目历史
+
+### 2024 年 3 月
+- 将本项目 csv 及脚本迁移至 [此 repo](https://github.com/KHwang9883/MobileModels-csv)，使用 GitHub Actions 自动更新。
 
 ### 2022 年 4 月
 - 新增 [各大手机厂商 BL 解锁/内核开源情况](misc/bootloader-kernel-source.md) 汇总。

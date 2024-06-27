@@ -22,6 +22,10 @@
 
 `M1805E2C`: 小米 8 SE 联通电信定制版 (未上市)
 
+**[`N2`] Xiaomi 14 Pro (`shennong`):**
+
+`23116PN5BG`: Xiaomi 14 Pro 国际版 (未上市)
+
 **[`B3_PRO`] 小米 Max (`helium`):**
 
 `2016006`: 小米 Max 高配版 未知版本 (未上市)
@@ -102,19 +106,27 @@
 
 `21121210AC`: 该设备为 Redmi 系列，搭载骁龙 870 处理器。
 
+**[`L10`] POGO F4 GT (`ingres`):**
+
+`21121210I`: POCO F4 GT 印度版 (未上市)
+
 **[`L11`] POCO F4 Pro / 未知设备 (`matisse`):**
 
 `22011211G`: POCO F4 Pro 国际版 (未上市)
 
 `22011211I`: 该设备为 Xiaomi 系列印度版，搭载天玑 9000 处理器。
 
-**[`C3QP`] POCO C40 (`frost`):**
-
-`220333QPI`: POCO C40 印度版 (未上市)
-
 **[`M11A`] POCO F5 Pro (`mondrian`):**
 
 `23013PC75I`: POCO F5 Pro 印度版 (未上市)
+
+**[`N11`] POCO F6 Pro (`vermeer`):**
+
+`23113RKC6I`: POCO F6 Pro 印度版 (未上市)
+
+**[`C3QP`] POCO C40 (`frost`):**
+
+`220333QPI`: POCO C40 印度版 (未上市)
 
 ## 小米电视
 

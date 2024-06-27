@@ -1,6 +1,6 @@
 # HUAWEI Global Mobile Phone Models
 
-- Range: HUAWEI Mate, P, nova & Y series, MediaPad & MatePad series (excluding Chinese models)
+- Range: HUAWEI Mate, Pura, nova & Y series, MediaPad & MatePad series (excluding Chinese models)
 - Codename: ✅
 
 ## HUAWEI Mate Series
@@ -143,7 +143,7 @@
 
 `ALT-L29`: HUAWEI Mate X3
 
-## HUAWEI P Series
+## HUAWEI P/Pura Series
 
 **HUAWEI Ascend P6:**
 
@@ -270,6 +270,18 @@
 **HUAWEI P60 Pro (`Mona`):**
 
 `MNA-LX9`: HUAWEI P60 Pro
+
+**HUAWEI Pura 70 (`Audrey`):**
+
+`ADY-LX9`: HUAWEI Pura 70
+
+**HUAWEI Pura 70 Pro (`Hapburn`):**
+
+`HBN-LX9`: HUAWEI Pura 70 Pro
+
+**HUAWEI Pura 70 Ultra (`HapburnP`):**
+
+`HBP-LX9`: HUAWEI Pura 70 Ultra
 
 **HUAWEI P smart (`Figo`):**
 
@@ -405,13 +417,25 @@
 
 `FOA-LX9`: HUAWEI nova 11
 
-**HUAWEI nova 11 Pro (`Giona`):**
+**HUAWEI nova 11 Pro (`Gloria`):**
 
 `GOA-LX9`: HUAWEI nova 11 Pro
 
-**HUAWEI nova 11i:**
+**HUAWEI nova 11i (`Mario`):**
 
 `MAO-LX9` `MAO-LX9N`: HUAWEI nova 11i
+
+**HUAWEI nova 12s (`Fiona`):**
+
+`FOA-LX9`: HUAWEI nova 12s
+
+**HUAWEI nova 12i (`Cartier`):**
+
+`CTR-L81`: HUAWEI nova 12i
+
+**HUAWEI nova 12 SE (`Bonnie`):**
+
+`BNE-LX1` `BNE-LX3`: HUAWEI nova 12 SE
 
 **HUAWEI nova Y60 (`Wukong`):**
 
@@ -425,11 +449,19 @@
 
 `MGA-LX9` `MGA-LX9N` `MGA-LX3`: HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71
 
-**HUAWEI nova Y90:**
+**HUAWEI nova Y72 (`Mega`):**
+
+`MGA-LX3`: HUAWEI nova Y72
+
+**HUAWEI nova Y73 (`Goofy`):**
+
+`GFY-LX1`: HUAWEI nova Y73
+
+**HUAWEI nova Y90 (`Cartier`):**
 
 `CTR-LX1` `CTR-LX2` `CTR-LX3`: HUAWEI nova Y90
 
-**HUAWEI nova Y91:**
+**HUAWEI nova Y91 (`Santiago`):**
 
 `STG-LX1` `STG-LX2`: HUAWEI nova Y91
 
@@ -641,6 +673,10 @@
 
 `DBR-W19`: HUAWEI MatePad 11 2023 PaperMatte Edition Wi-Fi
 
+**HUAWEI MatePad 11.5" S (`Tagore`):**
+
+`TGR-W09`: HUAWEI MatePad 11.5" S Wi-Fi
+
 **HUAWEI MatePad Air (`Debussy2`):**
 
 `DBY2-W09`: HUAWEI MatePad Air Wi-Fi
@@ -732,6 +768,12 @@
 `AGS5-W09`: HUAWEI MatePad SE 10.4 Wi-Fi
 
 `AGS5-L09`: HUAWEI MatePad SE 10.4 LTE
+
+**HUAWEI MatePad SE 11 (`Agassi6`):**
+
+`AGS6-W09`: HUAWEI MatePad SE 11 Wi-Fi
+
+`AGS6-L09`: HUAWEI MatePad SE 11 LTE
 
 **HUAWEI MatePad C3 (`Kobe2K`):**
 

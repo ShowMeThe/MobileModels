@@ -187,53 +187,77 @@
 
 **HONOR 50 (`Nottingham`):**
 
-`NTH-NX9`: HONOR 50 5G
+`NTH-NX9`: HONOR 50
 
 **HONOR 50 Lite (`NewtonH`):**
 
-`NTN-LX1` `NTN-L22` `NTN-LX3`: HONOR 50 Lite 5G
+`NTN-LX1` `NTN-L22` `NTN-LX3`: HONOR 50 Lite
 
 **HONOR 70:**
 
-`FNE-NX9`: HONOR 70 5G
+`FNE-NX9`: HONOR 70
 
 **HONOR 70 Lite:**
 
-`RBN-NX1`: HONOR 70 Lite 5G
+`RBN-NX1`: HONOR 70 Lite
 
 **HONOR 90:**
 
-`REA-NX9`: HONOR 90 5G
+`REA-NX9`: HONOR 90
 
 **HONOR 90 Lite (`Cartier`):**
 
-`CRT-NX1` `CRT-NX3`: HONOR 90 Lite 5G
+`CRT-NX1` `CRT-NX3`: HONOR 90 Lite
+
+**HONOR 90 Smart (`Clark`):**
+
+`CLK-NX1` `CLK-NX3`: HONOR 90 Smart
+
+**HONOR 200 Lite (`Lily`):**
+
+`LLY-NX1`: HONOR 200 Lite
 
 **HONOR Magic4 Pro (`Lange`):**
 
-`LGE-NX9`: HONOR Magic4 Pro 5G
+`LGE-NX9`: HONOR Magic4 Pro
 
 **HONOR Magic4 Lite (`Andy`):**
 
-`ANY-LX1`: HONOR Magic4 Lite
+`ANY-LX1` `ANY-LX2` `ANY-LX3`: HONOR Magic4 Lite
 
 `ANY-NX1`: HONOR Magic4 Lite 5G
 
-**HONOR Magic Vs:**
+**HONOR Magic Vs (`Ferrari`):**
 
 `FRI-NX9`: HONOR Magic Vs
 
 **HONOR Magic5 (`Piaget`):**
 
-`PGT-N09`: HONOR Magic5 5G
+`PGT-N09`: HONOR Magic5
 
 **HONOR Magic5 Pro (`Piaget`):**
 
-`PGT-N19`: HONOR Magic5 Pro 5G
+`PGT-N19`: HONOR Magic5 Pro
 
 **HONOR Magic5 Lite 5G (`Rambo`):**
 
 `RMO-NX1` `RMO-NX3`: HONOR Magic5 Lite 5G
+
+**HONOR Magic V2:**
+
+`VER-N49`: HONOR Magic V2
+
+**PORSCHE DESIGN HONOR Magic V2 RSR:**
+
+`VER-N49DP`: PORSCHE DESIGN HONOR Magic V2 RSR
+
+**HONOR Magic6 Pro (`Bvlgari`):**
+
+`BVL-N49`: HONOR Magic6 Pro
+
+**PORSCHE DESIGN HONOR Magic6 RSR (`Bvlgari`):**
+
+`BVL-N59`: PORSCHE DESIGN HONOR Magic6 RSR
 
 **HONOR Magic6 Lite 5G (`Ali`):**
 
@@ -273,9 +297,15 @@
 
 `RKY-LX1` `RKY-LX2` `RKY-LX3`: HONOR X7a
 
+`RKY-LX1`: HONOR X7a Plus
+
 **HONOR X7b (`Clark`):**
 
 `CLK-LX1` `CLK-LX2` `CLK-LX3`: HONOR X7b
+
+**HONOR X7b 5G (`Clark`):**
+
+`CLK-NX1` `CLK-NX2`: HONOR X7b 5G
 
 **HONOR X8 (`Tiffany`):**
 
@@ -311,7 +341,7 @@
 
 **HONOR X9b 5G (`Ali`):**
 
-`ALI-NX1`: HONOR X9b 5G
+`ALI-NX1` `ALI-NX3P`: HONOR X9b 5G
 
 **HONOR Pad 8 (`Hendry`):**
 
@@ -326,6 +356,12 @@
 **HONOR Pad X8 Lite (`AgassiRM`):**
 
 `AGM-W09HN`: HONOR Pad X8 Lite
+
+**HONOR Pad 9 (`Hendry2`):**
+
+`HEY2-W09`: HONOR Pad 9 Wi-Fi
+
+`HEY2-N09`: HONOR Pad 9 5G
 
 **HONOR Pad X9 (`Eileen`):**
 

@@ -1,4 +1,158 @@
 # 更新日志
+## 2024-06-26
+- `huawei_cn` 新增 HUAWEI Pura 70 北斗卫星消息版。
+## 2024-06-25
+- `motorola` 新增 moto razr 50, S50 Neo。
+- `zte` 新增 中兴远航 60, 远航 3D。
+## 2024-06-24
+- `oneplus` 新增 一加平板 Pro, 一加手表 2。
+- `oppo_cn` 新增 OPPO A3 5G。
+## 2024-06-21
+- `honoer_cn` 新增 荣耀畅玩 60 Plus。
+## 2024-06-18
+- `realme_cn` 新增 真我 V60/V60s。
+## 2024-06-14
+- `nubia` 新增 部分海外型号。
+- `oneplus` 新增 OnePlus Nord CE4 Lite。
+## 2024-06-12
+- `honor_cn` 新增 荣耀 Magic V Flip。
+## 2024-05-31
+- `vivo_cn` 新增 vivo Y36s。
+## 2024-05-30
+- `oneplus` 新增 一加 Ace 3 Pro。
+- `oppo_cn` 新增 OPPO A3 系列。
+## 2024-05-28
+- `xiaomi` 新增 Redmi A3x, POCO M6 Plus 5G。
+## 2024-05-27
+- `honor_cn` 新增 荣耀 200 系列。
+## 2024-05-26
+- `huawei_cn` 新增 华为畅享 70S。
+- `zte` 新增 中兴 Axon 60 Ultra。
+## 2024-05-23
+- `vivo_cn` 新增 iQOO Pad2, vivo Pad3, Y36t。
+## 2024-05-19
+- `coolpad` 新增 酷派 COOL 60。
+- `mitv_cn` 新增 Redmi MAX 85。
+## 2024-05-18
+- `honor_cn` 新增 荣耀 Play8T Pro。
+## 2024-05-17
+- `realme_cn` 新增 真我 12。
+- `xiaomi` 新增 Redmi Note 13R。
+## 2024-05-16
+- `lenovo` 新增 小新 Pad Studio。
+- `motorola` 新增 moto X50 Ultra。
+## 2024-05-15
+- `honor_cn` 新增 荣耀笔记本 X 2024 锐龙版。
+- `huawei_cn` 新增 MatePad 11.5 S, MateBook 14 2024, nova 12 Ultra 星耀版。
+## 2024-05-14
+- `oppo_cn` 新增 OPPO K12x。
+## 2024-05-13
+- `apple` 新增 iPad Pro (M4), iPad Air (M2)。
+- `vivo_cn` 新增 X100s, X100 Ultra, S19, Y200 系列, iQOO Neo9S Pro & Pad2 Pro。
+## 2024-05-10
+- `meizu` 新增 魅族 21 Note。
+- `oppo_cn` 新增 OPPO Reno12 系列。
+## 2024-05-06
+- `xiaomi` 新增 Xiaomi 14 Civi 印度版。
+## 2024-04-26
+- `honor_cn` 新增 荣耀平板 Z7。
+## 2024-04-25
+- `honor_cn` 新增 荣耀平板 9 Pro。
+## 2024-04-22
+- `samsung_cn` 新增 Galaxy C55。
+- `zhixuan` 新增 Hi nova 12 SE。
+## 2024-04-21
+- `xiaomi` 新增 Redmi 13 5G。
+## 2024-04-19
+- `huawei_cn` 新增 华为 Vision 智慧屏 4 系列。
+## 2024-04-18
+- `huawei_cn` 新增 HUAWEI Pura 70 系列。
+## 2024-04-17
+- `mitv_cn` 新增 Redmi 智能电视 A 2025 款。
+- `xiaomi` 新增 即将上市新型号。
+## 2024-04-12
+- `oppo_cn` 新增 OPPO A1s/A1i。
+## 2024-04-11
+- `huawei_cn` 新增 HUAWEI MateBook X Pro 2024。
+- `vivo_cn` 新增 iQOO Z9 系列, vivo Y200i。
+## 2024-04-10
+- `mitv_cn` 新增 Redmi 智能电视 MAX 100 2025 款。
+- `xiaomi` 新增 Redmi Pad Pro。
+## 2024-04-09
+- `huawei_cn` 新增 华为智慧屏 S5。
+## 2024-04-08
+- `huawei_cn` 新增 HUAWEI MatePad Pro 13.2 全网通版。
+- `oppo_cn` 新增 OPPO K12。
+## 2024-04-07
+- `huawei_cn` 新增 华为手环 9。
+## 2024-04-05
+- `realme_cn` 增补部分机型代号。
+## 2024-04-04
+- `lenovo` 新增 联想小新 Pad Plus 舒视版。
+## 2024-04-03
+- `oneplus` 新增 OnePlus Nord CE4。
+- `oppo_cn` 新增 OPPO A3 Pro。
+## 2024-04-02
+- `coolpad` 新增 酷派大观 C60。
+- `nubia` 新增 努比亚小牛。
+- `realme_cn` 新增 真我 GT Neo6 系列。
+## 2024-04-01
+- `xiaomi` 新增 Redmi Turbo 3。
+## 2024-03-28
+- `mitv_cn` 新增 小米电视 S85 Mini LED。
+- `oneplus` 新增 OnePlus Nord 4。
+## 2024-03-26
+- `honor_cn` 新增 荣耀畅玩 50。
+- `vivo_cn` 新增 vivo Pad3 Pro。
+## 2024-03-22
+- `honor_cn` 新增 荣耀手表 GS 4。
+## 2024-03-21
+- `coolpad` 新增 酷派大观 3 Plus。
+- `xiaomi` 新增 Xiaomi Civi 4 Pro。
+- `xiaomi-wear` 新增 小米穿戴设备型号汇总。
+## 2024-03-20
+- `realme_cn` 新增 真我 12x。
+- `zte` 新增 中兴畅行 60。
+## 2024-03-19
+- `huawei_cn` 新增 华为智慧屏 V5 75。
+## 2024-03-18
+- `honor_cn` 新增 荣耀 MagicBook Pro 16, 荣耀手环 9。
+- `zhixuan` 新增 Hi 畅享 70 Pro。
+## 2024-03-14
+- `mitv_cn` 新增 小米电视 S Mini LED。
+## 2024-03-12
+- `xiaomi` 新增 POCO F6。
+## 2024-03-11
+- `oneplus` 新增 一加 Ace 3V。
+## 2024-03-08
+- `honor_cn` 新增 荣耀 Magic6 至臻版 & RSR 保时捷设计。
+- `zte` 新增 中兴远航 41S。
+## 2024-03-02
+- `nubia` 新增 nubia Flip, Neo 2, Blade A72。
+## 2024-03-01
+- `xiaomi` 新增 Redmi A3, POCO C61。
+## 2024-02-29
+- `meizu` 新增 魅族 21 PRO, 极星手机。
+- `vivo_cn` 新增 vivo X Fold3 系列, iQOO Pad Air。
+## 2024-02-22
+- `huawei_cn` 新增 HUAWEI Pocket 2, 华为畅享 70z。
+- `xiaomi` 新增 Xiaomi 14 Pro 钛金属卫星通讯版。
+## 2024-02-19
+- `xiaomi` 新增 Xiaomi Pad 6S Pro 12.4。
+## 2024-02-18
+- `vivo_cn` 新增 vivo Y100t。
+## 2024-02-06
+- `xiaomi` 新增 Xiaomi 14 Ultra。
+## 2024-02-05
+- `honor_cn` 增补 荣耀 Magic6 代号。
+## 2024-01-31
+- `coolpad` 新增 酷派大观 3, 酷派金世纪 Y60。
+- `honor_cn` 新增 荣耀平板 9 5G 版。
+## 2024-01-30
+- `huawei_cn` 新增部分商用型号。
+- `oneplus` 增补 OnePlus 12R 海外版型号。
+## 2024-01-29
+- `realme_cn` 新增 真我 12 Pro 系列。
 ## 2024-01-25
 - `huawei_cn` 增补 HUAWEI MatePad 11.5 全网通版。
 ## 2024-01-24
@@ -6,7 +160,7 @@
 ## 2024-01-20
 - `samsung_cn` 新增 Galaxy S24 系列。
 ## 2024-01-18
-- `vivo_cn` 新增 vivo G2, Y100 GT。
+- `vivo_cn` 新增 vivo G2。
 ## 2024-01-17
 - `oppo_cn` 新增 OPPO Find X7 Ultra 卫星通信版。
 ## 2024-01-11
