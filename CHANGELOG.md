@@ -1,4 +1,128 @@
 # 更新日志
+## 2024-10-24
+- `xiaomi` 新增 Xiaomi 15 系列, Pad 7 系列。
+## 2024-10-23
+- `mitv_cn` 新增 Redmi 智能电视 X 2025。
+## 2024-10-22
+- `huawei_cn` 新增 nova 13, HUAWEI WATCH Ultimate 非凡探索。
+## 2024-10-21
+- `apple` 新增 iPad mini (A17 Pro)。
+## 2024-10-18
+- `zte` 新增 中兴畅行 60 Plus。
+## 2024-10-16
+- `honor_cn` 新增 荣耀 X60, 荣耀平板 GT Pro & X9。
+## 2024-10-14
+- `mitv_cn` 新增 小米电视 S Pro Mini LED 2025。
+- `motorola` 新增 moto g55。
+- `vivo_cn` 新增 vivo X200 系列, iQOO 13。
+## 2024-10-12
+- `oppo_cn` 新增 OPPO A3i。
+- `zte` 新增 中兴远航 61。
+## 2024-10-11
+- `samsung_cn` 新增 三星 Galaxy Tab S10+/Ultra。
+## 2024-09-29
+- `lenovo` 新增 联想拯救者 Y700 (2024)。
+## 2024-09-28
+- `honor_cn` 新增 荣耀 MagicBook Art 14 骁龙版。
+## 2024-09-27
+- `oppo_cn` 新增 Find X8 系列, OPPO Pad 3 Pro, K12 Plus。
+## 2024-09-26
+- `honor_cn` 增补部分产品代号。
+- `xiaomi` 新增 Redmi Note 14 系列。
+## 2024-09-24
+- `honor_cn` 新增 荣耀笔记本 X16 2025。
+- `huawei_cn` 新增 华为智慧屏 V5 Max。
+## 2024-09-23
+- `honor_cn` 新增 荣耀 Play9C。
+- `meizu` 新增 红旗手机, 魅族 Lucky 08。
+- `oneplus` 新增 OnePlus 13。
+- `vivo_cn` 新增 iQOO Z9 Turbo+。
+## 2024-09-20
+- `apple` 新增 iPhone 16, Apple Watch Series 10。
+- `huawei_cn` 新增 HUAWEI WATCH GT 5, WATCH D2。
+## 2024-09-18
+- `xiaomi` 新增 Redmi 14R 5G。
+## 2024-09-11
+- `realme_cn` 新增 真我 13。
+## 2024-09-10
+- `apple` 新增 Apple Vision Pro, Apple TV。
+- `huawei_cn` 新增 HUAWEI Mate XT 非凡大师。
+## 2024-09-07
+- `mitv_cn` 新增 Redmi 智能电视 A Pro, Redmi MAX 85 2025。
+## 2024-09-05
+- `honor_cn` 新增 荣耀 Magic V3 双卫星版。
+- `meizu` 新增 LYNK & CO Phone。
+- `nubia` 新增 红魔电竞平板 Pro, 红魔平板 3D 探索版。
+- `xiaomi` 新增 Redmi 14C, Redmi A3 Pro。
+## 2024-09-02
+- `honor_cn` 新增 荣耀 Play9T。
+## 2024-09-01
+- `zhixuan` 新增 Hi 畅享 70。
+## 2024-08-29
+- `motorola` 新增 moto S50。
+## 2024-08-28
+- `vivo_cn` 新增 vivo Y36c。
+## 2024-08-27
+- `coolpad` 新增 酷派锋尚 50 Lite。
+## 2024-08-22
+- `huawei_cn` 新增 华为 Vision 智慧屏 4 Pro。
+- `realme_cn` 新增 真我 13 Pro 系列。
+## 2024-08-16
+- `honor_cn` 增补部分平板型号。
+- `vivo_cn` 新增 Y300 Pro, Y100+。
+- `xiaomi` 新增 POCO Pad 5G。
+## 2024-08-14
+- `google` 新增 Pixel 9 系列。
+## 2024-08-09
+- `coolpad` 新增 酷派 Y70 Lite。
+## 2024-08-07
+- `zte` 新增 中兴 V80。
+## 2024-08-06
+- `huawei_cn` 新增 HUAWEI MatePad Pro 12.2, MatePad Air 12。
+- `xiaomi` 新增 Redmi Pad SE 8.7。
+## 2024-08-05
+- `zhixuan` 新增 Hi 畅享 70m。
+## 2024-08-02
+- `huawei_cn` 新增 HUAWEI MateBook GT 14。
+## 2024-07-29
+- `huawei_cn` 新增 nova Flip；增补部分代号。
+- `meizu` 新增 魅族 Note 21 (海外), MBLU。
+## 2024-07-27
+- `lenovo` 新增 联想小新 Pad Pro 12.7 2025。
+## 2024-07-26
+- `huawei_cn` 新增 华为智慧屏 S5 Pro。
+## 2024-07-21
+- `huawei_cn` 新增 HUAWEI MatePad 11.5S 标准版。
+## 2024-07-19
+- `xiaomi-wear` 新增 小米手环 9, Xiaomi Watch S4 Sport。
+## 2024-07-18
+- `nubia` 新增 努比亚 Z60S Pro。
+## 2024-07-16
+- `honor_cn` 新增 荣耀 X60i。
+- `meizu` 新增 魅蓝 20。
+## 2024-07-15
+- `letv` 新增 Letv S3 Pro。
+- `vivo_cn` 新增 vivo Y37。
+## 2024-07-14
+- `samsung_cn` 新增 Galaxy Z Fold6, Flip6, Watch7, Watch Ultra。
+## 2024-07-12
+- `honor_cn` 新增 荣耀 Magic V3, Vs3, MagicPad 2, MagicBook Art 14。
+## 2024-07-11
+- `huawei_cn` 新增 华为擎云新款平板。
+- `zhixuan` 新增 麦芒 30。
+## 2024-07-09
+- `coolpad` 新增 酷派 COOL 50。
+## 2024-07-05
+- `xiaomi` 新增 Xiaomi MIX Flip, 增补代号。
+- `zte` 新增 中兴小鲜 60。
+## 2024-07-04
+- `realme_cn` 新增 真我 GT6。
+- `vivo_cn` 新增 iQOO Neo9S Pro+。
+## 2024-07-03
+- `nothing` 新增 CMF Phone 1。
+- `nubia` 新增 红魔 9S Pro, nubia Pad 3D II。
+## 2024-07-01
+- `huawei_cn` 新增 HUAWEI MatePad SE 11。
 ## 2024-06-26
 - `huawei_cn` 新增 HUAWEI Pura 70 北斗卫星消息版。
 ## 2024-06-25

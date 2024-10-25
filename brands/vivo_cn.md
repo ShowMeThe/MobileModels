@@ -1,8 +1,8 @@
 # vivo 手机型号汇总
 
-- 汇总范围: 2018 年起新型号命名方式的机型
+- 汇总范围: 2018 年起新型号命名方式的国行机型
 - codename: ✅
-- 是否包含海外机型: [单独汇总 (英文)](brands/vivo_global_en.md)
+- 是否包含海外机型: [单独汇总 (英文)](/brands/vivo_global_en.md)
 
 ## NEX 系列
 
@@ -211,6 +211,20 @@
 `V2366GA`: vivo X100 Ultra
 
 `V2366HA`: vivo X100 Ultra 卫星通信版
+
+**vivo X200 (`PD2415`):**
+
+`V2415A`: vivo X200
+
+**vivo X200 Pro (`PD2405`):**
+
+`V2405A`: vivo X200 Pro
+
+`V2405DA`: vivo X200 Pro 卫星通信版
+
+**vivo X200 Pro mini:**
+
+`V2419A`: vivo X200 Pro mini
 
 ## vivo S 系列
 
@@ -474,6 +488,18 @@
 
 `V2327A`: vivo Y36t
 
+**vivo Y36c / vivo Y37 (`PD2357`):**
+
+`V2357A`: vivo Y36c 5G / vivo Y37 5G
+
+**vivo Y37m (`PD2357`):**
+
+`V2357EA`: vivo Y37m 5G
+
+**vivo Y37 Pro (`PD2354`):**
+
+`V2354A`: vivo Y37 Pro 5G
+
 **vivo Y50 (`PD1965`):**
 
 `V1965A`: vivo Y50
@@ -664,6 +690,10 @@
 
 `V2312BA`: vivo Y100i 长续航版 5G
 
+**vivo Y100+ / vivo Y200i (`PD2354`):**
+
+`V2354A`: vivo Y100+ 5G / vivo Y200i 5G
+
 **vivo Y200 (`PD2343`):**
 
 `V2343A`: vivo Y200 5G
@@ -676,9 +706,9 @@
 
 `V2353DA`: vivo Y200t 5G
 
-**vivo Y200i (`PD2354`):**
+**vivo Y300 Pro (`PD2410`):**
 
-`V2354A`: vivo Y200i 5G
+`V2410A`: vivo Y300 Pro 5G
 
 ## vivo T 系列
 
@@ -866,6 +896,10 @@
 
 `V2329A`: iQOO 12 Pro
 
+**iQOO 13 (`PD2408`):**
+
+`V2408A`: iQOO 13
+
 ## iQOO Neo 系列
 
 **iQOO Neo (`PD1914`):**
@@ -946,6 +980,10 @@
 
 `V2339FA`: iQOO Neo9S Pro
 
+**iQOO Neo9S Pro+ (`PD2403`):**
+
+`V2403A`: iQOO Neo9S Pro+
+
 ## iQOO Z 系列
 
 **iQOO Z1 (`PD1986`):**
@@ -1003,6 +1041,10 @@
 **iQOO Z9 Turbo (`PD2352`):**
 
 `V2352A`: iQOO Z9 Turbo
+
+**iQOO Z9 Turbo+ (`PD2417`):**
+
+`V2417A`: iQOO Z9 Turbo+
 
 **iQOO Z9x (`PD2353`):**
 

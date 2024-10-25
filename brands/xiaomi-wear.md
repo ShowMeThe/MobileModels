@@ -76,7 +76,13 @@
 
 `M2333B1`: 小米手环 8 Pro 国际版
 
-## 小米手表
+**小米手环 9:**
+
+`M2345B1`: 小米手环 9
+
+`M2346B1`: 小米手环 9 NFC 版 / 陶瓷特别版
+
+## 小米智能手表
 
 **小米手表 (`baiji`):**
 
@@ -93,6 +99,8 @@
 **Xiaomi Watch 2 Pro (`axolotlte`):**
 
 `M2233W1`: Xiaomi Watch 2 Pro LTE
+
+## 小米手表（类手环）
 
 **小米手表 Color:**
 
@@ -126,6 +134,10 @@
 
 `M2311W1`: Xiaomi Watch S3 eSIM 版
 
+**Xiaomi Watch S4 Sport:**
+
+`M2312W1`: Xiaomi Watch S4 Sport eSIM 版
+
 **小米腕部心电血压记录仪:**
 
 `M2230W1`: 小米腕部心电血压记录仪 (Xiaomi Watch H1)
@@ -144,7 +156,7 @@
 
 `M2225B1`: Redmi 手环 2
 
-## Redmi 手表
+## Redmi 手表（类手环）
 
 **Redmi Watch:**
 
@@ -174,7 +186,7 @@
 
 `M2314W1`: Redmi Watch 4
 
-## POCO 手表
+## POCO 手表（类手环）
 
 **POCO Watch:**
 

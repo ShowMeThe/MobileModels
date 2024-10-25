@@ -1,8 +1,8 @@
 # OPPO 手机型号汇总
 
-- 汇总范围: 2018 年起新型号命名方式的机型
+- 汇总范围: 2018 年起新型号命名方式的国行机型
 - codename: ⏹
-- 是否包含海外机型: [单独汇总 (英文)](brands/oppo_global_en.md)
+- 是否包含海外机型: [单独汇总 (英文)](/brands/oppo_global_en.md)
 
 ## Find X 系列
 
@@ -67,6 +67,16 @@
 `PHY110`: OPPO Find X7 Ultra
 
 `PHY120`: OPPO Find X7 Ultra 卫星通信版
+
+**OPPO Find X8:**
+
+`PKB110`: OPPO Find X8
+
+**OPPO Find X8 Pro:**
+
+`PKC110`: OPPO Find X8 Pro
+
+`PKC130`: OPPO Find X8 Pro 卫星通信版
 
 ## Find N 系列
 
@@ -480,7 +490,7 @@
 
 `PHJ110`: OPPO A1x / OPPO A1 活力版
 
-**OPPO A1s / OPPO A2:**
+**OPPO A1s / OPPO A2 (`fanli`):**
 
 `PJB110`: OPPO A1s / OPPO A2
 
@@ -511,6 +521,10 @@
 **OPPO A3x:**
 
 `PKD130`: OPPO A3x
+
+**OPPO A3i:**
+
+`PKL110`: OPPO A3i
 
 **OPPO A3 Pro:**
 
@@ -582,6 +596,10 @@
 
 `PJR110`: OPPO K12
 
+**OPPO K12 Plus:**
+
+`PKS110`: OPPO K12 Plus
+
 **OPPO K12x (`avatar-m`):**
 
 `PJT110`: OPPO K12x
@@ -603,6 +621,10 @@
 **OPPO Pad Air2 (`bluey`):**
 
 `OPD2301`: OPPO Pad Air2
+
+**OPPO Pad 3 Pro:**
+
+`OPD2401`: OPPO Pad 3 Pro
 
 ## Watch/Band 系列
 

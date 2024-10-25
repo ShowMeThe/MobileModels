@@ -1,8 +1,8 @@
 # 小米电视型号汇总
 
-- 汇总范围: 全部小米电视/盒子
+- 汇总范围: 全部国行小米/Redmi 电视、机顶盒
 - codename: ❌
-- 是否包含海外机型: [单独汇总 (英文)](brands/mitv_global_en.md)
+- 是否包含海外机型: [单独汇总 (英文)](/brands/mitv_global_en.md)
 
 ## 小米电视
 
@@ -342,17 +342,17 @@
 
 `L55M9-S`: 小米电视 S55
 
-`L55MA-SPL`: 小米电视 S55 Mini LED
-
 `L65M9-S`: 小米电视 S65
-
-`L65MA-SPL`: 小米电视 S65 Mini LED
 
 `L75M9-S`: 小米电视 S75
 
-`L75MA-SPL`: 小米电视 S75 Mini LED
-
 `L85MA-S`: 小米电视 S85
+
+`L55MA-SPL`: 小米电视 S55 Mini LED
+
+`L65MA-SPL`: 小米电视 S65 Mini LED
+
+`L75MA-SPL`: 小米电视 S75 Mini LED
 
 `L85MA-SPL`: 小米电视 S85 Mini LED
 
@@ -365,6 +365,16 @@
 `L85MA-SM`: 小米电视 S Pro 85 Mini LED
 
 `L100MA-SP`: 小米电视 S Pro 100
+
+**小米电视 S Pro 2025 款:**
+
+`L65MB-SP`: 小米电视 S Pro 65 Mini LED 2025 款
+
+`L75MB-SP`: 小米电视 S Pro 75 Mini LED 2025 款
+
+`L85MB-SP`: 小米电视 S Pro 85 Mini LED 2025 款
+
+`L100MB-SP`: 小米电视 S Pro 100 Mini LED 2025 款
 
 **小米壁画电视:**
 
@@ -458,6 +468,24 @@
 
 `L65RB-RA`: Redmi 智能电视 A65 2025 款
 
+`L70RB-RA`: Redmi 智能电视 A70 2025 款
+
+`L75MA-RA`: Redmi 智能电视 A75 2025 款
+
+**Redmi 智能电视 A Pro:**
+
+`L43RB-AP`: Redmi 智能电视 A Pro 43
+
+`L50RB-AP`: Redmi 智能电视 A Pro 50 节能版
+
+`L55RB-AP`: Redmi 智能电视 A Pro 55 节能版
+
+`L65RB-AP`: Redmi 智能电视 A Pro 65 节能版
+
+`L70RB-AP`: Redmi 智能电视 A Pro 70 节能版
+
+`L75RB-AP`: Redmi 智能电视 A Pro 75 节能版
+
 **Redmi 智能电视 X:**
 
 `L50M5-RK`: Redmi 智能电视 X50 (2020)
@@ -465,6 +493,8 @@
 `L55M5-RK`: Redmi 智能电视 X55 (2020)
 
 `L65M5-RK`: Redmi 智能电视 X65 (2020)
+
+**Redmi 智能电视 X 2022 款:**
 
 `L50R8-X`: Redmi 智能电视 X50 2022 款
 
@@ -502,6 +532,16 @@
 
 `L75MA-XT`: Redmi AI 智能电视 X75 2024 款
 
+**Redmi 智能电视 X 2025 款:**
+
+`L55RB-RX`: Redmi 智能电视 X55 2025 款
+
+`L65RB-RX`: Redmi 智能电视 X65 2025 款
+
+`L75RB-RX`: Redmi 智能电视 X75 2025 款
+
+`L85RB-RX`: Redmi 智能电视 X85 2025 款
+
 **Redmi 智能电视 X Pro:**
 
 `L65R9-XP`: Redmi 智能电视 X Pro 65
@@ -511,6 +551,8 @@
 **Redmi 智能电视 MAX:**
 
 `L85RA-RX`: Redmi 智能电视 MAX 85 英寸
+
+`L85RB-MAX`: Redmi 智能电视 MAX 85 2025 款
 
 `L86R6-MAX`: Redmi 智能电视 MAX 86 英寸
 

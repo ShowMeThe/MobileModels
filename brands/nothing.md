@@ -1,6 +1,6 @@
 # Nothing Phone Models
 
-- Range: Nothing Phone
+- Range: Nothing Phone, CMF Phone
 - Codename: ✅
 
 **Nothing Phone (1) (`Spacewar`):**
@@ -16,3 +16,11 @@
 **Nothing Phone (2a) (`Pacman`):**
 
 `A142`: Nothing Phone (2a)
+
+**Nothing Phone (2a) Plus (`PacmanPro`):**
+
+`A142P`: Nothing Phone (2a) Plus
+
+**CMF Phone 1 (`Tetris`):**
+
+`A015`: CMF Phone 1

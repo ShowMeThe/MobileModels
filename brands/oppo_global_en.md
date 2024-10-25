@@ -273,9 +273,9 @@
 
 `CPH2629`: OPPO Reno12 Pro 5G
 
-**OPPO Reno12 F:**
+**OPPO Reno12 F / OPPO Reno12 FS:**
 
-`CPH2637`: OPPO Reno12 F 5G
+`CPH2637`: OPPO Reno12 F 5G / OPPO Reno12 FS 5G
 
 ## F series
 
@@ -349,6 +349,14 @@
 
 `CPH2603`: OPPO F25 Pro 5G
 
+**OPPO F27:**
+
+`CPH2637`: OPPO F27 5G
+
+**OPPO F27 Pro+:**
+
+`CPH2643`: OPPO F27 Pro+ 5G
+
 ## R series
 
 **OPPO R15:**
@@ -389,9 +397,13 @@
 
 `CPH1803` `CPH1853` `CPH1805`: OPPO A3s
 
+**OPPO A3x:**
+
+`CPH2641` `CPH2681`: OPPO A3x 5G
+
 **OPPO A3 Pro:**
 
-`CPH2667`: OPPO A3 Pro
+`CPH2639` `CPH2665` `CPH2667`: OPPO A3 Pro 5G
 
 **OPPO A5:**
 
@@ -551,6 +563,8 @@
 
 `CPH2631`: OPPO A60
 
+`CPH2683`: OPPO A60 5G
+
 **OPPO A72:**
 
 `CPH2067`: OPPO A72
@@ -639,6 +653,10 @@
 
 `CPH2237`: OPPO K10 5G
 
+**OPPO K12x:**
+
+`CPH2667`: OPPO K12x 5G
+
 ## Pad series
 
 **OPPO Pad Air:**
@@ -673,12 +691,14 @@
 
 `OW19W6`: OPPO Watch 41mm Wi-Fi
 
+**OPPO Watch (`belugaxl`):**
+
 `OW19W8`: OPPO Watch 46mm Wi-Fi
 
-**OPPO Watch (`belugaxl`):**
+**OPPO Watch (`orca`):**
 
 `OW19W12`: OPPO Watch 46mm LTE
 
-**OPPO Watch X:**
+**OPPO Watch X (`star`):**
 
 `OWWE231`: OPPO Watch X

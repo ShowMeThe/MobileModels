@@ -3,7 +3,7 @@
 - Range: International models since 2019
 - Codename: ❌
 
-## vivo Smartphones
+## vivo X series
 
 **vivo X50:**
 
@@ -76,6 +76,8 @@
 **vivo X Fold3 Pro:**
 
 `V2330`: vivo X Fold3 Pro
+
+## vivo V series
 
 **vivo V15:**
 
@@ -203,7 +205,7 @@
 
 **vivo V40e:**
 
-`V2403`: vivo V40e
+`V2403` `V2418`: vivo V40e
 
 **vivo V40 Lite:**
 
@@ -212,6 +214,8 @@
 **vivo V40 SE:**
 
 `V2337` `V2342`: vivo V40 SE 5G
+
+## vivo S series
 
 **vivo S1:**
 
@@ -224,6 +228,8 @@
 **vivo S1 Pro:**
 
 `vivo 1920` `vivo 1920_20`: vivo S1 Pro
+
+## vivo T series
 
 **vivo T1:**
 
@@ -261,9 +267,19 @@
 
 `V2338`: vivo T3x 5G
 
+**vivo T3 Pro:**
+
+`V2404`: vivo T3 Pro 5G
+
 **vivo T3 Lite:**
 
 `V2356`: vivo T3 Lite 5G
+
+**vivo T3 Ultra:**
+
+`V2426`: vivo T3 Ultra 5G
+
+## vivo Y series
 
 **vivo Y1s:**
 
@@ -304,6 +320,10 @@
 **vivo Y03:**
 
 `V2332` `V2406`: vivo Y03
+
+**vivo Y03t:**
+
+`V2344` `V2409`: vivo Y03t
 
 **vivo Y11s:**
 
@@ -365,13 +385,25 @@
 
 `V2410`: vivo Y18s
 
+**vivo Y18t:**
+
+`V2408`: vivo Y18t
+
 **vivo Y18e:**
 
 `V2350`: vivo Y18e
 
+**vivo Y18i:**
+
+`V2414`: vivo Y18i
+
 **vivo Y19:**
 
 `vivo 1915`: vivo Y19
+
+**vivo Y19s:**
+
+`V2419`: vivo Y19s
 
 **vivo Y20:**
 
@@ -585,6 +617,18 @@
 
 `V2336`: vivo Y200e 5G
 
+**vivo Y300:**
+
+`V2416`: vivo Y300 5G
+
+**vivo Y300+:**
+
+`V2422`: vivo Y300+ 5G
+
+**vivo Y300 Pro:**
+
+`V2402`: vivo Y300 Pro 5G
+
 ## iQOO Smartphones
 
 **iQOO 3:**
@@ -692,3 +736,11 @@
 **iQOO Z9 Lite:**
 
 `I2306`: iQOO Z9 Lite 5G
+
+**iQOO Z9s:**
+
+`I2403`: iQOO Z9s 5G
+
+**iQOO Z9s Pro:**
+
+`I2305`: iQOO Z9s Pro 5G

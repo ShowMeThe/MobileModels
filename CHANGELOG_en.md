@@ -1,4 +1,76 @@
 # CHANGELOG
+## 2024-10-24
+- `xiaomi_en` Add Xiaomi 15, Xiaomi Pad 7, POCO M7 5G.
+## 2024-10-21
+- `apple_en` Add iPad mini (A17 Pro).
+## 2024-10-16
+- `realme_global_en` Add realme P1 Speed 5G.
+## 2024-10-15
+- `honor_global_en` Add HONOR X5b.
+## 2024-10-13
+- `samsung_global_en` Add Galaxy A16 5G.
+## 2024-10-09
+- `honor_global_en` Add several new models.
+## 2024-09-27
+- `samsung_global_en` Add Galaxy S24 FE.
+## 2024-09-26
+- `honor_global_en` Add several codenames.
+- `xiaomi_en` Add Redmi Note 14 series.
+## 2024-09-23
+- `oneplus_en` Add OnePlus 13.
+- `samsung_global_en` Add Galaxy F05, M05, M55s.
+## 2024-09-20
+- `apple_en` Add iPhone 16, Apple Watch Series 10.
+- `huawei_global_en` Add HUAWEI MatePad Pro 12.2, MatePad 12 X.
+## 2024-09-18
+- `mitv_global_en` Add several Indian models.
+- `xiaomi_en` Add Redmi 14R 5G.
+## 2024-09-11
+- `realme_global_en` Add realme NARZO 70 Turbo 5G.
+## 2024-09-10
+- `apple_en` Add Apple Vision Pro, Apple TV.
+## 2024-09-07
+- `google` Add Pixel Watch 3.
+- `honor_global_en` Add HONOR Magic V3, HONOR MagicPad2.
+- `vivo_global_en` Add several new models.
+## 2024-09-05
+- `meizu_en` Add LYNK & CO Phone.
+- `xiaomi_en` Add Redmi A3 Pro, Redmi 14C.
+## 2024-08-29
+- `realme_global_en` Add realme 13 & 13+.
+## 2024-08-26
+- `vivo_global_en` Add iQOO Z9s series.
+## 2024-08-20
+- `oppo_global_en` Add OPPO Reno12 FS.
+## 2024-08-17
+- `samsung_global_en` Add Galaxy A06.
+## 2024-08-16
+- `oppo_global_en` Add several new models.
+- `xiaomi_en` Add POCO Pad 5G.
+## 2024-08-14
+- `google` Add Pixel 9 series.
+## 2024-08-12
+- `honor_global_en` Add several new models.
+- `realme_global_en` Add realme C63 5G, realme P2 Pro 5G.
+## 2024-08-06
+- `xiaomi_en` Add Redmi Pad SE 8.7.
+## 2024-07-31
+- `nothing` Add Nothing Phone (2a) Plus.
+- `vivo_global_en` Add several new models.
+## 2024-07-30
+- `realme_global_en` Add realme 13 Pro, realme Narzo N6* series.
+## 2024-07-29
+- `meizu_en` Add MEIZU Note 21, MEIZU MBLU.
+## 2024-07-23
+- `vivo_global_en` Add vivo T3 Pro, iQOO Z9 Pro.
+## 2024-07-16
+- `meizu_en` Add MEIZU M20.
+## 2024-07-14
+- `samsung_global_en` Add Galaxy Z Fold6, Flip6.
+## 2024-07-05
+- `xiaomi_en` Add Xiaomi MIX Flip, update codenames.
+## 2024-07-03
+- `nothing` Add CMF Phone 1.
 ## 2024-06-24
 - `oneplus_en` Add OnePlus Pad Pro, OnePlus Watch 2 (China).
 ## 2024-06-20

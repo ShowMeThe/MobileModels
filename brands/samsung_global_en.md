@@ -447,6 +447,22 @@
 
 `SC-52E`: Galaxy S24 Ultra Japan (NTT Docomo)
 
+**Galaxy S24 FE (`r12s`):**
+
+`SM-S721B`: Galaxy S24 FE Global
+
+`SM-S721U`: Galaxy S24 FE US Carrier
+
+`SM-S721U1`: Galaxy S24 FE US Unlocked
+
+`SM-S721W`: Galaxy S24 FE Canada
+
+`SM-S7210`: Galaxy S24 FE HK & TW
+
+`SCG30`: Galaxy S24 FE Japan (au)
+
+`SM-S721N`: Galaxy S24 FE South Korea
+
 ## Galaxy Note
 
 **Galaxy Note9 (`crownlte`):**
@@ -677,6 +693,20 @@
 
 `SC-55D`: Galaxy Z Fold5 Japan (NTT Docomo)
 
+**Galaxy Z Fold6 (`q6q`):**
+
+`SM-F956B`: Galaxy Z Fold6 Global
+
+`SM-F956U`: Galaxy Z Fold6 US Carrier
+
+`SM-F956U1`: Galaxy Z Fold6 US Unlocked
+
+`SM-F956W`: Galaxy Z Fold6 Canada
+
+`SM-F9560`: Galaxy Z Fold6 China
+
+`SM-F956N`: Galaxy Z Fold6 South Korea
+
 **Galaxy Z Flip (`bloomq`):**
 
 `SM-F700F`: Galaxy Z Flip Global
@@ -766,6 +796,20 @@
 `SCG23`: Galaxy Z Flip5 Japan (au)
 
 `SC-54D`: Galaxy Z Flip5 Japan (NTT Docomo)
+
+**Galaxy Z Flip6 (`b6q`):**
+
+`SM-F741B`: Galaxy Z Flip6 Global
+
+`SM-F741U`: Galaxy Z Flip6 US Carrier
+
+`SM-F741U1`: Galaxy Z Flip6 US Unlocked
+
+`SM-F741W`: Galaxy Z Flip6 Canada
+
+`SM-F7410`: Galaxy Z Flip6 China
+
+`SM-F741N`: Galaxy Z Flip6 South Korea
 
 ## Galaxy A
 
@@ -886,6 +930,12 @@
 `SM-A057G`: Galaxy A05s EU
 
 `SM-A057M`: Galaxy A05s Latin America
+
+**Galaxy A06 (`a06`):**
+
+`SM-A065F`: Galaxy A06 Global
+
+`SM-A065M`: Galaxy A06 Latin America
 
 **Galaxy A10 (`a10`):**
 
@@ -1041,7 +1091,23 @@
 
 `SM-A156M`: Galaxy A15 5G Latin America
 
-`SM-A1560`: Galaxy A15 5G TW
+`SM-A1560`: Galaxy A15 5G HK & TW
+
+**Galaxy A16 5G (`a16x`):**
+
+`SM-A166E`: Galaxy A16 5G Global
+
+`SM-A166B`: Galaxy A16 5G EU
+
+`SM-A166U`: Galaxy A16 5G US Carrier
+
+`SM-A166U1`: Galaxy A16 5G US Unlocked
+
+`SM-S166V`: Galaxy A16 5G TracFone
+
+`SM-A166M`: Galaxy A16 5G Latin America
+
+`SM-A1660`: Galaxy A16 5G HK & TW
 
 **Galaxy A2 Core (`a2corelte`):**
 
@@ -1463,6 +1529,10 @@
 
 `SM-A5560`: Galaxy A55 5G China
 
+`SCG27`: Galaxy A55 5G Japan (au)
+
+`SC-53E`: Galaxy A55 5G Japan (NTT Docomo)
+
 **Galaxy A60 (`a60q`):**
 
 `SM-A606F`: Galaxy A60 Global
@@ -1570,6 +1640,10 @@
 **Galaxy M04 (`m04`):**
 
 `SM-M045F`: Galaxy M04
+
+**Galaxy M05 (`a05m`):**
+
+`SM-M055F`: Galaxy M05
 
 **Galaxy M10 (`m10lte`):**
 
@@ -1735,6 +1809,10 @@
 
 `SM-M556E`: Galaxy M55 5G Global
 
+**Galaxy M55s 5G (`m55xq`):**
+
+`SM-M558B`: Galaxy M55s 5G
+
 **Galaxy C55 5G (`m55xq`):**
 
 `SM-C5560`: Galaxy C55 5G
@@ -1752,6 +1830,10 @@
 **Galaxy F04 (`m04`):**
 
 `SM-E045F`: Galaxy F04
+
+**Galaxy F05 (`a05m`):**
+
+`SM-E055F`: Galaxy F05
 
 **Galaxy F12 (`f12`):**
 

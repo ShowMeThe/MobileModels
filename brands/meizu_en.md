@@ -249,6 +249,10 @@
 
 `M468H`: MEIZU 21 Note Global
 
+**MEIZU Lucky 08 (`m2431`):**
+
+`M431Q`: MEIZU Lucky 08
+
 **MEIZU m1 note (`m71`):**
 
 `M463H`: MEIZU m1 note Global
@@ -312,6 +316,14 @@
 `M923H`: MEIZU Note 9 Global
 
 `M923Q`: MEIZU Note 9 China
+
+**MEIZU Note 21 (`m2411`):**
+
+`M411H` `M411L`: MEIZU Note 21 Global
+
+**MEIZU Note 21 Pro (`m2412`):**
+
+`M412H`: MEIZU Note 21 Pro Global
 
 **MEIZU M3E (`a02`):**
 
@@ -459,13 +471,21 @@
 
 `M918H`: MEIZU M10 Global
 
-**mblu 10 (`m2110`):**
+**mblu 10 (`m2112`):**
 
-`M2110`: mblu 10
+`M2112`: mblu 10
 
 **mblu 10s (`m2111`):**
 
 `M2111`: mblu 10s
+
+**MEIZU M20 / MEIZU mblu 20 (`m2421`):**
+
+`M421Q`: MEIZU M20 / MEIZU mblu 20
+
+**MEIZU MBLU 21 (`m2416`):**
+
+`M416L`: MEIZU MBLU 21 Global
 
 **MEIZU M3 Max (`s25`):**
 
@@ -515,8 +535,24 @@
 
 `M819H`: MEIZU C9 Pro Global
 
+## LYNK & CO Phones
+
+**LYNK & CO Phone Note (`m2468`):**
+
+`M468Q`: LYNK & CO Phone Note
+
+**LYNK & CO Phone Pro (`m2481`):**
+
+`M481S`: LYNK & CO Phone Pro
+
 ## Polestar Phones
 
 **Polestar Phone (`m2481`):**
 
 `M481S`: Polestar Phone
+
+## HongQi Phones
+
+**HongQi Phone (`m2481`):**
+
+`M481R`: HongQi Phone

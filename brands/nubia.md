@@ -140,9 +140,13 @@
 
 `NX715J`: nubia Z50 SE
 
-**nubia Z60 Ultra:**
+**nubia Z60 Ultra / nubia Z60 Ultra 领先版:**
 
-`NX721J`: nubia Z60 Ultra
+`NX721J`: nubia Z60 Ultra / nubia Z60 Ultra 领先版
+
+**nubia Z60S Pro:**
+
+`NX725J`: nubia Z60S Pro
 
 ## 努比亚其他系列
 
@@ -228,6 +232,10 @@
 
 `LPD-20W`: nubia Pad 3D
 
+**nubia Pad 3D II:**
+
+`NP02J`: nubia Pad 3D II
+
 ## 红魔
 
 **红魔电竞游戏手机:**
@@ -298,6 +306,18 @@
 
 `NX769J`: 红魔 9 Pro / 红魔 9 Pro+
 
+**红魔 9S Pro / 红魔 9S Pro+:**
+
+`NX769J`: 红魔 9S Pro / 红魔 9S Pro+
+
 **红魔电竞平板:**
 
 `NP01J`: 红魔电竞平板 5G
+
+**红魔电竞平板 Pro:**
+
+`NP03J`: 红魔电竞平板 Pro
+
+**红魔平板 · 3D 探索版:**
+
+`NP02J`: 红魔平板 · 3D 探索版 5G
