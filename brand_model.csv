@@ -900,18 +900,19 @@ huawei,BAH3-W09,cn,华为, HUAWEI MatePad 10.4 英寸 Wi-Fi 版 (麒麟 810)
 huawei,BAH3-W59,cn,华为, HUAWEI MatePad 10.4 英寸 Wi-Fi 版 (麒麟 820)
 huawei,BAH3-AL00,cn,华为, HUAWEI MatePad 10.4 英寸 全网通版 (麒麟 810)
 huawei,BAH3-AN10,cn,华为, HUAWEI MatePad 5G 10.4 英寸 全网通版 (麒麟 820)
+huawei,SCMR-W09,cn,华为, HUAWEI MatePad 10.8 英寸 Wi-Fi 版
+huawei,SCMR-AL09,cn,华为, HUAWEI MatePad 10.8 英寸 全网通版
 huawei,BAH4-W09,cn,华为, HUAWEI MatePad 10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
 huawei,BAH4-W29,cn,华为, HUAWEI MatePad 10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
 huawei,BAH4-W39,cn,华为, HUAWEI MatePad 10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
 huawei,BAH4-W19,cn,华为, HUAWEI MatePad 10.4 英寸 2022 悦动版 Wi-Fi 版 (骁龙 778G 4G)
 huawei,BAH4-AL10,cn,华为, HUAWEI MatePad 10.4 英寸 2022 悦动版 全网通版 (骁龙 778G 4G)
-huawei,BTK-W00,cn,华为, HUAWEI MatePad 11.5 英寸 2023 Wi-Fi 版
-huawei,BTK-AL00,cn,华为, HUAWEI MatePad 11.5 英寸 2023 全网通版
-huawei,SCMR-W09,cn,华为, HUAWEI MatePad 10.8 英寸 Wi-Fi 版
-huawei,SCMR-AL09,cn,华为, HUAWEI MatePad 10.8 英寸 全网通版
 huawei,DBY-W09,cn,华为, HUAWEI MatePad 11 英寸 Wi-Fi 版
 huawei,DBR-W00,cn,华为, HUAWEI MatePad 11 英寸 2023 Wi-Fi 版
 huawei,DBR-W10,cn,华为, HUAWEI MatePad 11 英寸 2023 柔光版 Wi-Fi 版
+huawei,BTK-W00,cn,华为, HUAWEI MatePad 11.5 英寸 2023 Wi-Fi 版
+huawei,BTK-AL00,cn,华为, HUAWEI MatePad 11.5 英寸 2023 全网通版
+huawei,BTKR-W00,cn,华为, HUAWEI MatePad 11.5 英寸 2024 Wi-Fi 版
 huawei,TGR-W00,cn,华为," HUAWEI MatePad 11.5"" S Wi-Fi 版"
 huawei,TGR-W10,cn,华为," HUAWEI MatePad 11.5"" S 柔光版 Wi-Fi 版"
 huawei,DMG-W00,cn,华为," HUAWEI MatePad 11.5"" S 灵动款 Wi-Fi 版"
@@ -2358,9 +2359,10 @@ xiaomi,24031PN0DC,cn,小米, Xiaomi 14 Ultra 国行版
 xiaomi,24030PN60G,cn,小米, Xiaomi 14 Ultra 国际版
 xiaomi,24053PY09I,cn,小米, Xiaomi 14 Civi 印度版
 xiaomi,2406APNFAG,cn,小米, Xiaomi 14T 国际版
-xiaomi,XIG06,cn,小米, Xiaomi 14T 日本版 (KDDI)
+xiaomi,XIG07,cn,小米, Xiaomi 14T 日本版 (KDDI)
 xiaomi,2407FPN8EG,cn,小米, Xiaomi 14T Pro 国际版
 xiaomi,2407FPN8ER,cn,小米, Xiaomi 14T Pro 日本版 (无锁)
+xiaomi,XIG06,cn,小米, Xiaomi 14T Pro 日本版 (KDDI)
 xiaomi,A402XM,cn,小米, Xiaomi 14T Pro 日本版 (SoftBank)
 xiaomi,24129PN74C,cn,小米, Xiaomi 15 国行版
 xiaomi,24129PN74G,cn,小米, Xiaomi 15 国际版
@@ -2593,7 +2595,7 @@ xiaomi,22120RN86C,cn,小米, Redmi 12C 国行版
 xiaomi,22120RN86G,cn,小米, Redmi 12C 国际版
 xiaomi,22120RN86H,cn,小米, Redmi 12C 印度版
 xiaomi,22120RN86I,cn,小米, Redmi 12C 印度版
-xiaomi,2212ARNC4L,cn,小米, Redmi 12C 拉美版
+xiaomi,2212ARNC4L,cn,小米, Redmi 12C 拉美版 / 日本版
 xiaomi,22126RN91Y,cn,小米, Redmi 12C 国际版 (NFC)
 xiaomi,2404ARN45A,cn,小米, Redmi 13 国际版
 xiaomi,2404ARN45I,cn,小米, Redmi 13 印度版
@@ -2610,7 +2612,7 @@ xiaomi,23124RN87G,cn,小米, Redmi 13C 5G 国际版
 xiaomi,2409BRN2CC,cn,小米, Redmi 14C 国行版
 xiaomi,2409BRN2CA,cn,小米, Redmi 14C 国际版
 xiaomi,2409BRN2CI,cn,小米, Redmi 14C 印度版
-xiaomi,2409BRN2CL,cn,小米, Redmi 14C 拉美版
+xiaomi,2409BRN2CL,cn,小米, Redmi 14C 拉美版 / 日本版
 xiaomi,2409BRN2CY,cn,小米, Redmi 14C 国际版 (NFC)
 xiaomi,2411DRN47C,cn,小米, Redmi 14R 5G
 xiaomi,2014018,cn,小米, 红米 Note 联通 3G 标准版
@@ -2780,8 +2782,8 @@ xiaomi,24040RA98R,cn,小米, Redmi Note 13 Pro+ 5G 日本版
 xiaomi,2406ERN9CC,cn,小米, Redmi Note 13R
 xiaomi,2311FRAFDC,cn,小米, Redmi Note 13R Pro
 xiaomi,24094RAD4C,cn,小米, Redmi Note 14 5G 国行版
-xiaomi,24094RAD4G,cn,小米, Redmi Note 14 5G 国际版
 xiaomi,24094RAD4I,cn,小米, Redmi Note 14 5G 印度版
+xiaomi,24094RAD4G,cn,小米, Redmi Note 14 5G 国际版
 xiaomi,24116RACCG,cn,小米, Redmi Note 14 Pro 国际版
 xiaomi,24090RA29C,cn,小米, Redmi Note 14 Pro 国行版
 xiaomi,24090RA29G,cn,小米, Redmi Note 14 Pro 5G 国际版
@@ -2827,6 +2829,7 @@ xiaomi,23113RKC6C,cn,小米, Redmi K70
 xiaomi,23117RK66C,cn,小米, Redmi K70 Pro
 xiaomi,2311DRK48C,cn,小米, Redmi K70E
 xiaomi,2407FRK8EC,cn,小米, Redmi K70 至尊版
+xiaomi,24117RK2CC,cn,小米, Redmi K80
 xiaomi,2016020,cn,小米, 红米 Pro 标准版
 xiaomi,2016021,cn,小米, 红米 Pro 高配版 / 尊享版
 xiaomi,M1803E6E,cn,小米, 红米 S2 全网通版
@@ -2933,6 +2936,7 @@ xiaomi,24066PC95I,cn,小米, POCO M6 Plus 5G 印度版
 xiaomi,2312FPCA6G,cn,小米, POCO M6 Pro 国际版
 xiaomi,23076PC4BI,cn,小米, POCO M6 Pro 5G 印度版
 xiaomi,24108PCE2I,cn,小米, POCO M7 5G 印度版
+xiaomi,2409FPCC4G,cn,小米, POCO M7 Pro 5G 国际版
 xiaomi,M2006C3MI,cn,小米, POCO C3 印度版
 xiaomi,211033MI,cn,小米, POCO C31 印度版
 xiaomi,220333QPG,cn,小米, POCO C40 国际版
@@ -2949,6 +2953,8 @@ xiaomi,2312BPC51X,cn,小米, POCO C61 国际版
 xiaomi,2312BPC51H,cn,小米, POCO C61 印度版
 xiaomi,2310FPCA4G,cn,小米, POCO C65 国际版
 xiaomi,2310FPCA4I,cn,小米, POCO C65 印度版
+xiaomi,2410FPCC5G,cn,小米, POCO C75 国际版
+xiaomi,2410FPCC5I,cn,小米, POCO C75 印度版
 xiaomi,2405CPCFBG,cn,小米, POCO Pad Wi-Fi 国际版
 xiaomi,24074PCD2I,cn,小米, POCO Pad 5G 印度版
 xiaomi,FYJ01QP,cn,小米, 小米米家翻译机
@@ -3232,6 +3238,7 @@ motorola,XT2427-4,cn,摩托罗拉, moto S50 Neo
 motorola,XT2453-2,cn,摩托罗拉, moto razr 50
 motorola,XT2451-4,cn,摩托罗拉, moto razr 50 Ultra
 motorola,XT2435-3,cn,摩托罗拉, moto g55
+motorola,XT2437-4,cn,摩托罗拉, moto g75
 mitv,L47M1-AA,cn,小米电视, 小米电视 47 英寸
 mitv,L40M2-AA,cn,小米电视, 小米电视 2 40 英寸
 mitv,L49M2-AA,cn,小米电视, 小米电视 2 49 英寸
@@ -3610,7 +3617,8 @@ mitv,L43M7-EAUKR,en,小米电视, Xiaomi TV A2 UHD 43
 mitv,L55M7-EAUKR,en,小米电视, Xiaomi TV A2 55
 mitv,L86M7-ESRU,en,小米电视, Xiaomi TV Max 86
 mitv,L86M7-ESME,en,小米电视, Xiaomi TV Max 86
-mitv,L86M7-ESTWN,en,小米电视, Xiaomi 智慧顯示器 Max 86 型
+mitv,L86M7-ESTWN,en,小米电视, Xiaomi TV Max 86
+mitv,L100MA-MAXEA,en,小米电视, Xiaomi TV Max 100
 mitv,L32M8-P2EU,en,小米电视, Xiaomi TV A 32
 mitv,L43M8-P2EU,en,小米电视, Xiaomi TV A FHD 43
 mitv,L43MA-AUEU,en,小米电视, Xiaomi TV A 43 2025
@@ -3625,6 +3633,8 @@ mitv,L55M8-P2SEA,en,小米电视, Xiaomi TV A 55
 mitv,L32M8-P2ID,en,小米电视, Xiaomi TV A 32
 mitv,L43M8-P2ID,en,小米电视, Xiaomi TV A FHD 43
 mitv,L55M8-P2ID,en,小米电视, Xiaomi TV A 55
+mitv,L55MA-ATWN,en,小米电视, Xiaomi TV A 55 2025
+mitv,L65MA-ATWN,en,小米电视, Xiaomi TV A 65 2025
 mitv,L32M8-A2EU,en,小米电视, Xiaomi TV A Pro 32
 mitv,L43M8-A2EU,en,小米电视, Xiaomi TV A Pro 43
 mitv,L43MA-SEU,en,小米电视, Xiaomi TV A Pro 43 2025
@@ -3647,10 +3657,10 @@ mitv,L65M8A2T,en,小米电视, Xiaomi TV A Pro 65
 mitv,L50M8-A2KR,en,小米电视, Xiaomi TV A Pro 50
 mitv,L55M8-A2KR,en,小米电视, Xiaomi TV A Pro 55
 mitv,L65M8-A2KR,en,小米电视, Xiaomi TV A Pro 65
-mitv,L32M8-A2TWN,en,小米电视, Xiaomi 智慧顯示器 A Pro 32 型
-mitv,L43M8-A2TWN,en,小米电视, Xiaomi 智慧顯示器 A Pro 43 型
-mitv,L55M8-A2TWN,en,小米电视, Xiaomi 智慧顯示器 A Pro 55 型
-mitv,L65M8-A2TWN,en,小米电视, Xiaomi 智慧顯示器 A Pro 65 型
+mitv,L32M8-A2TWN,en,小米电视, Xiaomi TV A Pro 32
+mitv,L43M8-A2TWN,en,小米电视, Xiaomi TV A Pro 43
+mitv,L55M8-A2TWN,en,小米电视, Xiaomi TV A Pro 55
+mitv,L65M8-A2TWN,en,小米电视, Xiaomi TV A Pro 65
 mitv,L32M8-A2LA,en,小米电视, Xiaomi TV A Pro 32
 mitv,L43M8-A2LA,en,小米电视, Xiaomi TV A Pro 43
 mitv,L50M8-A2LA,en,小米电视, Xiaomi TV A Pro 50
@@ -3661,6 +3671,13 @@ mitv,L43M8-A2ME,en,小米电视, Xiaomi TV A Pro 43
 mitv,L50M8-A2ME,en,小米电视, Xiaomi TV A Pro 50
 mitv,L55M8-A2ME,en,小米电视, Xiaomi TV A Pro 55
 mitv,L65M8-A2ME,en,小米电视, Xiaomi TV A Pro 65
+mitv,L43MA-STWN,en,小米电视, Xiaomi TV A Pro 43 2025
+mitv,L55MA-STWN,en,小米电视, Xiaomi TV A Pro 55 2025
+mitv,L65MA-STWN,en,小米电视, Xiaomi TV A Pro 65 2025
+mitv,L75MA-STWN,en,小米电视, Xiaomi TV A Pro 75 2025
+mitv,L55MA-SPLEA,en,小米电视, Xiaomi TV S Mini LED 55
+mitv,L65MA-SPLEA,en,小米电视, Xiaomi TV S Mini LED 65
+mitv,L75MA-SPLEA,en,小米电视, Xiaomi TV S Mini LED 75
 mitv,L32M7-FVEU,en,小米电视, Xiaomi Fire TV F2 32
 mitv,L43M7-FVEU,en,小米电视, Xiaomi Fire TV F2 43
 mitv,L50M7-FVEU,en,小米电视, Xiaomi Fire TV F2 50
@@ -4201,6 +4218,10 @@ samsung,SM-F956U1,en,三星, Galaxy Z Fold6 US Unlocked
 samsung,SM-F956W,en,三星, Galaxy Z Fold6 Canada
 samsung,SM-F9560,en,三星, Galaxy Z Fold6 China
 samsung,SM-F956N,en,三星, Galaxy Z Fold6 South Korea
+samsung,SM-F956Q,en,三星, Galaxy Z Fold6 Japan (SIM Free)
+samsung,SCG28,en,三星, Galaxy Z Fold6 Japan (au)
+samsung,SC-55E,en,三星, Galaxy Z Fold6 Japan (NTT Docomo)
+samsung,SM-F958N,en,三星, Galaxy Z Fold Special Edition South Korea
 samsung,SM-F700F,en,三星, Galaxy Z Flip Global
 samsung,SM-F700U,en,三星, Galaxy Z Flip US Carrier
 samsung,SM-F700U1,en,三星, Galaxy Z Flip US Unlocked
@@ -4247,6 +4268,9 @@ samsung,SM-F741U1,en,三星, Galaxy Z Flip6 US Unlocked
 samsung,SM-F741W,en,三星, Galaxy Z Flip6 Canada
 samsung,SM-F7410,en,三星, Galaxy Z Flip6 China
 samsung,SM-F741N,en,三星, Galaxy Z Flip6 South Korea
+samsung,SM-F741Q,en,三星, Galaxy Z Flip6 Japan (SIM Free)
+samsung,SCG29,en,三星, Galaxy Z Flip6 Japan (au)
+samsung,SC-54E,en,三星, Galaxy Z Flip6 Japan (NTT Docomo)
 samsung,SM-A015F,en,三星, Galaxy A01 Global
 samsung,SM-A015U,en,三星, Galaxy A01 US Carrier
 samsung,SM-A015U1,en,三星, Galaxy A01 US Unlocked
@@ -5378,6 +5402,7 @@ realme,RMX3820,cn,真我, 真我 GT5 150W
 realme,RMX3823,cn,真我, 真我 GT5 240W
 realme,RMX3888,cn,真我, 真我 GT5 Pro
 realme,RMX3800,cn,真我, 真我 GT6
+realme,RMX5010,cn,真我, 真我 GT7 Pro
 realme,RMX3031,cn,真我, 真我 GT Neo 5G
 realme,RMX3350,cn,真我, 真我 GT Neo 闪速版
 realme,RMX3370,cn,真我, 真我 GT Neo2
@@ -5704,28 +5729,28 @@ xiaomi,2014719,en,小米, Mi 4 LTE China Unicom
 xiaomi,2014716,en,小米, Mi 4 LTE China Telecom
 xiaomi,2014726,en,小米, Mi 4 LTE China Telecom
 xiaomi,2015015,en,小米, Mi 4i Global
-xiaomi,2015561,en,小米, Mi 4c
+xiaomi,2015561,en,小米, Mi 4c China
 xiaomi,2015562,en,小米, Mi 4c China Mobile
-xiaomi,2015911,en,小米, Mi 4S
+xiaomi,2015911,en,小米, Mi 4S China
 xiaomi,2015105,en,小米, Mi 5 (32GB) Global
 xiaomi,2015201,en,小米, Mi 5 (32GB) China
 xiaomi,2015628,en,小米, Mi 5 (64GB & 128GB) China
-xiaomi,2015711,en,小米, Mi 5s
-xiaomi,2016070,en,小米, Mi 5s Plus
-xiaomi,2016089,en,小米, Mi 5c
+xiaomi,2015711,en,小米, Mi 5s China / Global
+xiaomi,2016070,en,小米, Mi 5s Plus China / Global
+xiaomi,2016089,en,小米, Mi 5c China
 xiaomi,MDE2,en,小米, Mi 5X China
 xiaomi,MDT2,en,小米, Mi 5X China Mobile
-xiaomi,MCE16,en,小米, Mi 6
+xiaomi,MCE16,en,小米, Mi 6 China / Global
 xiaomi,MCT1,en,小米, Mi 6 China Mobile
 xiaomi,M1804D2SE,en,小米, Mi 6X China
 xiaomi,M1804D2ST,en,小米, Mi 6X China Mobile
 xiaomi,M1804D2SC,en,小米, Mi 6X China Unicom & China Telecom
-xiaomi,M1803E1A,en,小米, Mi 8
+xiaomi,M1803E1A,en,小米, Mi 8 China / Global
 xiaomi,M1803E1T,en,小米, Mi 8 China Mobile
 xiaomi,M1803E1C,en,小米, Mi 8 China Unicom & China Telecom
 xiaomi,M1807E8S,en,小米, Mi 8 Explorer Edition
-xiaomi,M1807E8A,en,小米, Mi 8 Pro
-xiaomi,M1805E2A,en,小米, Mi 8 SE
+xiaomi,M1807E8A,en,小米, Mi 8 Pro China / Global
+xiaomi,M1805E2A,en,小米, Mi 8 SE China
 xiaomi,M1808D2TG,en,小米, Mi 8 Lite Global
 xiaomi,M1808D2TE,en,小米, Mi 8 Lite China
 xiaomi,M1808D2TT,en,小米, Mi 8 Lite China Mobile
@@ -5816,40 +5841,41 @@ xiaomi,24030PN60G,en,小米, Xiaomi 14 Ultra Global
 xiaomi,24031PN0DC,en,小米, Xiaomi 14 Ultra China
 xiaomi,24053PY09I,en,小米, Xiaomi 14 Civi India
 xiaomi,2406APNFAG,en,小米, Xiaomi 14T Global
-xiaomi,XIG06,en,小米, Xiaomi 14T Japan (KDDI)
+xiaomi,XIG07,en,小米, Xiaomi 14T Japan (KDDI)
 xiaomi,2407FPN8EG,en,小米, Xiaomi 14T Pro Global
 xiaomi,2407FPN8ER,en,小米, Xiaomi 14T Pro Japan (SIM Free)
+xiaomi,XIG06,en,小米, Xiaomi 14T Pro Japan (KDDI)
 xiaomi,A402XM,en,小米, Xiaomi 14T Pro Japan (SoftBank)
 xiaomi,24129PN74G,en,小米, Xiaomi 15 Global
 xiaomi,24129PN74I,en,小米, Xiaomi 15 India
 xiaomi,24129PN74C,en,小米, Xiaomi 15 China
 xiaomi,2410DPN6CC,en,小米, Xiaomi 15 Pro China
 xiaomi,2015011,en,小米, Mi Note Global
-xiaomi,2014616,en,小米, Mi Note China
-xiaomi,2014619,en,小米, Mi Note China
+xiaomi,2014616,en,小米, Mi Note China (Dual-network)
+xiaomi,2014619,en,小米, Mi Note China (Full-network)
 xiaomi,2014618,en,小米, Mi Note China Mobile
 xiaomi,2014617,en,小米, Mi Note China Unicom
-xiaomi,2015021,en,小米, Mi Note Pro
-xiaomi,2015022,en,小米, Mi Note Pro
+xiaomi,2015021,en,小米, Mi Note Pro China (Dual-network)
+xiaomi,2015022,en,小米, Mi Note Pro China (Full-network)
 xiaomi,2015501,en,小米, Mi Note Pro China Mobile
-xiaomi,2015213,en,小米, Mi Note 2 Global
+xiaomi,2015213,en,小米, Mi Note 2 Global / Mi Note 2 Global Edition China
 xiaomi,2015211,en,小米, Mi Note 2 China
 xiaomi,2015212,en,小米, Mi Note 2 China Mobile
-xiaomi,MCE8,en,小米, Mi Note 3
+xiaomi,MCE8,en,小米, Mi Note 3 China / Global
 xiaomi,MCT8,en,小米, Mi Note 3 China Mobile
 xiaomi,M1910F4G,en,小米, Mi Note 10 Global
 xiaomi,M1910F4S,en,小米, Mi Note 10 Pro Global
 xiaomi,M2002F4LG,en,小米, Mi Note 10 Lite Global
-xiaomi,2016080,en,小米, Mi MIX
-xiaomi,MDE5,en,小米, Mi MIX 2
+xiaomi,2016080,en,小米, Mi MIX China / Global
+xiaomi,MDE5,en,小米, Mi MIX 2 China / Global
 xiaomi,MDT5,en,小米, Mi MIX 2 China Mobile
 xiaomi,MDE5S,en,小米, Mi MIX 2 Unibody Ceramic Edition
-xiaomi,M1803D5XA,en,小米, Mi MIX 2S Global
+xiaomi,M1803D5XA,en,小米, Mi MIX 2S Global / Mi MIX 2S Premium Edition China
 xiaomi,M1803D5XE,en,小米, Mi MIX 2S China
 xiaomi,M1803D5XT,en,小米, Mi MIX 2S China Mobile
 xiaomi,M1803D5XC,en,小米, Mi MIX 2S China Unicom & China Telecom
-xiaomi,M1810E5A,en,小米, Mi MIX 3 Global
-xiaomi,M1810E5E,en,小米, Mi MIX 3 China
+xiaomi,M1810E5A,en,小米, Mi MIX 3 Global / Mi MIX 3 China (8GB+256GB & 10GB+256GB)
+xiaomi,M1810E5E,en,小米, Mi MIX 3 China (6GB+128GB & 8GB+128GB)
 xiaomi,M1810E5GG,en,小米, Mi MIX 3 5G
 xiaomi,2106118C,en,小米, Xiaomi MIX 4 China
 xiaomi,M2011J18C,en,小米, Mi MIX FOLD China
@@ -5861,10 +5887,10 @@ xiaomi,2405CPX3DC,en,小米, Xiaomi MIX Flip China
 xiaomi,2016002,en,小米, Mi Max Global
 xiaomi,2016001,en,小米, Mi Max China
 xiaomi,2016007,en,小米, Mi Max Prime
-xiaomi,MDE40,en,小米, Mi Max 2
+xiaomi,MDE40,en,小米, Mi Max 2 China / Global
 xiaomi,MDT4,en,小米, Mi Max 2 China Mobile
 xiaomi,MDI40,en,小米, Mi Max 2 India
-xiaomi,M1804E4A,en,小米, Mi Max 3
+xiaomi,M1804E4A,en,小米, Mi Max 3 China / Global
 xiaomi,M1804E4T,en,小米, Mi Max 3 China Mobile
 xiaomi,M1804E4C,en,小米, Mi Max 3 China Unicom & China Telecom
 xiaomi,M1904F3BC,en,小米, Mi CC 9 China
@@ -5876,7 +5902,7 @@ xiaomi,2109119BC,en,小米, Xiaomi Civi 1S China
 xiaomi,2209129SC,en,小米, Xiaomi Civi 2 China
 xiaomi,23046PNC9C,en,小米, Xiaomi Civi 3 China
 xiaomi,24053PY09C,en,小米, Xiaomi Civi 4 Pro China
-xiaomi,M1901F9E,en,小米, Mi Play
+xiaomi,M1901F9E,en,小米, Mi Play China / Global
 xiaomi,M1901F9T,en,小米, Mi Play China Mobile
 xiaomi,MDG2,en,小米, Mi A1 Global
 xiaomi,MDI2,en,小米, Mi A1 India
@@ -5899,10 +5925,10 @@ xiaomi,2014819,en,小米, Redmi 2 Brazil
 xiaomi,2014811,en,小米, Redmi 2 China Unicom
 xiaomi,2014812,en,小米, Redmi 2 China Telecom
 xiaomi,2014821,en,小米, Redmi 2 China Telecom
-xiaomi,2014502,en,小米, Redmi 2A
-xiaomi,2014512,en,小米, Redmi 2A Prime
-xiaomi,2014055,en,小米, Redmi 2A Prime
-xiaomi,2014816,en,小米, Redmi 2A Prime (Snapdragon 410)
+xiaomi,2014502,en,小米, Redmi 2A China
+xiaomi,2014512,en,小米, Redmi 2A Prime China
+xiaomi,2014055,en,小米, Redmi 2A Prime China
+xiaomi,2014816,en,小米, Redmi 2A Prime China (Snapdragon 410)
 xiaomi,2015816,en,小米, Redmi 3 Global
 xiaomi,2015811,en,小米, Redmi 3 China
 xiaomi,2015815,en,小米, Redmi 3 China
@@ -5915,11 +5941,11 @@ xiaomi,2016031,en,小米, Redmi 3S Global
 xiaomi,2016037,en,小米, Redmi 3S India
 xiaomi,2016032,en,小米, Redmi 3S Prime India
 xiaomi,2016030,en,小米, Redmi 3S China
-xiaomi,2016036,en,小米, Redmi 3X
+xiaomi,2016036,en,小米, Redmi 3X China
 xiaomi,2016035,en,小米, Redmi 3X China Mobile
 xiaomi,2016033,en,小米, Redmi 3X China Unicom
-xiaomi,2016090,en,小米, Redmi 4
-xiaomi,2016060,en,小米, Redmi 4 Pro
+xiaomi,2016090,en,小米, Redmi 4 China / Global
+xiaomi,2016060,en,小米, Redmi 4 Pro China / Global
 xiaomi,2016117,en,小米, Redmi 4A Global
 xiaomi,2016116,en,小米, Redmi 4A India
 xiaomi,2016111,en,小米, Redmi 4A China
@@ -6029,7 +6055,7 @@ xiaomi,22120RN86G,en,小米, Redmi 12C Global
 xiaomi,22120RN86H,en,小米, Redmi 12C India
 xiaomi,22120RN86I,en,小米, Redmi 12C India
 xiaomi,22120RN86C,en,小米, Redmi 12C China
-xiaomi,2212ARNC4L,en,小米, Redmi 12C Latin America
+xiaomi,2212ARNC4L,en,小米, Redmi 12C Latin America / Japan
 xiaomi,22126RN91Y,en,小米, Redmi 12C Global (NFC)
 xiaomi,2404ARN45A,en,小米, Redmi 13 Global
 xiaomi,2404ARN45I,en,小米, Redmi 13 India
@@ -6045,7 +6071,7 @@ xiaomi,23124RN87I,en,小米, Redmi 13C 5G India
 xiaomi,23124RN87C,en,小米, Redmi 13C 5G China / Redmi 13R 5G China
 xiaomi,2409BRN2CA,en,小米, Redmi 14C Global
 xiaomi,2409BRN2CI,en,小米, Redmi 14C India
-xiaomi,2409BRN2CL,en,小米, Redmi 14C Latin America
+xiaomi,2409BRN2CL,en,小米, Redmi 14C Latin America / Japan
 xiaomi,2409BRN2CC,en,小米, Redmi 14C China
 xiaomi,2409BRN2CY,en,小米, Redmi 14C Global (NFC)
 xiaomi,2411DRN47C,en,小米, Redmi 14R 5G China
@@ -6067,19 +6093,19 @@ xiaomi,2015712,en,小米, Redmi Note 2 (32GB)
 xiaomi,2015052,en,小米, Redmi Note 2 (16GB) China Mobile
 xiaomi,2015055,en,小米, Redmi Note 2 (16GB) China Mobile
 xiaomi,2015056,en,小米, Redmi Note 2 (32GB) China Mobile
-xiaomi,2015617,en,小米, Redmi Note 3 (Mediatek)
+xiaomi,2015617,en,小米, Redmi Note 3 (Mediatek) China
 xiaomi,2015611,en,小米, Redmi Note 3 (Mediatek) China Mobile
 xiaomi,2015116,en,小米, Redmi Note 3 (Qualcomm) Global
 xiaomi,2015112,en,小米, Redmi Note 3 (Qualcomm) China
 xiaomi,2015115,en,小米, Redmi Note 3 (Qualcomm) China
 xiaomi,2015161,en,小米, Redmi Note 3 (Special Edition) Taiwan
-xiaomi,2016050,en,小米, Redmi Note 4 (Mediatek)
+xiaomi,2016050,en,小米, Redmi Note 4 (Mediatek) China / Global
 xiaomi,2016051,en,小米, Redmi Note 4 (Mediatek) China Mobile
 xiaomi,2016100,en,小米, Redmi Note 4 (Qualcomm) Global
 xiaomi,2016102,en,小米, Redmi Note 4 (Qualcomm) Global
 xiaomi,2016101,en,小米, Redmi Note 4X (Qualcomm) China
 xiaomi,2016130,en,小米, Redmi Note 4X (Qualcomm) China Mobile
-xiaomi,MBE6A5,en,小米, Redmi Note 4X (Mediatek)
+xiaomi,MBE6A5,en,小米, Redmi Note 4X (Mediatek) China
 xiaomi,MBT6A5,en,小米, Redmi Note 4X (Mediatek) China Mobile
 xiaomi,MEI7,en,小米, Redmi Note 5 India
 xiaomi,M1803E7SG,en,小米, Redmi Note 5 Global
@@ -6259,10 +6285,11 @@ xiaomi,23013RK75C,en,小米, Redmi K60 China
 xiaomi,22127RK46C,en,小米, Redmi K60 Pro China
 xiaomi,22122RK93C,en,小米, Redmi K60E China
 xiaomi,23078RKD5C,en,小米, Redmi K60 Ultra China
-xiaomi,2407FRK8EC,en,小米, Redmi K70 Ultra China
 xiaomi,23113RKC6C,en,小米, Redmi K70 China
 xiaomi,23117RK66C,en,小米, Redmi K70 Pro China
 xiaomi,2311DRK48C,en,小米, Redmi K70E China
+xiaomi,2407FRK8EC,en,小米, Redmi K70 Ultra China
+xiaomi,24117RK2CC,en,小米, Redmi K80 China
 xiaomi,2016020,en,小米, Redmi Pro (32GB)
 xiaomi,2016021,en,小米, Redmi Pro (64GB & 128GB)
 xiaomi,M1803E6G,en,小米, Redmi S2 Global
@@ -6353,6 +6380,7 @@ xiaomi,24066PC95I,en,小米, POCO M6 Plus 5G India
 xiaomi,2312FPCA6G,en,小米, POCO M6 Pro Global
 xiaomi,23076PC4BI,en,小米, POCO M6 Pro 5G India
 xiaomi,24108PCE2I,en,小米, POCO M7 5G India
+xiaomi,2409FPCC4G,en,小米, POCO M7 Pro 5G Global
 xiaomi,M2006C3MI,en,小米, POCO C3 India
 xiaomi,211033MI,en,小米, POCO C31 India
 xiaomi,220333QPG,en,小米, POCO C40 Global
@@ -6369,6 +6397,8 @@ xiaomi,2312BPC51X,en,小米, POCO C61 Global
 xiaomi,2312BPC51H,en,小米, POCO C61 India
 xiaomi,2310FPCA4G,en,小米, POCO C65 Global
 xiaomi,2310FPCA4I,en,小米, POCO C65 India
+xiaomi,2410FPCC5G,en,小米, POCO C75 Global
+xiaomi,2410FPCC5I,en,小米, POCO C75 India
 xiaomi,A0101,en,小米, Mi Pad
 xiaomi,2015716,en,小米, Mi Pad 2
 xiaomi,MCE91,en,小米, Mi Pad 3
@@ -6660,6 +6690,11 @@ honor,LRA-AN00,cn,荣耀, 荣耀 Magic V Flip
 honor,FCP-AN10,cn,荣耀, 荣耀 Magic V3
 honor,FCP-AN20,cn,荣耀, 荣耀 Magic V3 双卫星版
 honor,FLC-AN00,cn,荣耀, 荣耀 Magic Vs3
+honor,PTP-AN00,cn,荣耀, 荣耀 Magic7
+honor,PTP-AN60,cn,荣耀, 荣耀 Magic7 (16GB+1TB)
+honor,PTP-AN10,cn,荣耀, 荣耀 Magic7 Pro
+honor,PTP-AN70,cn,荣耀, 荣耀 Magic7 Pro (16GB+1TB)
+honor,PTP-AN20,cn,荣耀, 荣耀 Magic7 RSR 保时捷设计
 honor,H60-L01,cn,荣耀, 荣耀 6 移动版
 honor,H60-L02,cn,荣耀, 荣耀 6 联通版
 honor,H60-L03,cn,荣耀, 荣耀 6 移动定制版
@@ -7158,6 +7193,7 @@ honor,MNS-B39,cn,荣耀, 荣耀手表 GS 3i
 honor,TMA-L19,cn,荣耀, 荣耀手表 4
 honor,TUM-L19,cn,荣耀, 荣耀手表 4 Pro
 honor,MUS-B19,cn,荣耀, 荣耀手表 GS 4
+honor,STL-L19,cn,荣耀, 荣耀手表 5
 honor,NYX-B10HN,cn,荣耀, 荣耀手环 3 标准版
 honor,NYX-B20HN,cn,荣耀, 荣耀手环 3 NFC 版
 honor,CRS-B19,cn,荣耀, 荣耀手环 4 标准版
@@ -7680,6 +7716,8 @@ samsung,SM-W9023,cn,三星, 三星 W23
 samsung,SM-W7023,cn,三星, 三星 W23 Flip
 samsung,SM-W9024,cn,三星, 三星 W24
 samsung,SM-W7024,cn,三星, 三星 W24 Flip
+samsung,SM-W9025,cn,三星, 三星 W25
+samsung,SM-W7025,cn,三星, 三星 W25 Flip
 samsung,SM-G1600,cn,三星, Galaxy Folder
 samsung,SM-G1650,cn,三星, Galaxy Folder 2
 samsung,SM-G8508S,cn,三星, Galaxy Alpha
@@ -8386,6 +8424,7 @@ xiaomi-wear,M2303B1,cn,其他, 小米手环 8 Pro 国行版
 xiaomi-wear,M2333B1,cn,其他, 小米手环 8 Pro 国际版
 xiaomi-wear,M2345B1,cn,其他, 小米手环 9
 xiaomi-wear,M2346B1,cn,其他, 小米手环 9 NFC 版 / 陶瓷特别版
+xiaomi-wear,M2401B1,cn,其他, 小米手环 9 Pro
 xiaomi-wear,XMWT01,cn,其他, 小米手表
 xiaomi-wear,M2320W1,cn,其他, Xiaomi Watch 2
 xiaomi-wear,M2234W1,cn,其他, Xiaomi Watch 2 Pro 蓝牙版
@@ -8400,11 +8439,15 @@ xiaomi-wear,M2206W1,cn,其他, Xiaomi Watch S2 42mm
 xiaomi-wear,M2207W1,cn,其他, Xiaomi Watch S2 46mm
 xiaomi-wear,M2313W1,cn,其他, Xiaomi Watch S3 蓝牙版
 xiaomi-wear,M2311W1,cn,其他, Xiaomi Watch S3 eSIM 版
+xiaomi-wear,M2425W1,cn,其他, Xiaomi Watch S4 蓝牙版
+xiaomi-wear,M2424W1,cn,其他, Xiaomi Watch S4 eSIM 版
 xiaomi-wear,M2312W1,cn,其他, Xiaomi Watch S4 Sport eSIM 版
 xiaomi-wear,M2230W1,cn,其他, 小米腕部心电血压记录仪 (Xiaomi Watch H1)
+xiaomi-wear,M2412W1,cn,其他, 小米腕部血压记录仪 (Xiaomi Watch H1 E)
 xiaomi-wear,HMSH01GE,cn,其他, Redmi 手环
 xiaomi-wear,M2101B1,cn,其他, Redmi Smart Band Pro 国际版
 xiaomi-wear,M2225B1,cn,其他, Redmi 手环 2
+xiaomi-wear,M2434B1,cn,其他, Redmi 手环 3
 xiaomi-wear,REDMIWT01,cn,其他, Redmi Watch
 xiaomi-wear,M2102W1,cn,其他, Redmi Watch 2
 xiaomi-wear,M2109W1,cn,其他, Redmi Watch 2 Lite 国际版
