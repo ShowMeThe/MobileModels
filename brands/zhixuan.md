@@ -1,7 +1,7 @@
-# 华为智选手机型号汇总
+# 华为智选设备型号汇总
 
 - 汇总范围: U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO
-- codename: ❌
+- codename: ⏹
 
 ## U-MAGIC 优畅享
 
@@ -57,21 +57,25 @@
 
 `TYH641M`: 麦芒 30 5G
 
+**麦芒 40:**
+
+`TYH651M-02`: 麦芒 40 5G
+
 ## NZONE
 
-**NZONE S7:**
+**NZONE S7 (`Giant`):**
 
 `SP100`: NZONE S7 5G
 
-**NZONE S7 Pro:**
+**NZONE S7 Pro (`Coco`):**
 
 `SP200`: NZONE S7 Pro 5G
 
-**NZONE S7 Pro+:**
+**NZONE S7 Pro+ (`Monica`):**
 
 `SP300`: NZONE S7 Pro+ 5G
 
-**NZONE 50 Pro:**
+**NZONE 50 Pro (`Ballon`):**
 
 `SP210` `SP210T`: NZONE 50 Pro 5G
 
@@ -112,6 +116,10 @@
 **Hi nova 12 SE:**
 
 `SUP-BD00`: Hi nova 12 SE 5G
+
+**Hi nova 12z:**
+
+`SPR-BD00`: Hi nova 12z 5G
 
 ## 雷鸟 FFALCON
 
@@ -158,3 +166,41 @@
 **Hi 畅享 70 Pro:**
 
 `BAL-AN20`: Hi 畅享 70 Pro 5G
+
+**Hi 畅享 70 Plus (`Jerry`):**
+
+`JEY-AN00`: Hi 畅享 70 Plus 5G
+
+**Hi 畅享 80 / Hi 畅享 80S (`Jiaolong`):**
+
+`JLG-AN00`: Hi 畅享 80 5G / Hi 畅享 80S 5G
+
+**Hi 畅享 80 GT (`Jiaolong`):**
+
+`JLG-AN80`: Hi 畅享 80 GT 5G
+
+**Hi 畅享 80 Pro:**
+
+`SHR-AN00`: Hi 畅享 80 Pro 5G
+
+**Hi MatePad:**
+
+`BRO-W00`: Hi MatePad
+
+**Hi MateBook 14:**
+
+`MASH-16`: Hi MateBook 14 (16GB 内存)
+
+`MASH-32`: Hi MateBook 14 (32GB 内存)
+
+**Hi MateBook D 14:**
+
+`LYOI-16`: Hi MateBook D 14 (16GB 内存)
+
+`LYOI-32`: Hi MateBook D 14 (32GB 内存)
+
+**Hi MateBook D 16:**
+
+`NICEI-16`: Hi MateBook D 16 (16GB 内存)
+
+`NICEI-32`: Hi MateBook D 16 (32GB 内存)

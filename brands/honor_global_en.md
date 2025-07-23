@@ -213,11 +213,11 @@
 
 `CLK-NX1` `CLK-NX3`: HONOR 90 Smart
 
-**HONOR 200:**
+**HONOR 200 (`Ellie`):**
 
 `ELI-NX9`: HONOR 200
 
-**HONOR 200 Pro:**
+**HONOR 200 Pro (`EllieP`):**
 
 `ELP-NX9`: HONOR 200 Pro
 
@@ -225,9 +225,21 @@
 
 `LLY-NX1` `LLY-NX3`: HONOR 200 Lite
 
-**HONOR 200 Smart:**
+**HONOR 200 Smart (`Alita`):**
 
 `ALT-NX1` `ALT-NX3`: HONOR 200 Smart
+
+**HONOR 400:**
+
+`DNY-NX9`: HONOR 400
+
+**HONOR 400 Pro:**
+
+`DNP-NX9`: HONOR 400 Pro
+
+**HONOR 400 Lite (`Amber`):**
+
+`ABR-NX1` `ABR-NX3`: HONOR 400 Lite
 
 **HONOR Magic4 Pro (`Lange`):**
 
@@ -275,7 +287,19 @@
 
 `ALI-NX1` `ALI-NX3`: HONOR Magic6 Lite 5G
 
-**HONOR Magic V3:**
+**HONOR Magic7 Pro (`Patek`):**
+
+`PTP-N49`: HONOR Magic7 Pro
+
+**PORSCHE DESIGN HONOR Magic7 RSR (`Patek`):**
+
+`PTP-N59`: PORSCHE DESIGN HONOR Magic7 RSR
+
+**HONOR Magic7 Lite (`BruceP`):**
+
+`BRP-NX1M` `BRP-NX3`: HONOR Magic7 Lite
+
+**HONOR Magic V3 (`FalconP`):**
 
 `FCP-N49`: HONOR Magic V3
 
@@ -287,7 +311,7 @@
 
 `WOD-LX1` `WOD-LX2` `WOD-LX3`: HONOR X5 Plus
 
-**HONOR X5b:**
+**HONOR X5b (`Goofy`):**
 
 `GFY-LX2` `GFY-LX3`: HONOR X5b
 
@@ -313,13 +337,17 @@
 
 **HONOR X6b (`Judy`):**
 
-`JDY-LX1` `JDY-LX2` `JDY-LX3`: HONOR X6b
+`JDY-LX1` `JDY-LX2` `JDY-LX3P`: HONOR X6b
 
-`JDY-LX3P`: HONOR X6b Plus
+`JDY-LX3`: HONOR X6b Plus
 
-**HONOR X6b 5G:**
+**HONOR X6b 5G (`Alita`):**
 
 `ALT-NX3`: HONOR X6b 5G
+
+**HONOR X6c (`Nick`):**
+
+`NIC-LX1` `NIC-LX2` `NIC-LX3`: HONOR X6c
 
 **HONOR X7 (`Carmella`):**
 
@@ -339,7 +367,11 @@
 
 `CLK-NX1` `CLK-NX2`: HONOR X7b 5G
 
-**HONOR X7c 5G:**
+**HONOR X7c (`Alita`):**
+
+`ALT-LX1` `ALT-LX2` `ALT-LX3`: HONOR X7c
+
+**HONOR X7c 5G (`Alita`):**
 
 `ALT-NX1`: HONOR X7c 5G
 
@@ -363,6 +395,10 @@
 
 `LLY-LX1` `LLY-LX2` `LLY-LX3`: HONOR X8b
 
+**HONOR X8c (`Amber`):**
+
+`ABR-LX1` `ABR-LX2` `ABR-LX3`: HONOR X8c
+
 **HONOR X9 (`Andy`):**
 
 `ANY-LX1` `ANY-LX2` `ANY-LX3`: HONOR X9
@@ -379,6 +415,22 @@
 
 `ALI-NX1` `ALI-NX3P`: HONOR X9b 5G
 
+**HONOR X9c (`BruceP`):**
+
+`BRP-NX1`: HONOR X9c
+
+**HONOR X9c Smart (`Bruce`):**
+
+`BRC-NX1`: HONOR X9c Smart
+
+**HONOR Play9A (`Goofy`):**
+
+`GFY-LX3`: HONOR Play9A
+
+**HONOR Play9C (`Nick`):**
+
+`NIC-LX3P`: HONOR Play9C
+
 **HONOR Pad 8 (`Hendry`):**
 
 `HEY-W09`: HONOR Pad 8
@@ -393,9 +445,11 @@
 
 `AGM-W09HN`: HONOR Pad X8 Lite
 
-**HONOR Pad X8a:**
+**HONOR Pad X8a (`Nadal`):**
 
-`NDL-W09`: HONOR Pad X8a
+`NDL-W09`: HONOR Pad X8a Wi-Fi
+
+`NDL-L03` `NDL-L09`: HONOR Pad X8a LTE
 
 **HONOR Pad 9 (`Hendry2`):**
 
@@ -403,12 +457,26 @@
 
 `HEY2-N09`: HONOR Pad 9 5G
 
+**HONOR Pad V9 (`Rowling`):**
+
+`ROL-W00`: HONOR Pad V9
+
 **HONOR Pad X9 (`Eileen`):**
 
 `ELN-W09`: HONOR Pad X9 Wi-Fi
 
 `ELN-L03` `ELN-L09`: HONOR Pad X9 LTE
 
+**HONOR Pad X9a (`Eileen2`):**
+
+`ELN2-W29`: HONOR Pad X9a Wi-Fi
+
+`ELN2-L23` `ELN2-L29`: HONOR Pad X9a LTE
+
 **HONOR MagicPad2 (`Rolland2`):**
 
 `ROD2-W09`: HONOR MagicPad2
+
+**HONOR Pad 10 (`Hendry3`):**
+
+`HEY3-W00`: HONOR Pad 10 Wi-Fi

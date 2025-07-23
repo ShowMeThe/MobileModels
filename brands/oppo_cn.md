@@ -58,7 +58,7 @@
 
 `PGEM10`: OPPO Find X6 Pro
 
-**OPPO Find X7 (`nvwa`):**
+**OPPO Find X7 (`nvwa-v`):**
 
 `PHZ110`: OPPO Find X7
 
@@ -68,15 +68,29 @@
 
 `PHY120`: OPPO Find X7 Ultra 卫星通信版
 
-**OPPO Find X8:**
+**OPPO Find X8 (`yala`):**
 
 `PKB110`: OPPO Find X8
 
-**OPPO Find X8 Pro:**
+**OPPO Find X8 Pro (`konka`):**
 
 `PKC110`: OPPO Find X8 Pro
 
 `PKC130`: OPPO Find X8 Pro 卫星通信版
+
+**OPPO Find X8s (`koktokay`):**
+
+`PKT110`: OPPO Find X8s
+
+**OPPO Find X8s+ (`slmh`):**
+
+`PLB110`: OPPO Find X8s+
+
+**OPPO Find X8 Ultra (`zhufeng`):**
+
+`PKJ110`: OPPO Find X8 Ultra
+
+`PKU110`: OPPO Find X8 Ultra 卫星通信版
 
 ## Find N 系列
 
@@ -99,6 +113,12 @@
 **OPPO Find N3 Flip (`flamingo`):**
 
 `PHT110`: OPPO Find N3 Flip
+
+**OPPO Find N5 (`petrel`):**
+
+`PKH110`: OPPO Find N5
+
+`PKH120`: OPPO Find N5 卫星通信版
 
 ## Reno 系列
 
@@ -258,13 +278,29 @@
 
 `PJJ110`: OPPO Reno11 Pro
 
-**OPPO Reno12:**
+**OPPO Reno12 (`omega`) (`omega-c1`):**
 
 `PJV110`: OPPO Reno12
 
-**OPPO Reno12 Pro:**
+**OPPO Reno12 Pro (`omega`) (`omega-c1`):**
 
 `PJW110`: OPPO Reno12 Pro
+
+**OPPO Reno13 (`milkyway`) (`milkyway-c2`):**
+
+`PKM110`: OPPO Reno13
+
+**OPPO Reno13 Pro (`milkyway`) (`milkyway-c1`):**
+
+`PKK110`: OPPO Reno13 Pro
+
+**OPPO Reno14 (`zhuque`) (`zhuque-c2`):**
+
+`PLA110`: OPPO Reno14
+
+**OPPO Reno14 Pro (`zhuque`) (`zhuque-c1`):**
+
+`PKZ110`: OPPO Reno14 Pro
 
 ## Ace 系列
 
@@ -506,9 +542,9 @@
 
 `PJG110`: OPPO A2 Pro
 
-**OPPO A3:**
+**OPPO A3 / OPPO A3i Plus:**
 
-`PKA110`: OPPO A3 5G (2024)
+`PKA110`: OPPO A3 5G (2024) / OPPO A3i Plus
 
 **OPPO A3 活力版:**
 
@@ -529,6 +565,22 @@
 **OPPO A3 Pro:**
 
 `PJY110`: OPPO A3 Pro
+
+**OPPO A5:**
+
+`PKQ110`: OPPO A5 5G (2025)
+
+**OPPO A5 活力版:**
+
+`PKV110`: OPPO A5 活力版
+
+**OPPO A5x:**
+
+`PKW110`: OPPO A5x
+
+**OPPO A5 Pro (`alpha`) (`alpha-h`):**
+
+`PKP110`: OPPO A5 Pro
 
 ## K 系列
 
@@ -604,6 +656,18 @@
 
 `PJT110`: OPPO K12x
 
+**OPPO K12s:**
+
+`PLD110`: OPPO K12s
+
+**OPPO K13 Turbo (`knight`):**
+
+`PLM110`: OPPO K13 Turbo
+
+**OPPO K13 Turbo:**
+
+`PLE110`: OPPO K13 Turbo Pro
+
 ## 平板电脑
 
 **OPPO Pad:**
@@ -622,23 +686,37 @@
 
 `OPD2301`: OPPO Pad Air2
 
-**OPPO Pad 3 Pro:**
+**OPPO Pad 3 (`dunhuang`):**
+
+`OPD2405`: OPPO Pad 3
+
+**OPPO Pad 3 Pro (`caihong`):**
 
 `OPD2401`: OPPO Pad 3 Pro
+
+**OPPO Pad 4 Pro (`erhai`):**
+
+`OPD2409`: OPPO Pad 4 Pro
+
+**OPPO Pad SE:**
+
+`OPD2417`: OPPO Pad SE
 
 ## Watch/Band 系列
 
 **OPPO Band:**
 
-`OB19B1`: OPPO Band 标准版 / 名侦探柯南限定版
+`OB19B1` `OB19O1`: OPPO Band 运动版
 
-`OB19B3`: OPPO Band NFC 版
+`OB19B1` `OB19O3`: OPPO Band 运动版 (国际版)
 
-`OB19O0`: OPPO Band 时尚版
+`OB19B1` `OB19O7`: OPPO Band 活力版
 
-`OB19O1`: OPPO Band 运动版
+`OB19B3` `OB19O0`: OPPO Band 时尚版 (NFC 版)
 
-`OB19O2`: OPPO Band EVA 限定版
+`OB19B3` `OB19O2`: OPPO Band EVA 限定版
+
+`OB19B3` `OB19O8`: OPPO Band 名侦探柯南限定版
 
 **OPPO Band 2 (`haisenberg`):**
 
@@ -674,18 +752,30 @@
 
 `OW20W3`: OPPO Watch 2 46mm ECG
 
-**OPPO Watch 3:**
+**OPPO Watch 3 / OPPO Watch SE (`oersted`):**
+
+`OWW213`: OPPO Watch SE
 
 `OWW212`: OPPO Watch 3
 
 `OWW211`: OPPO Watch 3 Pro
 
-`OWW213`: OPPO Watch SE
-
-**OPPO Watch 4 Pro (`comet`):**
+**OPPO Watch 4 Pro (`comet`) (`huixing`):**
 
 `OWW221`: OPPO Watch 4 Pro
 
-**OPPO Watch X (`star`):**
+**OPPO Watch X (`star`) (`hengxing`):**
 
 `OWW231`: OPPO Watch X
+
+**OPPO Watch Sport (`sport`):**
+
+`OWW235`: OPPO Watch Sport
+
+**OPPO Watch X2 Mini (`xingchen`):**
+
+`OWW242`: OPPO Watch X2 Mini
+
+**OPPO Watch X2 (`starriver`) (`xinghe`):**
+
+`OWW251`: OPPO Watch X2

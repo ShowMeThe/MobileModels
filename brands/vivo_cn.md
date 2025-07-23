@@ -222,9 +222,23 @@
 
 `V2405DA`: vivo X200 Pro 卫星通信版
 
-**vivo X200 Pro mini:**
+**vivo X200 Pro mini (`PD2419`):**
 
 `V2419A`: vivo X200 Pro mini
+
+**vivo X200s (`PD2458`):**
+
+`V2458A`: vivo X200s
+
+**vivo X200 Ultra (`PD2454`):**
+
+`V2454A`: vivo X200 Ultra
+
+`V2454DA`: vivo X200 Ultra 卫星通信版
+
+**vivo X Fold5 (`PD2436`):**
+
+`V2436A`: vivo X Fold5
 
 ## vivo S 系列
 
@@ -353,6 +367,22 @@
 **vivo S19 Pro (`PD2362`):**
 
 `V2362A`: vivo S19 Pro
+
+**vivo S20 (`PD2429`):**
+
+`V2429A`: vivo S20
+
+**vivo S20 Pro (`PD2430`):**
+
+`V2430A`: vivo S20 Pro
+
+**vivo S30 (`PD2464`):**
+
+`V2464A`: vivo S30
+
+**vivo S30 Pro mini (`PD2465`):**
+
+`V2465A`: vivo S30 Pro mini
 
 ## vivo Y 系列
 
@@ -500,6 +530,10 @@
 
 `V2354A`: vivo Y37 Pro 5G
 
+**vivo Y37c (`PD2442`):**
+
+`V2442A`: vivo Y37c
+
 **vivo Y50 (`PD1965`):**
 
 `V1965A`: vivo Y50
@@ -507,6 +541,14 @@
 **vivo Y50t (`PD2023`):**
 
 `V2023EA`: vivo Y50t
+
+**vivo Y37t / vivo Y50 (2025) (`PD2443`):**
+
+`V2443A`: vivo Y37t 5G / vivo Y50 5G
+
+**vivo Y50m (`PD2443`):**
+
+`V2443BA`: vivo Y50m 5G
 
 **vivo Y51s (`PD2019`):**
 
@@ -570,7 +612,7 @@
 
 **vivo Y71t (`PD2102`):**
 
-`V2102A`: vivo Y70t 5G
+`V2102A`: vivo Y71t 5G
 
 **vivo Y72t (`PD2164`):**
 
@@ -690,25 +732,45 @@
 
 `V2312BA`: vivo Y100i 长续航版 5G
 
-**vivo Y100+ / vivo Y200i (`PD2354`):**
+**vivo Y100+ / vivo Y200i / vivo Y200+ (`PD2354`):**
 
-`V2354A`: vivo Y100+ 5G / vivo Y200i 5G
+`V2354A`: vivo Y100+ 5G / vivo Y200i 5G / vivo Y200+ 5G
 
 **vivo Y200 (`PD2343`):**
 
 `V2343A`: vivo Y200 5G
 
-**vivo Y200 GT (`PD2361`):**
+**vivo Y200 GT / vivo Y200 Pro 企业定制版 (`PD2361`):**
 
-`V2361GA`: vivo Y200 GT 5G
+`V2361GA`: vivo Y200 GT 5G / vivo Y200 Pro 企业定制版
 
 **vivo Y200t (`PD2353`):**
 
 `V2353DA`: vivo Y200t 5G
 
+**vivo Y300 / vivo Y300c (`PD2435`):**
+
+`V2435A`: vivo Y300 5G / vivo Y300c 5G
+
 **vivo Y300 Pro (`PD2410`):**
 
 `V2410A`: vivo Y300 Pro 5G
+
+**vivo Y300 Pro+ (`PD2456`):**
+
+`V2456A`: vivo Y300 Pro+ 5G
+
+**vivo Y300i (`PD2444`):**
+
+`V2444A`: vivo Y300i 5G
+
+**vivo Y300t / vivo Y300+ (`PD2445D`):**
+
+`V2445EA`: vivo Y300t 5G / vivo Y300+ 5G
+
+**vivo Y300 GT (`PD2452`):**
+
+`V2452GA`: vivo Y300 GT 5G
 
 ## vivo T 系列
 
@@ -719,6 +781,10 @@
 **vivo T1x (`PD2123`):**
 
 `V2123A`: vivo T1x
+
+**vivo T2 (`PD2199`):**
+
+`V2199GA`: vivo T2
 
 **vivo T2x (`PD2188`):**
 
@@ -810,11 +876,15 @@
 
 **vivo G1 (`PD1962B`):**
 
-`V1962BA`: vivo G1 5G
+`V1962BA`: vivo G1
 
 **vivo G2 (`PD2318`):**
 
-`V2318A`: vivo G2 5G
+`V2318A`: vivo G2
+
+**vivo G3 (`PD2443`):**
+
+`V2443A`: vivo G3
 
 ## iQOO 旗舰系列
 
@@ -984,6 +1054,18 @@
 
 `V2403A`: iQOO Neo9S Pro+
 
+**iQOO Neo10 (`PD2425`):**
+
+`V2425A`: iQOO Neo10
+
+**iQOO Neo10 Pro (`PD2426`):**
+
+`V2426A`: iQOO Neo10 Pro
+
+**iQOO Neo10 Pro+ (`PD2463`):**
+
+`V2463A`: iQOO Neo10 Pro+
+
 ## iQOO Z 系列
 
 **iQOO Z1 (`PD1986`):**
@@ -1042,6 +1124,10 @@
 
 `V2352A`: iQOO Z9 Turbo
 
+**iQOO Z9 Turbo 长续航版 (`PD2352G`):**
+
+`V2352GA`: iQOO Z9 Turbo 长续航版
+
 **iQOO Z9 Turbo+ (`PD2417`):**
 
 `V2417A`: iQOO Z9 Turbo+
@@ -1049,6 +1135,18 @@
 **iQOO Z9x (`PD2353`):**
 
 `V2353A`: iQOO Z9x
+
+**iQOO Z10 Turbo (`PD2452`):**
+
+`V2452A`: iQOO Z10 Turbo
+
+**iQOO Z10 Turbo Pro (`PD2453`):**
+
+`V2453A`: iQOO Z10 Turbo Pro
+
+**iQOO Z10x (`PD2445`):**
+
+`V2445A`: iQOO Z10x
 
 ## iQOO U 系列
 
@@ -1106,6 +1204,22 @@
 
 `PA2473`: vivo Pad3 Pro
 
+**vivo Pad5 (`DPD2437`):**
+
+`PA2553`: vivo Pad5
+
+**vivo Pad5 Pro (`DPD2429`):**
+
+`PA2573`: vivo Pad5 Pro
+
+**vivo Pad5e (`DPD2345`):**
+
+`PA2535`: vivo Pad5e
+
+**vivo Pad SE (`DPD2424`):**
+
+`PA2511`: vivo Pad SE
+
 **iQOO Pad (`DPD2307`):**
 
 `iPA2375`: iQOO Pad
@@ -1121,3 +1235,63 @@
 **iQOO Pad2 Pro (`DPD2329`):**
 
 `iPA2475`: iQOO Pad2 Pro
+
+**iQOO Pad5 (`DPD2437`):**
+
+`iPA2556`: iQOO Pad5
+
+**iQOO Pad5 Pro (`DPD2438`):**
+
+`iPA2575`: iQOO Pad5 Pro
+
+**iQOO Pad5e (`DPD2345`):**
+
+`iPA2537`: iQOO Pad5e
+
+## 穿戴设备
+
+**vivo WATCH:**
+
+`WA2052`: vivo WATCH 42mm
+
+`WA2056`: vivo WATCH 46mm
+
+**vivo WATCH 2:**
+
+`WA2156A`: vivo WATCH 2 eSIM 版
+
+**vivo WATCH 3:**
+
+`WA2356A`: vivo WATCH 3 eSIM 版 / ECG 版
+
+`WA2356C`: vivo WATCH 3 蓝牙版
+
+**vivo WATCH GT:**
+
+`WA2456A`: vivo WATCH GT eSIM 版
+
+`WA2456C`: vivo WATCH GT 蓝牙版
+
+**vivo WATCH 5:**
+
+`WA2556A`: vivo WATCH 5 蓝牙版
+
+`WA2556B`: vivo WATCH 5 eSIM 版
+
+**iQOO WATCH:**
+
+`iWA2356A`: iQOO WATCH eSIM 版
+
+`iWA2356C`: iQOO WATCH 蓝牙版
+
+**iQOO WATCH GT:**
+
+`iWA2456A`: iQOO WATCH GT eSIM 版
+
+`iWA2456C`: iQOO WATCH GT 蓝牙版
+
+**iQOO WATCH 5:**
+
+`iWA2556A`: iQOO WATCH 5 蓝牙版
+
+`iWA2556B`: iQOO WATCH 5 eSIM 版

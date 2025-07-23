@@ -175,12 +175,6 @@
 
 `A2099`: iPhone XS (China Mobile)
 
-**[`D331AP`] iPhone XS Max (`iPhone11,4`):**
-
-`A2104`: iPhone XS Max (China mainland, Hong Kong, Macao)
-
-`A2103`: iPhone XS Max (China Mobile)
-
 **[`D331pAP`] iPhone XS Max (`iPhone11,6`):**
 
 `A1921`: iPhone XS Max (North America)
@@ -188,6 +182,12 @@
 `A2101`: iPhone XS Max (GSM)
 
 `A2102`: iPhone XS Max (Japan)
+
+`A2104`: iPhone XS Max (China mainland, Hong Kong, Macao)
+
+**[`D331AP`] iPhone XS Max (`iPhone11,4`):**
+
+`A2103`: iPhone XS Max (China Mobile)
 
 **[`N841AP`] iPhone XR (`iPhone11,8`):**
 
@@ -469,6 +469,16 @@
 
 `A3296`: iPhone 16 Pro Max (Rest of the world)
 
+**[`V59AP`] iPhone 16e (`iPhone17,5`):**
+
+`A3212`: iPhone 16e (United States)
+
+`A3408`: iPhone 16e (Bahrain, Canada, Iraq, Guam, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+
+`A3410`: iPhone 16e (China mainland)
+
+`A3409`: iPhone 16e (Rest of the world)
+
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**
@@ -575,6 +585,16 @@
 
 `A3162`: iPad (10th generation) Wi-Fi + Cellular (eSIM, China mainland)
 
+**[`J481AP`] iPad (A16) (`iPad15,7`):**
+
+`A3354`: iPad (A16) Wi-Fi
+
+**[`J482AP`] iPad (A16) (`iPad15,8`):**
+
+`A3355`: iPad (A16) Wi-Fi + Cellular
+
+`A3356`: iPad (A16) Wi-Fi + Cellular (China mainland)
+
 ## iPad Air
 
 **[`J71AP`] iPad Air (`iPad4,1`):**
@@ -646,6 +666,26 @@
 `A2899`: iPad Air (13-inch, M2) Wi-Fi + Cellular
 
 `A2900`: iPad Air (13-inch, M2) Wi-Fi + Cellular (China mainland)
+
+**[`J607AP`] iPad Air (11-inch, M3) (`iPad15,3`):**
+
+`A3266`: iPad Air (11-inch, M3) Wi-Fi
+
+**[`J608AP`] iPad Air (11-inch, M3) (`iPad15,4`):**
+
+`A3267`: iPad Air (11-inch, M3) Wi-Fi + Cellular
+
+`A3270`: iPad Air (11-inch, M3) Wi-Fi + Cellular (China mainland)
+
+**[`J637AP`] iPad Air (13-inch, M3) (`iPad15,5`):**
+
+`A3268`: iPad Air (13-inch, M3) Wi-Fi
+
+**[`J638AP`] iPad Air (13-inch, M3) (`iPad15,6`):**
+
+`A3269`: iPad Air (13-inch, M3) Wi-Fi + Cellular
+
+`A3271`: iPad Air (13-inch, M3) Wi-Fi + Cellular (China mainland)
 
 ## iPad Pro
 

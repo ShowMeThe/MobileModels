@@ -20,7 +20,8 @@
 | [apple_all](brands/apple_all.md) | Apple | 全部 iPhone/iPad/iPod touch/Apple Watch/Apple TV/Apple Vision | ✅ | ✅ | -- |
 | [apple_all_en](brands/apple_all_en.md) | Apple | 全部 iPhone/iPad/iPod touch/Apple Watch/Apple TV/Apple Vision | ✅ | ✅ | 英文版 |
 | [apple_cn](brands/apple_cn.md) | Apple | 全部国行 iPhone/iPad/iPod touch/Apple Watch/Apple Vision | ✅ | ❌ | -- |
-| [asus](brands/asus.md) | 华硕 (ASUS) | ROG Phone 等 | ✅ | ❌ | -- |
+| [asus_cn](brands/asus_cn.md) | 华硕 (ASUS) | ROG Phone 等 | ✅ | ❌ | -- |
+| [asus_en](brands/asus_en.md) | 华硕 (ASUS) | ROG Phone/Zenfone | ✅ | ✅ | 英文版 |
 | [blackshark](brands/blackshark.md) | 黑鲨 (Black Shark) | 全部机型 | ✅ | ✅ | -- |
 | [blackshark_en](brands/blackshark_en.md) | 黑鲨 (Black Shark) | 全部机型 | ✅ | ✅ | 英文版 |
 | [coolpad](brands/coolpad.md) | 酷派 (Coolpad) | 酷派近年智能手机机型 | ❌ | ❌ | -- |
@@ -45,16 +46,16 @@
 | [oppo_global_en](brands/oppo_global_en.md) | OPPO | 2018 年起上市的海外机型 | ⏹ | ⏹ | 英文版 |
 | [realme_cn](brands/realme_cn.md) | 真我 (realme) | 全部国行机型 | ⏹ | ❌ | -- |
 | [realme_global_en](brands/realme_global_en.md) | 真我 (realme) | 全部海外机型 | ⏹ | ✅ | 英文版 |
-| [samsung_cn](brands/samsung_cn.md) | 三星 (Samsung) | Galaxy S/Note/A/Z/M/C/J/On/Tab/心系天下系列及个别其他机型 | ✅ | ❌ | [其他早期型号参阅此处](misc/early-samsung-models.md) |
+| [samsung_cn](brands/samsung_cn.md) | 三星 (Samsung) | Galaxy S/Note/A/Z/M/C/J/On/Tab/心系天下系列及个别其他机型，仅包含国行型号 | ✅ | ❌ | [其他早期型号参阅此处](misc/early-samsung-models.md) |
 | [samsung_global_en](brands/samsung_global_en.md) | 三星 (Samsung) | Galaxy S/Note/A/Z/M/F 系列，2019 年起上市的机型 | ✅ | ⏹ | 英文版 |
 | [smartisan](brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | ✅ | ❌ | -- |
 | [sony_cn](brands/sony_cn.md) | 索尼 (SONY) | 国内上市的较新款机型 | ❌ | ❌ | -- |
 | [vivo_cn](brands/vivo_cn.md) | vivo | 2018 年起新型号命名方式的国行机型 | ✅ | ❌ | -- |
-| [vivo_global_en](brands/vivo_global_en.md) | vivo | 2019 年起上市的海外机型 | ❌  | ⏹  | 英文版 |
+| [vivo_global_en](brands/vivo_global_en.md) | vivo | 2019 年起上市的海外机型 | ⏹  | ⏹ | 英文版 |
 | [xiaomi](brands/xiaomi.md) | 小米 (Xiaomi) | 小米/Redmi/POCO 手机 & 平板等 | ✅ | ✅ | -- |
 | [xiaomi_en](brands/xiaomi_en.md) | 小米 (Xiaomi) | 小米/Redmi/POCO 手机 & 平板等 | ✅ | ✅ | 英文版 |
-| [xiaomi-wear](brands/xiaomi-wear.md) | 小米 (Xiaomi) | 小米/Redmi 手表、手环等穿戴设备 | ⏹ | ✅ | -- |
-| [zhixuan](brands/zhixuan.md) | 华为智选 | U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO | ❌ | ❌ | -- |
+| [xiaomi-wear](brands/xiaomi-wear.md) | 小米 (Xiaomi) | 小米/Redmi 手表、手环、TWS 等穿戴设备 | ⏹ | ✅ | TWS 不包含外包型号；暂不含儿童手表型号 |
+| [zhixuan](brands/zhixuan.md) | 华为智选 | U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO | ⏹ | ❌ | -- |
 | [zte](brands/zte.md) | 中兴 (ZTE) | 2017 年起上市的机型 | ❌ | ❌ | -- |
 
 ## 更新日志
@@ -118,6 +119,7 @@
 - [Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
 - [XSMS IMEI 数据库](http://xsms.com.ua/phone/imei/all/1)
 - [Android Dumps](https://dumps.tadiphone.dev/dumps)
+- [Lenovo Android タブレット一覧](https://idomizu.dev/archives/20150)
 
 以及各品牌官网、论坛、微博等，恕不一一列出
 

@@ -131,6 +131,10 @@
 
 `ALN-LX9`: HUAWEI Mate 60 Pro
 
+**HUAWEI Mate 70 Pro (`Pillar`):**
+
+`PLR-L29`: HUAWEI Mate 70 Pro
+
 **HUAWEI Mate Xs (`Tahiti`):**
 
 `TAH-N29m`: HUAWEI Mate Xs Dual SIM
@@ -142,6 +146,14 @@
 **HUAWEI Mate X3 (`Alta`):**
 
 `ALT-L29`: HUAWEI Mate X3
+
+**HUAWEI Mate X6 (`Iceland`):**
+
+`ICL-LX9`: HUAWEI Mate X6
+
+**HUAWEI Mate XT ULTIMATE DESIGN (`Greenlan`):**
+
+`GRL-LX9`: HUAWEI Mate XT ULTIMATE DESIGN
 
 ## HUAWEI P/Pura Series
 
@@ -241,6 +253,10 @@
 
 `ELS-NX9`: HUAWEI P40 Pro Dual SIM
 
+**HUAWEI P40 Pro (`ElsaP`):**
+
+`ELS-N39`: HUAWEI P40 Pro+
+
 **HUAWEI P40 lite (`Jenny`):**
 
 `JNY-LX1`: HUAWEI P40 lite Dual SIM
@@ -282,6 +298,18 @@
 **HUAWEI Pura 70 Ultra (`HepburnP`):**
 
 `HBP-LX9`: HUAWEI Pura 70 Ultra
+
+**HUAWEI Pura 80 (`Hedy`):**
+
+`HED-LX9`: HUAWEI Pura 80
+
+**HUAWEI Pura 80 Pro (`Lamarr`):**
+
+`LMR-LX9`: HUAWEI Pura 80 Pro
+
+**HUAWEI Pura 80 Ultra (`LamarrU`):**
+
+`LMU-LX9`: HUAWEI Pura 80 Ultra
 
 **HUAWEI P smart (`Figo`):**
 
@@ -437,6 +465,18 @@
 
 `BNE-LX1` `BNE-LX3`: HUAWEI nova 12 SE
 
+**HUAWEI nova 13 (`Blake`):**
+
+`BLK-LX9`: HUAWEI nova 13
+
+**HUAWEI nova 13 Pro (`MillaS`):**
+
+`MIS-LX9`: HUAWEI nova 13 Pro
+
+**HUAWEI nova 13i (`Cartier`):**
+
+`CTR-L91`: HUAWEI nova 13i
+
 **HUAWEI nova Y60 (`Wukong`):**
 
 `WKG-LX9`: HUAWEI nova Y60
@@ -453,9 +493,9 @@
 
 `MGA-LX3`: HUAWEI nova Y72
 
-**HUAWEI nova Y73 (`Goofy`):**
+**HUAWEI nova Y72S (`Goofy`):**
 
-`GFY-LX1`: HUAWEI nova Y73
+`GFY-LX1`: HUAWEI nova Y72S
 
 **HUAWEI nova Y90 (`Cartier`):**
 
@@ -505,7 +545,15 @@
 
 `MRD-LX1` `MRD-LX3`: HUAWEI Y6 2019 Single SIM
 
-`MRD-LX1` `MRD-LX1F` `MRD-LX1N` `MRD-LX3`: HUAWEI Y6 2019 Dual SIM
+`MRD-LX1` `MRD-LX1N` `MRD-LX3`: HUAWEI Y6 2019 Dual SIM
+
+**HUAWEI Y6 Prime 2019 (`Merida`):**
+
+`MRD-LX1F`: HUAWEI Y6 Prime 2019 Dual SIM
+
+**HUAWEI Y6 Pro 2019 (`Merida`):**
+
+`MRD-LX2`: HUAWEI Y6 Pro 2019 Dual SIM
 
 **HUAWEI Y6p (`Merida`):**
 
@@ -673,9 +721,17 @@
 
 `DBR-W19`: HUAWEI MatePad 11 2023 PaperMatte Edition Wi-Fi
 
+**HUAWEI MatePad 11.5 (`BartokR`):**
+
+`BTKR-W09`: HUAWEI MatePad 11.5 2024 Wi-Fi
+
 **HUAWEI MatePad 11.5" S (`Tagore`):**
 
 `TGR-W09`: HUAWEI MatePad 11.5" S Wi-Fi
+
+**HUAWEI MatePad 11.5 (`Salinger`):**
+
+`SLG-W09`: HUAWEI MatePad 11.5 2025 Wi-Fi
 
 **HUAWEI MatePad Air (`Debussy2`):**
 
@@ -683,7 +739,7 @@
 
 `DBY2-L09`: HUAWEI MatePad Air LTE
 
-**HUAWEI MatePad 12 X:**
+**HUAWEI MatePad 12 X (`Banksy`):**
 
 `BKY-W09`: HUAWEI MatePad 12 X Wi-Fi
 
@@ -713,9 +769,17 @@
 
 `PCE-W29`: HUAWEI MatePad Pro 13.2 Wi-Fi
 
-**HUAWEI MatePad Pro 12.2:**
+**HUAWEI MatePad Pro 13.2 2025 (`Weber`):**
 
-`MRO-W09`: HUAWEI MatePad Pro 12.2
+`WEB-W09`: HUAWEI MatePad Pro 13.2 2025 Wi-Fi
+
+**HUAWEI MatePad Pro 12.2 (`Miro`):**
+
+`MRO-W09`: HUAWEI MatePad Pro 12.2 Wi-Fi
+
+**HUAWEI MatePad Pro 12.2 2025 (`Morandi`):**
+
+`MRDI-W09`: HUAWEI MatePad Pro 12.2 2025 Wi-Fi
 
 **HUAWEI MatePad Paper (`Hemingway`):**
 

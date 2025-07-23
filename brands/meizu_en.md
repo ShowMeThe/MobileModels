@@ -243,6 +243,8 @@
 
 `M481Q`: MEIZU 21 PRO
 
+`M481S`: MEIZU 21 PRO (UWB)
+
 **MEIZU 21 Note (`m2468`):**
 
 `M468Q`: MEIZU 21 Note China
@@ -316,6 +318,14 @@
 `M923H`: MEIZU Note 9 Global
 
 `M923Q`: MEIZU Note 9 China
+
+**MEIZU Note 16 (`m2521`):**
+
+`M521Q`: MEIZU Note 16
+
+**MEIZU Note 16 Pro (`m2531`):**
+
+`M531Q`: MEIZU Note 16 Pro
 
 **MEIZU Note 21 (`m2411`):**
 
@@ -485,7 +495,7 @@
 
 **MEIZU MBLU 21 (`m2416`):**
 
-`M416L`: MEIZU MBLU 21 Global
+`M416H` `M416L`: MEIZU MBLU 21 Global
 
 **MEIZU M3 Max (`s25`):**
 
@@ -535,24 +545,24 @@
 
 `M819H`: MEIZU C9 Pro Global
 
-## LYNK & CO Phones
+## Lync & Co Phones
 
-**LYNK & CO Phone Note (`m2468`):**
+**Lync & Co Phone Note (`m2468l`):**
 
-`M468Q`: LYNK & CO Phone Note
+`M468Q`: Lync & Co Phone Note
 
-**LYNK & CO Phone Pro (`m2481`):**
+**Lync & Co Phone Pro (`m2481l`):**
 
-`M481S`: LYNK & CO Phone Pro
+`M481S`: Lync & Co Phone Pro
 
 ## Polestar Phones
 
-**Polestar Phone (`m2481`):**
+**Polestar Phone (`m2481s`):**
 
 `M481S`: Polestar Phone
 
 ## HongQi Phones
 
-**HongQi Phone (`m2481`):**
+**HongQi Wonder (`m2481r`):**
 
-`M481R`: HongQi Phone
+`M481R`: HongQi Wonder

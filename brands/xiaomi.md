@@ -264,7 +264,7 @@
 
 `M2101K9AI`: 小米 11 Lite 4G 印度版
 
-**[`K9D`] Xiaomi 11 青春活力版 / Xiaomi 11 Lite 5G NE (`lisa`):**
+**[`K9D`] Xiaomi 11 青春活力版 / Xiaomi 11 Lite 5G NE / Xiaomi 11 Lite NE 5G (`lisa`):**
 
 `2107119DC`: Xiaomi 11 青春活力版 国行版
 
@@ -272,15 +272,15 @@
 
 `2109119DI`: Xiaomi 11 Lite NE 5G 印度版
 
-**[`K11`] 小米 11i (`haydn`):**
+**[`K11`] 小米 11i (`haydn`) (`haydnpro`):**
 
 `M2012K11G`: 小米 11i 国际版
 
-**[`K11A`] 小米 11X (`aliothin`):**
+**[`K11A`] 小米 11X (`alioth`) (`aliothin`):**
 
 `M2012K11AI`: 小米 11X 印度版
 
-**[`K11`] 小米 11X Pro (`haydnin`):**
+**[`K11`] 小米 11X Pro (`haydn`) (`haydnin`):**
 
 `M2012K11I`: 小米 11X Pro 印度版
 
@@ -448,6 +448,30 @@
 
 `2410DPN6CC`: Xiaomi 15 Pro
 
+**[`O1`] Xiaomi 15 Ultra (`xuanyuan`):**
+
+`25019PNF3C`: Xiaomi 15 Ultra 国行版
+
+`25010PN30C`: Xiaomi 15 Ultra 双卫星版 国行版
+
+`25010PN30G`: Xiaomi 15 Ultra 国际版
+
+`25010PN30I`: Xiaomi 15 Ultra 印度版
+
+**[`O2S`] Xiaomi 15S Pro (`dijun`):**
+
+`25042PN24C`: Xiaomi 15S Pro
+
+**[`O12A`] Xiaomi 15T (`goya`):**
+
+`25069PTEBG`: Xiaomi 15T 国际版
+
+**[`O12U`] Xiaomi 15T Pro (`klimt`):**
+
+`2506BPN68G`: Xiaomi 15T Pro 国际版
+
+`2506BPN68R`: Xiaomi 15T Pro 日本版 (无锁)
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -554,6 +578,12 @@
 
 `2405CPX3DG`: Xiaomi MIX Flip 国际版
 
+**[`O8`] Xiaomi MIX Flip 2 (`bixi`):**
+
+`2505APX7BC`: Xiaomi MIX Flip 2 国行版
+
+`2505APX7BG`: Xiaomi MIX Flip 2 国际版
+
 ## 小米 Max 系列
 
 **[`B3`] 小米 Max (`hydrogen`):**
@@ -621,6 +651,10 @@
 **[`N9`] Xiaomi Civi 4 Pro (`chenfeng`):**
 
 `24053PY09C`: Xiaomi Civi 4 Pro
+
+**[`O9`] Xiaomi Civi 5 Pro (`luming`):**
+
+`25067PYE3C`: Xiaomi Civi 5 Pro
 
 ## 小米 Play 系列
 
@@ -729,6 +763,14 @@
 `24091RPADC`: Xiaomi Pad 7 Pro 国行版
 
 `24091RPADG`: Xiaomi Pad 7 Pro 国际版
+
+**[`O80`] Xiaomi Pad 7 Ultra (`jinghu`):**
+
+`25032RP42C`: Xiaomi Pad 7 Ultra
+
+**[`O81A`] Xiaomi Pad 7S Pro 12.5 (`violin`):**
+
+`25053RP5CC`: Xiaomi Pad 7S Pro 12.5
 
 ## 红米 / Redmi 数字系列
 
@@ -1088,9 +1130,11 @@
 
 `23053RN02Y`: Redmi 12 国际版 (NFC)
 
-**[`M19`] Redmi 12 5G (`sky`) (`river`):**
+**[`M19P`] Redmi 12 5G (`sky`) (`river`):**
 
 `23077RABDC`: Redmi 12 5G 国行版
+
+**[`M19N`] Redmi 12 5G (`sky`) (`river`):**
 
 `23076RN8DY`: Redmi 12 5G 国际版 (NFC)
 
@@ -1126,15 +1170,15 @@
 
 `22126RN91Y`: Redmi 12C 国际版 (NFC)
 
-**[`N19A`] Redmi 13 (`moon`) (`tides`):**
+**[`N19A`] Redmi 13 / REDMI 13x (`moon`) (`tides`):**
 
-`2404ARN45A`: Redmi 13 国际版
+`2404ARN45A`: Redmi 13 国际版 / REDMI 13x 国际版
 
 `2404ARN45I`: Redmi 13 印度版
 
-**[`N19L`] Redmi 13 (`moon`) (`tides`):**
+**[`N19L`] Redmi 13 / REDMI 13x (`moon`) (`tides`):**
 
-`24049RN28L`: Redmi 13 拉美版
+`24049RN28L`: Redmi 13 拉美版 / REDMI 13x 拉美版
 
 **[`N19E`] Redmi 13 (`moon`):**
 
@@ -1144,9 +1188,11 @@
 
 `2406ERN9CI`: Redmi 13 5G 印度版
 
-**[`C3U`] Redmi 13C (`gale`):**
+**[`C3UA`] Redmi 13C (`gale`):**
 
 `23106RN0DA`: Redmi 13C 国际版
+
+**[`C3U`] Redmi 13C (`gale`):**
 
 `2311DRN14I`: Redmi 13C 印度版
 
@@ -1176,15 +1222,23 @@
 
 `2409BRN2CI`: Redmi 14C 印度版
 
-`2409BRN2CL`: Redmi 14C 拉美版 / 日本版
+`2409BRN2CL`: Redmi 14C 拉美版 / 日韩版
 
 **[`C3N`] Redmi 14C (`lake`):**
 
 `2409BRN2CY`: Redmi 14C 国际版 (NFC)
 
-**[`C3F`] Redmi 14R 5G (`flame`):**
+**[`C3F`] Redmi 14C 5G (`flame`) (`blaze`):**
 
-`2411DRN47C`: Redmi 14R 5G
+`2411DRN47G`: Redmi 14C 5G 国际版
+
+`2411DRN47R`: Redmi 14C 5G 日本版
+
+**[`C3F`] Redmi 14C 5G / Redmi 14R 5G (`flame`):**
+
+`2411DRN47C`: Redmi 14R 5G 国行版
+
+`2411DRN47I`: Redmi 14C 5G 印度版
 
 ## 红米 / Redmi Note 系列
 
@@ -1392,7 +1446,7 @@
 
 `M2003J6A1G`: Redmi Note 9S 国际版
 
-`M2003J6A1R`: Redmi Note 9S 日本版 / Redmi Note 9S 韩国版
+`M2003J6A1R`: Redmi Note 9S 日韩版
 
 `M2003J6A1I`: Redmi Note 9 Pro 印度版
 
@@ -1510,7 +1564,7 @@
 
 `2201117SY`: Redmi Note 11S 国际版 (NFC)
 
-**[`K7B`] Redmi Note 11 SE (`rosemary`) (`secret`):**
+**[`K7BR`] Redmi Note 11 SE (`rosemary`) (`secret`):**
 
 `22087RA4DI`: Redmi Note 11 SE 印度版
 
@@ -1563,6 +1617,8 @@
 **[`M7`] Redmi Note 12 (`tapas`):**
 
 `23021RAAEG`: Redmi Note 12 国际版
+
+**[`M7U`] Redmi Note 12 (`tapas`):**
 
 `23027RAD4I`: Redmi Note 12 印度版
 
@@ -1684,9 +1740,19 @@
 
 `2406ERN9CC`: Redmi Note 13R
 
-**[`N17`] Redmi Note 13R Pro (`gold`):**
+**[`N17A`] Redmi Note 13R Pro (`gold`):**
 
 `2311FRAFDC`: Redmi Note 13R Pro
+
+**[`O7`] Redmi Note 14 (`tanzanite`):**
+
+`24117RN76G`: Redmi Note 14 国际版
+
+`24117RN76E`: Redmi Note 14 欧洲版
+
+`24117RN76L`: Redmi Note 14 拉美版
+
+`24117RN76O`: Redmi Note 14 国际版 (NFC)
 
 **[`O17`] Redmi Note 14 5G (`beryl`):**
 
@@ -1697,6 +1763,10 @@
 **[`O17`] Redmi Note 14 5G (`beryl`) (`citrine`):**
 
 `24094RAD4G`: Redmi Note 14 5G 国际版
+
+**[`N6R`] Redmi Note 14S (`emerald`):**
+
+`2502FRA65G`: Redmi Note 14S 国际版
 
 **[`O6`] Redmi Note 14 Pro (`obsidian`):**
 
@@ -1737,6 +1807,14 @@
 **[`N16T`] Redmi Turbo 3 (`peridot`):**
 
 `24069RA21C`: Redmi Turbo 3
+
+**[`O10S`] REDMI Turbo 4 (`rodin`):**
+
+`24129RT7CC`: REDMI Turbo 4
+
+**[`O10U`] REDMI Turbo 4 Pro (`onyx`):**
+
+`25053RT47C`: REDMI Turbo 4 Pro
 
 ## Redmi K 系列
 
@@ -1800,9 +1878,13 @@
 
 `M2012K11AC`: Redmi K40
 
-**[`K11`] Redmi K40 Pro / Redmi K40 Pro+ (`haydn`):**
+**[`K11`] Redmi K40 Pro (`haydn`):**
 
-`M2012K11C`: Redmi K40 Pro / Redmi K40 Pro+
+`M2012K11C`: Redmi K40 Pro
+
+**[`K11`] Redmi K40 Pro+ (`haydn`) (`haydnpro`):**
+
+`M2012K11C`: Redmi K40 Pro+
 
 **[`K10`] Redmi K40 游戏增强版 (`ares`):**
 
@@ -1864,9 +1946,19 @@
 
 `2407FRK8EC`: Redmi K70 至尊版
 
-**[`O11`] Redmi K80 (`zorn`):**
+**[`O11`] REDMI K80 (`zorn`):**
 
-`24117RK2CC`: Redmi K80
+`24117RK2CC`: REDMI K80
+
+**[`O11U`] REDMI K80 Pro (`miro`):**
+
+`24122RKC7C`: REDMI K80 Pro
+
+`24127RK2CC`: REDMI K80 Pro 冠军版
+
+**[`O12`] REDMI K80 至尊版 (`dali`):**
+
+`25060RK16C`: REDMI K80 至尊版
 
 ## 其他红米 Redmi 手机
 
@@ -1954,6 +2046,18 @@
 
 `2409BRN2CG`: Redmi A3 Pro 国际版
 
+**[`C3F2`] Redmi A4 5G (`warm`):**
+
+`24116RNC1I`: Redmi A4 5G 印度版
+
+**[`C3Z`] REDMI A5 (`serenity`):**
+
+`25028RN03G` `25028RN03A` `25028RN03Y`: REDMI A5 国际版
+
+`25028RN03I`: REDMI A5 印度版
+
+`25028RN03L`: REDMI A5 拉美版
+
 ## Redmi 平板
 
 **[`L83`] Redmi Pad (`yunluo`):**
@@ -1982,7 +2086,7 @@
 
 `2405CRPFDI`: Redmi Pad Pro Wi-Fi 印度版
 
-`2405CRPFDL`: Redmi Pad Pro Wi-Fi 拉美版
+`2405CRPFDL`: Redmi Pad Pro Wi-Fi 拉美版 / 韩国版
 
 **[`N83U`] Redmi Pad Pro 5G (`ruan`):**
 
@@ -2001,6 +2105,32 @@
 `24076RP19G`: Redmi Pad SE 8.7 4G 国际版
 
 `24076RP19I`: Redmi Pad SE 4G 印度版
+
+**[`O84`] REDMI Pad 2 (`taiko`):**
+
+`25040RP0AC`: REDMI Pad 2 国行版
+
+`25040RP0AG`: REDMI Pad 2 国际版
+
+`25040RP0AI`: REDMI Pad 2 印度版
+
+`25040RP0AE`: REDMI Pad 2 欧洲版
+
+`25040RP0AL`: REDMI Pad 2 拉美版
+
+**[`O84X`] REDMI Pad 2 4G (`koto`):**
+
+`2505DRP06C`: REDMI Pad 2 4G 国行版
+
+`2505DRP06G`: REDMI Pad 2 4G 国际版
+
+`2505DRP06I`: REDMI Pad 2 4G 印度版
+
+`2505DRP06E`: REDMI Pad 2 4G 欧洲版
+
+**[`O88`] REDMI K Pad (`turner`):**
+
+`25079RPDCC`: REDMI K Pad
 
 ## POCO 手机
 
@@ -2026,7 +2156,7 @@
 
 `22021211RI`: POCO F4 印度版
 
-**[`L10`] POGO F4 GT (`ingres`):**
+**[`L10`] POCO F4 GT (`ingres`):**
 
 `21121210G`: POCO F4 GT 国际版
 
@@ -2051,6 +2181,20 @@
 **[`N11`] POCO F6 Pro (`vermeer`):**
 
 `23113RKC6G`: POCO F6 Pro 国际版
+
+**[`O10U`] POCO F7 (`onyx`):**
+
+`25053PC47G`: POCO F7 国际版
+
+`25053PC47I`: POCO F7 印度版
+
+**[`O11`] POCO F7 Pro (`zorn`):**
+
+`24117RK2CG`: POCO F7 Pro 国际版
+
+**[`O11U`] POCO F7 Ultra (`miro`):**
+
+`24122RKC7G`: POCO F7 Ultra 国际版
 
 **[`G7B`] POCO X2 (`phoenixin`):**
 
@@ -2116,9 +2260,21 @@
 
 `2311DRK48I`: POCO X6 Pro 5G 印度版
 
-**[`N17`] POCO X6 Neo (`gold`):**
+**[`N17A`] POCO X6 Neo (`gold`):**
 
 `2312FRAFDI`: POCO X6 Neo 印度版
+
+**[`O16P`] POCO X7 (`malachite`):**
+
+`24095PCADG`: POCO X7 国际版
+
+`24095PCADI`: POCO X7 印度版
+
+**[`O10`] POCO X7 Pro (`rodin`):**
+
+`2412DPC0AG`: POCO X7 Pro 国际版
+
+`2412DPC0AI`: POCO X7 Pro 印度版
 
 **[`J19P`] POCO M2 (`shiva`):**
 
@@ -2180,11 +2336,11 @@
 
 `2207117BPG`: POCO M5s 国际版
 
-**[`N19C`] POCO M6 (`moon`):**
+**[`N19AP`] POCO M6 (`moon`):**
 
 `2404APC5FG`: POCO M6 国际版
 
-**[`N19C`] POCO M6 (`moon`) (`tides`):**
+**[`N19AP`] POCO M6 (`moon`) (`tides`):**
 
 `2404APC5FI`: POCO M6 印度版
 
@@ -2256,6 +2412,14 @@
 
 `2310FPCA4I`: POCO C65 印度版
 
+**[`C3Z`] POCO C71 (`serenity`):**
+
+`25028PC03G` `25028PC03Y`: POCO C71 国际版
+
+`25028PC03I`: POCO C71 印度版
+
+`25028PC03L`: POCO C71 拉美版
+
 **[`C3NP`] POCO C75 (`lake`):**
 
 `2410FPCC5G`: POCO C75 国际版
@@ -2263,6 +2427,10 @@
 **[`C3NP`] POCO C75 (`lake`) (`pond`):**
 
 `2410FPCC5I`: POCO C75 印度版
+
+**[`C3F2`] POCO C75 5G (`warm`):**
+
+`24116PCC1I`: POCO C75 5G 印度版
 
 ## POCO 平板
 

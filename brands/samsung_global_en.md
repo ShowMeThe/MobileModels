@@ -459,9 +459,83 @@
 
 `SM-S7210`: Galaxy S24 FE HK & TW
 
+`SM-S721Q`: Galaxy S24 FE Japan (SIM Free)
+
 `SCG30`: Galaxy S24 FE Japan (au)
 
 `SM-S721N`: Galaxy S24 FE South Korea
+
+**Galaxy S25 (`pa1q`):**
+
+`SM-S931B`: Galaxy S25 Global
+
+`SM-S931U`: Galaxy S25 US Carrier
+
+`SM-S931U1`: Galaxy S25 US Unlocked
+
+`SM-S931W`: Galaxy S25 Canada
+
+`SM-S9310`: Galaxy S25 China
+
+`SM-S931N`: Galaxy S25 South Korea
+
+`SM-S931Q`: Galaxy S25 Japan (SIM Free)
+
+`SM-S931Z`: Galaxy S25 Japan (SoftBank)
+
+`SCG31`: Galaxy S25 Japan (au)
+
+`SC-51F`: Galaxy S25 Japan (NTT Docomo)
+
+**Galaxy S25+ (`pa2q`):**
+
+`SM-S936B`: Galaxy S25+ Global
+
+`SM-S936U`: Galaxy S25+ US Carrier
+
+`SM-S936U1`: Galaxy S25+ US Unlocked
+
+`SM-S936W`: Galaxy S25+ Canada
+
+`SM-S9360`: Galaxy S25+ China
+
+`SM-S936N`: Galaxy S25+ South Korea
+
+**Galaxy S25 Ultra (`pa3q`):**
+
+`SM-S938B`: Galaxy S25 Ultra Global
+
+`SM-S938U`: Galaxy S25 Ultra US Carrier
+
+`SM-S938U1`: Galaxy S25 Ultra US Unlocked
+
+`SM-S938W`: Galaxy S25 Ultra Canada
+
+`SM-S9380`: Galaxy S25 Ultra China
+
+`SM-S938N`: Galaxy S25 Ultra South Korea
+
+`SM-S938Q`: Galaxy S25 Ultra Japan (SIM Free)
+
+`SM-S938Z`: Galaxy S25 Ultra Japan (SoftBank)
+
+`SCG32`: Galaxy S25 Ultra Japan (au)
+
+`SC-52F`: Galaxy S25 Ultra Japan (NTT Docomo)
+
+**Galaxy S25 Edge (`psq`):**
+
+`SM-S937B`: Galaxy S25 Edge Global
+
+`SM-S937U`: Galaxy S25 Edge US Carrier
+
+`SM-S937U1`: Galaxy S25 Edge US Unlocked
+
+`SM-S937W`: Galaxy S25 Edge Canada
+
+`SM-S9370`: Galaxy S25 Edge China
+
+`SM-S937N`: Galaxy S25 Edge South Korea
 
 ## Galaxy Note
 
@@ -713,9 +787,27 @@
 
 `SC-55E`: Galaxy Z Fold6 Japan (NTT Docomo)
 
-**Galaxy Z Fold Special Edition (`q6a`):**
+**Galaxy Z Fold Special Edition (`q6aq`):**
 
 `SM-F958N`: Galaxy Z Fold Special Edition South Korea
+
+**Galaxy Z Fold7 (`q7q`):**
+
+`SM-F966B`: Galaxy Z Fold7 Global
+
+`SM-F966U`: Galaxy Z Fold7 US Carrier
+
+`SM-F966U1`: Galaxy Z Fold7 US Unlocked
+
+`SM-F966W`: Galaxy Z Fold7 Canada
+
+`SM-F9660`: Galaxy Z Fold7 China
+
+`SM-F966N`: Galaxy Z Fold7 South Korea
+
+`SM-F966Q`: Galaxy Z Fold7 Japan (SIM Free)
+
+`SM-F966Z`: Galaxy Z Fold7 Japan (SoftBank)
 
 **Galaxy Z Flip (`bloomq`):**
 
@@ -826,6 +918,36 @@
 `SCG29`: Galaxy Z Flip6 Japan (au)
 
 `SC-54E`: Galaxy Z Flip6 Japan (NTT Docomo)
+
+**Galaxy Z Flip7 (`b7s`):**
+
+`SM-F766B`: Galaxy Z Flip7 Global
+
+`SM-F766U`: Galaxy Z Flip7 US Carrier
+
+`SM-F766U1`: Galaxy Z Flip7 US Unlocked
+
+`SM-F766W`: Galaxy Z Flip7 Canada
+
+`SM-F7660`: Galaxy Z Flip7 China
+
+`SM-F766N`: Galaxy Z Flip7 South Korea
+
+`SM-F766Q`: Galaxy Z Flip7 Japan (SIM Free)
+
+`SM-F766Z`: Galaxy Z Flip7 Japan (SoftBank)
+
+**Galaxy Z Flip7 FE (`b7r`):**
+
+`SM-F761B`: Galaxy Z Flip7 FE Global
+
+`SM-F761U`: Galaxy Z Flip7 FE US Carrier
+
+`SM-F761U1`: Galaxy Z Flip7 FE US Unlocked
+
+`SM-F7610`: Galaxy Z Flip7 FE China
+
+`SM-F761N`: Galaxy Z Flip7 FE South Korea
 
 ## Galaxy A
 
@@ -953,6 +1075,12 @@
 
 `SM-A065M`: Galaxy A06 Latin America
 
+**Galaxy A06 5G (`a06x`):**
+
+`SM-A066E` `SM-A066B`: Galaxy A06 5G Global
+
+`SM-A066M`: Galaxy A06 5G Latin America
+
 **Galaxy A10 (`a10`):**
 
 `SM-A105F` `SM-A015FN` `SM-A015G`: Galaxy A10 Global
@@ -1037,7 +1165,7 @@
 
 **Galaxy A13 (`a13ve`):**
 
-`SM-A137F`: Galaxy A13 Global (Mediatek)
+`SM-A137F`: Galaxy A13 Global (MediaTek)
 
 **Galaxy A13 5G (`a13x`):**
 
@@ -1061,9 +1189,9 @@
 
 **Galaxy A14 (`a14m`):**
 
-`SM-A145P`: Galaxy A14 MEA (Mediatek)
+`SM-A145P`: Galaxy A14 MEA (MediaTek)
 
-`SM-A145R`: Galaxy A14 EU (Mediatek)
+`SM-A145R`: Galaxy A14 EU (MediaTek)
 
 **Galaxy A14 5G (`a14x`):**
 
@@ -1073,7 +1201,7 @@
 
 **Galaxy A14 5G (`a14xm`):**
 
-`SM-A146P`: Galaxy A14 5G Global (Mediatek)
+`SM-A146P`: Galaxy A14 5G Global (MediaTek)
 
 `SM-A146U`: Galaxy A14 5G US Carrier
 
@@ -1109,9 +1237,17 @@
 
 `SM-A1560`: Galaxy A15 5G HK & TW
 
+**Galaxy A16 (`a16`):**
+
+`SM-A165F`: Galaxy A16 Global
+
+`SM-A165M`: Galaxy A16 Latin America
+
+`SM-A165N`: Galaxy A16 South Korea
+
 **Galaxy A16 5G (`a16x`):**
 
-`SM-A166E`: Galaxy A16 5G Global
+`SM-A166E`: Galaxy A16 5G Global (Exynos)
 
 `SM-A166B`: Galaxy A16 5G EU
 
@@ -1121,9 +1257,15 @@
 
 `SM-S166V`: Galaxy A16 5G TracFone
 
+`SM-A166W`: Galaxy A16 5G Canada
+
 `SM-A166M`: Galaxy A16 5G Latin America
 
 `SM-A1660`: Galaxy A16 5G HK & TW
+
+**Galaxy A16 5G (`a16xm`):**
+
+`SM-A166P`: Galaxy A16 5G Global (MediaTek)
 
 **Galaxy A2 Core (`a2corelte`):**
 
@@ -1265,6 +1407,30 @@
 
 `SM-A256N`: Galaxy A25 5G South Korea
 
+**Galaxy A25 5G (`a25ex`):**
+
+`SM-A253Q`: Galaxy A25 5G Japan (SIM Free)
+
+`SM-A253Z`: Galaxy A25 5G Japan (SoftBank)
+
+`SCG33`: Galaxy A25 5G Japan (au)
+
+`SC-53F`: Galaxy A25 5G Japan (NTT Docomo)
+
+**Galaxy A26 5G (`a26x`):**
+
+`SM-A266B`: Galaxy A26 5G Global
+
+`SM-A266U`: Galaxy A26 5G US Carrier
+
+`SM-A266U1`: Galaxy A26 5G US Unlocked
+
+`SM-S266V`: Galaxy A26 5G TracFone
+
+**Galaxy A26 5G (`a26xs`):**
+
+`SM-A266M`: Galaxy A26 5G Latin America
+
 **Galaxy A30 (`a30`):**
 
 `SM-A305F`: Galaxy A30 Global
@@ -1362,6 +1528,24 @@
 `SM-A3560`: Galaxy A35 5G HK & TW
 
 `SM-A356N`: Galaxy A35 5G South Korea
+
+**Galaxy A36 5G (`a36xq`):**
+
+`SM-A366E`: Galaxy A36 5G Global
+
+`SM-A366B`: Galaxy A36 5G EU
+
+`SM-A366U`: Galaxy A36 5G US Carrier
+
+`SM-A366U1`: Galaxy A36 5G US Unlocked
+
+`SM-S366V`: Galaxy A36 5G TracFone
+
+`SM-A366W`: Galaxy A36 5G Canada
+
+`SM-A3660`: Galaxy A36 5G HK & TW
+
+`SM-A366N`: Galaxy A36 5G South Korea
 
 **Galaxy A40 (`a40`):**
 
@@ -1549,6 +1733,16 @@
 
 `SC-53E`: Galaxy A55 5G Japan (NTT Docomo)
 
+**Galaxy A56 5G (`a56x`):**
+
+`SM-A566E`: Galaxy A56 5G Global
+
+`SM-A566B`: Galaxy A56 5G EU
+
+`SM-A5660`: Galaxy A56 5G China
+
+`SM-A566S`: Galaxy A56 5G South Korea
+
 **Galaxy A60 (`a60q`):**
 
 `SM-A606F`: Galaxy A60 Global
@@ -1661,6 +1855,10 @@
 
 `SM-M055F`: Galaxy M05
 
+**Galaxy M06 5G (`a06x`):**
+
+`SM-M066B`: Galaxy M06 5G
+
 **Galaxy M10 (`m10lte`):**
 
 `SM-M105G`: Galaxy M10 Global
@@ -1711,9 +1909,11 @@
 
 **Galaxy M15 5G (`m15x`):**
 
-`SM-M156B`: Galaxy M15 5G Global
+`SM-M156B`: Galaxy M15 5G
 
-`SM-E156B`: Galaxy M15 5G India
+**Galaxy M16 5G (`m16xm`):**
+
+`SM-M166P`: Galaxy M16 5G
 
 **Galaxy M20 (`m20`):**
 
@@ -1795,6 +1995,10 @@
 
 `SM-M356B`: Galaxy M35 5G
 
+**Galaxy M36 5G (`m36x`):**
+
+`SM-M366B`: Galaxy M36 5G
+
 **Galaxy M40 (`m40`):**
 
 `SM-M405F`: Galaxy M40
@@ -1833,6 +2037,10 @@
 
 `SM-C5560`: Galaxy C55 5G
 
+**Galaxy M56 5G (`m56x`):**
+
+`SM-M566B`: Galaxy M56 5G
+
 **Galaxy M62 (`m62`):**
 
 `SM-M625F`: Galaxy M62
@@ -1850,6 +2058,10 @@
 **Galaxy F05 (`a05m`):**
 
 `SM-E055F`: Galaxy F05
+
+**Galaxy F06 5G (`a06x`):**
+
+`SM-E066B`: Galaxy F06 5G
 
 **Galaxy F12 (`f12`):**
 
@@ -1871,6 +2083,10 @@
 
 `SM-E156B`: Galaxy F15 5G
 
+**Galaxy F16 5G (`m16xm`):**
+
+`SM-E166P`: Galaxy F16 5G
+
 **Galaxy F22 (`f22`):**
 
 `SM-E225F`: Galaxy F22
@@ -1882,6 +2098,10 @@
 **Galaxy F34 5G (`m34x`):**
 
 `SM-E346B`: Galaxy F34 5G
+
+**Galaxy F36 5G (`m36x`):**
+
+`SM-E366B`: Galaxy F36 5G
 
 **Galaxy F41 (`f41`):**
 
@@ -1902,6 +2122,10 @@
 **Galaxy F55 5G (`m55xq`):**
 
 `SM-E556B`: Galaxy F55 5G
+
+**Galaxy F56 5G (`m56x`):**
+
+`SM-E566B`: Galaxy F56 5G
 
 **Galaxy F62 (`f62`):**
 

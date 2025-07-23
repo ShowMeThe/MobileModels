@@ -160,9 +160,9 @@
 
 `CP03`: 酷派 COOL 20 / 酷派 COOL 20+ / 酷派锋尚 40
 
-**酷派 COOL 20 Pro / 酷派大观 40 Pro / 酷派大观 3 Plus:**
+**酷派大观 40 Pro / 酷派大观 3 Plus / 酷派 COOL 20 Pro:**
 
-`CP05`: 酷派 COOL 20 Pro 5G / 酷派大观 40 Pro 5G / 酷派大观 3 Plus 5G
+`CP05`: 酷派大观 40 Pro 5G / 酷派大观 3 Plus 5G / 酷派 COOL 20 Pro 5G
 
 **酷派 COOL 20s:**
 
@@ -223,3 +223,11 @@
 **酷派金世纪 Y60:**
 
 `CP23NV3`: 酷派金世纪 Y60 5G
+
+**酷派 Y77:**
+
+`CP2FM2`: 酷派 Y77 5G
+
+**酷派锋尚 60 Pro / 酷派炫影 30 Pro:**
+
+`CPDAY6`: 酷派锋尚 60 Pro / 酷派炫影 30 Pro

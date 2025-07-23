@@ -80,9 +80,9 @@
 
 `ZTE A2023P`: 中兴 Axon 40 Ultra
 
-**中兴 Axon 50 Ultra:**
+**中兴 Axon 50 / 中兴 Axon 50 Ultra:**
 
-`ZTE A2024H`: 中兴 Axon 50 Ultra
+`ZTE A2024H`: 中兴 Axon 50 / 中兴 Axon 50 Ultra
 
 **中兴 Axon 60 Ultra:**
 
@@ -266,9 +266,13 @@
 
 `ZTE 7553N`: 中兴畅行 60 Plus / 中兴远航 61
 
+**中兴远航 70 / 中兴小鲜 60 臻情版:**
+
+`ZTE 7561N`: 中兴远航 70 / 中兴小鲜 60 臻情版
+
 **中兴远航 3D:**
 
-`Z9101`: 中兴远航 3D
+`ZTE 7533N` `Z9101`: 中兴远航 3D
 
 **中兴 V70:**
 

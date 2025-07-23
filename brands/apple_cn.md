@@ -126,9 +126,11 @@
 
 `A2099`: iPhone XS (中国移动)
 
-**[`D331AP`] iPhone XS Max (`iPhone11,4`):**
+**[`D331pAP`] iPhone XS Max (`iPhone11,6`):**
 
 `A2104`: iPhone XS Max
+
+**[`D331AP`] iPhone XS Max (`iPhone11,4`):**
 
 `A2103`: iPhone XS Max (中国移动)
 
@@ -246,6 +248,10 @@
 
 `A3297`: iPhone 16 Pro Max
 
+**[`V59AP`] iPhone 16e (`iPhone17,5`):**
+
+`A3410`: iPhone 16e
+
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**
@@ -336,6 +342,14 @@
 
 `A3162`: iPad (第 10 代) (无线局域网 + 蜂窝网络) (eSIM)
 
+**[`J481AP`] iPad (A16) (`iPad15,7`):**
+
+`A3354`: iPad (A16) (无线局域网)
+
+**[`J482AP`] iPad (A16) (`iPad15,8`):**
+
+`A3356`: iPad (A16) (无线局域网 + 蜂窝网络)
+
 ## iPad Air
 
 **[`J71AP`] iPad Air (`iPad4,1`):**
@@ -397,6 +411,22 @@
 **[`J538AP`] iPad Air (13 英寸, M2) (`iPad14,11`):**
 
 `A2900`: iPad Air (13 英寸, M2) (无线局域网 + 蜂窝网络)
+
+**[`J607AP`] iPad Air (11 英寸, M3) (`iPad15,3`):**
+
+`A3266`: iPad Air (11 英寸, M3) (无线局域网)
+
+**[`J608AP`] iPad Air (11 英寸, M3) (`iPad15,4`):**
+
+`A3270`: iPad Air (11 英寸, M3) (无线局域网 + 蜂窝网络)
+
+**[`J637AP`] iPad Air (13 英寸, M3) (`iPad15,5`):**
+
+`A3268`: iPad Air (13 英寸, M3) (无线局域网)
+
+**[`J638AP`] iPad Air (13 英寸, M3) (`iPad15,6`):**
+
+`A3271`: iPad Air (13 英寸, M3) (无线局域网 + 蜂窝网络)
 
 ## iPad Pro
 

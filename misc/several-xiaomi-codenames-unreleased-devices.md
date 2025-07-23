@@ -30,6 +30,10 @@
 
 `23116PN5BG`: Xiaomi 14 Pro 国际版 (未上市)
 
+**[`O2T`] Xiaomi 15 Pro (`haotian`):**
+
+`24101PNB7C`: Xiaomi 15 Pro 卫星通讯版 (未上市)
+
 **[`B3_PRO`] 小米 Max (`helium`):**
 
 `2016006`: 小米 Max 高配版 未知版本 (未上市)
@@ -47,6 +51,10 @@
 **[`J18S`] Xiaomi MIX FOLD 系列 (`argo`):**
 
 `21081018SC`: 该设备为 Xiaomi MIX FOLD 系列工程机，配备屏下摄像头。
+
+**[`N18S`] Xiaomi MIX Fold 4 (`goku`):**
+
+`24076PX3BC`: Xiaomi MIX Fold 4 (无卫星通讯, 未上市)
 
 **[`D9P`] 小米平板 4 Plus (`clover`):**
 

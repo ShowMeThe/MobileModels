@@ -15,6 +15,7 @@ Unlisted brands usually not include international models.
 | Name | Brand | Range |
 | :-: | :-: | :-: |
 | [apple_all_en](brands/apple_all_en.md) | Apple | iPhone, iPad, iPod touch, Apple Watch, Apple TV and Apple Vision |
+| [asus_en](brands/asus_en.md) | ASUS | ROG Phone, Zenfone |
 | [blackshark_en](brands/blackshark_en.md) | Black Shark | All models |
 | [google](brands/google.md) | Google | Google Pixel phones, tablets & watch |
 | [honor_global_en](brands/honor_global_en.md) | HONOR | All international models |
@@ -51,6 +52,7 @@ Unlisted brands usually not include international models.
 - [Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
 - [XSMS IMEI Database](http://xsms.com.ua/phone/imei/all/1)
 - [Android Dumps](https://dumps.tadiphone.dev/dumps)
+- [Lenovo Android タブレット一覧](https://idomizu.dev/archives/20150)
 
 ## License
 

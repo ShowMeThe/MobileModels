@@ -27,7 +27,7 @@
 
 `CPH2009`: OPPO Find X2 Neo
 
-**OPPO Find X3 Pro:**
+**OPPO Find X3 Pro (`fussi`):**
 
 `CPH2173`: OPPO Find X3 Pro
 
@@ -41,17 +41,25 @@
 
 `CPH2207`: OPPO Find X3 Neo
 
-**OPPO Find X5:**
+**OPPO Find X5 (`luwu`):**
 
 `CPH2307`: OPPO Find X5
 
-**OPPO Find X5 Pro:**
+**OPPO Find X5 Pro (`baize`):**
 
 `CPH2305`: OPPO Find X5 Pro
 
 **OPPO Find X5 Lite:**
 
 `CPH2371`: OPPO Find X5 Lite
+
+**OPPO Find X8 (`yala`):**
+
+`CPH2651`: OPPO Find X8
+
+**OPPO Find X8 Pro (`konka`):**
+
+`CPH2659`: OPPO Find X8 Pro
 
 ## Find N series
 
@@ -70,6 +78,10 @@
 **OPPO Find N3 Flip (`flamingo`):**
 
 `CPH2519`: OPPO Find N3 Flip
+
+**OPPO Find N5 (`petrel`):**
+
+`CPH2671`: OPPO Find N5
 
 ## Reno series
 
@@ -265,17 +277,43 @@
 
 `CPH2603`: OPPO Reno11 F 5G / OPPO Reno11 A
 
-**OPPO Reno12:**
+**OPPO Reno12 (`omega`) (`omega-s3`):**
 
 `CPH2625`: OPPO Reno12 5G
 
-**OPPO Reno12 Pro:**
+**OPPO Reno12 Pro (`omega`) (`omega-s2`):**
 
 `CPH2629`: OPPO Reno12 Pro 5G
 
-**OPPO Reno12 F / OPPO Reno12 FS:**
+**OPPO Reno12 F / OPPO Reno12 FS (`omega`) (`omega-s1`):**
 
 `CPH2637`: OPPO Reno12 F 5G / OPPO Reno12 FS 5G
+
+**OPPO Reno13 (`milkyway`) (`milkyway-s2`):**
+
+`CPH2689`: OPPO Reno13 5G
+
+**OPPO Reno13 Pro (`milkyway`) (`milkyway-s1`):**
+
+`CPH2697`: OPPO Reno13 Pro 5G
+
+**OPPO Reno13 F / OPPO Reno13 A (`milkyway`) (`milkyway-s3`):**
+
+`CPH2701`: OPPO Reno13 F
+
+`CPH2699`: OPPO Reno13 F 5G / OPPO Reno13 A
+
+**OPPO Reno14 (`zhuque`) (`zhuque-s2`):**
+
+`CPH2737`: OPPO Reno14
+
+**OPPO Reno14 Pro (`zhuque`) (`zhuque-s1`):**
+
+`CPH2739`: OPPO Reno14 Pro
+
+**OPPO Reno14 F (`zhuque`) (`zhuque-s3`):**
+
+`CPH2743`: OPPO Reno14 F 5G
 
 ## F series
 
@@ -357,6 +395,14 @@
 
 `CPH2643`: OPPO F27 Pro+ 5G
 
+**OPPO F29:**
+
+`CPH2721`: OPPO F29 5G
+
+**OPPO F29 Pro:**
+
+`CPH2705`: OPPO F29 Pro 5G
+
 ## R series
 
 **OPPO R15:**
@@ -389,7 +435,9 @@
 
 `CPH1837`: OPPO A3
 
-`CPH2639`: OPPO A3 5G
+`CPH2669`: OPPO A3 (2024)
+
+`CPH2639` `CPH2683`: OPPO A3 5G
 
 `A402OP`: OPPO A3 5G (SoftBank)
 
@@ -399,11 +447,13 @@
 
 **OPPO A3x:**
 
-`CPH2641` `CPH2681`: OPPO A3x 5G
+`CPH2641`: OPPO A3x
+
+`CPH2681`: OPPO A3x 5G
 
 **OPPO A3 Pro:**
 
-`CPH2639` `CPH2665` `CPH2667`: OPPO A3 Pro 5G
+`CPH2639` `CPH2665`: OPPO A3 Pro 5G
 
 **OPPO A5:**
 
@@ -424,6 +474,26 @@
 **OPPO A5 2020:**
 
 `CPH1931` `CPH1933` `CPH1943`: OPPO A5 2020
+
+**OPPO A5 5G:**
+
+`CPH2735` `CPH2751`: OPPO A5 5G
+
+`A502OP`: OPPO A5 5G (SoftBank)
+
+**OPPO A5 / OPPO A5m:**
+
+`CPH2727`: OPPO A5 (2025) / OPPO A5m
+
+**OPPO A5i:**
+
+`CPH2773`: OPPO A5i
+
+**OPPO A5 Pro:**
+
+`CPH2711`: OPPO A5 Pro
+
+`CPH2695`: OPPO A5 Pro 5G
 
 **OPPO A7:**
 
@@ -493,6 +563,10 @@
 
 `CPH2591`: OPPO A18
 
+**OPPO A20:**
+
+`CPH2641`: OPPO A20
+
 **OPPO A31:**
 
 `CPH2015` `CPH2031` `CPH2073` `CPH2081`: OPPO A31
@@ -504,6 +578,10 @@
 **OPPO A38:**
 
 `CPH2579`: OPPO A38
+
+**OPPO A40 / OPPO A40m:**
+
+`CPH2669`: OPPO A40 / OPPO A40m
 
 **OPPO A52:**
 
@@ -561,7 +639,7 @@
 
 **OPPO A60:**
 
-`CPH2631`: OPPO A60
+`CPH2631` `CPH3669`: OPPO A60
 
 `CPH2683`: OPPO A60 5G
 
@@ -657,6 +735,14 @@
 
 `CPH2667`: OPPO K12x 5G
 
+**OPPO K13:**
+
+`CPH2729`: OPPO K13 5G
+
+**OPPO K13x:**
+
+`CPH2753`: OPPO K13x 5G
+
 ## Pad series
 
 **OPPO Pad Air:**
@@ -673,13 +759,27 @@
 
 `OPD2303`: OPPO Pad Neo LTE
 
+**OPPO Pad 3 (`dunhuang`):**
+
+`OPD2406`: OPPO Pad 3
+
+**OPPO Pad 3 Pro (`caihong`):**
+
+`OPD2402`: OPPO Pad 3 Pro
+
+**OPPO Pad SE:**
+
+`OPD2419`: OPPO Pad SE Wi-Fi
+
+`OPD2420`: OPPO Pad SE LTE
+
 ## Watch/Band series
 
 **OPPO Band:**
 
-`OB19B1`: OPPO Band / Style
+`OB19B1` `OB19O3`: OPPO Band / Style
 
-**OPPO Band 2:**
+**OPPO Band 2 (`heisenberg`):**
 
 `OBBE215`: OPPO Band 2 Japan
 
@@ -687,18 +787,22 @@
 
 `OWWE201`: OPPO Watch Free
 
-**OPPO Watch (`beluga`):**
+**OPPO Watch (Wi-Fi) (`beluga`):**
 
-`OW19W6`: OPPO Watch 41mm Wi-Fi
+`OW19W6`: OPPO Watch 41mm
 
-**OPPO Watch (`belugaxl`):**
+**OPPO Watch (Wi-Fi) (`belugaxl`):**
 
-`OW19W8`: OPPO Watch 46mm Wi-Fi
+`OW19W8`: OPPO Watch 46mm
 
-**OPPO Watch (`orca`):**
+**OPPO Watch (LTE) (`orca`):**
 
 `OW19W12`: OPPO Watch 46mm LTE
 
-**OPPO Watch X (`star`):**
+**OPPO Watch X (`wuyi`):**
 
 `OWWE231`: OPPO Watch X
+
+**OPPO Watch X2 (`starriver`) (`starrivere`) (`xinghe`):**
+
+`OWWE251`: OPPO Watch X2

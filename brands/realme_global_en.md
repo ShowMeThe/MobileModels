@@ -181,6 +181,10 @@
 
 `RMX3741`: realme 11 Pro+ 5G
 
+**realme 12:**
+
+`RMX3871`: realme 12 4G
+
 **realme 12 5G:**
 
 `RMX3999`: realme 12 5G
@@ -201,6 +205,10 @@
 
 `RMX3840`: realme 12 Pro+ 5G
 
+**realme 13:**
+
+`RMX3871`: realme 13 4G
+
 **realme 13 5G:**
 
 `RMX3951`: realme 13 5G
@@ -209,13 +217,57 @@
 
 `RMX5000`: realme 13+ 5G
 
-**realme 13 Pro 5G:**
+**realme 13 Pro 5G / realme 14 Pro Lite 5G:**
 
-`RMX3990`: realme 13 Pro 5G
+`RMX3990`: realme 13 Pro 5G / realme 14 Pro Lite 5G
 
 **realme 13 Pro+ 5G:**
 
 `RMX3921`: realme 13 Pro+ 5G
+
+**realme 14 5G:**
+
+`RMX5070`: realme 14 5G Global
+
+**realme 14x 5G:**
+
+`RMX3940`: realme 14x 5G India
+
+`RMX3943`: realme 14x 5G Global
+
+**realme 14T 5G:**
+
+`RMX5074`: realme 14T 5G Global
+
+`RMX5078`: realme 14T 5G India
+
+**realme 14 Pro 5G:**
+
+`RMX5056`: realme 14 Pro 5G India
+
+`RMX5057`: realme 14 Pro 5G Global
+
+**realme 14 Pro+ 5G:**
+
+`RMX5051`: realme 14 Pro+ 5G India
+
+`RMX5054`: realme 14 Pro+ 5G Global
+
+**realme 15 5G:**
+
+`RMX5106`: realme 15 5G
+
+**realme 15 Pro 5G:**
+
+`RMX5101`: realme 15 Pro 5G
+
+**realme 15T 5G:**
+
+`RMX5111`: realme 15T 5G
+
+**realme 15 Lite 5G:**
+
+`RMX5000`: realme 15 Lite 5G
 
 ## X series
 
@@ -316,6 +368,18 @@
 **realme GT 6T:**
 
 `RMX3853`: realme GT 6T
+
+**realme GT 7:**
+
+`RMX5061`: realme GT 7
+
+**realme GT 7T:**
+
+`RMX5085`: realme GT 7T
+
+**realme GT 7 Pro:**
+
+`RMX5011`: realme GT 7 Pro
 
 ## C series
 
@@ -427,6 +491,10 @@
 
 `RMX3710`: realme C55
 
+**realme C60:**
+
+`RMX3834`: realme C60
+
 **realme C61:**
 
 `RMX3939` `RMX3930`: realme C61 Global
@@ -445,11 +513,35 @@
 
 `RMX3997`: realme C65 5G
 
+**realme C65s:**
+
+`RMX3939`: realme C65s
+
 **realme C67:**
 
 `RMX3890`: realme C67
 
 `RMX3782`: realme C67 5G
+
+**realme C71:**
+
+`RMX5303`: realme C71
+
+**realme C73:**
+
+`RMX3945`: realme C73 5G
+
+**realme C75:**
+
+`RMX3941`: realme C75
+
+`RMX3943`: realme C75 5G India
+
+`RMX3963`: realme C75 5G Global
+
+**realme C75x:**
+
+`RMX5020`: realme C75x
 
 ## Note series
 
@@ -460,6 +552,14 @@
 **realme Note 60:**
 
 `RMX3933`: realme Note 60
+
+**realme Note 60x:**
+
+`RMX3938`: realme Note 60x
+
+**realme Note 70 / realme Note 70T:**
+
+`RMX5313`: realme Note 70 / realme Note 70T
 
 ## U series
 
@@ -484,6 +584,22 @@
 **realme P2 Pro:**
 
 `RMX3987`: realme P2 Pro 5G
+
+**realme P3:**
+
+`RMX5070` `RMX5079`: realme P3 5G
+
+**realme P3x:**
+
+`RMX3944`: realme P3x 5G
+
+**realme P3 Pro:**
+
+`RMX5032`: realme P3 Pro 5G
+
+**realme P3 Ultra:**
+
+`RMX5030` `RMX5031`: realme P3 Ultra 5G
 
 ## Narzo series
 
@@ -613,6 +729,18 @@
 
 `RMX5003`: realme NARZO 70 Turbo 5G
 
+**realme NARZO 80 Pro:**
+
+`RMX5033`: realme NARZO 80 Pro 5G
+
+**realme NARZO 80x:**
+
+`RMX3944`: realme NARZO 80x 5G
+
+**realme NARZO 80 Lite:**
+
+`RMX3945`: realme NARZO 80 Lite 5G
+
 ## Tablets
 
 **realme Pad:**
@@ -638,3 +766,7 @@
 `RMP2204`: realme Pad 2 LTE
 
 `RMP2205`: realme Pad 2 Wi-Fi
+
+**realme Pad 2 Lite:**
+
+`RMP2402`: realme Pad 2 Lite

@@ -244,6 +244,8 @@
 
 `M481Q`: 魅族 21 PRO
 
+`M481S`: 魅族 21 PRO Flyme 钛好用版
+
 **魅族 21 Note (`m2468`):**
 
 `M468Q`: 魅族 21 Note 公开版
@@ -283,6 +285,14 @@
 `M923Q`: 魅族 Note9 公开版
 
 `M923H`: 魅族 Note9 国际版
+
+**魅族 Note 16 (`m2521`):**
+
+`M521Q`: 魅族 Note 16
+
+**魅族 Note 16 Pro (`m2531`):**
+
+`M531Q`: 魅族 Note 16 Pro
 
 **魅族 Note 21 (`m2411`):**
 
@@ -486,13 +496,13 @@
 
 `M2111`: 魅蓝 10s
 
-**魅蓝 20 / 魅族 M20 (`m2421`):**
+**魅蓝 20 / 魅蓝 20C / 魅族 M20 (`m2421`):**
 
-`M421Q`: 魅蓝 20 / 魅族 M20
+`M421Q`: 魅蓝 200 / 魅蓝 20C / 魅族 M20
 
 **魅族 MBLU 21 (`m2416`):**
 
-`M416L`: 魅族 MBLU 21
+`M416H` `M416L`: 魅族 MBLU 21
 
 **魅蓝 Max (`s25`):**
 
@@ -542,22 +552,22 @@
 
 ## 领克手机
 
-**LYNK & CO Phone Note (`m2468`):**
+**Lync & Co Phone Note (`m2468l`):**
 
-`M468Q`: LYNK & CO Phone Note
+`M468Q`: Lync & Co Phone Note
 
-**LYNK & CO Phone Pro (`m2481`):**
+**Lync & Co Phone Pro (`m2481l`):**
 
-`M481S`: LYNK & CO Phone Pro
+`M481S`: Lync & Co Phone Pro
 
 ## 极星手机
 
-**Polestar Phone (`m2481`):**
+**Polestar Phone (`m2481s`):**
 
 `M481S`: Polestar Phone
 
 ## 红旗手机
 
-**HongQi Phone (`m2481`):**
+**HongQi Wonder (`m2481r`):**
 
-`M481R`: HongQi Phone
+`M481R`: HongQi Wonder

@@ -297,9 +297,43 @@
 
 `PJX110`: OnePlus Ace 3 Pro China
 
-**OnePlus 13:**
+**OnePlus 13 (`dodge`):**
 
 `PJZ110`: OnePlus 13 China
+
+`CPH2649`: OnePlus 13 India
+
+`CPH2653`: OnePlus 13 Europe / Global
+
+`CPH2655`: OnePlus 13 North America
+
+**OnePlus Ace 5 / OnePlus 13R (`giulia`):**
+
+`PKG110`: OnePlus Ace 5 China
+
+`CPH2645`: OnePlus 13R Europe / Global
+
+`CPH2647`: OnePlus 13R North America
+
+`CPH2691`: OnePlus 13R India
+
+**OnePlus Ace 5 Pro (`hummer`):**
+
+`PKR110`: OnePlus Ace 5 Pro China
+
+**OnePlus 13T / OnePlus 13s (`pagani`):**
+
+`PKX110`: OnePlus 13T China
+
+`CPH2723`: OnePlus 13s India
+
+**OnePlus Ace 5 Ultra (`emira`):**
+
+`PLC110`: OnePlus Ace 5 Ultra China
+
+**OnePlus Ace 5 Race (`subaru`):**
+
+`PLF110`: OnePlus Ace 5 Race China
 
 **OnePlus Nord (`avicii`):**
 
@@ -324,6 +358,12 @@
 `CPH2661`: OnePlus Nord 4 India
 
 `CPH2663`: OnePlus Nord 4 Europe / Global
+
+**OnePlus Nord 5 (`lexus`):**
+
+`CPH2707`: OnePlus Nord 5 India
+
+`CPH2709`: OnePlus Nord 5 Global
 
 **OnePlus Nord CE (`ebba`):**
 
@@ -365,6 +405,12 @@
 
 `CPH2621`: OnePlus Nord CE 4 Lite Europe / Global
 
+**OnePlus Nord CE 5 (`honda`):**
+
+`CPH2717`: OnePlus Nord CE 5 India
+
+`CPH2719`: OnePlus Nord CE 5 Global
+
 **OnePlus Nord N10 (`billie8`):**
 
 `BE2025`: OnePlus Nord N10 Metro
@@ -387,15 +433,17 @@
 
 `BE2015`: OnePlus Nord N100 Metro
 
-**OnePlus Nord N20:**
+**OnePlus Nord N20 (`gunnar`):**
 
-`GN2200` `CPH2459`: OnePlus Nord N20
+`GN2200`: OnePlus Nord N20
 
-**OnePlus Nord N20 SE:**
+`CPH2459`: OnePlus Nord N20
+
+**OnePlus Nord N20 SE (`zhaoyun-o`):**
 
 `CPH2469`: OnePlus Nord 20 SE
 
-**OnePlus Nord N30 SE (`fanli`):**
+**OnePlus Nord N30 SE (`fanli-o`):**
 
 `CPH2605`: OnePlus Nord N30 SE Europe
 
@@ -407,33 +455,43 @@
 
 `DE2118`: OnePlus Nord N200 T-Mobile
 
-**OnePlus Nord N300:**
+**OnePlus Nord N300 (`hilda`):**
 
 `CPH2389`: OnePlus Nord N300
 
-## OnePlus Pads/Foldable Phones
+## OnePlus Tablets/Foldable Phones
 
-**OnePlus Open (`xueying`) (`hedwig`):**
+**OnePlus Open (`hedwig`) (~`xueying-9`~):**
 
 `CPH2551`: OnePlus Open
 
-**OnePlus Pad (`aries`):**
+**OnePlus Pad (`aries-o`):**
 
-`OPD2203`: OnePlus Pad
+`OPD2203`: OnePlus Pad (2023)
 
-**OnePlus Pad Go (`bluey`):**
+**OnePlus Pad Go (`bluey-o`):**
 
 `OPD2304`: OnePlus Pad Go LTE
 
 `OPD2305`: OnePlus Pad Go Wi-Fi
 
-**OnePlus Pad 2 / OnePlus Pad Pro (`caihong`) (`rainbow`):**
+**OnePlus Pad (`dunhuang-o`):**
+
+`OPD2407`: OnePlus Pad (2024)
+
+**OnePlus Pad 2 / OnePlus Pad Pro (`rainbow`) (~`caihong-o`~):**
 
 `OPD2404`: OnePlus Pad Pro
 
 `OPD2403`: OnePlus Pad 2
 
-## OnePlus Watches/Bands
+**OnePlus Pad 3 / OnePlus Pad 2 Pro (`erhai-o`):**
+
+`OPD2413`: OnePlus Pad 2 Pro
+
+`OPD2415`: OnePlus Pad 3
+
+## OnePlus Wearables
 
 **OnePlus Band (`audio`):**
 
@@ -449,14 +507,20 @@
 
 `W501CN`: OnePlus Watch Cobalt Limited Edition (China)
 
-`W301GB`: OnePlus Watch Global / Cobalt Limited Edition (Global)
+`W301GB`: OnePlus Watch Global / Cobalt Limited Edition (Global) / Harry Potter Limited Edition
 
 **OnePlus Watch 2R / OnePlus Watch 2 China (`bagel`):**
 
-`OPWW234`: OnePlus Watch 2 (CN)
+`OPWW234`: OnePlus Watch 2 (China)
 
 `OPWWE234`: OnePlus Watch 2R
 
 **OnePlus Watch 2 (`almond`):**
 
-`OPWWE231`: OnePlus Watch 2
+`OPWWE231`: OnePlus Watch 2 (Global)
+
+**OnePlus Watch 3 (`chili`) (`chilie`):**
+
+~`OPWW251`: OnePlus Watch 3 (China)~
+
+`OPWWE251`: OnePlus Watch 3 (Global)
