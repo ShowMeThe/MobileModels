@@ -1,4 +1,8 @@
 # 更新日志
+### 2025-08-04
+- `honor_cn` 新增 荣耀畅玩 70 Plus。
+### 2025-07-24
+- `huawei_cn` 新增 HUAWEI MatePad Pro 12.2 2025。
 ### 2025-07-21
 - `lenovo` 新增 小新平板 12.1、小新平板 Pro GT。
 - `oppo_cn` 新增 OPPO K13 Turbo 系列。

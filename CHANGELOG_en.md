@@ -1,4 +1,8 @@
 # CHANGELOG
+### 2025-07-25
+- `honor_global_en` Add HONOR Pad X7.
+### 2025-07-24
+- `vivo_global_en` Add vivo Y400, X Fold5.
 ### 2025-07-21
 - `realme_global_en` Add realme 15 series.
 ### 2025-07-17
