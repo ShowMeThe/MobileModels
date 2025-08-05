@@ -52,7 +52,15 @@ jobs:
         # stop the build if there are Python syntax errors or undefined names
         flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
         # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
-        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics   
+        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics  
+    - name: git config set
+      run: |
+         git config --global user.email c.uvsuv@163.com
+         git config --global user.name ShowMeThe
+         git remote add upstream https://github.com/KHwang9883/MobileModels.git
+         git fetch upstream
+         git checkout master
+         git merge upstream/master --allow-unrelated-histories --no-edit || true
     - name: Run
       run: |
         echo `date +"%Y-%m-%d %H:%M:%S"` begin
