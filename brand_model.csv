@@ -592,6 +592,7 @@ vivo,V2415,en,VIVO, vivo X200
 vivo,V2413,en,VIVO, vivo X200 Pro
 vivo,V2503,en,VIVO, vivo X200 FE
 vivo,V2505,en,VIVO, vivo X200 FE
+vivo,V2429,en,VIVO, vivo X Fold5
 vivo,V2025,en,VIVO, vivo V20
 vivo,V2022,en,VIVO, vivo V20 SE
 vivo,V2023,en,VIVO, vivo V20 SE
@@ -785,6 +786,8 @@ vivo,V2336,en,VIVO, vivo Y200e 5G
 vivo,V2416,en,VIVO, vivo Y300 5G
 vivo,V2422,en,VIVO, vivo Y300+ 5G
 vivo,V2402,en,VIVO, vivo Y300 Pro 5G
+vivo,V2506,en,VIVO, vivo Y400 5G
+vivo,V2439,en,VIVO, vivo Y400 Pro 5G
 vivo,I1927,en,VIVO, iQOO 3 4G
 vivo,I1928,en,VIVO, iQOO 3 5G
 vivo,I2009,en,VIVO, iQOO 7 Global
@@ -1274,6 +1277,9 @@ huawei,WEB-W00,cn,华为, HUAWEI MatePad Pro 13.2 英寸 2025 Wi-Fi 版
 huawei,WEB-W10,cn,华为, HUAWEI MatePad Pro 13.2 英寸 2025 Wi-Fi 版 (16GB+1TB)
 huawei,WEB-AL00,cn,华为, HUAWEI MatePad Pro 13.2 英寸 2025 典藏版 SIM 卡版
 huawei,WEB-AL10,cn,华为, HUAWEI MatePad Pro 13.2 英寸 2025 SIM 卡版
+huawei,MRDI-W00,cn,华为, HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 版
+huawei,MRDI-W10,cn,华为, HUAWEI MatePad Pro 12.2 英寸 2025 柔光版 Wi-Fi 版
+huawei,MRDI-W20,cn,华为, HUAWEI MatePad Pro 12.2 英寸 2025 柔光版 Wi-Fi 版 (16GB+1TB)
 huawei,DBY2-W00,cn,华为, HUAWEI MatePad Air 11.5 英寸 Wi-Fi 版
 huawei,DBY2-AL00,cn,华为, HUAWEI MatePad Air 11.5 英寸 LTE 版
 huawei,BKY-W00,cn,华为, HUAWEI MatePad Air 12 英寸 Wi-Fi 版 (8GB+256GB)
@@ -2034,23 +2040,25 @@ honor,BRC-NX1,en,荣耀, HONOR X9c Smart
 honor,GFY-LX3,en,荣耀, HONOR Play9A
 honor,NIC-LX3P,en,荣耀, HONOR Play9C
 honor,HEY-W09,en,荣耀, HONOR Pad 8
+honor,HEY2-W09,en,荣耀, HONOR Pad 9 Wi-Fi
+honor,HEY2-N09,en,荣耀, HONOR Pad 9 5G
+honor,HEY3-W00,en,荣耀, HONOR Pad 10 Wi-Fi
+honor,ROL-W00,en,荣耀, HONOR Pad V9
+honor,ROD2-W09,en,荣耀, HONOR MagicPad2
+honor,JMS-W09,en,荣耀, HONOR Pad X7 Wi-Fi
+honor,JMS-L09,en,荣耀, HONOR Pad X7 LTE
 honor,AGM3-W09HN,en,荣耀, HONOR Pad X8 Wi-Fi
 honor,AGM3-AL09HN,en,荣耀, HONOR Pad X8 LTE
 honor,AGM-W09HN,en,荣耀, HONOR Pad X8 Lite
 honor,NDL-W09,en,荣耀, HONOR Pad X8a Wi-Fi
 honor,NDL-L03,en,荣耀, HONOR Pad X8a LTE
 honor,NDL-L09,en,荣耀, HONOR Pad X8a LTE
-honor,HEY2-W09,en,荣耀, HONOR Pad 9 Wi-Fi
-honor,HEY2-N09,en,荣耀, HONOR Pad 9 5G
-honor,ROL-W00,en,荣耀, HONOR Pad V9
 honor,ELN-W09,en,荣耀, HONOR Pad X9 Wi-Fi
 honor,ELN-L03,en,荣耀, HONOR Pad X9 LTE
 honor,ELN-L09,en,荣耀, HONOR Pad X9 LTE
 honor,ELN2-W29,en,荣耀, HONOR Pad X9a Wi-Fi
 honor,ELN2-L23,en,荣耀, HONOR Pad X9a LTE
 honor,ELN2-L29,en,荣耀, HONOR Pad X9a LTE
-honor,ROD2-W09,en,荣耀, HONOR MagicPad2
-honor,HEY3-W00,en,荣耀, HONOR Pad 10 Wi-Fi
 vivo,V1821A,cn,VIVO, vivo NEX 双屏版 全网通版
 vivo,V1821T,cn,VIVO, vivo NEX 双屏版 移动全网通版
 vivo,V1923A,cn,VIVO, vivo NEX 3 全网通版
@@ -4516,6 +4524,7 @@ honor,JDY-AN00,cn,荣耀, 荣耀畅玩 50 5G / 荣耀畅玩 50m 5G
 honor,CLK-AN00,cn,荣耀, 荣耀畅玩 50 Plus 5G
 honor,NIC-AN00,cn,荣耀, 荣耀畅玩 60 5G / 荣耀畅玩 60m 5G
 honor,ALT-AN00,cn,荣耀, 荣耀畅玩 60 Plus 5G
+honor,LOG-AN00,cn,荣耀, 荣耀畅玩 70 Plus 5G
 honor,S8-701w,cn,荣耀, 荣耀平板 Wi-Fi 版
 honor,S8-701u,cn,荣耀, 荣耀平板 3G 版
 honor,T1-821w,cn,荣耀, 荣耀平板优享版
