@@ -786,6 +786,7 @@ vivo,V2336,en,VIVO, vivo Y200e 5G
 vivo,V2416,en,VIVO, vivo Y300 5G
 vivo,V2422,en,VIVO, vivo Y300+ 5G
 vivo,V2402,en,VIVO, vivo Y300 Pro 5G
+vivo,V2455,en,VIVO, vivo Y400
 vivo,V2506,en,VIVO, vivo Y400 5G
 vivo,V2439,en,VIVO, vivo Y400 Pro 5G
 vivo,I1927,en,VIVO, iQOO 3 4G
@@ -804,6 +805,7 @@ vivo,I2214,en,VIVO, iQOO Neo7
 vivo,I2217,en,VIVO, iQOO Neo7 Pro
 vivo,I2304,en,VIVO, iQOO Neo9 Pro
 vivo,I2405,en,VIVO, iQOO Neo 10
+vivo,I2408,en,VIVO, iQOO Neo 10
 vivo,I2221,en,VIVO, iQOO Neo 10R
 vivo,I2011,en,VIVO, iQOO Z3 5G
 vivo,I2018,en,VIVO, iQOO Z5
@@ -824,6 +826,7 @@ vivo,I2305,en,VIVO, iQOO Z9s Pro 5G
 vivo,I2407,en,VIVO, iQOO Z10 5G
 vivo,I2404,en,VIVO, iQOO Z10x 5G
 vivo,I2409,en,VIVO, iQOO Z10 Lite 5G
+vivo,I2502,en,VIVO, iQOO Z10 Lite
 vivo,I2410,en,VIVO, iQOO Z10R 5G
 blackshark,SKR-A0,cn,其他, 黑鲨游戏手机 全网通版
 blackshark,SKR-H0,cn,其他, 黑鲨游戏手机 国际版
@@ -2363,6 +2366,7 @@ vivo,V2417A,cn,VIVO, iQOO Z9 Turbo+
 vivo,V2353A,cn,VIVO, iQOO Z9x
 vivo,V2452A,cn,VIVO, iQOO Z10 Turbo
 vivo,V2453A,cn,VIVO, iQOO Z10 Turbo Pro
+vivo,V2507A,cn,VIVO, iQOO Z10 Turbo+
 vivo,V2445A,cn,VIVO, iQOO Z10x
 vivo,V2023A,cn,VIVO, iQOO U1
 vivo,V2065A,cn,VIVO, iQOO U1x
@@ -3419,6 +3423,7 @@ lenovo,TB-J606F,cn,联想, 小新 Pad
 lenovo,TB128FU,cn,联想, 小新 Pad 2022
 lenovo,TB331FC,cn,联想, 小新 Pad 2024
 lenovo,TB335FC,cn,联想, 小新平板 11
+lenovo,TB335ZC,cn,联想, 小新平板 11 5G
 lenovo,TB365FC,cn,联想, 小新平板 12.1
 lenovo,Lenovo,cn,联想, 小新 Pad Plus
 lenovo,TB-J607F,cn,联想, 小新 Pad Plus
@@ -3550,8 +3555,8 @@ lenovo,TB240FC,cn,联想, 联想启天 K12 12.7 英寸 Wi-Fi 版
 lenovo,SP523FC,cn,联想, 联想启天 SmartPaper 10.3 英寸 Wi-Fi 版
 lenovo,TB310FU,cn,联想, 联想昭阳 K9 9 英寸 Wi-Fi 版
 lenovo,TB310XC,cn,联想, 联想昭阳 K9 9 英寸 LTE 版
-lenovo,TB305FU,cn,联想, 联想昭阳 K9 8.7 英寸 Wi-Fi 版
-lenovo,TB305XC,cn,联想, 联想昭阳 K9 8.7 英寸 LTE 版
+lenovo,TB305FU,cn,联想, 联想昭阳 K9 (二代) 8.7 英寸 Wi-Fi 版
+lenovo,TB305XC,cn,联想, 联想昭阳 K9 (二代) 8.7 英寸 LTE 版
 lenovo,TB330FU,cn,联想, 联想昭阳 K10 10.95 英寸 Wi-Fi 版
 lenovo,TB330XC,cn,联想, 联想昭阳 K10 10.95 英寸 LTE 版
 lenovo,TB360ZU,cn,联想, 联想昭阳 K10 10.61 英寸 5G 版
@@ -3559,12 +3564,14 @@ lenovo,TB311FU,cn,联想, 联想昭阳 K10c 10.1 英寸 Wi-Fi 版
 lenovo,TB311XC,cn,联想, 联想昭阳 K10c 10.1 英寸 LTE 版
 lenovo,TB352FC,cn,联想, 联想昭阳 K11 11.5 英寸 Wi-Fi 版
 lenovo,TB352XC,cn,联想, 联想昭阳 K11 11.5 英寸 LTE 版
-lenovo,TB336FU,cn,联想, 联想昭阳 K11 11 英寸 Wi-Fi 版
-lenovo,TB336ZC,cn,联想, 联想昭阳 K11 11 英寸 5G 版
+lenovo,TB336FU,cn,联想, 联想昭阳 K11 (二代) 11 英寸 Wi-Fi 版
+lenovo,TB336ZC,cn,联想, 联想昭阳 K11 (二代) 11 英寸 5G 版
 lenovo,TB337FU,cn,联想, 联想昭阳 K11c 10.95 英寸 Wi-Fi 版
 lenovo,TB240FC,cn,联想, 联想昭阳 K12 12.7 英寸 Wi-Fi 版
 lenovo,TB373FU,cn,联想, 联想昭阳 K12 (二代) 12.7 英寸 Wi-Fi 版
 lenovo,TB373ZC,cn,联想, 联想昭阳 K12 (二代) 12.7 英寸 5G 版
+lenovo,TB361FU,cn,联想, 联想昭阳 K12c 12.1 英寸 Wi-Fi 版
+lenovo,TB361ZU,cn,联想, 联想昭阳 K12c 12.1 英寸 5G 版
 lenovo,TB-X802F,cn,联想, 联想昭阳 G11 10.95 英寸 Wi-Fi 版
 lenovo,TB-X903F,cn,联想, 联想昭阳 G12 11.5 英寸 Wi-Fi 版
 lenovo,TBY11,cn,联想, 联想昭阳 Y11 10.95 英寸 Wi-Fi 版
@@ -4241,7 +4248,7 @@ honor,FLC-AN00,cn,荣耀, 荣耀 Magic Vs3
 honor,PTP-AN00,cn,荣耀, 荣耀 Magic7
 honor,PTP-AN60,cn,荣耀, 荣耀 Magic7 (16GB+1TB)
 honor,PTP-AN10,cn,荣耀, 荣耀 Magic7 Pro
-honor,PTP-AN70,cn,荣耀, 荣耀 Magic7 Pro (16GB+1TB)
+honor,PTP-AN70,cn,荣耀, 荣耀 Magic7 Pro 卫星通信版
 honor,PTP-AN20,cn,荣耀, 荣耀 Magic7 RSR 保时捷设计
 honor,MBH-AN10,cn,荣耀, 荣耀 Magic V5
 honor,H60-L01,cn,荣耀, 荣耀 6 移动版
@@ -7577,7 +7584,8 @@ zte,7543N,cn,中兴, 中兴小鲜 50 / 中兴畅行 50
 zte,7551N,cn,中兴, 中兴小鲜 60 / 中兴远航 60 / 中兴 V80
 zte,7552N,cn,中兴, 中兴畅行 60
 zte,7553N,cn,中兴, 中兴畅行 60 Plus / 中兴远航 61
-zte,7561N,cn,中兴, 中兴远航 70 / 中兴小鲜 60 臻情版
+zte,7661N,cn,中兴, 中兴畅行 60 Ultra
+zte,7561N,cn,中兴, 中兴远航 60 Plus / 中兴远航 70 / 中兴小鲜 60 臻情版
 zte,9041N,cn,中兴, 中兴 V70
 zte,9043N,cn,中兴, 中兴 V70 Pro
 zte,PA01,cn,中兴, 中兴 Axon Pad
