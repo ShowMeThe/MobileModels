@@ -59,10 +59,8 @@ jobs:
          git config --global user.name ShowMeThe
          git remote add upstream https://github.com/KHwang9883/MobileModels.git
          git fetch upstream
-         git checkout master
-         git stash
+         git checkout master 
          git merge upstream/master --allow-unrelated-histories --no-edit || true
-         git stash pop
     - name: Run
       run: |
         echo `date +"%Y-%m-%d %H:%M:%S"` begin
