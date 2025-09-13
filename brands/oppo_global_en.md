@@ -297,11 +297,11 @@
 
 `CPH2697`: OPPO Reno13 Pro 5G
 
-**OPPO Reno13 F / OPPO Reno13 A (`milkyway`) (`milkyway-s3`):**
+**OPPO Reno13 F / OPPO Reno13 FS / OPPO Reno13 A (`milkyway`) (`milkyway-s3`):**
 
 `CPH2701`: OPPO Reno13 F
 
-`CPH2699`: OPPO Reno13 F 5G / OPPO Reno13 A
+`CPH2699`: OPPO Reno13 F 5G / OPPO Reno13 FS 5G / OPPO Reno13 A
 
 **OPPO Reno14 (`zhuque`) (`zhuque-s2`):**
 
@@ -311,9 +311,9 @@
 
 `CPH2739`: OPPO Reno14 Pro
 
-**OPPO Reno14 F (`zhuque`) (`zhuque-s3`):**
+**OPPO Reno14 F / OPPO Reno14 FS (`zhuque`) (`zhuque-s3`):**
 
-`CPH2743`: OPPO Reno14 F 5G
+`CPH2743`: OPPO Reno14 F 5G / OPPO Reno14 FS 5G
 
 ## F series
 
@@ -485,15 +485,27 @@
 
 `CPH2727`: OPPO A5 (2025) / OPPO A5m
 
-**OPPO A5i:**
-
-`CPH2773`: OPPO A5i
-
 **OPPO A5 Pro:**
 
 `CPH2711`: OPPO A5 Pro
 
 `CPH2695`: OPPO A5 Pro 5G
+
+**OPPO A5i:**
+
+`CPH2773`: OPPO A5i
+
+**OPPO A5i Pro:**
+
+`CPH2755`: OPPO A5i Pro
+
+`CPH2821`: OPPO A5i Pro 5G
+
+**OPPO A5x:**
+
+`CPH2725`: OPPO A5x
+
+`CPH2733`: OPPO A5x 5G
 
 **OPPO A7:**
 
@@ -742,6 +754,14 @@
 **OPPO K13x:**
 
 `CPH2753`: OPPO K13x 5G
+
+**OPPO K13 Turbo (`knight`):**
+
+`CPH2761`: OPPO K13 Turbo 5G
+
+**OPPO K13 Turbo Pro:**
+
+`CPH2731`: OPPO K13 Turbo Pro 5G
 
 ## Pad series
 

@@ -562,9 +562,9 @@
 
 `PKL110`: OPPO A3i
 
-**OPPO A3 Pro:**
+**OPPO A3 Pro / OPPO A5 Plus:**
 
-`PJY110`: OPPO A3 Pro
+`PJY110`: OPPO A3 Pro / OPPO A5 Plus
 
 **OPPO A5:**
 
@@ -581,6 +581,18 @@
 **OPPO A5 Pro (`alpha`) (`alpha-h`):**
 
 `PKP110`: OPPO A5 Pro
+
+**OPPO A6 GT / OPPO A6 Max:**
+
+`PLL110`: OPPO A6 GT / OPPO A6 Max
+
+**OPPO A6 Pro:**
+
+`PLN110`: OPPO A6 Pro
+
+**OPPO A6i:**
+
+`PKW120`: OPPO A6i
 
 ## K 系列
 
@@ -659,6 +671,10 @@
 **OPPO K12s:**
 
 `PLD110`: OPPO K12s
+
+**OPPO K13s:**
+
+`PLL110`: OPPO K13s
 
 **OPPO K13 Turbo (`knight`):**
 

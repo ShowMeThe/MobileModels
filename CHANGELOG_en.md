@@ -1,4 +1,29 @@
 # CHANGELOG
+### 2025-09-10
+- `realme_global_en` Add realme P3 Lite 5G.
+### 2025-09-04
+- `samsung_global_en` Add Galaxy S25 FE.
+### 2025-09-03
+- `huawei_global_en` Add HUAWEI MatePad 11.5 S 2025.
+- `oppo_global_en` Add OPPO Reno13 FS, Reno14 FS.
+### 2025-09-02
+- `oppo_global_en` Add several new models.
+### 2025-09-01
+- `honor_global_en` Add HONOR X7d.
+- `vivo_global_en` Add several new models.
+### 2025-08-31
+- `google` Add Google Pixel 10 series.
+- `xiaomi_en` Add Xiaomi YU7 Back Row Mobile Control Screen.
+### 2025-08-29
+- `xiaomi_en` Add Redmi 15C 4G, POCO C85.
+### 2025-08-24
+- `honor_global_en` Add HONOR 400 Smart.
+### 2025-08-22
+- `xiaomi_en` Add Redmi 15 4G, Redmi Note 15R (China).
+### 2025-08-21
+- `xiaomi_en` Add Redmi Note 15 5G series, POCO M7.
+### 2025-08-19
+- `vivo_global_en` Add vivo V60, T4 Pro.
 ### 2025-08-13
 - `samsung_global_en` Add Galaxy A07, A17.
 ### 2025-08-07

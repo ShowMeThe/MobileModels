@@ -1,4 +1,31 @@
 # 更新日志
+### 2025-09-09
+- `honor_cn` 新增 荣耀 Play10T。
+### 2025-09-07
+- `oppo_cn` 新增 OPPO A6i。
+### 2025-09-06
+- `nubia` 新增部分海外型号。
+### 2025-09-04
+- `huawei_cn` 新增 HUAWEI Mate XTs 非凡大师、MatePad Mini、MateTV、Vision 智慧屏 5 Pro。
+- `oppo_cn` 新增 OPPO A6 Pro、K13s。
+- `samsung_cn` 新增 Galaxy Tab S11 系列。
+### 2025-09-02
+- `oppo_cn` 新增 OPPO A6 GT/Max。
+### 2025-09-01
+- `honor_cn` 新增 荣耀畅玩 70m Plus。
+- `vivo_cn` 新增 vivo Y500。
+### 2025-08-31
+- `xiaomi` 新增 Xiaomi YU7 后排移动控制屏。
+### 2025-08-29
+- `xiaomi` 新增 Redmi 15C 4G、POCO C85。
+### 2025-08-22
+- `xiaomi` 新增 REDMI Note 15R、REDMI 15 4G。
+### 2025-08-21
+- `honor_cn` 新增 荣耀 Magic V Flip2。
+- `xiaomi` 新增 REDMI Note 15 系列。
+### 2025-08-18
+- `oppo_cn` 新增 OPPO A5 Plus。
+- `realme_cn` 新增 真我 15 系列。
 ### 2025-08-15
 - `huawei_cn` 新增 HUAWEI MatePad Air 2025、MatePad 11.5 S 2025。
 ### 2025-08-07

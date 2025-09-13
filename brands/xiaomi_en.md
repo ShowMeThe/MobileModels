@@ -1131,6 +1131,16 @@
 
 `2411DRN47I`: Redmi 14C 5G India
 
+**[`O19A`] Redmi 15 (`creek`):**
+
+`25062RN2DA`: Redmi 15 Global
+
+`25062RN2DY`: Redmi 15 Global (NFC)
+
+`25062RN2DE`: Redmi 15 Europe
+
+`25062RN2DL`: Redmi 15 Latin America
+
 **[`O19`] Redmi 15 5G (`spring`):**
 
 `25057RN09G`: Redmi 15 5G Global
@@ -1138,6 +1148,16 @@
 `25057RN09E`: Redmi 15 5G Europe
 
 `25057RN09I`: Redmi 15 5G India
+
+**[`P15A`] Redmi 15C (`dew`):**
+
+`25078RA3EA`: Redmi 15C Global
+
+`25078RA3EY`: Redmi 15C Global (NFC)
+
+`25078RA3EE`: Redmi 15C Europe
+
+`25078RA3EL`: Redmi 15C Latin America
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
@@ -1679,6 +1699,42 @@
 
 `24115RA8EC`: Redmi Note 14 Pro+ 5G China
 
+**[`P17`] Redmi Note 15 5G (`kunzite`):**
+
+`25098RA98G`: Redmi Note 15 5G Global
+
+`25098RA98E`: Redmi Note 15 5G Europe
+
+`25098RA98I`: Redmi Note 15 5G India
+
+`25098RA98C`: REDMI Note 15 5G China
+
+**[`P16`] Redmi Note 15 Pro (`lapis`):**
+
+`25080RABDG`: Redmi Note 15 Pro 5G Global
+
+`25080RABDI`: Redmi Note 15 Pro 5G India
+
+`25080RABDR`: Redmi Note 15 Pro 5G Japan
+
+`25080RABDC`: REDMI Note 15 Pro 5G China
+
+**[`P16U`] Redmi Note 15 Pro+ (`flourite`):**
+
+`2510ERA8BG`: Redmi Note 15 Pro+ 5G Global
+
+`2510ERA8BI`: Redmi Note 15 Pro+ 5G India
+
+`2510ERA8BC`: REDMI Note 15 Pro+ 5G China
+
+**[`P16US`] REDMI Note 15 Pro+ (`flourite`):**
+
+`25104RADAC`: REDMI Note 15 Pro+ 5G Satellite China
+
+**[`O19`] REDMI Note 15R (`spring`):**
+
+`25057RA09C`: REDMI Note 15R China
+
 **[`J7A`] Redmi 10X 5G (`atom`):**
 
 `M2004J7AC`: Redmi 10X 5G China
@@ -2145,10 +2201,6 @@
 
 `2404APC5FG`: POCO M6 Global
 
-**[`N19AP`] POCO M6 (`moon`) (`tides`):**
-
-`2404APC5FI`: POCO M6 India
-
 **[`C3VP`] POCO M6 5G (`air`):**
 
 `23128PC33I`: POCO M6 5G India
@@ -2164,6 +2216,12 @@
 **[`M19P`] POCO M6 Pro 5G (`sky`):**
 
 `23076PC4BI`: POCO M6 Pro 5G India
+
+**[`O19AP`] POCO M7 (`creek`):**
+
+`25062PC34G`: POCO M7 Global
+
+`25062PC34E`: POCO M7 Europe
 
 **[`C3FP`] POCO M7 5G (`flame`):**
 
@@ -2240,6 +2298,12 @@
 **[`C3F2`] POCO C75 5G (`warm`):**
 
 `24116PCC1I`: POCO C75 5G India
+
+**[`P15A`] POCO C85 (`dew`):**
+
+`25078PC3EG`: POCO C85 Global
+
+`25078PC3EE`: POCO C85 Europe
 
 ## Tablets
 
@@ -2410,3 +2474,7 @@
 **[`K91`] Xiaomi CyberDog:**
 
 `21051191C`: Xiaomi CyberDog Bio-inspired Quadruped Robot
+
+**[`P802`] Xiaomi YU7 Back Row Mobile Control Screen (`konghou`):**
+
+`2503CVPC6C`: Xiaomi YU7 Back Row Mobile Control Screen

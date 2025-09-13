@@ -132,6 +132,10 @@
 
 `MBH-AN10`: 荣耀 Magic V5
 
+**荣耀 Magic V Flip2 (`Celine`):**
+
+`CLE-AN00`: 荣耀 Magic V Flip2
+
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
 **荣耀 6 (`Mogolia`):**
@@ -756,6 +760,10 @@
 
 `JDY-AN00`: 荣耀 Play9C 5G
 
+**荣耀 Play10T:**
+
+`LOG-AN10`: 荣耀 Play10T 5G
+
 **荣耀 Play10C (`Nick`):**
 
 `NIC-AN00`: 荣耀 Play10C 5G
@@ -974,9 +982,9 @@
 
 `ALT-AN00`: 荣耀畅玩 60 Plus 5G
 
-**荣耀畅玩 70 Plus:**
+**荣耀畅玩 70 Plus / 荣耀畅玩 70m Plus:**
 
-`LOG-AN00`: 荣耀畅玩 70 Plus 5G
+`LOG-AN00`: 荣耀畅玩 70 Plus 5G / 荣耀畅玩 70m Plus 5G
 
 ## 荣耀平板 数字系列
 

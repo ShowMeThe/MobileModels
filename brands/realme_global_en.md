@@ -353,7 +353,7 @@
 
 `RMX3563`: realme GT NEO 3 150W
 
-**realme GT NEO 3T:**
+**realme GT NEO 3T (`spartan`):**
 
 `RMX3371`: realme GT NEO 3T
 
@@ -600,6 +600,10 @@
 **realme P3 Ultra:**
 
 `RMX5030` `RMX5031`: realme P3 Ultra 5G
+
+**realme P3 Lite:**
+
+`RMX3943`: realme P3 Lite 5G
 
 **realme P4:**
 

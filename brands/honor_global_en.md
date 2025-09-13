@@ -241,6 +241,10 @@
 
 `ABR-NX1` `ABR-NX3`: HONOR 400 Lite
 
+**HONOR 400 Smart:**
+
+`LGN-NX1` `LGN-NX3`: HONOR 400 Smart
+
 **HONOR Magic4 Pro (`Lange`):**
 
 `LGE-NX9`: HONOR Magic4 Pro
@@ -374,6 +378,14 @@
 **HONOR X7c 5G (`Alita`):**
 
 `ALT-NX1`: HONOR X7c 5G
+
+**HONOR X7d:**
+
+`LGN-LX1` `LGN-LX2` `LGN-LX3`: HONOR X7d
+
+**HONOR X7d 5G:**
+
+`LGN-NX1`: HONOR X7d 5G
 
 **HONOR X8 (`Tiffany`):**
 

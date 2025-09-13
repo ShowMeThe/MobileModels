@@ -1240,6 +1240,16 @@
 
 `2411DRN47I`: Redmi 14C 5G 印度版
 
+**[`O19A`] Redmi 15 (`creek`):**
+
+`25062RN2DA`: Redmi 15 国际版
+
+`25062RN2DY`: Redmi 15 国际版 (NFC)
+
+`25062RN2DE`: Redmi 15 欧洲版
+
+`25062RN2DL`: Redmi 15 拉美版
+
 **[`O19`] Redmi 15 5G (`spring`):**
 
 `25057RN09G`: Redmi 15 5G 国际版
@@ -1247,6 +1257,16 @@
 `25057RN09E`: Redmi 15 5G 欧洲版
 
 `25057RN09I`: Redmi 15 5G 印度版
+
+**[`P15A`] Redmi 15C (`dew`):**
+
+`25078RA3EA`: Redmi 15C 国际版
+
+`25078RA3EY`: Redmi 15C 国际版 (NFC)
+
+`25078RA3EE`: Redmi 15C 欧洲版
+
+`25078RA3EL`: Redmi 15C 拉美版
 
 ## 红米 / Redmi Note 系列
 
@@ -1795,6 +1815,42 @@
 `24115RA8EG`: Redmi Note 14 Pro+ 5G 国际版
 
 `24115RA8EI`: Redmi Note 14 Pro+ 5G 印度版
+
+**[`P17`] REDMI Note 15 (`kunzite`):**
+
+`25098RA98C`: REDMI Note 15 国行版
+
+`25098RA98G`: Redmi Note 15 5G 国际版
+
+`25098RA98E`: Redmi Note 15 5G 欧洲版
+
+`25098RA98I`: Redmi Note 15 5G 印度版
+
+**[`P16`] REDMI Note 15 Pro (`lapis`):**
+
+`25080RABDC`: REDMI Note 15 Pro 国行版
+
+`25080RABDG`: Redmi Note 15 Pro 5G 国际版
+
+`25080RABDI`: Redmi Note 15 Pro 5G 印度版
+
+`25080RABDR`: Redmi Note 15 Pro 5G 日本版
+
+**[`P16U`] REDMI Note 15 Pro+ (`flourite`):**
+
+`2510ERA8BC`: REDMI Note 15 Pro+ 国行版
+
+`2510ERA8BG`: Redmi Note 15 Pro+ 5G 国际版
+
+`2510ERA8BI`: Redmi Note 15 Pro+ 5G 印度版
+
+**[`P16US`] REDMI Note 15 Pro+ (`flourite`):**
+
+`25104RADAC`: REDMI Note 15 Pro+ 卫星消息版
+
+**[`O19`] REDMI Note 15R (`spring`):**
+
+`25057RA09C`: REDMI Note 15R
 
 ## Redmi X 系列
 
@@ -2348,10 +2404,6 @@
 
 `2404APC5FG`: POCO M6 国际版
 
-**[`N19AP`] POCO M6 (`moon`) (`tides`):**
-
-`2404APC5FI`: POCO M6 印度版
-
 **[`C3VP`] POCO M6 5G (`air`):**
 
 `23128PC33I`: POCO M6 5G 印度版
@@ -2367,6 +2419,12 @@
 **[`M19P`] POCO M6 Pro 5G (`sky`):**
 
 `23076PC4BI`: POCO M6 Pro 5G 印度版
+
+**[`O19AP`] POCO M7 (`creek`):**
+
+`25062PC34G`: POCO M7 国际版
+
+`25062PC34E`: POCO M7 欧洲版
 
 **[`C3FP`] POCO M7 5G (`flame`):**
 
@@ -2444,6 +2502,12 @@
 
 `24116PCC1I`: POCO C75 5G 印度版
 
+**[`P15A`] POCO C85 (`dew`):**
+
+`25078PC3EG`: POCO C85 国际版
+
+`25078PC3EE`: POCO C85 欧洲版
+
 ## POCO 平板
 
 **[`N83P`] POCO Pad (`dizi`):**
@@ -2463,3 +2527,7 @@
 **[`K91`] CyberDog 仿生四足机器人:**
 
 `21051191C`: CyberDog 仿生四足机器人
+
+**[`P802`] Xiaomi YU7 后排移动控制屏 (`konghou`):**
+
+`2503CVPC6C`: Xiaomi YU7 后排移动控制屏
