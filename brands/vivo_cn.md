@@ -240,6 +240,16 @@
 
 `V2436A`: vivo X Fold5
 
+**vivo X300 (`PD2509`):**
+
+`V2509A`: vivo X300
+
+**vivo X300 Pro (`PD2502`):**
+
+`V2502A`: vivo X300 Pro
+
+`V2502DA`: vivo X300 Pro 卫星通信版
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -542,9 +552,9 @@
 
 `V2023EA`: vivo Y50t
 
-**vivo Y37t / vivo Y50 (2025) (`PD2443`):**
+**vivo Y37t / vivo Y50 (2025) / vivo Y50i (`PD2443`):**
 
-`V2443A`: vivo Y37t 5G / vivo Y50 5G
+`V2443A`: vivo Y37t 5G / vivo Y50 5G / vivo Y50i 5G
 
 **vivo Y50m (`PD2443`):**
 
@@ -973,6 +983,10 @@
 **iQOO 13 (`PD2408`):**
 
 `V2408A`: iQOO 13
+
+**iQOO 15 (`PD2505`):**
+
+`V2505A`: iQOO 15
 
 ## iQOO Neo 系列
 

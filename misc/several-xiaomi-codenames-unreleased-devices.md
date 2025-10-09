@@ -64,6 +64,10 @@
 
 `25054PXCEC`: Xiaomi MIX Fold 系列 (未上市)
 
+**[`O8`] Xiaomi MIX Flip 2 (`bixi`):**
+
+`2505APX7BG`: Xiaomi MIX Flip 2 国际版 (未上市)
+
 **[`D9P`] 小米平板 4 Plus (`clover`):**
 
 `M1806D9PW`: 小米平板 4 Plus Wi-Fi 版 (未上市)
@@ -125,6 +129,10 @@
 **[`L10A`] 未知设备 (`poussin`):**
 
 `21121210AC`: 该设备为 Redmi 系列，搭载骁龙 870 处理器。
+
+**[`O84X`] REDMI Pad 2 4G (`koto`):**
+
+`2505DRP06C`: REDMI Pad 2 4G 国行版 (未上市)
 
 ## POCO 系列
 

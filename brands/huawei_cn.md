@@ -737,6 +737,10 @@
 
 `MRT-AL10`: HUAWEI nova 14 Ultra
 
+**HUAWEI nova Flip S (`Poseidon`):**
+
+`PSD-AL80`: HUAWEI nova Flip S
+
 ## HUAWEI G 系列
 
 **华为 Ascend G6:**
@@ -2522,6 +2526,22 @@
 **HUAWEI WATCH GT 5 Pro (`Vili`):**
 
 `VLI-B29`: HUAWEI WATCH GT 5 Pro 46mm
+
+**HUAWEI WATCH GT 6 (`Konsu`):**
+
+`KSU-B19`: HUAWEI WATCH GT 6 41mm
+
+**HUAWEI WATCH GT 6 (`Atum`):**
+
+`ATM-B19`: HUAWEI WATCH GT 6 46mm
+
+**HUAWEI WATCH GT 6 Pro (`Konsu`):**
+
+`KSU-B29`: HUAWEI WATCH GT 6 Pro 42mm
+
+**HUAWEI WATCH GT 6 Pro (`Atum`):**
+
+`ATM-B29`: HUAWEI WATCH GT 6 Pro 46mm
 
 **HUAWEI WATCH GT Runner (`Runner`):**
 

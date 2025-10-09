@@ -1,4 +1,26 @@
 # 更新日志
+### 2025-09-30
+- `oppo_cn` 新增 OPPO A6。
+- `vivo_cn` 新增 vivo X300 系列、iQOO 15。
+### 2025-09-28
+- `zhixuan` 新增 Hi MateBook 14 酷睿 Ultra 2。
+### 2025-09-26
+- `xiaomi` 新增 Xiaomi 17 系列、Pad 8 系列、REDMI 15 系列、Pad 2 Pro 等。
+### 2025-09-25
+- `mitv_cn` 新增 REDMI 电视 X 2026 系列。
+### 2025-09-21
+- `huawei_cn` 新增 HUAWEI nova Flip S。
+### 2025-09-20
+- `honor_cn` 增补代号。
+- `huawei_cn` 新增 HUAWEI WATCH GT 6 系列。
+- `mitv_cn` 新增 小米电视 S Pro Mini LED 2026 系列。
+### 2025-09-19
+- `vivo_cn` 新增 vivo Y50i。
+### 2025-09-16
+- `oppo_cn` 新增 OPPO K13x。
+### 2025-09-15
+- `apple` 新增 iPhone 17 系列/Air、Apple Watch Series 11/SE 3/Ultra 3。
+- `meizu` 新增 魅族 22、魅族 Mblu 22/Note 22 海外版。
 ### 2025-09-09
 - `honor_cn` 新增 荣耀 Play10T。
 ### 2025-09-07

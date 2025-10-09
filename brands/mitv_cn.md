@@ -390,6 +390,16 @@
 
 `L100MB-SP`: 小米电视 S Pro 100 Mini LED 2025
 
+**小米电视 S Pro Mini LED 2026:**
+
+`L65MC-SP`: 小米电视 S Pro 65 Mini LED 2026
+
+`L75MC-SP`: 小米电视 S Pro 75 Mini LED 2026
+
+`L85MC-SP`: 小米电视 S Pro 85 Mini LED 2026
+
+`L98MC-SP`: 小米电视 S Pro 98 Mini LED 2026
+
 **小米壁画电视:**
 
 `L65M5-BH`: 小米壁画电视 65 英寸
@@ -601,6 +611,18 @@
 `L75RB-RXE`: REDMI 电视 X75 2025 节能版 (一级能效)
 
 `L85RB-RXE`: REDMI 电视 X85 2025 节能版 (一级能效)
+
+**REDMI 电视 X 2026:**
+
+`L55RC-RX`: REDMI 电视 X55 2026
+
+`L65RC-RX`: REDMI 电视 X65 2026
+
+`L75RC-RX`: REDMI 电视 X75 2026
+
+`L85RC-RX`: REDMI 电视 X85 2026
+
+`L98RC-RX`: REDMI 电视 X98 2026
 
 **Redmi 智能电视 X Pro:**
 
