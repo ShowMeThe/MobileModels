@@ -57,12 +57,18 @@ jobs:
       run: |
          git config --global user.email c.uvsuv@163.com
          git config --global user.name ShowMeThe
-         git remote add upstream https://github.com/KHwang9883/MobileModels.git
-         git fetch upstream
+         git remote add upstream https://github.com/KHwang9883/MobileModels.git 2>/dev/null || true
+         git merge --abort 2>/dev/null || true
+         git reset --merge 2>/dev/null || true
+         git stash push -m "temp before upstream merge" || true
          git checkout master
-         git pull --rebase
-         git stash pop       
+         git fetch origin
+         git pull --rebase origin master || true
+         git fetch upstream
          git merge upstream/master --allow-unrelated-histories --no-edit || true
+         git stash pop || true
+         git add .
+         git commit -m "Merge upstream master into local master" || true
     - name: Run
       run: |
         echo `date +"%Y-%m-%d %H:%M:%S"` begin
