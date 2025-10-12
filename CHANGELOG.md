@@ -1,4 +1,9 @@
 # 更新日志
+<<<<<<< HEAD
+=======
+### 2025-10-11
+- `samsung_cn` 新增 心系天下 三星 W26。
+>>>>>>> upstream/master
 ### 2025-09-30
 - `oppo_cn` 新增 OPPO A6。
 - `vivo_cn` 新增 vivo X300 系列、iQOO 15。

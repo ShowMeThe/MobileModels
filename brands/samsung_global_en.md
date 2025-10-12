@@ -1293,6 +1293,15 @@
 
 `SM-A166P`: Galaxy A16 5G Global (MediaTek)
 
+<<<<<<< HEAD
+=======
+**Galaxy A17 (`a17`):**
+
+`SM-A175F`: Galaxy A17 Global
+
+`SM-A175N`: Galaxy A17 South Korea
+
+>>>>>>> upstream/master
 **Galaxy A17 5G (`a17x`):**
 
 `SM-A176B`: Galaxy A17 5G Global
