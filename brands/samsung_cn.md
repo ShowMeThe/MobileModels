@@ -783,11 +783,17 @@
 `SM-W7025`: 三星 W25 Flip
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **三星 W26 (`q7q`):**
 
 `SM-W9026`: 三星 W26
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## 三星其他手机系列
 

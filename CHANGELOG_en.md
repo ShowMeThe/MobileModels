@@ -1,5 +1,10 @@
 # CHANGELOG
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+### 2025-10-11
+- `samsung_global_en` Add Galaxy A17.
+>>>>>>> upstream/master
 =======
 ### 2025-10-11
 - `samsung_global_en` Add Galaxy A17.
