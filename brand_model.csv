@@ -219,6 +219,8 @@ oneplus,CPH2691,en,一加, OnePlus 13R India
 oneplus,PKR110,en,一加, OnePlus Ace 5 Pro China
 oneplus,PKX110,en,一加, OnePlus 13T China
 oneplus,CPH2723,en,一加, OnePlus 13s India
+oneplus,PLK110,en,一加, OnePlus 15 China
+oneplus,PLQ110,en,一加, OnePlus Ace 6 China
 oneplus,PLC110,en,一加, OnePlus Ace 5 Ultra China
 oneplus,PLF110,en,一加, OnePlus Ace 5 Race China
 oneplus,AC2001,en,一加, OnePlus Nord India
@@ -2450,6 +2452,8 @@ oneplus,PKX110,cn,一加, 一加 13T 国行版
 oneplus,CPH2723,cn,一加, 一加 13s 印度版
 oneplus,PLC110,cn,一加, 一加 Ace 5 至尊版 国行版
 oneplus,PLF110,cn,一加, 一加 Ace 5 竞速版 国行版
+oneplus,PLK110,cn,一加, 一加 15 国行版
+oneplus,PLQ110,cn,一加, 一加 Ace 6 国行版
 oneplus,AC2001,cn,一加, 一加 Nord 印度版
 oneplus,AC2003,cn,一加, 一加 Nord 欧洲版 / 国际版
 oneplus,DN2101,cn,一加, 一加 Nord 2 印度版
@@ -4913,6 +4917,9 @@ oppo,PKT110,cn,OPPO, OPPO Find X8s
 oppo,PLB110,cn,OPPO, OPPO Find X8s+
 oppo,PKJ110,cn,OPPO, OPPO Find X8 Ultra
 oppo,PKU110,cn,OPPO, OPPO Find X8 Ultra 卫星通信版
+oppo,PLJ110,cn,OPPO, OPPO Find X9
+oppo,PLG110,cn,OPPO, OPPO Find X9 Pro
+oppo,PLG120,cn,OPPO, OPPO Find X9 Pro 卫星通信版
 oppo,PEUM00,cn,OPPO, OPPO Find N
 oppo,PGU110,cn,OPPO, OPPO Find N2
 oppo,PGT110,cn,OPPO, OPPO Find N2 Flip
@@ -5120,6 +5127,7 @@ oppo,OWW231,cn,OPPO, OPPO Watch X
 oppo,OWW235,cn,OPPO, OPPO Watch Sport
 oppo,OWW242,cn,OPPO, OPPO Watch X2 Mini
 oppo,OWW251,cn,OPPO, OPPO Watch X2
+oppo,OWW262,cn,OPPO, OPPO Watch S
 letv,X600,cn,乐视, 乐 1 通用版
 letv,X608,cn,乐视, 乐 1 移动定制版
 letv,X500,cn,乐视, 乐 1s 通用版
@@ -7802,12 +7810,15 @@ vivo,WA2456A,cn,VIVO, vivo WATCH GT eSIM 版
 vivo,WA2456C,cn,VIVO, vivo WATCH GT 蓝牙版
 vivo,WA2556A,cn,VIVO, vivo WATCH 5 蓝牙版
 vivo,WA2556B,cn,VIVO, vivo WATCH 5 eSIM 版
+vivo,WA2536A,cn,VIVO, vivo WATCH GT 2 蓝牙版
+vivo,WA2536B,cn,VIVO, vivo WATCH GT 2 eSIM 版
 vivo,iWA2356A,cn,VIVO, iQOO WATCH eSIM 版
 vivo,iWA2356C,cn,VIVO, iQOO WATCH 蓝牙版
 vivo,iWA2456A,cn,VIVO, iQOO WATCH GT eSIM 版
 vivo,iWA2456C,cn,VIVO, iQOO WATCH GT 蓝牙版
 vivo,iWA2556A,cn,VIVO, iQOO WATCH 5 蓝牙版
 vivo,iWA2556B,cn,VIVO, iQOO WATCH 5 eSIM 版
+vivo,iWA2536A,cn,VIVO, iQOO WATCH GT 2 蓝牙版
 nokia,TA-1000,cn,诺基亚, Nokia 6
 nokia,TA-1054,cn,诺基亚, Nokia 6 (第二代)
 nokia,TA-1041,cn,诺基亚, Nokia 7
