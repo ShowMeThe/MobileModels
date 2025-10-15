@@ -337,7 +337,10 @@
 `PLF110`: 一加 Ace 5 竞速版 国行版
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **一加 15:**
 
 `PLK110`: 一加 15 国行版
@@ -346,6 +349,9 @@
 
 `PLQ110`: 一加 Ace 6 国行版
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **一加 Nord (`avicii`):**
 

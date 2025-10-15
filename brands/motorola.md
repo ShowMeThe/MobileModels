@@ -224,4 +224,12 @@
 
 **moto g100 Pro (`nice`):**
 
+<<<<<<< HEAD
 `XT2527-3`: moto g100 Pro
+=======
+`XT2527-3`: moto g100 Pro
+
+**moto g100:**
+
+`XT2533-4`: moto g100
+>>>>>>> upstream/master

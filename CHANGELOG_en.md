@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ### 2025-10-11
 - `samsung_global_en` Add Galaxy A17.
@@ -11,10 +12,15 @@
 - `samsung_global_en` Add Galaxy A17.
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 ### 2025-10-13
 - `oneplus_en` Add OnePlus 15, OnePlus Ace 6.
 ### 2025-10-11
 - `samsung_global_en` Add Galaxy A17.
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ### 2025-09-26
 - `xiaomi_en` Add Xiaomi 17 series, Pad 8, Pad Mini, REDMI 15 series, REDMI Pad 2 Pro, POCO Pad M1/X1.

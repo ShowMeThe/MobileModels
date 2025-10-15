@@ -93,7 +93,10 @@
 `PKU110`: OPPO Find X8 Ultra 卫星通信版
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **OPPO Find X9:**
 
 `PLJ110`: OPPO Find X9
@@ -104,6 +107,9 @@
 
 `PLG120`: OPPO Find X9 Pro 卫星通信版
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## Find N 系列
 
@@ -817,9 +823,15 @@
 
 `OWW251`: OPPO Watch X2
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 
 **OPPO Watch S:**
 
 `OWW262`: OPPO Watch S
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
