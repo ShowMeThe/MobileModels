@@ -1302,7 +1302,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **vivo WATCH GT 2:**
@@ -1312,6 +1315,9 @@
 `WA2536B`: vivo WATCH GT 2 eSIM 版
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1333,8 +1339,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `iWA2556B`: iQOO WATCH 5 eSIM 版
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 `iWA2556B`: iQOO WATCH 5 eSIM 版
@@ -1342,6 +1351,10 @@
 **iQOO WATCH GT 2:**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+`iWA2536A`: iQOO WATCH GT 2 蓝牙版
+>>>>>>> upstream/master
+=======
 `iWA2536A`: iQOO WATCH GT 2 蓝牙版
 >>>>>>> upstream/master
 =======
