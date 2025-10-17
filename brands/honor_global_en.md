@@ -308,7 +308,10 @@
 `FCP-N49`: HONOR Magic V3
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **HONOR Magic8 Pro:**
 
 `BKQ-N49`: HONOR Magic8 Pro
@@ -317,6 +320,9 @@
 
 `MTN-NX1M` `MTN-NX3`: HONOR Magic8 Lite
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **HONOR X5 (`Vanessa`):**
 
@@ -479,6 +485,11 @@
 `HEY3-W00`: HONOR Pad 10 Wi-Fi
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`HEY3-N09`: HONOR Pad 10 5G
+
+>>>>>>> upstream/master
 =======
 `HEY3-N09`: HONOR Pad 10 5G
 

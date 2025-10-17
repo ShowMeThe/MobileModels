@@ -137,7 +137,10 @@
 `CLE-AN00`: 荣耀 Magic V Flip2
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **荣耀 Magic8:**
 
 `BKQ-AN00`: 荣耀 Magic8
@@ -150,6 +153,9 @@
 
 `BKQ-AN90`: 荣耀 Magic8 Pro (16GB+1TB)
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
@@ -1118,7 +1124,10 @@
 `CGA-W00`: 荣耀平板 MagicPad 3 13.3 英寸 Wi-Fi 版
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **荣耀 MagicPad 3 12.5:**
 
 `CGL-W00`: 荣耀 MagicPad 3 12.5 英寸 Wi-Fi 版
@@ -1127,6 +1136,9 @@
 
 `YLP-W00`: 荣耀 MagicPad 3 Pro 13.3 英寸 Wi-Fi 版
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## 荣耀平板 GT 系列
 
@@ -1572,6 +1584,13 @@
 
 `GDG-X`: 荣耀笔记本 X14 2025 战斗版
 
+<<<<<<< HEAD
+=======
+**荣耀笔记本 X14 2026 (`FermiG`):**
+
+`FRG-X`: 荣耀笔记本 X14 2026
+
+>>>>>>> upstream/master
 **荣耀笔记本 X14 Plus 2024 (`FermiI`):**
 
 `FMI-76`: 荣耀笔记本 X14 Plus 2024 R7 (16GB+512GB)
@@ -1636,6 +1655,13 @@
 
 `BRG-761`: 荣耀笔记本 X16 2025 i7 (16GB+1TB)
 
+<<<<<<< HEAD
+=======
+**荣耀笔记本 X16 2026 (`BornG`):**
+
+`BRG-X`: 荣耀笔记本 X16 2026
+
+>>>>>>> upstream/master
 **荣耀笔记本 X16 Plus 2024 (`BornI`):**
 
 `BRI-76`: 荣耀笔记本 X16 Plus 2024 R7 (16GB+512GB)
@@ -1783,11 +1809,17 @@
 `STL-L19`: 荣耀手表 5
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **荣耀手表 5 Pro (`Halo`):**
 
 `HAL-L19`: 荣耀手表 5 Pro
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **荣耀手表 5 Ultra (`Tumir`):**
 
@@ -1798,11 +1830,17 @@
 `IVY-B39`: 荣耀手表 Fit
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **荣耀手表 X5:**
 
 `LWS-WB10`: 荣耀手表 X5
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **荣耀手环 3:**
 

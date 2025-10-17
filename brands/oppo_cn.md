@@ -95,7 +95,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -112,6 +115,9 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -751,6 +757,13 @@
 
 `OPD2417`: OPPO Pad SE
 
+<<<<<<< HEAD
+=======
+**OPPO Pad 5:**
+
+`OPD2506`: OPPO Pad 5
+
+>>>>>>> upstream/master
 ## Watch/Band 系列
 
 **OPPO Band:**
@@ -831,7 +844,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -842,6 +858,9 @@
 `OWW262`: OPPO Watch S
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master

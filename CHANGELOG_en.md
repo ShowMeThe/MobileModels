@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ### 2025-10-11
 - `samsung_global_en` Add Galaxy A17.
@@ -19,12 +20,19 @@
 ### 2025-10-15
 - `honor_global_en` Add HONOR Magic8 series.
 >>>>>>> upstream/master
+=======
+### 2025-10-15
+- `honor_global_en` Add HONOR Magic8 series.
+>>>>>>> upstream/master
 ### 2025-10-13
 - `oneplus_en` Add OnePlus 15, OnePlus Ace 6.
 ### 2025-10-11
 - `samsung_global_en` Add Galaxy A17.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
