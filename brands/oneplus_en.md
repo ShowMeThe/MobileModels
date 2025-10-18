@@ -331,7 +331,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -349,6 +352,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -520,6 +526,19 @@
 
 `OPD2415`: OnePlus Pad 3
 
+<<<<<<< HEAD
+=======
+**OnePlus Pad Lite:**
+
+`OPD2480`: OnePlus Pad Lite Wi-Fi
+
+`OPD2481`: OnePlus Pad Lite LTE
+
+**OnePlus Pad 2:**
+
+`OPD2508`: OnePlus Pad 2 China
+
+>>>>>>> upstream/master
 ## OnePlus Wearables
 
 **OnePlus Band (`audio`):**

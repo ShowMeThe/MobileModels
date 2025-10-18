@@ -5,6 +5,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ### 2025-10-11
 - `samsung_global_en` Add Galaxy A17.
@@ -21,6 +22,15 @@
 - `honor_global_en` Add HONOR Magic8 series.
 >>>>>>> upstream/master
 =======
+### 2025-10-15
+- `honor_global_en` Add HONOR Magic8 series.
+>>>>>>> upstream/master
+=======
+### 2025-10-18
+- `apple_en` Add iPad Pro (M5), Apple Vision Pro (M5).
+### 2025-10-17
+- `oneplus_en` Add OnePlus Pad 2 (China).
+- `xiaomi_en` Add REDMI K90 series.
 ### 2025-10-15
 - `honor_global_en` Add HONOR Magic8 series.
 >>>>>>> upstream/master
@@ -31,6 +41,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master

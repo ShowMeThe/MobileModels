@@ -340,7 +340,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -358,6 +361,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -521,6 +527,19 @@
 
 `OPD2415`: 一加平板 3 国际版
 
+<<<<<<< HEAD
+=======
+**一加平板 Lite:**
+
+`OPD2480`: 一加平板 Lite Wi-Fi
+
+`OPD2481`: 一加平板 Lite LTE
+
+**一加平板 2:**
+
+`OPD2508`: 一加平板 2 国行版
+
+>>>>>>> upstream/master
 ## 一加手表/手环
 
 **一加 Band (`audio`):**

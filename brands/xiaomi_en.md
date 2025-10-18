@@ -1921,12 +1921,28 @@
 
 `24122RKC7C`: REDMI K80 Pro China
 
+<<<<<<< HEAD
+=======
+**[`O11US`] REDMI K80 Pro (`miro`):**
+
+>>>>>>> upstream/master
 `24127RK2CC`: REDMI K80 Pro Automobili Lamborghini Squadra Corse China
 
 **[`O12`] REDMI K80 Ultra (`dali`):**
 
 `25060RK16C`: REDMI K80 Ultra China
 
+<<<<<<< HEAD
+=======
+**[`P11`] REDMI K90 (`annibale`):**
+
+`2510DRK44C`: REDMI K90 China
+
+**[`P11U`] REDMI K90 Pro Max (`myron`):**
+
+`25102RKBEC`: REDMI K90 Pro Max China
+
+>>>>>>> upstream/master
 **[`H3C`] Redmi Pro (`omega`):**
 
 `2016020`: Redmi Pro (32GB)

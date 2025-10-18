@@ -590,6 +590,25 @@
 
 `A3007`: iPad Pro (13 英寸, M4) (无线局域网 + 蜂窝网络)
 
+<<<<<<< HEAD
+=======
+**[`J817AP`] iPad Pro (11 英寸, M5) (`iPad17,1`):**
+
+`A3357`: iPad Pro (11 英寸, M5) (无线局域网)
+
+**[`J818AP`] iPad Pro (11 英寸, M5) (`iPad17,2`):**
+
+`A3359`: iPad Pro (11 英寸, M5) (无线局域网 + 蜂窝网络)
+
+**[`J820AP`] iPad Pro (13 英寸, M5) (`iPad18,1`):**
+
+`A3360`: iPad Pro (13 英寸, M5) (无线局域网)
+
+**[`J821AP`] iPad Pro (13 英寸, M5) (`iPad18,2`):**
+
+`A3362`: iPad Pro (13 英寸, M5) (无线局域网 + 蜂窝网络)
+
+>>>>>>> upstream/master
 ## iPad mini
 
 **[`P105AP`] iPad mini (`iPad2,5`):**
@@ -896,6 +915,13 @@
 
 `A2117`: Apple Vision Pro
 
+<<<<<<< HEAD
+=======
+**[`N301aAP`] Apple Vision Pro (M5) (`RealityDevice17,1,1`):**
+
+`A3416`: Apple Vision Pro (M5)
+
+>>>>>>> upstream/master
 ## iPod touch
 
 **[`N45AP`] iPod touch (`iPod1,1`):**
