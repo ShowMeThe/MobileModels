@@ -159,11 +159,17 @@
 `NX737J`: nubia Z70S Ultra 摄影师版
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **nubia Z80 Ultra:**
 
 `NX741J`: nubia Z80 Ultra
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## 努比亚其他系列
 
@@ -420,13 +426,19 @@
 **红魔 10S Pro / 红魔 10S Pro+:**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 `NX789J` : 红魔 10S Pro / 红魔 10S Pro+
 =======
+=======
+>>>>>>> upstream/master
 `NX789J`: 红魔 10S Pro / 红魔 10S Pro+
 
 **红魔 11 Pro / 红魔 11 Pro+:**
 
 `NX809J`: 红魔 11 Pro / 红魔 11 Pro+
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 
 ## 红魔平板

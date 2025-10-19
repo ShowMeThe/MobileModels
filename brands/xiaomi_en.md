@@ -1922,6 +1922,11 @@
 `24122RKC7C`: REDMI K80 Pro China
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+**[`O11US`] REDMI K80 Pro (`miro`):**
+
+>>>>>>> upstream/master
 =======
 **[`O11US`] REDMI K80 Pro (`miro`):**
 
@@ -1933,7 +1938,10 @@
 `25060RK16C`: REDMI K80 Ultra China
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **[`P11`] REDMI K90 (`annibale`):**
 
 `2510DRK44C`: REDMI K90 China
@@ -1942,6 +1950,9 @@
 
 `25102RKBEC`: REDMI K90 Pro Max China
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **[`H3C`] Redmi Pro (`omega`):**
 

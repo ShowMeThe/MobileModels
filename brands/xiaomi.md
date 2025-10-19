@@ -2067,6 +2067,11 @@
 `24122RKC7C`: REDMI K80 Pro
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+**[`O11US`] REDMI K80 Pro 冠军版 (`miro`):**
+
+>>>>>>> upstream/master
 =======
 **[`O11US`] REDMI K80 Pro 冠军版 (`miro`):**
 
@@ -2078,7 +2083,10 @@
 `25060RK16C`: REDMI K80 至尊版
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **[`P11`] REDMI K90 (`annibale`):**
 
 `2510DRK44C`: REDMI K90
@@ -2087,6 +2095,9 @@
 
 `25102RKBEC`: REDMI K90 Pro Max
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## 其他红米 Redmi 手机
 

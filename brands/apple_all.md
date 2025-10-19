@@ -939,7 +939,10 @@
 `A3007`: iPad Pro (13 英寸, M4) (无线局域网 + 蜂窝网络) (中国大陆)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **[`J817AP`] iPad Pro (11 英寸, M5) (`iPad17,1`):**
 
 `A3357`: iPad Pro (11 英寸, M5) (无线局域网)
@@ -960,6 +963,9 @@
 
 `A3362`: iPad Pro (13 英寸, M5) (无线局域网 + 蜂窝网络) (中国大陆)
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## iPad mini
 
@@ -1396,11 +1402,17 @@
 `A2117`: Apple Vision Pro
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **[`N301aAP`] Apple Vision Pro (M5) (`RealityDevice17,1,1`):**
 
 `A3416`: Apple Vision Pro (M5)
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## iPod touch
 

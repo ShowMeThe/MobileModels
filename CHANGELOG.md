@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ### 2025-10-11
 - `samsung_cn` 新增 心系天下 三星 W26。
@@ -28,6 +29,11 @@
 =======
 ### 2025-10-18
 - `apple` 新增 iPad Pro (M5), Apple Vision Pro (M5)。
+=======
+### 2025-10-18
+- `apple` 新增 iPad Pro (M5), Apple Vision Pro (M5)。
+- `oppo_cn` 新增 OPPO A6 Plus。
+>>>>>>> upstream/master
 ### 2025-10-17
 - `huawei_cn` 新增 nova 14 活力版。
 - `nubia` 新增 红魔 11 Pro、nubia Z80 Ultra。
@@ -37,6 +43,9 @@
 ### 2025-10-16
 - `honor_cn` 新增 荣耀笔记本 X 系列 2026。
 - `oppo_cn` 新增 OPPO Pad 5。
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ### 2025-10-15
 - `honor_cn` 新增 荣耀 Magic8 系列、MagicPad 3 系列、荣耀手表 5 Pro。
@@ -44,6 +53,9 @@
 - `motorola` 新增 moto g100。
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -59,6 +71,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master

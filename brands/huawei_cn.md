@@ -738,11 +738,17 @@
 `MRT-AL10`: HUAWEI nova 14 Ultra
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **HUAWEI nova 14 活力版 (`Taylor`):**
 
 `TYR-AL00`: HUAWEI nova 14 活力版
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **HUAWEI nova Flip S (`Poseidon`):**
 
