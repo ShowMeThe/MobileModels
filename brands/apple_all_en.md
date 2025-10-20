@@ -921,7 +921,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **[`J817AP`] iPad Pro (11-inch, M5) (`iPad17,1`):**
@@ -945,6 +948,9 @@
 `A3362`: iPad Pro (13-inch, M5) Wi-Fi + Cellular (China mainland)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1384,7 +1390,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **[`N301aAP`] Apple Vision Pro (M5) (`RealityDevice17,1,1`):**
@@ -1392,6 +1401,9 @@
 `A3416`: Apple Vision Pro (M5)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
