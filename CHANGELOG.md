@@ -8,6 +8,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ### 2025-10-11
 - `samsung_cn` 新增 心系天下 三星 W26。
@@ -36,6 +37,13 @@
 - `oppo_cn` 新增 OPPO A6 Plus。
 >>>>>>> upstream/master
 =======
+### 2025-10-18
+- `apple` 新增 iPad Pro (M5), Apple Vision Pro (M5)。
+- `oppo_cn` 新增 OPPO A6 Plus。
+>>>>>>> upstream/master
+=======
+### 2025-10-21
+- `realme_cn` 新增 真我 GT8 系列。
 ### 2025-10-18
 - `apple` 新增 iPad Pro (M5), Apple Vision Pro (M5)。
 - `oppo_cn` 新增 OPPO A6 Plus。
@@ -51,6 +59,9 @@
 - `oppo_cn` 新增 OPPO Pad 5。
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -64,6 +75,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -85,6 +99,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master

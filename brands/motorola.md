@@ -230,8 +230,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `XT2527-3`: moto g100 Pro
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -251,6 +254,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+`XT2533-4`: moto g100
+>>>>>>> upstream/master
+=======
 `XT2533-4`: moto g100
 >>>>>>> upstream/master
 =======
