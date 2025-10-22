@@ -221,6 +221,13 @@
 
 `PLU-AL10`: HUAWEI Mate 70 RS 非凡大师
 
+<<<<<<< HEAD
+=======
+**HUAWEI Mate 70 Air:**
+
+`SUP-AL90`: HUAWEI Mate 70 Air
+
+>>>>>>> upstream/master
 **HUAWEI Mate X (`Tahiti`):**
 
 `TAH-AN00`: HUAWEI Mate X
@@ -741,7 +748,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -755,6 +765,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2382,10 +2395,23 @@
 
 `HD55KULU`: 华为 Vision 智慧屏 5 SE 55
 
+<<<<<<< HEAD
 `HD65KULU`: 华为 Vision 智慧屏 5 SE 65
 
 `HD75KULU`: 华为 Vision 智慧屏 5 SE 75
 
+=======
+`HDB525A9`: 华为 Vision 智慧屏 5 SE 优享版 55
+
+`HD65KULU`: 华为 Vision 智慧屏 5 SE 65
+
+`HDB526A9`: 华为 Vision 智慧屏 5 SE 优享版 65 
+
+`HD75KULU`: 华为 Vision 智慧屏 5 SE 75
+
+`HDB527A9`: 华为 Vision 智慧屏 5 SE 优享版 75 
+
+>>>>>>> upstream/master
 `HD85KULU`: 华为 Vision 智慧屏 5 SE 85
 
 **华为 Vision 智慧屏 5 Pro:**

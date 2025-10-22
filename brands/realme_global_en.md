@@ -548,11 +548,17 @@
 `RMX5020`: realme C75x
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **realme C85:**
 
 `RMX5253`: realme C85 5G
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## Note series
 

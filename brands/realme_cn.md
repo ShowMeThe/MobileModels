@@ -113,7 +113,10 @@
 `RMX5090`: 真我 GT7 Pro 竞速版
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **真我 GT8:**
 
 `RMX6699`: 真我 GT8
@@ -122,6 +125,9 @@
 
 `RMX5200`: 真我 GT8 Pro
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## Neo 系列
 

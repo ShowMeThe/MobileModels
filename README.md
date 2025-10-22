@@ -6,7 +6,11 @@
 [![forks](https://img.shields.io/github/forks/KHwang9883/MobileModels.svg?color=orange)](https://github.com/KHwang9883/MobileModels)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+<<<<<<< HEAD
 汇总各厂商上市的手机型号与对应的宣传名。
+=======
+汇总各厂商上市的手机型号与对应的传播名。
+>>>>>>> upstream/master
 
 [English](README_en.md)
 
