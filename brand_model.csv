@@ -307,6 +307,23 @@ blackshark,PAR-A0,en,其他, Black Shark 5 China
 blackshark,KSR-A0,en,其他, Black Shark 5 RS China
 blackshark,KTUS-H0,en,其他, Black Shark 5 Pro Global
 blackshark,KTUS-A0,en,其他, Black Shark 5 Pro China
+nokia,TA-1000,cn,诺基亚, Nokia 6
+nokia,TA-1054,cn,诺基亚, Nokia 6 (第二代)
+nokia,TA-1041,cn,诺基亚, Nokia 7
+nokia,TA-1062,cn,诺基亚, Nokia 7 Plus
+nokia,TA-1042,cn,诺基亚, Nokia 8 Sirocco
+nokia,TA-1094,cn,诺基亚, Nokia 9 PureView
+nokia,TA-1109,cn,诺基亚, Nokia X5
+nokia,TA-1099,cn,诺基亚, Nokia X6
+nokia,TA-1131,cn,诺基亚, Nokia X7
+nokia,TA-1172,cn,诺基亚, Nokia X71
+nokia,TA-1117,cn,诺基亚, Nokia 3.1 Plus
+nokia,TA-1335,cn,诺基亚, Nokia C1 Plus
+nokia,TA-1258,cn,诺基亚, Nokia C3
+nokia,TA-1388,cn,诺基亚, Nokia C20 Plus
+nokia,TA-1361,cn,诺基亚, Nokia G50
+nokia,TA-1392,cn,诺基亚, Nokia T20
+nokia,TA-1511,cn,诺基亚, Nokia C31
 samsung,GT-I9000,cn,三星, Galaxy S 公开版
 samsung,GT-I9008,cn,三星, Galaxy S 移动定制版
 samsung,GT-I9008L,cn,三星, Galaxy S 移动定制版
@@ -1211,6 +1228,7 @@ xiaomi,2312DRA50I,en,小米, Redmi Note 13 Pro 5G India
 xiaomi,2312DRA50C,en,小米, Redmi Note 13 Pro 5G China
 xiaomi,2312CRAD3C,en,小米, Redmi Note 13 Pro 5G China
 xiaomi,XIG05,en,小米, Redmi Note 13 Pro 5G Japan (KDDI)
+xiaomi,2312DRA50C,en,小米, Redmi Note 13 Pro 5G China (LPDDR4x + UFS 2.2)
 xiaomi,23090RA98G,en,小米, Redmi Note 13 Pro+ 5G Global
 xiaomi,23090RA98I,en,小米, Redmi Note 13 Pro+ 5G India
 xiaomi,23090RA98C,en,小米, Redmi Note 13 Pro+ 5G China
@@ -2088,9 +2106,11 @@ xiaomi,2312DRAABG,cn,小米, Redmi Note 13 5G 国际版
 xiaomi,23117RA68G,cn,小米, Redmi Note 13 Pro 国际版
 xiaomi,2312DRA50C,cn,小米, Redmi Note 13 Pro 国行版
 xiaomi,2312CRAD3C,cn,小米, Redmi Note 13 Pro 国行版
+xiaomi,2312DRA50C,cn,小米, Redmi Note 13 Pro 国行版 (LPDDR4x + UFS 2.2)
 xiaomi,2312DRA50G,cn,小米, Redmi Note 13 Pro 5G 国际版
 xiaomi,2312DRA50I,cn,小米, Redmi Note 13 Pro 5G 印度版
 xiaomi,XIG05,cn,小米, Redmi Note 13 Pro 5G 日本版 (KDDI)
+xiaomi,2312CRAD3C,cn,小米, Redmi Note 13 Pro 国行版 (LPDDR5 + UFS 3.1)
 xiaomi,23090RA98C,cn,小米, Redmi Note 13 Pro+ 国行版
 xiaomi,23090RA98G,cn,小米, Redmi Note 13 Pro+ 5G 国际版
 xiaomi,23090RA98I,cn,小米, Redmi Note 13 Pro+ 5G 印度版
@@ -3012,6 +3032,293 @@ meizu,M468Q,cn,魅族, Lync & Co Phone Note
 meizu,M481S,cn,魅族, Lync & Co Phone Pro
 meizu,M481S,cn,魅族, Polestar Phone
 meizu,M481R,cn,魅族, HongQi Wonder
+sony,E2104,cn,索尼, Xperia E4
+sony,E2105,cn,索尼, Xperia E4
+sony,E2115,cn,索尼, Xperia E4 dual
+sony,E2114,cn,索尼, Xperia E4 dual Brazil
+sony,E2303,cn,索尼, Xperia M4 Aqua
+sony,E2306,cn,索尼, Xperia M4 Aqua
+sony,E2353,cn,索尼, Xperia M4 Aqua
+sony,E2312,cn,索尼, Xperia M4 Aqua dual
+sony,E2333,cn,索尼, Xperia M4 Aqua dual
+sony,E2363,cn,索尼, Xperia M4 Aqua dual
+sony,E5603,cn,索尼, Xperia M5
+sony,E5606,cn,索尼, Xperia M5
+sony,E5653,cn,索尼, Xperia M5
+sony,E5633,cn,索尼, Xperia M5 dual
+sony,E5663,cn,索尼, Xperia M5 dual
+sony,E5643,cn,索尼, Xperia M5 dual Brazil
+sony,E5303,cn,索尼, Xperia C4
+sony,E5306,cn,索尼, Xperia C4
+sony,E5353,cn,索尼, Xperia C4
+sony,E5333,cn,索尼, Xperia C4 dual
+sony,E5363,cn,索尼, Xperia C4 dual
+sony,E5343,cn,索尼, Xperia C4 dual Brazil
+sony,E5533,cn,索尼, Xperia C5 Ultra dual
+sony,E5563,cn,索尼, Xperia C5 Ultra dual
+sony,E6553,cn,索尼, Xperia Z3+
+sony,E6533,cn,索尼, Xperia Z3+ dual
+sony,402SO,cn,索尼, Xperia Z4 Japan (SoftBank)
+sony,SO-03G,cn,索尼, Xperia Z4 Japan (NTT Docomo)
+sony,SOV31,cn,索尼, Xperia Z4 Japan (KDDI)
+sony,E6603,cn,索尼, Xperia Z5
+sony,E6653,cn,索尼, Xperia Z5
+sony,E6633,cn,索尼, Xperia Z5 dual
+sony,E6683,cn,索尼, Xperia Z5 dual
+sony,501SO,cn,索尼, Xperia Z5 Japan (SoftBank)
+sony,SO-01H,cn,索尼, Xperia Z5 Japan (NTT Docomo)
+sony,SOV32,cn,索尼, Xperia Z5 Japan (KDDI)
+sony,E5803,cn,索尼, Xperia Z5 Compact
+sony,E5823,cn,索尼, Xperia Z5 Compact
+sony,SO-02H,cn,索尼, Xperia Z5 Compact Japan (NTT Docomo)
+sony,E6853,cn,索尼, Xperia Z5 Premium
+sony,E6833,cn,索尼, Xperia Z5 Premium dual
+sony,E6883,cn,索尼, Xperia Z5 Premium dual
+sony,SO-03H,cn,索尼, Xperia Z5 Premium Japan (NTT Docomo)
+sony,F3311,cn,索尼, Xperia E5
+sony,F3313,cn,索尼, Xperia E5
+sony,F3111,cn,索尼, Xperia XA (Single SIM)
+sony,F3113,cn,索尼, Xperia XA (Single SIM)
+sony,F3115,cn,索尼, Xperia XA (Single SIM)
+sony,F3112,cn,索尼, Xperia XA (Dual SIM)
+sony,F3116,cn,索尼, Xperia XA (Dual SIM)
+sony,F3211,cn,索尼, Xperia XA Ultra (Single SIM)
+sony,F3213,cn,索尼, Xperia XA Ultra (Single SIM)
+sony,F3215,cn,索尼, Xperia XA Ultra (Single SIM)
+sony,F3212,cn,索尼, Xperia XA Ultra (Dual SIM)
+sony,F3216,cn,索尼, Xperia XA Ultra (Dual SIM)
+sony,F5121,cn,索尼, Xperia X (Single SIM)
+sony,F5122,cn,索尼, Xperia X (Dual SIM)
+sony,F5321,cn,索尼, Xperia X Compact (Single SIM)
+sony,SO-02J,cn,索尼, Xperia X Compact Japan (NTT Docomo)
+sony,F8131,cn,索尼, Xperia X Performance (Single SIM)
+sony,F8132,cn,索尼, Xperia X Performance (Dual SIM)
+sony,502SO,cn,索尼, Xperia X Performance Japan (SoftBank)
+sony,SO-04H,cn,索尼, Xperia X Performance Japan (NTT Docomo)
+sony,SOV33,cn,索尼, Xperia X Performance Japan (KDDI)
+sony,F8331,cn,索尼, Xperia XZ (Single SIM)
+sony,F8332,cn,索尼, Xperia XZ (Dual SIM)
+sony,601SO,cn,索尼, Xperia XZ Japan (SoftBank)
+sony,SO-01J,cn,索尼, Xperia XZ Japan (NTT Docomo)
+sony,SOV34,cn,索尼, Xperia XZ Japan (KDDI)
+sony,G3311,cn,索尼, Xperia L1 (Single SIM)
+sony,G3313,cn,索尼, Xperia L1 (Single SIM)
+sony,G3312,cn,索尼, Xperia L1 (Dual SIM)
+sony,G3121,cn,索尼, Xperia XA1 (Single SIM)
+sony,G3123,cn,索尼, Xperia XA1 (Single SIM)
+sony,G3125,cn,索尼, Xperia XA1 (Single SIM)
+sony,G3112,cn,索尼, Xperia XA1 (Dual SIM)
+sony,G3116,cn,索尼, Xperia XA1 (Dual SIM)
+sony,G3221,cn,索尼, Xperia XA1 Ultra (Single SIM)
+sony,G3223,cn,索尼, Xperia XA1 Ultra (Single SIM)
+sony,G3212,cn,索尼, Xperia XA1 Ultra (Dual SIM)
+sony,G3226,cn,索尼, Xperia XA1 Ultra (Dual SIM)
+sony,G3421,cn,索尼, Xperia XA1 Plus (Single SIM)
+sony,G3423,cn,索尼, Xperia XA1 Plus (Single SIM)
+sony,G3412,cn,索尼, Xperia XA1 Plus (Dual SIM)
+sony,G3416,cn,索尼, Xperia XA1 Plus (Dual SIM)
+sony,G3426,cn,索尼, Xperia XA1 Plus (Dual SIM)
+sony,G8231,cn,索尼, Xperia XZs (Single SIM)
+sony,G8232,cn,索尼, Xperia XZs (Dual SIM)
+sony,602SO,cn,索尼, Xperia XZs Japan (SoftBank)
+sony,SO-03J,cn,索尼, Xperia XZs Japan (NTT Docomo)
+sony,SOV35,cn,索尼, Xperia XZs Japan (KDDI)
+sony,G8141,cn,索尼, Xperia XZ Premium (Single SIM)
+sony,G8142,cn,索尼, Xperia XZ Premium (Dual SIM)
+sony,G8188,cn,索尼, Xperia XZ Premium Japan (SIM Free)
+sony,SO-04J,cn,索尼, Xperia XZ Premium Japan (NTT Docomo)
+sony,G8341,cn,索尼, Xperia XZ1 (Single SIM)
+sony,G8342,cn,索尼, Xperia XZ1 (Dual SIM)
+sony,G8343,cn,索尼, Xperia XZ1 Canada
+sony,701SO,cn,索尼, Xperia XZ1 Japan (SoftBank)
+sony,SO-01K,cn,索尼, Xperia XZ1 Japan (NTT Docomo)
+sony,SOV36,cn,索尼, Xperia XZ1 Japan (KDDI)
+sony,G8441,cn,索尼, Xperia XZ1 Compact (Single SIM)
+sony,SO-02K,cn,索尼, Xperia XZ1 Compact Japan (NTT Docomo)
+sony,H3311,cn,索尼, Xperia L2 (Single SIM)
+sony,H3321,cn,索尼, Xperia L2 (Single SIM)
+sony,H4311,cn,索尼, Xperia L2 (Dual SIM)
+sony,H4331,cn,索尼, Xperia L2 (Dual SIM)
+sony,H3113,cn,索尼, Xperia XA2 (Single SIM)
+sony,H3123,cn,索尼, Xperia XA2 (Single SIM)
+sony,H3133,cn,索尼, Xperia XA2 (Single SIM)
+sony,H4113,cn,索尼, Xperia XA2 (Dual SIM)
+sony,H4133,cn,索尼, Xperia XA2 (Dual SIM)
+sony,H3213,cn,索尼, Xperia XA2 Ultra (Single SIM)
+sony,H3223,cn,索尼, Xperia XA2 Ultra (Single SIM)
+sony,H4213,cn,索尼, Xperia XA2 Ultra (Dual SIM)
+sony,H4233,cn,索尼, Xperia XA2 Ultra (Dual SIM)
+sony,H3413,cn,索尼, Xperia XA2 Plus (Single SIM)
+sony,H4413,cn,索尼, Xperia XA2 Plus (Dual SIM)
+sony,H4493,cn,索尼, Xperia XA2 Plus (Dual SIM)
+sony,H8216,cn,索尼, Xperia XZ2 (Single SIM)
+sony,H8266,cn,索尼, Xperia XZ2 (Dual SIM)
+sony,H8296,cn,索尼, Xperia XZ2 (Dual SIM)
+sony,H8276,cn,索尼, Xperia XZ2 Canada
+sony,702SO,cn,索尼, Xperia XZ2 Japan (SoftBank)
+sony,SO-03K,cn,索尼, Xperia XZ2 Japan (NTT Docomo)
+sony,SOV37,cn,索尼, Xperia XZ2 Japan (KDDI)
+sony,H8314,cn,索尼, Xperia XZ2 Compact (Single SIM)
+sony,H8324,cn,索尼, Xperia XZ2 Compact (Dual SIM)
+sony,SO-05K,cn,索尼, Xperia XZ2 Compact Japan (NTT Docomo)
+sony,H8116,cn,索尼, Xperia XZ2 Premium (Single SIM)
+sony,H8166,cn,索尼, Xperia XZ2 Premium (Dual SIM)
+sony,SO-04K,cn,索尼, Xperia XZ2 Premium Japan (NTT Docomo)
+sony,SOV38,cn,索尼, Xperia XZ2 Premium Japan (KDDI)
+sony,H8416,cn,索尼, Xperia XZ3 (Single SIM)
+sony,H9436,cn,索尼, Xperia XZ3 (Dual SIM)
+sony,H9493,cn,索尼, Xperia XZ3 (Dual SIM)
+sony,801SO,cn,索尼, Xperia XZ3 Japan (SoftBank)
+sony,SO-01L,cn,索尼, Xperia XZ3 Japan (NTT Docomo)
+sony,SOV39,cn,索尼, Xperia XZ3 Japan (KDDI)
+sony,I3312,cn,索尼, Xperia L3 (Single SIM)
+sony,I4312,cn,索尼, Xperia L3 (Dual SIM)
+sony,I4332,cn,索尼, Xperia L3 (Dual SIM)
+sony,J8110,cn,索尼, Xperia 1 (Single SIM)
+sony,J8170,cn,索尼, Xperia 1 US
+sony,J9110,cn,索尼, Xperia 1 (Dual SIM)
+sony,J9180,cn,索尼, Xperia 1 Professional Editon China
+sony,J9150,cn,索尼, Xperia 1 Japan (SIM Free)
+sony,802SO,cn,索尼, Xperia 1 Japan (SoftBank)
+sony,SO-03L,cn,索尼, Xperia 1 Japan (NTT Docomo)
+sony,SOV40,cn,索尼, Xperia 1 Japan (KDDI)
+sony,J8210,cn,索尼, Xperia 5 (Single SIM)
+sony,J8270,cn,索尼, Xperia 5 US
+sony,J9210,cn,索尼, Xperia 5 (Dual SIM)
+sony,J9260,cn,索尼, Xperia 5 Japan (SIM Free)
+sony,901SO,cn,索尼, Xperia 5 Japan (SoftBank)
+sony,SO-01M,cn,索尼, Xperia 5 Japan (NTT Docomo)
+sony,SOV41,cn,索尼, Xperia 5 Japan (KDDI)
+sony,J3273,cn,索尼, Xperia 8 Lite Japan (SIM Free)
+sony,902SO,cn,索尼, Xperia 8 Japan (SoftBank)
+sony,SOV42,cn,索尼, Xperia 8 Japan (KDDI)
+sony,SOV42-u,cn,索尼, Xperia 8 Japan (KDDI)
+sony,I3113,cn,索尼, Xperia 10 (Single SIM)
+sony,I3123,cn,索尼, Xperia 10 (Single SIM)
+sony,I4113,cn,索尼, Xperia 10 (Dual SIM)
+sony,I4193,cn,索尼, Xperia 10 (Dual SIM)
+sony,I3213,cn,索尼, Xperia 10 Plus (Single SIM)
+sony,I3223,cn,索尼, Xperia 10 Plus (Single SIM)
+sony,I4213,cn,索尼, Xperia 10 Plus (Dual SIM)
+sony,I4293,cn,索尼, Xperia 10 Plus (Dual SIM)
+sony,J3173,cn,索尼, Xperia Ace Japan (SIM Free)
+sony,SO-02L,cn,索尼, Xperia Ace Japan (NTT Docomo)
+sony,XQ-AQ52,cn,索尼, Xperia PRO Global
+sony,XQ-AQ62,cn,索尼, Xperia PRO US
+sony,XQ-AT42,cn,索尼, Xperia 1 II Japan (SIM Free)
+sony,XQ-AT51,cn,索尼, Xperia 1 II Global (Single SIM)
+sony,XQ-AT52,cn,索尼, Xperia 1 II Global (Dual SIM)
+sony,XQ-AT72,cn,索尼, Xperia 1 II China
+sony,SO-51A,cn,索尼, Xperia 1 II Japan (NTT Docomo)
+sony,SOG01,cn,索尼, Xperia 1 II Japan (KDDI)
+sony,XQ-AS42,cn,索尼, Xperia 5 II Japan (SIM Free)
+sony,XQ-AS52,cn,索尼, Xperia 5 II Global
+sony,XQ-AS62,cn,索尼, Xperia 5 II US
+sony,XQ-AS72,cn,索尼, Xperia 5 II China
+sony,A002SO,cn,索尼, Xperia 5 II Japan (SoftBank)
+sony,SO-52A,cn,索尼, Xperia 5 II Japan (NTT Docomo)
+sony,SOG02,cn,索尼, Xperia 5 II Japan (KDDI)
+sony,XQ-AU42,cn,索尼, Xperia 10 II Japan (SIM Free)
+sony,XQ-AU51,cn,索尼, Xperia 10 II Global (Single SIM)
+sony,XQ-AU52,cn,索尼, Xperia 10 II Global (Dual SIM)
+sony,A001SO,cn,索尼, Xperia 10 II Japan (SoftBank)
+sony,SO-41A,cn,索尼, Xperia 10 II Japan (NTT Docomo)
+sony,SOV43,cn,索尼, Xperia 10 II Japan (KDDI)
+sony,XQ-AD51,cn,索尼, Xperia L4 (Single SIM)
+sony,XQ-AD52,cn,索尼, Xperia L4 (Dual SIM)
+sony,XQ-BC42,cn,索尼, Xperia 1 III Japan (SIM Free)
+sony,XQ-BC52,cn,索尼, Xperia 1 III Global
+sony,XQ-BC62,cn,索尼, Xperia 1 III US
+sony,XQ-BC72,cn,索尼, Xperia 1 III Asia Pacific
+sony,A101SO,cn,索尼, Xperia 1 III Japan (SoftBank)
+sony,SO-51B,cn,索尼, Xperia 1 III Japan (NTT Docomo)
+sony,SOG03,cn,索尼, Xperia 1 III Japan (KDDI)
+sony,XQ-BQ42,cn,索尼, Xperia 5 III Japan (SIM Free)
+sony,XQ-BQ52,cn,索尼, Xperia 5 III Global
+sony,XQ-BQ62,cn,索尼, Xperia 5 III US
+sony,XQ-BQ72,cn,索尼, Xperia 5 III Asia Pacific
+sony,A103SO,cn,索尼, Xperia 5 III Japan (SoftBank)
+sony,SO-53B,cn,索尼, Xperia 5 III Japan (NTT Docomo)
+sony,SOG05,cn,索尼, Xperia 5 III Japan (KDDI)
+sony,XQ-BT44,cn,索尼, Xperia 10 III Japan (SIM Free)
+sony,XQ-BT52,cn,索尼, Xperia 10 III Global
+sony,A102SO,cn,索尼, Xperia 10 III Japan (SoftBank)
+sony,SO-52B,cn,索尼, Xperia 10 III Japan (NTT Docomo)
+sony,SOG04,cn,索尼, Xperia 10 III Japan (KDDI)
+sony,XQ-BE42,cn,索尼, Xperia PRO-I Japan
+sony,XQ-BE52,cn,索尼, Xperia PRO-I Global
+sony,XQ-BE62,cn,索尼, Xperia PRO-I US
+sony,XQ-BE72,cn,索尼, Xperia PRO-I Asia Pacific
+sony,SO-41B,cn,索尼, Xperia Ace II Japan (NTT Docomo)
+sony,XQ-CT44,cn,索尼, Xperia 1 IV Japan (SIM Free)
+sony,XQ-CT54,cn,索尼, Xperia 1 IV Global
+sony,XQ-CT62,cn,索尼, Xperia 1 IV US
+sony,XQ-CT72,cn,索尼, Xperia 1 IV Asia Pacific
+sony,A201SO,cn,索尼, Xperia 1 IV Japan (SoftBank)
+sony,SO-51C,cn,索尼, Xperia 1 IV Japan (NTT Docomo)
+sony,SOG06,cn,索尼, Xperia 1 IV Japan (KDDI)
+sony,XQ-CQ44,cn,索尼, Xperia 5 IV Japan (SIM Free)
+sony,XQ-CQ54,cn,索尼, Xperia 5 IV Global
+sony,XQ-CQ62,cn,索尼, Xperia 5 IV US
+sony,XQ-CQ72,cn,索尼, Xperia 5 IV Asia Pacific
+sony,A204SO,cn,索尼, Xperia 5 IV Japan (SoftBank)
+sony,SO-54C,cn,索尼, Xperia 5 IV Japan (NTT Docomo)
+sony,SOG09,cn,索尼, Xperia 5 IV Japan (KDDI)
+sony,XQ-CC44,cn,索尼, Xperia 10 IV Japan (SIM Free)
+sony,XQ-CC54,cn,索尼, Xperia 10 IV Global
+sony,XQ-CC72,cn,索尼, Xperia 10 IV Asia Pacific
+sony,A202SO,cn,索尼, Xperia 10 IV Japan (SoftBank)
+sony,SO-52C,cn,索尼, Xperia 10 IV Japan (NTT Docomo)
+sony,SOG07,cn,索尼, Xperia 10 IV Japan (KDDI)
+sony,A203SO,cn,索尼, Xperia Ace III Japan (SoftBank)
+sony,SO-53C,cn,索尼, Xperia Ace III Japan (NTT Docomo)
+sony,SOG08,cn,索尼, Xperia Ace III Japan (KDDI)
+sony,XQ-DQ44,cn,索尼, Xperia 1 V Japan (SIM Free)
+sony,XQ-DQ54,cn,索尼, Xperia 1 V Global
+sony,XQ-DQ62,cn,索尼, Xperia 1 V US
+sony,XQ-DQ72,cn,索尼, Xperia 1 V Asia Pacific
+sony,A301SO,cn,索尼, Xperia 1 V Japan (SoftBank)
+sony,SO-51D,cn,索尼, Xperia 1 V Japan (NTT Docomo)
+sony,SOG10,cn,索尼, Xperia 1 V Japan (KDDI)
+sony,XQ-DE44,cn,索尼, Xperia 5 V Japan (SIM Free)
+sony,XQ-DE54,cn,索尼, Xperia 5 V Global
+sony,XQ-DE72,cn,索尼, Xperia 5 V Asia Pacific
+sony,SO-53D,cn,索尼, Xperia 5 V Japan (NTT Docomo)
+sony,SOG12,cn,索尼, Xperia 5 V Japan (KDDI)
+sony,XQ-DC44,cn,索尼, Xperia 10 V Japan (SIM Free)
+sony,XQ-DC54,cn,索尼, Xperia 10 V Global
+sony,XQ-DC72,cn,索尼, Xperia 10 V Asia Pacific
+sony,A302SO,cn,索尼, Xperia 10 V Japan (SoftBank)
+sony,SO-52D,cn,索尼, Xperia 10 V Japan (NTT Docomo)
+sony,SOG11,cn,索尼, Xperia 10 V Japan (KDDI)
+sony,XQ-EC44,cn,索尼, Xperia 1 VI Japan (SIM Free)
+sony,XQ-EC54,cn,索尼, Xperia 1 VI Global
+sony,XQ-EC72,cn,索尼, Xperia 1 VI Asia Pacific
+sony,A401SO,cn,索尼, Xperia 1 VI Japan (SoftBank)
+sony,SO-51E,cn,索尼, Xperia 1 VI Japan (NTT Docomo)
+sony,SOG13,cn,索尼, Xperia 1 VI Japan (KDDI)
+sony,XQ-ES44,cn,索尼, Xperia 10 VI Japan (SIM Free)
+sony,XQ-ES54,cn,索尼, Xperia 10 VI Global
+sony,XQ-ES72,cn,索尼, Xperia 10 VI Asia Pacific
+sony,A402SO,cn,索尼, Xperia 10 VI Japan (SoftBank)
+sony,SO-52E,cn,索尼, Xperia 10 VI Japan (NTT Docomo)
+sony,SOG14,cn,索尼, Xperia 10 VI Japan (KDDI)
+sony,XQ-FS44,cn,索尼, Xperia 1 VII Japan (SIM Free)
+sony,XQ-FS54,cn,索尼, Xperia 1 VII Global
+sony,XQ-FS72,cn,索尼, Xperia 1 VII Asia Pacific
+sony,A501SO,cn,索尼, Xperia 1 VII Japan (SoftBank)
+sony,SO-51F,cn,索尼, Xperia 1 VII Japan (NTT Docomo)
+sony,SOG15,cn,索尼, Xperia 1 VII Japan (KDDI)
+sony,XQ-FE44,cn,索尼, Xperia 10 VII Japan (SIM Free)
+sony,XQ-FE54,cn,索尼, Xperia 10 VII Global
+sony,XQ-FE72,cn,索尼, Xperia 10 VII Asia Pacific
+sony,A502SO,cn,索尼, Xperia 10 VII Japan (SoftBank)
+sony,SO-52F,cn,索尼, Xperia 10 VII Japan (NTT Docomo)
+sony,SOG16,cn,索尼, Xperia 10 VII Japan (KDDI)
+sony,SGP712,cn,索尼, Xperia Z4 Tablet Wi-Fi
+sony,SGP771,cn,索尼, Xperia Z4 Tablet LTE
+sony,SO-05G,cn,索尼, Xperia Z4 Tablet LTE Japan (NTT Docomo)
+sony,SOT31,cn,索尼, Xperia Z4 Tablet LTE Japan (KDDI)
 apple,A1203,cn,苹果, iPhone
 apple,A1241,cn,苹果, iPhone 3G
 apple,A1324,cn,苹果, iPhone 3G (中国大陆)
@@ -4397,6 +4704,181 @@ mitv,MDZ-28-AA,en,小米电视, Xiaomi TV Box / Xiaomi TV Box S (2nd Gen)
 mitv,MDZ-24-AA,en,小米电视, Mi TV Stick
 mitv,MDZ-24-AB,en,小米电视, Mi TV Stick
 mitv,MDZ-27-AA,en,小米电视, Xiaomi TV Stick 4K
+lenovo,XT2081-4,cn,联想, 联想乐檬 K12
+lenovo,XT2091-7,cn,联想, 联想乐檬 K12 Pro
+lenovo,Z1221,cn,联想, ZUK Z1
+lenovo,Z2131,cn,联想, ZUK Z2
+lenovo,Z2121,cn,联想, ZUK Z2 Pro
+lenovo,Z2122,cn,联想, ZUK Z2 Pro
+lenovo,Z2151,cn,联想, ZUK Edge
+lenovo,Lenovo,cn,联想, 小新平板 8 英寸
+lenovo,TB-8804F,cn,联想, 小新平板 8 英寸
+lenovo,Lenovo,cn,联想, 小新平板 10 英寸
+lenovo,TB-X804F,cn,联想, 小新平板 10 英寸
+lenovo,Lenovo,cn,联想, 小新 Pad
+lenovo,TB-J606F,cn,联想, 小新 Pad
+lenovo,TB128FU,cn,联想, 小新 Pad 2022
+lenovo,TB331FC,cn,联想, 小新 Pad 2024
+lenovo,TB335FC,cn,联想, 小新平板 11
+lenovo,TB335ZC,cn,联想, 小新平板 11 5G
+lenovo,TB365FC,cn,联想, 小新平板 12.1
+lenovo,Lenovo,cn,联想, 小新 Pad Plus
+lenovo,TB-J607F,cn,联想, 小新 Pad Plus
+lenovo,Lenovo,cn,联想, 小新 Pad Plus 5G
+lenovo,TB-J607Z,cn,联想, 小新 Pad Plus 5G
+lenovo,TB350FU,cn,联想, 小新 Pad Plus 2023
+lenovo,TB350XC,cn,联想, 小新 Pad Plus 2023
+lenovo,TB372FC,cn,联想, 小新 Pad Plus 12.7 舒视版
+lenovo,Lenovo,cn,联想, 小新 Pad Pro (2020)
+lenovo,TB-J706F,cn,联想, 小新 Pad Pro (2020)
+lenovo,Lenovo,cn,联想, 小新 Pad Pro 2021
+lenovo,TB-J716F,cn,联想, 小新 Pad Pro 2021
+lenovo,Lenovo,cn,联想, 小新 Pad Pro 12.6
+lenovo,TB-Q706F,cn,联想, 小新 Pad Pro 12.6
+lenovo,TB138FC,cn,联想, 小新 Pad Pro 2022 骁龙版
+lenovo,TB132FU,cn,联想, 小新 Pad Pro 2022 迅鲲版
+lenovo,TB371FC,cn,联想, 小新 Pad Pro 12.7 骁龙版
+lenovo,TB370FU,cn,联想, 小新 Pad Pro 12.7 天玑版
+lenovo,TB375FC,cn,联想, 小新 Pad Pro 12.7 2025
+lenovo,TB710FU,cn,联想, 小新平板 Pro GT
+lenovo,TB351FU,cn,联想, 小新 Pad Studio
+lenovo,TB372FC,cn,联想, 小新学习平板 12.7
+lenovo,Lenovo,cn,联想, YOGA Tab 3 8” Wi-Fi 版
+lenovo,YT3-850F,cn,联想, YOGA Tab 3 8” Wi-Fi 版
+lenovo,Lenovo,cn,联想, YOGA Tab 3 8” LTE 版
+lenovo,YT3-850L,cn,联想, YOGA Tab 3 8” LTE 版
+lenovo,Lenovo,cn,联想, YOGA Tab 3 10” Wi-Fi 版
+lenovo,YT3-X50F,cn,联想, YOGA Tab 3 10” Wi-Fi 版
+lenovo,Lenovo,cn,联想, YOGA Tab 3 10” LTE 版
+lenovo,YT3-X50L,cn,联想, YOGA Tab 3 10” LTE 版
+lenovo,Lenovo,cn,联想, YOGA Tab 3 Plus Wi-Fi 版
+lenovo,YT-X703F,cn,联想, YOGA Tab 3 Plus Wi-Fi 版
+lenovo,Lenovo,cn,联想, YOGA Tab 3 Plus LTE 版
+lenovo,YT-X703L,cn,联想, YOGA Tab 3 Plus LTE 版
+lenovo,Lenovo,cn,联想, YOGA Tab 3 PRO 10” Wi-Fi 版
+lenovo,YT3-X90F,cn,联想, YOGA Tab 3 PRO 10” Wi-Fi 版
+lenovo,Lenovo,cn,联想, YOGA Tab 3 PRO 10” LTE 版
+lenovo,YT3-X90L,cn,联想, YOGA Tab 3 PRO 10” LTE 版
+lenovo,Lenovo,cn,联想, YOGA Pad Pro
+lenovo,YT-K606F,cn,联想, YOGA Pad Pro
+lenovo,TB520FU,cn,联想, YOGA Pad Pro 12.7 / YOGA Pad Pro AI 元启版
+lenovo,TB571FU,cn,联想, YOGA Pad Pro 14.5 AI 元启版
+lenovo,SP101FU,cn,联想, YOGA Paper 墨水平板
+lenovo,Lenovo,cn,联想, 拯救者平板 Y700 (2022)
+lenovo,TB-9707F,cn,联想, 拯救者平板 Y700 (2022)
+lenovo,TB320FC,cn,联想, 拯救者平板 Y700 2023
+lenovo,TB321FU,cn,联想, 拯救者平板 Y700 2025
+lenovo,TB322FC,cn,联想, 拯救者平板 Y700 四代
+lenovo,TB570FU,cn,联想, 拯救者平板 Y900
+lenovo,TB570ZU,cn,联想, 拯救者平板 Y900
+lenovo,Lenovo,cn,联想, 联想天骄平板电脑
+lenovo,TB-J616F,cn,联想, 联想天骄平板电脑
+lenovo,TB-J616N,cn,联想, 联想天骄平板电脑
+lenovo,Lenovo,cn,联想, 联想 TAB4 8 英寸 Wi-Fi 版
+lenovo,TB-8504F,cn,联想, 联想 TAB4 8 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 TAB4 8 英寸 LTE 版
+lenovo,TB-8504N,cn,联想, 联想 TAB4 8 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想 TAB4 8 英寸 REL
+lenovo,TB-8604F,cn,联想, 联想 TAB4 8 英寸 REL
+lenovo,TB-8X04F,cn,联想, 联想 TAB4 8 英寸 REL
+lenovo,Lenovo,cn,联想, 联想 TAB4 10.1 英寸 Wi-Fi 版
+lenovo,TB-X304F,cn,联想, 联想 TAB4 10.1 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 TAB4 10.1 英寸 LTE 版
+lenovo,TB-X304N,cn,联想, 联想 TAB4 10.1 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想 TAB4 10.1 英寸 REL
+lenovo,TB-X504F,cn,联想, 联想 TAB4 10.1 英寸 REL
+lenovo,Lenovo,cn,联想, 联想 TAB4 Plus 8 英寸 Wi-Fi 版
+lenovo,TB-8704F,cn,联想, 联想 TAB4 Plus 8 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 TAB4 Plus 8 英寸 LTE 版
+lenovo,TB-8704N,cn,联想, 联想 TAB4 Plus 8 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想 TAB4 Plus 10.1 英寸 Wi-Fi 版
+lenovo,TB-X704F,cn,联想, 联想 TAB4 Plus 10.1 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 TAB4 Plus 10.1 英寸 LTE 版
+lenovo,TB-X704N,cn,联想, 联想 TAB4 Plus 10.1 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想 M8 8 英寸 Wi-Fi 版
+lenovo,TB-8705F,cn,联想, 联想 M8 8 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 M8 8 英寸 LTE 版
+lenovo,TB-8705N,cn,联想, 联想 M8 8 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想 M8 8 英寸 Wi-Fi 版 (商用)
+lenovo,TB-8505F,cn,联想, 联想 M8 8 英寸 Wi-Fi 版 (商用)
+lenovo,Lenovo,cn,联想, 联想 M8 8 英寸 LTE 版 (商用)
+lenovo,TB-8505N,cn,联想, 联想 M8 8 英寸 LTE 版 (商用)
+lenovo,Lenovo,cn,联想, 联想 M10 HD 10.1 英寸 Wi-Fi 版
+lenovo,TB-X306FC,cn,联想, 联想 M10 HD 10.1 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 M10 HD 10.1 英寸 LTE 版
+lenovo,TB-X306NC,cn,联想, 联想 M10 HD 10.1 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想 M10 FHD-REL 10.1 英寸 Wi-Fi 版
+lenovo,TB-X605FC,cn,联想, 联想 M10 FHD-REL 10.1 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 M10 FHD-REL 10.1 英寸 LTE 版
+lenovo,TB-X605LC,cn,联想, 联想 M10 FHD-REL 10.1 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想 M10 PLUS 10.3 英寸 Wi-Fi 版
+lenovo,TB-X606F,cn,联想, 联想 M10 PLUS 10.3 英寸 Wi-Fi 版
+lenovo,TB-X616F,cn,联想, 联想 M10 PLUS 10.3 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 M10 PLUS 10.3 英寸 LTE 版
+lenovo,TB-X606M,cn,联想, 联想 M10 PLUS 10.3 英寸 LTE 版
+lenovo,TB-X616M,cn,联想, 联想 M10 PLUS 10.3 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想启天 K8 8 英寸 Wi-Fi 版
+lenovo,TB-8506F,cn,联想, 联想启天 K8 8 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想启天 K8 8 英寸 LTE 版
+lenovo,TB-8506N,cn,联想, 联想启天 K8 8 英寸 LTE 版
+lenovo,TB310FU,cn,联想, 联想启天 K9 9 英寸 Wi-Fi 版
+lenovo,TB310XC,cn,联想, 联想启天 K9 9 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想启天 K10 10.3 英寸 Wi-Fi 版
+lenovo,TB-X6C6F,cn,联想, 联想启天 K10 10.3 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想启天 K10 10.3 英寸 无电池版本
+lenovo,TB-X6C6NBF,cn,联想, 联想启天 K10 10.3 英寸 无电池版本
+lenovo,Lenovo,cn,联想, 联想启天 K10 10.3 英寸 LTE 版
+lenovo,TB-X6C6X,cn,联想, 联想启天 K10 10.3 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想启天 K10c 10.3 英寸 Wi-Fi 版
+lenovo,TB-X6E6F,cn,联想, 联想启天 K10c 10.3 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想启天 K10c 10.3 英寸 LTE 版
+lenovo,TB-X6E6N,cn,联想, 联想启天 K10c 10.3 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想启天 E10c 10.3 英寸 Wi-Fi 版
+lenovo,TB-X6E6FC,cn,联想, 联想启天 E10c 10.3 英寸 Wi-Fi 版
+lenovo,TB223FC,cn,联想, 联想启天 K10 Pro 10.61 英寸 Wi-Fi 版
+lenovo,TB128FU,cn,联想, 联想启天 K10 Pro 10.61 英寸 Wi-Fi 版
+lenovo,TB360ZU,cn,联想, 联想启天 K10 Pro 10.61 英寸 5G 版
+lenovo,Lenovo,cn,联想, 联想启天 K11 11 英寸 Wi-Fi 版
+lenovo,TB-J6C6F,cn,联想, 联想启天 K11 11 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想启天 K11 11 英寸 LTE 版
+lenovo,TB-J6C6X,cn,联想, 联想启天 K11 11 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想启天 K11 Pro 11 英寸 Wi-Fi 版
+lenovo,TB-J607F,cn,联想, 联想启天 K11 Pro 11 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想启天 K11 Pro 11 英寸 5G 版
+lenovo,TB-J607Z,cn,联想, 联想启天 K11 Pro 11 英寸 5G 版
+lenovo,TB230FC,cn,联想, 联想启天 K11 Gen2 11.5 英寸 Wi-Fi 版
+lenovo,TB230XC,cn,联想, 联想启天 K11 Gen2 11.5 英寸 LTE 版
+lenovo,TB240FC,cn,联想, 联想启天 K12 12.7 英寸 Wi-Fi 版
+lenovo,SP523FC,cn,联想, 联想启天 SmartPaper 10.3 英寸 Wi-Fi 版
+lenovo,TB310FU,cn,联想, 联想昭阳 K9 9 英寸 Wi-Fi 版
+lenovo,TB310XC,cn,联想, 联想昭阳 K9 9 英寸 LTE 版
+lenovo,TB305FU,cn,联想, 联想昭阳 K9 (二代) 8.7 英寸 Wi-Fi 版
+lenovo,TB305XC,cn,联想, 联想昭阳 K9 (二代) 8.7 英寸 LTE 版
+lenovo,TB330FU,cn,联想, 联想昭阳 K10 10.95 英寸 Wi-Fi 版
+lenovo,TB330XC,cn,联想, 联想昭阳 K10 10.95 英寸 LTE 版
+lenovo,TB360ZU,cn,联想, 联想昭阳 K10 10.61 英寸 5G 版
+lenovo,TB311FU,cn,联想, 联想昭阳 K10c 10.1 英寸 Wi-Fi 版
+lenovo,TB311XC,cn,联想, 联想昭阳 K10c 10.1 英寸 LTE 版
+lenovo,TB352FC,cn,联想, 联想昭阳 K11 11.5 英寸 Wi-Fi 版
+lenovo,TB352XC,cn,联想, 联想昭阳 K11 11.5 英寸 LTE 版
+lenovo,TB336FU,cn,联想, 联想昭阳 K11 (二代) 11 英寸 Wi-Fi 版
+lenovo,TB336ZC,cn,联想, 联想昭阳 K11 (二代) 11 英寸 5G 版
+lenovo,TB337FU,cn,联想, 联想昭阳 K11c 10.95 英寸 Wi-Fi 版
+lenovo,TB240FC,cn,联想, 联想昭阳 K12 12.7 英寸 Wi-Fi 版
+lenovo,TB373FU,cn,联想, 联想昭阳 K12 (二代) 12.7 英寸 Wi-Fi 版
+lenovo,TB373ZC,cn,联想, 联想昭阳 K12 (二代) 12.7 英寸 5G 版
+lenovo,TB361FU,cn,联想, 联想昭阳 K12c 12.1 英寸 Wi-Fi 版
+lenovo,TB361ZU,cn,联想, 联想昭阳 K12c 12.1 英寸 5G 版
+lenovo,TB-X802F,cn,联想, 联想昭阳 G11 10.95 英寸 Wi-Fi 版
+lenovo,TB-X903F,cn,联想, 联想昭阳 G12 11.5 英寸 Wi-Fi 版
+lenovo,TBY11,cn,联想, 联想昭阳 Y11 10.95 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想平板电脑 K11 11 英寸 Wi-Fi 版
+lenovo,TB-J606F,cn,联想, 联想平板电脑 K11 11 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想平板电脑 K11 11 英寸 LTE 版
+lenovo,TB-J606N,cn,联想, 联想平板电脑 K11 11 英寸 LTE 版
+lenovo,QBH10,cn,联想, 联想平板电脑 S11 10.95 英寸 Wi-Fi 版
+lenovo,QBH11,cn,联想, 联想平板电脑 S11 Pro 11.5 英寸 Wi-Fi 版
+lenovo,TB610FU,cn,联想, ThinkBook Plus Hybrid 2024 (平板)
 vivo,V1930,en,VIVO, vivo X50e 5G
 vivo,V1937,en,VIVO, vivo X50 Lite
 vivo,V2006,en,VIVO, vivo X51 5G
@@ -5196,7 +5678,82 @@ letv,L6B,cn,乐视, Letv Y1 Pro+
 letv,L7,cn,乐视, Letv Y2 Pro
 letv,L8,cn,乐视, Letv S1 Pro 5G
 letv,L9,cn,乐视, Letv S3 Pro
-sony,E6683,cn,索尼, Xperia Z5 dual
+xiaomi,M1903F2A,cn,小米, 小米 9 SE
+xiaomi,M2001J2E,cn,小米, 小米 10
+xiaomi,M2001J2C,cn,小米, 小米 10
+xiaomi,M2001J1E,cn,小米, 小米 10 Pro
+xiaomi,M2001J1C,cn,小米, 小米 10 Pro
+xiaomi,M2002J9E,cn,小米, 小米 10 青春版
+xiaomi,M2011K2C,cn,小米, 小米 11
+xiaomi,M2102K1C,cn,小米, 小米 11 Ultra
+xiaomi,M2101K9C,cn,小米, 小米 11 青春版
+xiaomi,2107119DC,cn,小米, Xiaomi 11 青春活力版
+xiaomi,2201123C,cn,小米, Xiaomi 12
+xiaomi,2112123AC,cn,小米, Xiaomi 12X
+xiaomi,2201122C,cn,小米, Xiaomi 12 Pro
+xiaomi,2211133C,cn,小米, Xiaomi 13
+xiaomi,2210132C,cn,小米, Xiaomi 13 Pro
+xiaomi,2304FPN6DC,cn,小米, Xiaomi 13 Ultra
+xiaomi,23127PN0CC,cn,小米, Xiaomi 14
+xiaomi,24031PN0DC,cn,小米, Xiaomi 14 Ultra
+xiaomi,24129PN74C,cn,小米, Xiaomi 15
+xiaomi,25019PNF3C,cn,小米, Xiaomi 15 Ultra
+xiaomi,25010PN30C,cn,小米, Xiaomi 15 Ultra 双卫星版
+xiaomi,25113PN0EC,cn,小米, Xiaomi 17
+xiaomi,M1810E5E,cn,小米, 小米 MIX 3
+xiaomi,2405CPX3DC,cn,小米, Xiaomi MIX Flip
+xiaomi,2505APX7BC,cn,小米, Xiaomi MIX Flip 2
+xiaomi,21051182C,cn,小米, 小米平板 5
+xiaomi,23043RP34C,cn,小米, Xiaomi Pad 6
+xiaomi,24018RPACC,cn,小米, Xiaomi Pad 6S Pro 12.4
+xiaomi,2410CRP4CC,cn,小米, Xiaomi Pad 7
+xiaomi,24091RPADC,cn,小米, Xiaomi Pad 7 Pro
+xiaomi,25097RP43C,cn,小米, Xiaomi Pad 8
+xiaomi,25091RP04C,cn,小米, Xiaomi Pad 8 Pro
+xiaomi,2016030,cn,小米, 红米 3S
+xiaomi,M1908C3KE,cn,小米, Redmi 8A
+xiaomi,M2004J19C,cn,小米, Redmi 9
+xiaomi,M2006C3LC,cn,小米, Redmi 9A
+xiaomi,220233L2C,cn,小米, Redmi 10A
+xiaomi,23077RABDC,cn,小米, Redmi 12 5G
+xiaomi,22120RN86C,cn,小米, Redmi 12C
+xiaomi,23124RN87C,cn,小米, Redmi 13C 5G / Redmi 13R 5G
+xiaomi,2409BRN2CC,cn,小米, Redmi 14C
+xiaomi,2411DRN47C,cn,小米, Redmi 14R 5G
+xiaomi,2508CRN2BC,cn,小米, REDMI 15C 5G
+xiaomi,2015112,cn,小米, 红米 Note 3
+xiaomi,2015115,cn,小米, 红米 Note 3
+xiaomi,M1901F7BE,cn,小米, Redmi Note 7 Pro
+xiaomi,M2010J19SC,cn,小米, Redmi Note 9 4G
+xiaomi,M2007J22C,cn,小米, Redmi Note 9 5G
+xiaomi,M2007J17C,cn,小米, Redmi Note 9 Pro 5G
+xiaomi,M2103K19C,cn,小米, Redmi Note 10 5G / Redmi Note 11SE
+xiaomi,M2104K10AC,cn,小米, Redmi Note 10 Pro
+xiaomi,21121119SC,cn,小米, Redmi Note 11 4G
+xiaomi,21091116AC,cn,小米, Redmi Note 11 5G
+xiaomi,21091116C,cn,小米, Redmi Note 11 Pro
+xiaomi,2201116SC,cn,小米, Redmi Note 11E Pro
+xiaomi,21091116UC,cn,小米, Redmi Note 11 Pro+
+xiaomi,22101317C,cn,小米, Redmi Note 12 5G / Redmi Note 12R Pro
+xiaomi,22101316C,cn,小米, Redmi Note 12 Pro
+xiaomi,22101316UCP,cn,小米, Redmi Note 12 Pro+
+xiaomi,2312DRAABC,cn,小米, Redmi Note 13 5G
+xiaomi,2312DRA50C,cn,小米, Redmi Note 13 Pro (LPDDR4x + UFS 2.2)
+xiaomi,2312CRAD3C,cn,小米, Redmi Note 13 Pro (LPDDR5 + UFS 3.1)
+xiaomi,23090RA98C,cn,小米, Redmi Note 13 Pro+
+xiaomi,24094RAD4C,cn,小米, Redmi Note 14 5G
+xiaomi,24090RA29C,cn,小米, Redmi Note 14 Pro
+xiaomi,24115RA8EC,cn,小米, Redmi Note 14 Pro+
+xiaomi,25098RA98C,cn,小米, REDMI Note 15
+xiaomi,25080RABDC,cn,小米, REDMI Note 15 Pro
+xiaomi,2510ERA8BC,cn,小米, REDMI Note 15 Pro+
+xiaomi,22081283C,cn,小米, Redmi Pad
+xiaomi,23073RPBFC,cn,小米, Redmi Pad SE
+xiaomi,2405CRPFDC,cn,小米, Redmi Pad Pro Wi-Fi
+xiaomi,24074RPD2C,cn,小米, Redmi Pad Pro 5G
+xiaomi,25040RP0AC,cn,小米, REDMI Pad 2
+xiaomi,25099RP13C,cn,小米, REDMI Pad 2 Pro
+xiaomi,2509BRP2DC,cn,小米, REDMI Pad 2 Pro 5G
 sony,E6883,cn,索尼, Xperia Z5 Premium
 sony,F8332,cn,索尼, Xperia XZ
 sony,G8142,cn,索尼, Xperia XZ Premium
@@ -5207,6 +5764,7 @@ sony,H4233,cn,索尼, Xperia XA2 Ultra
 sony,H8296,cn,索尼, Xperia XZ2
 sony,H8166,cn,索尼, Xperia XZ2 Premium
 sony,H9493,cn,索尼, Xperia XZ3
+sony,G8441,cn,索尼, Xperia XZ1 Compact
 sony,J9110,cn,索尼, Xperia 1
 sony,J9180,cn,索尼, Xperia 1 Professional Editon
 sony,J9210,cn,索尼, Xperia 5
@@ -5223,181 +5781,6 @@ sony,XQ-DE72,cn,索尼, Xperia 5 V
 sony,XQ-DC72,cn,索尼, Xperia 10 V
 sony,XQ-EC72,cn,索尼, Xperia 1 VI
 sony,XQ-ES72,cn,索尼, Xperia 10 VI
-lenovo,XT2081-4,cn,联想, 联想乐檬 K12
-lenovo,XT2091-7,cn,联想, 联想乐檬 K12 Pro
-lenovo,Z1221,cn,联想, ZUK Z1
-lenovo,Z2131,cn,联想, ZUK Z2
-lenovo,Z2121,cn,联想, ZUK Z2 Pro
-lenovo,Z2122,cn,联想, ZUK Z2 Pro
-lenovo,Z2151,cn,联想, ZUK Edge
-lenovo,Lenovo,cn,联想, 小新平板 8 英寸
-lenovo,TB-8804F,cn,联想, 小新平板 8 英寸
-lenovo,Lenovo,cn,联想, 小新平板 10 英寸
-lenovo,TB-X804F,cn,联想, 小新平板 10 英寸
-lenovo,Lenovo,cn,联想, 小新 Pad
-lenovo,TB-J606F,cn,联想, 小新 Pad
-lenovo,TB128FU,cn,联想, 小新 Pad 2022
-lenovo,TB331FC,cn,联想, 小新 Pad 2024
-lenovo,TB335FC,cn,联想, 小新平板 11
-lenovo,TB335ZC,cn,联想, 小新平板 11 5G
-lenovo,TB365FC,cn,联想, 小新平板 12.1
-lenovo,Lenovo,cn,联想, 小新 Pad Plus
-lenovo,TB-J607F,cn,联想, 小新 Pad Plus
-lenovo,Lenovo,cn,联想, 小新 Pad Plus 5G
-lenovo,TB-J607Z,cn,联想, 小新 Pad Plus 5G
-lenovo,TB350FU,cn,联想, 小新 Pad Plus 2023
-lenovo,TB350XC,cn,联想, 小新 Pad Plus 2023
-lenovo,TB372FC,cn,联想, 小新 Pad Plus 12.7 舒视版
-lenovo,Lenovo,cn,联想, 小新 Pad Pro (2020)
-lenovo,TB-J706F,cn,联想, 小新 Pad Pro (2020)
-lenovo,Lenovo,cn,联想, 小新 Pad Pro 2021
-lenovo,TB-J716F,cn,联想, 小新 Pad Pro 2021
-lenovo,Lenovo,cn,联想, 小新 Pad Pro 12.6
-lenovo,TB-Q706F,cn,联想, 小新 Pad Pro 12.6
-lenovo,TB138FC,cn,联想, 小新 Pad Pro 2022 骁龙版
-lenovo,TB132FU,cn,联想, 小新 Pad Pro 2022 迅鲲版
-lenovo,TB371FC,cn,联想, 小新 Pad Pro 12.7 骁龙版
-lenovo,TB370FU,cn,联想, 小新 Pad Pro 12.7 天玑版
-lenovo,TB375FC,cn,联想, 小新 Pad Pro 12.7 2025
-lenovo,TB710FU,cn,联想, 小新平板 Pro GT
-lenovo,TB351FU,cn,联想, 小新 Pad Studio
-lenovo,TB372FC,cn,联想, 小新学习平板 12.7
-lenovo,Lenovo,cn,联想, YOGA Tab 3 8” Wi-Fi 版
-lenovo,YT3-850F,cn,联想, YOGA Tab 3 8” Wi-Fi 版
-lenovo,Lenovo,cn,联想, YOGA Tab 3 8” LTE 版
-lenovo,YT3-850L,cn,联想, YOGA Tab 3 8” LTE 版
-lenovo,Lenovo,cn,联想, YOGA Tab 3 10” Wi-Fi 版
-lenovo,YT3-X50F,cn,联想, YOGA Tab 3 10” Wi-Fi 版
-lenovo,Lenovo,cn,联想, YOGA Tab 3 10” LTE 版
-lenovo,YT3-X50L,cn,联想, YOGA Tab 3 10” LTE 版
-lenovo,Lenovo,cn,联想, YOGA Tab 3 Plus Wi-Fi 版
-lenovo,YT-X703F,cn,联想, YOGA Tab 3 Plus Wi-Fi 版
-lenovo,Lenovo,cn,联想, YOGA Tab 3 Plus LTE 版
-lenovo,YT-X703L,cn,联想, YOGA Tab 3 Plus LTE 版
-lenovo,Lenovo,cn,联想, YOGA Tab 3 PRO 10” Wi-Fi 版
-lenovo,YT3-X90F,cn,联想, YOGA Tab 3 PRO 10” Wi-Fi 版
-lenovo,Lenovo,cn,联想, YOGA Tab 3 PRO 10” LTE 版
-lenovo,YT3-X90L,cn,联想, YOGA Tab 3 PRO 10” LTE 版
-lenovo,Lenovo,cn,联想, YOGA Pad Pro
-lenovo,YT-K606F,cn,联想, YOGA Pad Pro
-lenovo,TB520FU,cn,联想, YOGA Pad Pro 12.7 / YOGA Pad Pro AI 元启版
-lenovo,TB571FU,cn,联想, YOGA Pad Pro 14.5 AI 元启版
-lenovo,SP101FU,cn,联想, YOGA Paper 墨水平板
-lenovo,Lenovo,cn,联想, 拯救者平板 Y700 (2022)
-lenovo,TB-9707F,cn,联想, 拯救者平板 Y700 (2022)
-lenovo,TB320FC,cn,联想, 拯救者平板 Y700 2023
-lenovo,TB321FU,cn,联想, 拯救者平板 Y700 2025
-lenovo,TB322FC,cn,联想, 拯救者平板 Y700 四代
-lenovo,TB570FU,cn,联想, 拯救者平板 Y900
-lenovo,TB570ZU,cn,联想, 拯救者平板 Y900
-lenovo,Lenovo,cn,联想, 联想天骄平板电脑
-lenovo,TB-J616F,cn,联想, 联想天骄平板电脑
-lenovo,TB-J616N,cn,联想, 联想天骄平板电脑
-lenovo,Lenovo,cn,联想, 联想 TAB4 8 英寸 Wi-Fi 版
-lenovo,TB-8504F,cn,联想, 联想 TAB4 8 英寸 Wi-Fi 版
-lenovo,Lenovo,cn,联想, 联想 TAB4 8 英寸 LTE 版
-lenovo,TB-8504N,cn,联想, 联想 TAB4 8 英寸 LTE 版
-lenovo,Lenovo,cn,联想, 联想 TAB4 8 英寸 REL
-lenovo,TB-8604F,cn,联想, 联想 TAB4 8 英寸 REL
-lenovo,TB-8X04F,cn,联想, 联想 TAB4 8 英寸 REL
-lenovo,Lenovo,cn,联想, 联想 TAB4 10.1 英寸 Wi-Fi 版
-lenovo,TB-X304F,cn,联想, 联想 TAB4 10.1 英寸 Wi-Fi 版
-lenovo,Lenovo,cn,联想, 联想 TAB4 10.1 英寸 LTE 版
-lenovo,TB-X304N,cn,联想, 联想 TAB4 10.1 英寸 LTE 版
-lenovo,Lenovo,cn,联想, 联想 TAB4 10.1 英寸 REL
-lenovo,TB-X504F,cn,联想, 联想 TAB4 10.1 英寸 REL
-lenovo,Lenovo,cn,联想, 联想 TAB4 Plus 8 英寸 Wi-Fi 版
-lenovo,TB-8704F,cn,联想, 联想 TAB4 Plus 8 英寸 Wi-Fi 版
-lenovo,Lenovo,cn,联想, 联想 TAB4 Plus 8 英寸 LTE 版
-lenovo,TB-8704N,cn,联想, 联想 TAB4 Plus 8 英寸 LTE 版
-lenovo,Lenovo,cn,联想, 联想 TAB4 Plus 10.1 英寸 Wi-Fi 版
-lenovo,TB-X704F,cn,联想, 联想 TAB4 Plus 10.1 英寸 Wi-Fi 版
-lenovo,Lenovo,cn,联想, 联想 TAB4 Plus 10.1 英寸 LTE 版
-lenovo,TB-X704N,cn,联想, 联想 TAB4 Plus 10.1 英寸 LTE 版
-lenovo,Lenovo,cn,联想, 联想 M8 8 英寸 Wi-Fi 版
-lenovo,TB-8705F,cn,联想, 联想 M8 8 英寸 Wi-Fi 版
-lenovo,Lenovo,cn,联想, 联想 M8 8 英寸 LTE 版
-lenovo,TB-8705N,cn,联想, 联想 M8 8 英寸 LTE 版
-lenovo,Lenovo,cn,联想, 联想 M8 8 英寸 Wi-Fi 版 (商用)
-lenovo,TB-8505F,cn,联想, 联想 M8 8 英寸 Wi-Fi 版 (商用)
-lenovo,Lenovo,cn,联想, 联想 M8 8 英寸 LTE 版 (商用)
-lenovo,TB-8505N,cn,联想, 联想 M8 8 英寸 LTE 版 (商用)
-lenovo,Lenovo,cn,联想, 联想 M10 HD 10.1 英寸 Wi-Fi 版
-lenovo,TB-X306FC,cn,联想, 联想 M10 HD 10.1 英寸 Wi-Fi 版
-lenovo,Lenovo,cn,联想, 联想 M10 HD 10.1 英寸 LTE 版
-lenovo,TB-X306NC,cn,联想, 联想 M10 HD 10.1 英寸 LTE 版
-lenovo,Lenovo,cn,联想, 联想 M10 FHD-REL 10.1 英寸 Wi-Fi 版
-lenovo,TB-X605FC,cn,联想, 联想 M10 FHD-REL 10.1 英寸 Wi-Fi 版
-lenovo,Lenovo,cn,联想, 联想 M10 FHD-REL 10.1 英寸 LTE 版
-lenovo,TB-X605LC,cn,联想, 联想 M10 FHD-REL 10.1 英寸 LTE 版
-lenovo,Lenovo,cn,联想, 联想 M10 PLUS 10.3 英寸 Wi-Fi 版
-lenovo,TB-X606F,cn,联想, 联想 M10 PLUS 10.3 英寸 Wi-Fi 版
-lenovo,TB-X616F,cn,联想, 联想 M10 PLUS 10.3 英寸 Wi-Fi 版
-lenovo,Lenovo,cn,联想, 联想 M10 PLUS 10.3 英寸 LTE 版
-lenovo,TB-X606M,cn,联想, 联想 M10 PLUS 10.3 英寸 LTE 版
-lenovo,TB-X616M,cn,联想, 联想 M10 PLUS 10.3 英寸 LTE 版
-lenovo,Lenovo,cn,联想, 联想启天 K8 8 英寸 Wi-Fi 版
-lenovo,TB-8506F,cn,联想, 联想启天 K8 8 英寸 Wi-Fi 版
-lenovo,Lenovo,cn,联想, 联想启天 K8 8 英寸 LTE 版
-lenovo,TB-8506N,cn,联想, 联想启天 K8 8 英寸 LTE 版
-lenovo,TB310FU,cn,联想, 联想启天 K9 9 英寸 Wi-Fi 版
-lenovo,TB310XC,cn,联想, 联想启天 K9 9 英寸 LTE 版
-lenovo,Lenovo,cn,联想, 联想启天 K10 10.3 英寸 Wi-Fi 版
-lenovo,TB-X6C6F,cn,联想, 联想启天 K10 10.3 英寸 Wi-Fi 版
-lenovo,Lenovo,cn,联想, 联想启天 K10 10.3 英寸 无电池版本
-lenovo,TB-X6C6NBF,cn,联想, 联想启天 K10 10.3 英寸 无电池版本
-lenovo,Lenovo,cn,联想, 联想启天 K10 10.3 英寸 LTE 版
-lenovo,TB-X6C6X,cn,联想, 联想启天 K10 10.3 英寸 LTE 版
-lenovo,Lenovo,cn,联想, 联想启天 K10c 10.3 英寸 Wi-Fi 版
-lenovo,TB-X6E6F,cn,联想, 联想启天 K10c 10.3 英寸 Wi-Fi 版
-lenovo,Lenovo,cn,联想, 联想启天 K10c 10.3 英寸 LTE 版
-lenovo,TB-X6E6N,cn,联想, 联想启天 K10c 10.3 英寸 LTE 版
-lenovo,Lenovo,cn,联想, 联想启天 E10c 10.3 英寸 Wi-Fi 版
-lenovo,TB-X6E6FC,cn,联想, 联想启天 E10c 10.3 英寸 Wi-Fi 版
-lenovo,TB223FC,cn,联想, 联想启天 K10 Pro 10.61 英寸 Wi-Fi 版
-lenovo,TB128FU,cn,联想, 联想启天 K10 Pro 10.61 英寸 Wi-Fi 版
-lenovo,TB360ZU,cn,联想, 联想启天 K10 Pro 10.61 英寸 5G 版
-lenovo,Lenovo,cn,联想, 联想启天 K11 11 英寸 Wi-Fi 版
-lenovo,TB-J6C6F,cn,联想, 联想启天 K11 11 英寸 Wi-Fi 版
-lenovo,Lenovo,cn,联想, 联想启天 K11 11 英寸 LTE 版
-lenovo,TB-J6C6X,cn,联想, 联想启天 K11 11 英寸 LTE 版
-lenovo,Lenovo,cn,联想, 联想启天 K11 Pro 11 英寸 Wi-Fi 版
-lenovo,TB-J607F,cn,联想, 联想启天 K11 Pro 11 英寸 Wi-Fi 版
-lenovo,Lenovo,cn,联想, 联想启天 K11 Pro 11 英寸 5G 版
-lenovo,TB-J607Z,cn,联想, 联想启天 K11 Pro 11 英寸 5G 版
-lenovo,TB230FC,cn,联想, 联想启天 K11 Gen2 11.5 英寸 Wi-Fi 版
-lenovo,TB230XC,cn,联想, 联想启天 K11 Gen2 11.5 英寸 LTE 版
-lenovo,TB240FC,cn,联想, 联想启天 K12 12.7 英寸 Wi-Fi 版
-lenovo,SP523FC,cn,联想, 联想启天 SmartPaper 10.3 英寸 Wi-Fi 版
-lenovo,TB310FU,cn,联想, 联想昭阳 K9 9 英寸 Wi-Fi 版
-lenovo,TB310XC,cn,联想, 联想昭阳 K9 9 英寸 LTE 版
-lenovo,TB305FU,cn,联想, 联想昭阳 K9 (二代) 8.7 英寸 Wi-Fi 版
-lenovo,TB305XC,cn,联想, 联想昭阳 K9 (二代) 8.7 英寸 LTE 版
-lenovo,TB330FU,cn,联想, 联想昭阳 K10 10.95 英寸 Wi-Fi 版
-lenovo,TB330XC,cn,联想, 联想昭阳 K10 10.95 英寸 LTE 版
-lenovo,TB360ZU,cn,联想, 联想昭阳 K10 10.61 英寸 5G 版
-lenovo,TB311FU,cn,联想, 联想昭阳 K10c 10.1 英寸 Wi-Fi 版
-lenovo,TB311XC,cn,联想, 联想昭阳 K10c 10.1 英寸 LTE 版
-lenovo,TB352FC,cn,联想, 联想昭阳 K11 11.5 英寸 Wi-Fi 版
-lenovo,TB352XC,cn,联想, 联想昭阳 K11 11.5 英寸 LTE 版
-lenovo,TB336FU,cn,联想, 联想昭阳 K11 (二代) 11 英寸 Wi-Fi 版
-lenovo,TB336ZC,cn,联想, 联想昭阳 K11 (二代) 11 英寸 5G 版
-lenovo,TB337FU,cn,联想, 联想昭阳 K11c 10.95 英寸 Wi-Fi 版
-lenovo,TB240FC,cn,联想, 联想昭阳 K12 12.7 英寸 Wi-Fi 版
-lenovo,TB373FU,cn,联想, 联想昭阳 K12 (二代) 12.7 英寸 Wi-Fi 版
-lenovo,TB373ZC,cn,联想, 联想昭阳 K12 (二代) 12.7 英寸 5G 版
-lenovo,TB361FU,cn,联想, 联想昭阳 K12c 12.1 英寸 Wi-Fi 版
-lenovo,TB361ZU,cn,联想, 联想昭阳 K12c 12.1 英寸 5G 版
-lenovo,TB-X802F,cn,联想, 联想昭阳 G11 10.95 英寸 Wi-Fi 版
-lenovo,TB-X903F,cn,联想, 联想昭阳 G12 11.5 英寸 Wi-Fi 版
-lenovo,TBY11,cn,联想, 联想昭阳 Y11 10.95 英寸 Wi-Fi 版
-lenovo,Lenovo,cn,联想, 联想平板电脑 K11 11 英寸 Wi-Fi 版
-lenovo,TB-J606F,cn,联想, 联想平板电脑 K11 11 英寸 Wi-Fi 版
-lenovo,Lenovo,cn,联想, 联想平板电脑 K11 11 英寸 LTE 版
-lenovo,TB-J606N,cn,联想, 联想平板电脑 K11 11 英寸 LTE 版
-lenovo,QBH10,cn,联想, 联想平板电脑 S11 10.95 英寸 Wi-Fi 版
-lenovo,QBH11,cn,联想, 联想平板电脑 S11 Pro 11.5 英寸 Wi-Fi 版
-lenovo,TB610FU,cn,联想, ThinkBook Plus Hybrid 2024 (平板)
 zte,A2017,cn,中兴, 中兴天机 7
 zte,A2018,cn,中兴, 中兴天机 7S
 zte,C2017,cn,中兴, 中兴天机 7 MAX
@@ -7864,59 +8247,6 @@ vivo,iWA2556A,cn,VIVO, iQOO WATCH 5 蓝牙版
 vivo,iWA2556B,cn,VIVO, iQOO WATCH 5 eSIM 版
 vivo,iWA2536A,cn,VIVO, iQOO WATCH GT 2 蓝牙版
 vivo,iWA2536C,cn,VIVO, iQOO WATCH GT 2 eSIM 版
-nokia,TA-1000,cn,诺基亚, Nokia 6
-nokia,TA-1054,cn,诺基亚, Nokia 6 (第二代)
-nokia,TA-1041,cn,诺基亚, Nokia 7
-nokia,TA-1062,cn,诺基亚, Nokia 7 Plus
-nokia,TA-1042,cn,诺基亚, Nokia 8 Sirocco
-nokia,TA-1094,cn,诺基亚, Nokia 9 PureView
-nokia,TA-1109,cn,诺基亚, Nokia X5
-nokia,TA-1099,cn,诺基亚, Nokia X6
-nokia,TA-1131,cn,诺基亚, Nokia X7
-nokia,TA-1172,cn,诺基亚, Nokia X71
-nokia,TA-1117,cn,诺基亚, Nokia 3.1 Plus
-nokia,TA-1335,cn,诺基亚, Nokia C1 Plus
-nokia,TA-1258,cn,诺基亚, Nokia C3
-nokia,TA-1388,cn,诺基亚, Nokia C20 Plus
-nokia,TA-1361,cn,诺基亚, Nokia G50
-nokia,TA-1392,cn,诺基亚, Nokia T20
-nokia,TA-1511,cn,诺基亚, Nokia C31
-360shouji,1503-M02,cn,奇酷, 360 手机 N4 移动版
-360shouji,1503-A01,cn,奇酷, 360 手机 N4 全网通版
-360shouji,1505-A01,cn,奇酷, 360 手机 N4s
-360shouji,1505-A02,cn,奇酷, 360 手机 N4s 骁龙版
-360shouji,1603-A03,cn,奇酷, 360 手机 N4A
-360shouji,1605-A01,cn,奇酷, 360 手机 N5 全网通版
-360shouji,1605-A02,cn,奇酷, 360 手机 N5 移动版
-360shouji,1607-A01,cn,奇酷, 360 手机 N5s
-360shouji,1801-A01,cn,奇酷, 360 手机 N6 Pro
-360shouji,1707-A01,cn,奇酷, 360 手机 N6
-360shouji,1713-A01,cn,奇酷, 360 手机 N6 Lite
-360shouji,1807-A01,cn,奇酷, 360 手机 N7
-360shouji,1809-A01,cn,奇酷, 360 手机 N7 Pro
-360shouji,1803-A01,cn,奇酷, 360 手机 N7 Lite
-360shouji,8676-A01,cn,奇酷, 大神 Note 3 全网通版
-360shouji,8676-M01,cn,奇酷, 大神 Note 3 移动版
-360shouji,1711-A01,cn,奇酷, 360 手机 vizza
-360shouji,1501-M02,cn,奇酷, 360 手机 F4 移动版
-360shouji,1501-A02,cn,奇酷, 360 手机 F4 全网通版
-360shouji,1603-A02,cn,奇酷, 360 手机 F4s
-360shouji,1701-M01,cn,奇酷, 360 手机 F5
-360shouji,1515-A01,cn,奇酷, 360 手机 Q5
-360shouji,1509-M02,cn,奇酷, 360 手机 Q5 Plus 移动版
-360shouji,1509-A00,cn,奇酷, 360 手机 Q5 Plus 全网通版
-360shouji,1703-M01,cn,奇酷, 360 手机 C5
-360shouji,8681-M01,cn,奇酷, 360 手机奇酷青春版 移动版
-360shouji,8681-M02,cn,奇酷, 360 手机奇酷青春版 双网通版
-360shouji,8681-A01,cn,奇酷, 360 手机奇酷青春版 全网通版
-360shouji,8692-M02,cn,奇酷, 360 手机奇酷旗舰版 双网通版
-360shouji,8692-A00,cn,奇酷, 360 手机奇酷旗舰版 全网通版 
-360shouji,8692-A00,cn,奇酷, 360 手机奇酷旗舰极客版
-360shouji,QSN2112,cn,奇酷, 奇少年 Q10
-360shouji,QSN2201,cn,奇酷, 奇少年 Q10 Pro 5G
-360shouji,QSN2211,cn,奇酷, 奇少年 Q20 / 奇少年 Q30
-360shouji,QSN2207,cn,奇酷, 奇少年 Q20 Pro 5G
-360shouji,QK001,cn,奇酷, 360OS M50 5G / 360OS T20 Pro 5G
 motorola,XT1085,cn,摩托罗拉, Moto X
 motorola,XT1079,cn,摩托罗拉, Moto G LTE 移动/联通版
 motorola,XT1077,cn,摩托罗拉, Moto G LTE 电信/联通版
@@ -7975,6 +8305,42 @@ motorola,XT2557-1,cn,摩托罗拉, moto razr 60 Pro
 motorola,XT2551-3,cn,摩托罗拉, moto razr 60 Ultra
 motorola,XT2527-3,cn,摩托罗拉, moto g100 Pro
 motorola,XT2533-4,cn,摩托罗拉, moto g100
+360shouji,1503-M02,cn,奇酷, 360 手机 N4 移动版
+360shouji,1503-A01,cn,奇酷, 360 手机 N4 全网通版
+360shouji,1505-A01,cn,奇酷, 360 手机 N4s
+360shouji,1505-A02,cn,奇酷, 360 手机 N4s 骁龙版
+360shouji,1603-A03,cn,奇酷, 360 手机 N4A
+360shouji,1605-A01,cn,奇酷, 360 手机 N5 全网通版
+360shouji,1605-A02,cn,奇酷, 360 手机 N5 移动版
+360shouji,1607-A01,cn,奇酷, 360 手机 N5s
+360shouji,1801-A01,cn,奇酷, 360 手机 N6 Pro
+360shouji,1707-A01,cn,奇酷, 360 手机 N6
+360shouji,1713-A01,cn,奇酷, 360 手机 N6 Lite
+360shouji,1807-A01,cn,奇酷, 360 手机 N7
+360shouji,1809-A01,cn,奇酷, 360 手机 N7 Pro
+360shouji,1803-A01,cn,奇酷, 360 手机 N7 Lite
+360shouji,8676-A01,cn,奇酷, 大神 Note 3 全网通版
+360shouji,8676-M01,cn,奇酷, 大神 Note 3 移动版
+360shouji,1711-A01,cn,奇酷, 360 手机 vizza
+360shouji,1501-M02,cn,奇酷, 360 手机 F4 移动版
+360shouji,1501-A02,cn,奇酷, 360 手机 F4 全网通版
+360shouji,1603-A02,cn,奇酷, 360 手机 F4s
+360shouji,1701-M01,cn,奇酷, 360 手机 F5
+360shouji,1515-A01,cn,奇酷, 360 手机 Q5
+360shouji,1509-M02,cn,奇酷, 360 手机 Q5 Plus 移动版
+360shouji,1509-A00,cn,奇酷, 360 手机 Q5 Plus 全网通版
+360shouji,1703-M01,cn,奇酷, 360 手机 C5
+360shouji,8681-M01,cn,奇酷, 360 手机奇酷青春版 移动版
+360shouji,8681-M02,cn,奇酷, 360 手机奇酷青春版 双网通版
+360shouji,8681-A01,cn,奇酷, 360 手机奇酷青春版 全网通版
+360shouji,8692-M02,cn,奇酷, 360 手机奇酷旗舰版 双网通版
+360shouji,8692-A00,cn,奇酷, 360 手机奇酷旗舰版 全网通版 
+360shouji,8692-A00,cn,奇酷, 360 手机奇酷旗舰极客版
+360shouji,QSN2112,cn,奇酷, 奇少年 Q10
+360shouji,QSN2201,cn,奇酷, 奇少年 Q10 Pro 5G
+360shouji,QSN2211,cn,奇酷, 奇少年 Q20 / 奇少年 Q30
+360shouji,QSN2207,cn,奇酷, 奇少年 Q20 Pro 5G
+360shouji,QK001,cn,奇酷, 360OS M50 5G / 360OS T20 Pro 5G
 xiaomi-wear,XMSH01HM,cn,其他, 小米手环
 xiaomi-wear,XMSH02HM,cn,其他, 小米手环 光感版
 xiaomi-wear,XMSH03HM,cn,其他, 小米手环 光感版
