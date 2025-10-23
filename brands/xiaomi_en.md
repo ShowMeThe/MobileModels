@@ -1,6 +1,10 @@
 # Xiaomi Mobile Phone Models
 
+<<<<<<< HEAD
 - Range: Xiaomi/Redmi/POCO phones & tablets
+=======
+- Range: Xiaomi/REDMI/POCO phones & tablets
+>>>>>>> upstream/master
 - Codename: ✅
 
 ## Xiaomi phones
@@ -685,7 +689,11 @@
 
 `M1906F9SI`: Mi A3 India
 
+<<<<<<< HEAD
 ## Redmi phones
+=======
+## REDMI phones
+>>>>>>> upstream/master
 
 **[`H2TD`] Redmi 1 (`wt93007`) (`HM2013022`):**
 
@@ -1663,10 +1671,21 @@
 
 `2312DRA50I`: Redmi Note 13 Pro 5G India
 
+<<<<<<< HEAD
 `2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 5G China
 
 `XIG05`: Redmi Note 13 Pro 5G Japan (KDDI)
 
+=======
+`2312DRA50C`: Redmi Note 13 Pro 5G China (LPDDR4x + UFS 2.2)
+
+`XIG05`: Redmi Note 13 Pro 5G Japan (KDDI)
+
+**[`N16S`] Redmi Note 13 Pro 5G (`garnet`):**
+
+ `2312CRAD3C`: Redmi Note 13 Pro 5G China (LPDDR5 + UFS 3.1)
+
+>>>>>>> upstream/master
 **[`N16U`] Redmi Note 13 Pro+ 5G (`zircon`):**
 
 `23090RA98G`: Redmi Note 13 Pro+ 5G Global
@@ -1926,6 +1945,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+**[`O11US`] REDMI K80 Pro (`miro`):**
+
+>>>>>>> upstream/master
 =======
 **[`O11US`] REDMI K80 Pro (`miro`):**
 
@@ -1957,7 +1981,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1978,6 +2005,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master

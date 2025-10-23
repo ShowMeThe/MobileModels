@@ -804,7 +804,11 @@
 
 `25091RP04G`: Xiaomi Pad 8 Pro 国际版
 
+<<<<<<< HEAD
 ## 红米 / Redmi 数字系列
+=======
+## 红米 / REDMI 数字系列
+>>>>>>> upstream/master
 
 **[`H2TD`] 红米手机 (`wt93007`) (`HM2013022`):**
 
@@ -1316,7 +1320,11 @@
 
 `25082RNC1C`: REDMI 15R 5G
 
+<<<<<<< HEAD
 ## 红米 / Redmi Note 系列
+=======
+## 红米 / REDMI Note 系列
+>>>>>>> upstream/master
 
 **[`H3W`] 红米 Note (`lcsh92_wet_gb9`):**
 
@@ -1794,7 +1802,11 @@
 
 **[`N16`] Redmi Note 13 Pro (`garnet`):**
 
+<<<<<<< HEAD
 `2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 国行版
+=======
+`2312DRA50C` : Redmi Note 13 Pro 国行版 (LPDDR4x + UFS 2.2)
+>>>>>>> upstream/master
 
 `2312DRA50G`: Redmi Note 13 Pro 5G 国际版
 
@@ -1802,6 +1814,13 @@
 
 `XIG05`: Redmi Note 13 Pro 5G 日本版 (KDDI)
 
+<<<<<<< HEAD
+=======
+**[`N16S`] Redmi Note 13 Pro (`garnet`):**
+
+`2312CRAD3C`: Redmi Note 13 Pro 国行版 (LPDDR5 + UFS 3.1)
+
+>>>>>>> upstream/master
 **[`N16U`] Redmi Note 13 Pro+ (`zircon`):**
 
 `23090RA98C`: Redmi Note 13 Pro+ 国行版
@@ -1914,7 +1933,11 @@
 
 `M2003J15SC`: Redmi 10X 4G
 
+<<<<<<< HEAD
 ## Redmi Turbo 系列
+=======
+## REDMI Turbo 系列
+>>>>>>> upstream/master
 
 **[`N16T`] Redmi Turbo 3 (`peridot`):**
 
@@ -1928,7 +1951,11 @@
 
 `25053RT47C`: REDMI Turbo 4 Pro
 
+<<<<<<< HEAD
 ## Redmi K 系列
+=======
+## REDMI K 系列
+>>>>>>> upstream/master
 
 **[`F10`] Redmi K20 (`davinci`):**
 
@@ -2071,6 +2098,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+**[`O11US`] REDMI K80 Pro 冠军版 (`miro`):**
+
+>>>>>>> upstream/master
 =======
 **[`O11US`] REDMI K80 Pro 冠军版 (`miro`):**
 
@@ -2102,7 +2134,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2123,6 +2158,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2133,6 +2169,9 @@
 =======
 >>>>>>> upstream/master
 ## 其他红米 Redmi 手机
+=======
+## 其他 REDMI 手机
+>>>>>>> upstream/master
 
 **[`H3C`] 红米 Pro (`omega`):**
 
@@ -2230,7 +2269,11 @@
 
 `25028RN03L`: REDMI A5 拉美版
 
+<<<<<<< HEAD
 ## Redmi 平板
+=======
+## REDMI 平板
+>>>>>>> upstream/master
 
 **[`L83`] Redmi Pad (`yunluo`):**
 

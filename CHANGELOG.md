@@ -10,6 +10,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ### 2025-10-11
 - `samsung_cn` 新增 心系天下 三星 W26。
@@ -47,12 +48,19 @@
 ### 2025-10-22
 - `huawei_cn` 新增 HUAWEI Mate 70 Air、华为 Vision 智慧屏 5 SE 优享版。
 >>>>>>> upstream/master
+=======
+### 2025-10-22
+- `huawei_cn` 新增 HUAWEI Mate 70 Air、华为 Vision 智慧屏 5 SE 优享版。
+>>>>>>> upstream/master
 ### 2025-10-21
 - `realme_cn` 新增 真我 GT8 系列。
 ### 2025-10-18
 - `apple` 新增 iPad Pro (M5), Apple Vision Pro (M5)。
 - `oppo_cn` 新增 OPPO A6 Plus。
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -69,6 +77,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -88,6 +99,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -115,6 +129,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
