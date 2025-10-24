@@ -1309,6 +1309,7 @@ xiaomi,24127RK2CC,en,小米, REDMI K80 Pro Automobili Lamborghini Squadra Corse 
 xiaomi,25060RK16C,en,小米, REDMI K80 Ultra China
 xiaomi,2510DRK44C,en,小米, REDMI K90 China
 xiaomi,25102RKBEC,en,小米, REDMI K90 Pro Max China
+xiaomi,25102RK69C,en,小米, REDMI K90 Pro Max Automobili Lamborghini Squadra Corse China
 xiaomi,2016020,en,小米, Redmi Pro (32GB)
 xiaomi,2016021,en,小米, Redmi Pro (64GB & 128GB)
 xiaomi,M1803E6G,en,小米, Redmi S2 Global
@@ -1366,6 +1367,8 @@ xiaomi,25053PC47G,en,小米, POCO F7 Global
 xiaomi,25053PC47I,en,小米, POCO F7 India
 xiaomi,24117RK2CG,en,小米, POCO F7 Pro Global
 xiaomi,24122RKC7G,en,小米, POCO F7 Ultra Global
+xiaomi,2510DPC44G,en,小米, POCO F8 Pro Global
+xiaomi,25102PCBEG,en,小米, POCO F8 Ultra Global
 xiaomi,M1912G7BI,en,小米, POCO X2 India
 xiaomi,M2007J20CI,en,小米, POCO X3 India
 xiaomi,M2007J20CG,en,小米, POCO X3 NFC Global
@@ -2192,6 +2195,7 @@ xiaomi,24127RK2CC,cn,小米, REDMI K80 Pro 冠军版
 xiaomi,25060RK16C,cn,小米, REDMI K80 至尊版
 xiaomi,2510DRK44C,cn,小米, REDMI K90
 xiaomi,25102RKBEC,cn,小米, REDMI K90 Pro Max
+xiaomi,25102RK69C,cn,小米, REDMI K90 Pro Max 冠军版
 xiaomi,2016020,cn,小米, 红米 Pro 标准版
 xiaomi,2016021,cn,小米, 红米 Pro 高配版 / 尊享版
 xiaomi,M1803E6E,cn,小米, 红米 S2 全网通版
@@ -2280,6 +2284,8 @@ xiaomi,25053PC47G,cn,小米, POCO F7 国际版
 xiaomi,25053PC47I,cn,小米, POCO F7 印度版
 xiaomi,24117RK2CG,cn,小米, POCO F7 Pro 国际版
 xiaomi,24122RKC7G,cn,小米, POCO F7 Ultra 国际版
+xiaomi,2510DPC44G,cn,小米, POCO F8 Pro 国际版
+xiaomi,25102PCBEG,cn,小米, POCO F8 Ultra 国际版
 xiaomi,M1912G7BI,cn,小米, POCO X2 印度版
 xiaomi,M2007J20CI,cn,小米, POCO X3 印度版
 xiaomi,M2007J20CG,cn,小米, POCO X3 NFC 国际版
@@ -8305,6 +8311,7 @@ motorola,XT2557-1,cn,摩托罗拉, moto razr 60 Pro
 motorola,XT2551-3,cn,摩托罗拉, moto razr 60 Ultra
 motorola,XT2527-3,cn,摩托罗拉, moto g100 Pro
 motorola,XT2533-4,cn,摩托罗拉, moto g100
+motorola,XT2601-1,cn,摩托罗拉, moto X70 Air
 360shouji,1503-M02,cn,奇酷, 360 手机 N4 移动版
 360shouji,1503-A01,cn,奇酷, 360 手机 N4 全网通版
 360shouji,1505-A01,cn,奇酷, 360 手机 N4s
@@ -8417,6 +8424,7 @@ xiaomi-wear,M2428W1,cn,其他, REDMI Watch 5 eSIM 版
 xiaomi-wear,M2351W1,cn,其他, Redmi Watch 5 Active 印度版
 xiaomi-wear,M2352W1,cn,其他, Redmi Watch 5 Lite 印度版
 xiaomi-wear,M2460W1,cn,其他, Redmi Watch Move 印度版
+xiaomi-wear,M2523W1,cn,其他, REDMI Watch 6
 xiaomi-wear,M2131W1,cn,其他, POCO Watch
 xiaomi-wear,M2111E1,cn,其他, Xiaomi 真无线降噪耳机 3
 xiaomi-wear,M2103E1,cn,其他, Xiaomi 真无线降噪耳机 3 Pro
