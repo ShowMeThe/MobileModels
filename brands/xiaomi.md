@@ -805,7 +805,11 @@
 `25091RP04G`: Xiaomi Pad 8 Pro 国际版
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 红米 / Redmi 数字系列
+=======
+## 红米 / REDMI 数字系列
+>>>>>>> upstream/master
 =======
 ## 红米 / REDMI 数字系列
 >>>>>>> upstream/master
@@ -1321,7 +1325,11 @@
 `25082RNC1C`: REDMI 15R 5G
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 红米 / Redmi Note 系列
+=======
+## 红米 / REDMI Note 系列
+>>>>>>> upstream/master
 =======
 ## 红米 / REDMI Note 系列
 >>>>>>> upstream/master
@@ -1803,7 +1811,11 @@
 **[`N16`] Redmi Note 13 Pro (`garnet`):**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 `2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 国行版
+=======
+`2312DRA50C` : Redmi Note 13 Pro 国行版 (LPDDR4x + UFS 2.2)
+>>>>>>> upstream/master
 =======
 `2312DRA50C` : Redmi Note 13 Pro 国行版 (LPDDR4x + UFS 2.2)
 >>>>>>> upstream/master
@@ -1815,11 +1827,17 @@
 `XIG05`: Redmi Note 13 Pro 5G 日本版 (KDDI)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **[`N16S`] Redmi Note 13 Pro (`garnet`):**
 
 `2312CRAD3C`: Redmi Note 13 Pro 国行版 (LPDDR5 + UFS 3.1)
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **[`N16U`] Redmi Note 13 Pro+ (`zircon`):**
 
@@ -1934,7 +1952,11 @@
 `M2003J15SC`: Redmi 10X 4G
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Redmi Turbo 系列
+=======
+## REDMI Turbo 系列
+>>>>>>> upstream/master
 =======
 ## REDMI Turbo 系列
 >>>>>>> upstream/master
@@ -1952,7 +1974,11 @@
 `25053RT47C`: REDMI Turbo 4 Pro
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Redmi K 系列
+=======
+## REDMI K 系列
+>>>>>>> upstream/master
 =======
 ## REDMI K 系列
 >>>>>>> upstream/master
@@ -2099,6 +2125,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+**[`O11US`] REDMI K80 Pro 冠军版 (`miro`):**
+
+>>>>>>> upstream/master
 =======
 **[`O11US`] REDMI K80 Pro 冠军版 (`miro`):**
 
@@ -2135,7 +2166,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2159,6 +2193,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2170,6 +2205,13 @@
 >>>>>>> upstream/master
 ## 其他红米 Redmi 手机
 =======
+## 其他 REDMI 手机
+>>>>>>> upstream/master
+=======
+**[`P11UIP`] REDMI K90 Pro Max (`myron`):**
+
+`25102RK69C`: REDMI K90 Pro Max 冠军版
+
 ## 其他 REDMI 手机
 >>>>>>> upstream/master
 
@@ -2270,7 +2312,11 @@
 `25028RN03L`: REDMI A5 拉美版
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Redmi 平板
+=======
+## REDMI 平板
+>>>>>>> upstream/master
 =======
 ## REDMI 平板
 >>>>>>> upstream/master
@@ -2425,6 +2471,17 @@
 
 `24122RKC7G`: POCO F7 Ultra 国际版
 
+<<<<<<< HEAD
+=======
+**[`P11`] POCO F8 Pro (`annibale`):**
+
+`2510DPC44G`: POCO F8 Pro 国际版
+
+**[`P11U`] POCO F8 Ultra (`myron`):**
+
+`25102PCBEG`: POCO F8 Ultra 国际版
+
+>>>>>>> upstream/master
 **[`G7B`] POCO X2 (`phoenixin`):**
 
 `M1912G7BI`: POCO X2 印度版

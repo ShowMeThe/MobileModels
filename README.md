@@ -8,7 +8,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 汇总各厂商上市的手机型号与对应的宣传名。
+=======
+汇总各厂商上市的手机型号与对应的传播名。
+>>>>>>> upstream/master
 =======
 汇总各厂商上市的手机型号与对应的传播名。
 >>>>>>> upstream/master
@@ -39,7 +43,11 @@
 | [huawei_cn](brands/huawei_cn.md) | 华为 (HUAWEI) | 华为 Mate/Pura/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及穿戴设备，仅包含国行型号 | ⏹ | ❌ | [其他早期型号参阅此处](misc/early-huawei-models.md) |
 | [huawei_global_en](brands/huawei_global_en.md)| 华为 (HUAWEI) | 华为 Mate/Pura/nova/Y 系列及平板电脑，仅包含海外型号 | ⏹ | ⏹ | 英文版 |
 <<<<<<< HEAD
+<<<<<<< HEAD
 | [lenovo](brands/lenovo.md) | 联想 (Lenovo) | 联想品牌 2017 年起上市的机型、ZUK 全部机型 | ✅ | ❌ | -- |
+=======
+| [lenovo_cn](brands/lenovo_cn.md) | 联想 (Lenovo) | 联想品牌 2017 年起上市的机型、ZUK 全部机型 | ✅ | ❌ | -- |
+>>>>>>> upstream/master
 =======
 | [lenovo_cn](brands/lenovo_cn.md) | 联想 (Lenovo) | 联想品牌 2017 年起上市的机型、ZUK 全部机型 | ✅ | ❌ | -- |
 >>>>>>> upstream/master
@@ -49,8 +57,13 @@
 | [mitv_cn](brands/mitv_cn.md) | 小米 (Xiaomi) | 全部国行小米/Redmi 电视、机顶盒 | ❌ | ❌ | -- |
 | [mitv_global_en](brands/mitv_global_en.md) | 小米 (Xiaomi) | 全部小米/Redmi 电视、机顶盒、智能电视棒，仅包含海外型号 | ❌ | ✅ | 英文版 |
 <<<<<<< HEAD
+<<<<<<< HEAD
 | [motorola](brands/motorola.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
 | [nokia](brands/nokia.md) | 诺基亚 (Nokia) | 2017 年起由 HMD Global 制造的智能手机机型 | ✅ | ❌ | -- |
+=======
+| [motorola_cn](brands/motorola_cn.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
+| [nokia_cn](brands/nokia_cn.md) | 诺基亚 (Nokia) | 2017 年起由 HMD Global 制造的智能手机机型 | ✅ | ❌ | -- |
+>>>>>>> upstream/master
 =======
 | [motorola_cn](brands/motorola_cn.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
 | [nokia_cn](brands/nokia_cn.md) | 诺基亚 (Nokia) | 2017 年起由 HMD Global 制造的智能手机机型 | ✅ | ❌ | -- |
@@ -67,6 +80,7 @@
 | [samsung_global_en](brands/samsung_global_en.md) | 三星 (Samsung) | Galaxy S/Note/A/Z/M/F 系列，2019 年起上市的机型 | ✅ | ⏹ | 英文版 |
 | [smartisan](brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | ✅ | ❌ | -- |
 <<<<<<< HEAD
+<<<<<<< HEAD
 | [sony_cn](brands/sony_cn.md) | 索尼 (SONY) | 国内上市的较新款机型 | ❌ | ❌ | -- |
 | [vivo_cn](brands/vivo_cn.md) | vivo | 2018 年起新型号命名方式的国行机型 | ✅ | ❌ | -- |
 | [vivo_global_en](brands/vivo_global_en.md) | vivo | 2019 年起上市的海外机型 | ⏹  | ⏹ | 英文版 |
@@ -76,6 +90,8 @@
 | [zhixuan](brands/zhixuan.md) | 华为智选 | U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO | ⏹ | ❌ | -- |
 | [zte](brands/zte.md) | 中兴 (ZTE) | 2017 年起上市的机型 | ❌ | ❌ | -- |
 =======
+=======
+>>>>>>> upstream/master
 | [sony](brands/sony.md) | 索尼 (SONY) | 2015 年起上市的机型 | ✅ | ✅ | 英文版 |
 | [sony_cn](brands/sony_cn.md) | 索尼 (SONY) | 2015 年起上市的国行机型 | ✅ | ❌ | -- |
 | [vivo_cn](brands/vivo_cn.md) | vivo | 2018 年起新型号命名方式的国行机型 | ✅ | ❌ | -- |
@@ -86,6 +102,9 @@
 | [xiaomi-wear](brands/xiaomi-wear.md) | 小米 (Xiaomi) | 小米/Redmi 手表、手环、TWS 等穿戴设备 | ⏹ | ✅ | TWS 不包含外包型号；暂不含儿童手表型号 |
 | [zhixuan](brands/zhixuan.md) | 华为智选 | U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO | ⏹ | ❌ | -- |
 | [zte_cn](brands/zte_cn.md) | 中兴 (ZTE) | 2017 年起上市的机型 | ❌ | ❌ | -- |
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 
 ## 更新日志

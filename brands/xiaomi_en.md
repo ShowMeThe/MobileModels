@@ -1,7 +1,11 @@
 # Xiaomi Mobile Phone Models
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Range: Xiaomi/Redmi/POCO phones & tablets
+=======
+- Range: Xiaomi/REDMI/POCO phones & tablets
+>>>>>>> upstream/master
 =======
 - Range: Xiaomi/REDMI/POCO phones & tablets
 >>>>>>> upstream/master
@@ -690,7 +694,11 @@
 `M1906F9SI`: Mi A3 India
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Redmi phones
+=======
+## REDMI phones
+>>>>>>> upstream/master
 =======
 ## REDMI phones
 >>>>>>> upstream/master
@@ -1672,11 +1680,14 @@
 `2312DRA50I`: Redmi Note 13 Pro 5G India
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 `2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 5G China
 
 `XIG05`: Redmi Note 13 Pro 5G Japan (KDDI)
 
 =======
+=======
+>>>>>>> upstream/master
 `2312DRA50C`: Redmi Note 13 Pro 5G China (LPDDR4x + UFS 2.2)
 
 `XIG05`: Redmi Note 13 Pro 5G Japan (KDDI)
@@ -1685,6 +1696,9 @@
 
  `2312CRAD3C`: Redmi Note 13 Pro 5G China (LPDDR5 + UFS 3.1)
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **[`N16U`] Redmi Note 13 Pro+ 5G (`zircon`):**
 
@@ -1946,6 +1960,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+**[`O11US`] REDMI K80 Pro (`miro`):**
+
+>>>>>>> upstream/master
 =======
 **[`O11US`] REDMI K80 Pro (`miro`):**
 
@@ -1982,7 +2001,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2006,6 +2028,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2016,6 +2039,12 @@
 =======
 >>>>>>> upstream/master
 =======
+>>>>>>> upstream/master
+=======
+**[`P11UIP`] REDMI K90 Pro Max (`myron`):**
+
+`25102RK69C`: REDMI K90 Pro Max Automobili Lamborghini Squadra Corse China
+
 >>>>>>> upstream/master
 **[`H3C`] Redmi Pro (`omega`):**
 
@@ -2177,6 +2206,17 @@
 
 `24122RKC7G`: POCO F7 Ultra Global
 
+<<<<<<< HEAD
+=======
+**[`P11`] POCO F8 Pro (`annibale`):**
+
+`2510DPC44G`: POCO F8 Pro Global
+
+**[`P11U`] POCO F8 Ultra (`myron`):**
+
+`25102PCBEG`: POCO F8 Ultra Global
+
+>>>>>>> upstream/master
 **[`G7B`] POCO X2 (`phoenixin`):**
 
 `M1912G7BI`: POCO X2 India

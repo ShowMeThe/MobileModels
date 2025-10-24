@@ -27,6 +27,10 @@ Unlisted brands usually not include international models.
 | [oppo_global_en](brands/oppo_global_en.md) | OPPO | International models since 2018 |
 | [samsung_global_en](brands/samsung_global_en.md) | Samsung | International models since 2019 |
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+| [sony](brands/sony.md) | Sony | All models since 2015 |
+>>>>>>> upstream/master
 =======
 | [sony](brands/sony.md) | Sony | All models since 2015 |
 >>>>>>> upstream/master
