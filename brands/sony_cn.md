@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 索尼（SONY）手机型号汇总
 
 - 汇总范围: 国内上市的较新款机型
@@ -54,6 +55,8 @@
 =======
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 # 索尼（SONY）国行手机型号汇总
 
 - 汇总范围: 2015 年起上市的机型
@@ -106,6 +109,9 @@
 
 **Xperia 1 (`Griffin`):**
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -114,6 +120,7 @@
 
 `J9180`: Xperia 1 Professional Editon
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 **Xperia 5:**
@@ -174,6 +181,8 @@
 =======
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **Xperia 5 (`Bahamut`):**
 
 `J9210`: Xperia 5
@@ -218,6 +227,9 @@
 
 `XQ-DE72`: Xperia 5 V
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master

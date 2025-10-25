@@ -270,11 +270,17 @@
 `M2460W1`: Redmi Watch Move 印度版
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **[`P65`] REDMI Watch 6:**
 
 `M2523W1`: REDMI Watch 6
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## POCO 手表（RTOS）
 

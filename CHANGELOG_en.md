@@ -12,6 +12,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ### 2025-10-11
 - `samsung_global_en` Add Galaxy A17.
@@ -54,6 +55,13 @@
 ### 2025-10-21
 - `realme_global_en` Add realme C85 5G.
 >>>>>>> upstream/master
+=======
+### 2025-10-24
+- `nothing` Add Nothing Phone (3a) Lite.
+- `xiaomi_en` Add POCO F8 Pro/Ultra.
+### 2025-10-21
+- `realme_global_en` Add realme C85 5G.
+>>>>>>> upstream/master
 ### 2025-10-18
 - `apple_en` Add iPad Pro (M5), Apple Vision Pro (M5).
 ### 2025-10-17
@@ -67,6 +75,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -94,6 +105,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master

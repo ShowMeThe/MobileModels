@@ -28,6 +28,10 @@ Unlisted brands usually not include international models.
 | [samsung_global_en](brands/samsung_global_en.md) | Samsung | International models since 2019 |
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+| [sony](brands/sony.md) | Sony | All models since 2015 |
+>>>>>>> upstream/master
 =======
 | [sony](brands/sony.md) | Sony | All models since 2015 |
 >>>>>>> upstream/master
