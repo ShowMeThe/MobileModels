@@ -1520,6 +1520,7 @@ nothing,A142P,cn,其他, Nothing Phone (2a) Plus
 nothing,A024,cn,其他, Nothing Phone (3)
 nothing,A059,cn,其他, Nothing Phone (3a)
 nothing,A059P,cn,其他, Nothing Phone (3a) Plus
+nothing,A001T,cn,其他, Nothing Phone (3a) Lite
 nothing,A015,cn,其他, CMF Phone 1
 nothing,A001,cn,其他, CMF Phone 2 Pro
 xiaomi,MI-ONE,cn,小米, 小米 1 青春版
@@ -4152,6 +4153,12 @@ zhixuan,MASH-32,cn,华为智选, Hi MateBook 14 (32GB 内存)
 zhixuan,MASI-16,cn,华为智选, Hi MateBook 14 酷睿 Ultra 2 (16GB 内存)
 zhixuan,MASC-24,cn,华为智选, Hi MateBook 14 酷睿 Ultra 2 (24GB 内存)
 zhixuan,MASC-32,cn,华为智选, Hi MateBook 14 酷睿 Ultra 2 (32GB 内存)
+zhixuan,MASI-16,cn,华为智选, Hi MateBook 14 酷睿 Ultra 2 (16GB 内存) (方形键盘)
+zhixuan,MASC-24,cn,华为智选, Hi MateBook 14 酷睿 Ultra 2 (24GB 内存) (圆形键盘)
+zhixuan,MASC-32,cn,华为智选, Hi MateBook 14 酷睿 Ultra 2 (32GB 内存) (圆形键盘)
+zhixuan,MNCAA-16,cn,华为智选, Hi MateBook 14 锐龙 200 (16GB 内存) (方形键盘)
+zhixuan,MNCAA-32,cn,华为智选, Hi MateBook 14 锐龙 200 (32GB 内存) (方形键盘)
+zhixuan,MNCAC-32,cn,华为智选, Hi MateBook 14 锐龙 200 (32GB 内存) (圆形键盘)
 zhixuan,LYOI-16,cn,华为智选, Hi MateBook D 14 (16GB 内存)
 zhixuan,LYOI-32,cn,华为智选, Hi MateBook D 14 (32GB 内存)
 zhixuan,NICG-16,cn,华为智选, Hi MateBook D 16 (13 代酷睿) (16GB 内存)
