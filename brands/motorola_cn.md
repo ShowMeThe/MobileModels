@@ -228,10 +228,13 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **moto g100:**
 
 `XT2533-4`: moto g100
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **moto g100 (`portov`):**
@@ -241,6 +244,10 @@
 **moto X70 Air (`roadstr`):**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+`XT2601-1`: moto X70 Air
+>>>>>>> upstream/master
+=======
 `XT2601-1`: moto X70 Air
 >>>>>>> upstream/master
 =======

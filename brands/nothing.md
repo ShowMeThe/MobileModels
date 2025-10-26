@@ -34,11 +34,17 @@
 `A059P`: Nothing Phone (3a) Plus
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **Nothing Phone (3a) Lite (`Galaxian`):**
 
 `A001T`: Nothing Phone (3a) Lite
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **CMF Phone 1 (`Tetris`):**
 
