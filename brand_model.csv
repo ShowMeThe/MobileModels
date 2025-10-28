@@ -105,6 +105,10 @@ google,GG3HH,cn,Google, Pixel Watch 3 Bluetooth & Wi-Fi (41mm)
 google,GBDU9,cn,Google, Pixel Watch 3 LTE (41mm)
 google,GGE4J,cn,Google, Pixel Watch 3 Bluetooth & Wi-Fi (45mm)
 google,GRY0E,cn,Google, Pixel Watch 3 LTE (45mm)
+google,GHH4K,cn,Google, Pixel Watch 4 Bluetooth & Wi-Fi (41mm)
+google,GWSQ2,cn,Google, Pixel Watch 4 LTE (41mm)
+google,G8AK3,cn,Google, Pixel Watch 4 Bluetooth & Wi-Fi (45mm)
+google,G1KAW,cn,Google, Pixel Watch 4 LTE (45mm)
 oneplus,A0001,en,一加, OnePlus One China / China Mobile / Global
 oneplus,A1001,en,一加, OnePlus One China Unicom
 oneplus,A2001,en,一加, OnePlus 2 China
@@ -270,11 +274,13 @@ oneplus,OPD2305,en,一加, OnePlus Pad Go Wi-Fi
 oneplus,OPD2407,en,一加, OnePlus Pad (2024)
 oneplus,OPD2404,en,一加, OnePlus Pad Pro
 oneplus,OPD2403,en,一加, OnePlus Pad 2
+oneplus,OPD2403,en,一加, OnePlus Pad 2 (2024)
 oneplus,OPD2413,en,一加, OnePlus Pad 2 Pro
 oneplus,OPD2415,en,一加, OnePlus Pad 3
 oneplus,OPD2480,en,一加, OnePlus Pad Lite Wi-Fi
 oneplus,OPD2481,en,一加, OnePlus Pad Lite LTE
 oneplus,OPD2508,en,一加, OnePlus Pad 2 China
+oneplus,OPD2508,en,一加, OnePlus Pad 2 (2025)
 oneplus,W101IN,en,一加, OnePlus Band India
 oneplus,OPBBE221,en,一加, OnePlus Nord Watch
 oneplus,W301CN,en,一加, OnePlus Watch China / Cyberpunk 2077 Limited Edition
@@ -284,6 +290,7 @@ oneplus,OPWW234,en,一加, OnePlus Watch 2 (China)
 oneplus,OPWWE234,en,一加, OnePlus Watch 2R
 oneplus,OPWWE231,en,一加, OnePlus Watch 2 (Global)
 oneplus,OPWWE251,en,一加, OnePlus Watch 3 (Global)
+oneplus,OPWE242,en,一加, OnePlus Watch 3 43mm (Global)
 blackshark,SKR-H0,en,其他, Black Shark Global
 blackshark,SKR-A0,en,其他, Black Shark China
 blackshark,AWM-A0,en,其他, Black Shark Helo China
@@ -2535,11 +2542,13 @@ oneplus,OPD2305,cn,一加, 一加平板 Go Wi-Fi
 oneplus,OPD2407,cn,一加, 一加平板 (2024) 国行版
 oneplus,OPD2404,cn,一加, 一加平板 Pro 国行版
 oneplus,OPD2403,cn,一加, 一加平板 2 国际版
+oneplus,OPD2403,cn,一加, 一加平板 2 (2024) 国际版
 oneplus,OPD2413,cn,一加, 一加平板 2 Pro 国行版
 oneplus,OPD2415,cn,一加, 一加平板 3 国际版
 oneplus,OPD2480,cn,一加, 一加平板 Lite Wi-Fi
 oneplus,OPD2481,cn,一加, 一加平板 Lite LTE
 oneplus,OPD2508,cn,一加, 一加平板 2 国行版
+oneplus,OPD2508,cn,一加, 一加平板 2 (2025) 国行版
 oneplus,W101IN,cn,一加, 一加 Band 印度版
 oneplus,OPBBE221,cn,一加, 一加 Nord Watch
 oneplus,W301CN,cn,一加, 一加手表 国行版 / Cyberpunk 2077 限定版
@@ -2549,6 +2558,7 @@ oneplus,OPWW234,cn,一加, 一加手表 2 国行版
 oneplus,OPWWE234,cn,一加, 一加手表 2R 国际版
 oneplus,OPWWE231,cn,一加, 一加手表 2 国际版
 oneplus,OPWWE251,cn,一加, 一加手表 3 国际版
+oneplus,OPWE242,cn,一加, 一加手表 3 43mm 国际版
 oppo,CPH1871,en,OPPO, OPPO Find X
 oppo,CPH1875,en,OPPO, OPPO Find X
 oppo,CPH2023,en,OPPO, OPPO Find X2
@@ -4147,6 +4157,7 @@ zhixuan,JEY-AN00,cn,华为智选, Hi 畅享 70 Plus 5G
 zhixuan,JLG-AN00,cn,华为智选, Hi 畅享 80 5G / Hi 畅享 80S 5G
 zhixuan,JLG-AN80,cn,华为智选, Hi 畅享 80 GT 5G
 zhixuan,SHR-AN00,cn,华为智选, Hi 畅享 80 Pro 5G
+zhixuan,CHE-AN00,cn,华为智选, WIKO X70
 zhixuan,BRO-W00,cn,华为智选, Hi MatePad
 zhixuan,MASH-16,cn,华为智选, Hi MateBook 14 (16GB 内存)
 zhixuan,MASH-32,cn,华为智选, Hi MateBook 14 (32GB 内存)
