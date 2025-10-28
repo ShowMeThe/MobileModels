@@ -321,6 +321,7 @@
 
 `PKR110`: OnePlus Ace 5 Pro China
 
+<<<<<<< HEAD
 **OnePlus 13T / OnePlus 13s (`pagani`):**
 
 `PKX110`: OnePlus 13T China
@@ -416,6 +417,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **OnePlus Ace 5 Ultra (`emira`):**
 
 `PLC110`: OnePlus Ace 5 Ultra China
@@ -424,6 +427,23 @@
 
 `PLF110`: OnePlus Ace 5 Race China
 
+<<<<<<< HEAD
+=======
+**OnePlus 13T / OnePlus 13s (`pagani`):**
+
+`PKX110`: OnePlus 13T China
+
+`CPH2723`: OnePlus 13s India
+
+**OnePlus 15 (`infiniti`):**
+
+`PLK110`: OnePlus 15 China
+
+**OnePlus Ace 6 (`ktm`):**
+
+`PLQ110`: OnePlus Ace 6 China
+
+>>>>>>> upstream/master
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India
@@ -554,7 +574,11 @@
 
 `CPH2551`: OnePlus Open
 
+<<<<<<< HEAD
 **OnePlus Pad (`aries-o`):**
+=======
+**OnePlus Pad (2023) (`aries-o`):**
+>>>>>>> upstream/master
 
 `OPD2203`: OnePlus Pad (2023)
 
@@ -564,6 +588,7 @@
 
 `OPD2305`: OnePlus Pad Go Wi-Fi
 
+<<<<<<< HEAD
 **OnePlus Pad (`dunhuang-o`):**
 
 `OPD2407`: OnePlus Pad (2024)
@@ -573,6 +598,17 @@
 `OPD2404`: OnePlus Pad Pro
 
 `OPD2403`: OnePlus Pad 2
+=======
+**OnePlus Pad (2024) (`dunhuang-o`):**
+
+`OPD2407`: OnePlus Pad (2024)
+
+**OnePlus Pad 2 (2024) / OnePlus Pad Pro (`rainbow`) (~`caihong-o`~):**
+
+`OPD2404`: OnePlus Pad Pro
+
+`OPD2403`: OnePlus Pad 2 (2024)
+>>>>>>> upstream/master
 
 **OnePlus Pad 3 / OnePlus Pad 2 Pro (`erhai-o`):**
 
@@ -590,7 +626,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -615,6 +654,7 @@
 
 `OPD2481`: OnePlus Pad Lite LTE
 
+<<<<<<< HEAD
 **OnePlus Pad 2:**
 
 `OPD2508`: OnePlus Pad 2 China
@@ -646,6 +686,12 @@
 =======
 >>>>>>> upstream/master
 =======
+>>>>>>> upstream/master
+=======
+**OnePlus Pad 2 (2025) (`himalaya-o`):**
+
+`OPD2508`: OnePlus Pad 2 (2025)
+
 >>>>>>> upstream/master
 ## OnePlus Wearables
 
@@ -680,3 +726,8 @@
 ~`OPWW251`: OnePlus Watch 3 (China)~
 
 `OPWWE251`: OnePlus Watch 3 (Global)
+<<<<<<< HEAD
+=======
+
+`OPWE242`: OnePlus Watch 3 43mm (Global)
+>>>>>>> upstream/master
