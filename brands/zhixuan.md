@@ -184,11 +184,17 @@
 `SHR-AN00`: Hi 畅享 80 Pro 5G
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **WIKO X70:**
 
 `CHE-AN00`: WIKO X70
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **Hi MatePad:**
 
@@ -204,12 +210,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `MASI-16`: Hi MateBook 14 酷睿 Ultra 2 (16GB 内存)
 
 `MASC-24`: Hi MateBook 14 酷睿 Ultra 2 (24GB 内存)
 
 `MASC-32`: Hi MateBook 14 酷睿 Ultra 2 (32GB 内存)
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -230,6 +239,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master

@@ -322,6 +322,7 @@
 `PKR110`: OnePlus Ace 5 Pro China
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **OnePlus 13T / OnePlus 13s (`pagani`):**
 
 `PKX110`: OnePlus 13T China
@@ -419,6 +420,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **OnePlus Ace 5 Ultra (`emira`):**
 
 `PLC110`: OnePlus Ace 5 Ultra China
@@ -428,7 +431,10 @@
 `PLF110`: OnePlus Ace 5 Race China
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **OnePlus 13T / OnePlus 13s (`pagani`):**
 
 `PKX110`: OnePlus 13T China
@@ -443,6 +449,9 @@
 
 `PLQ110`: OnePlus Ace 6 China
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **OnePlus Nord (`avicii`):**
 
@@ -575,7 +584,11 @@
 `CPH2551`: OnePlus Open
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **OnePlus Pad (`aries-o`):**
+=======
+**OnePlus Pad (2023) (`aries-o`):**
+>>>>>>> upstream/master
 =======
 **OnePlus Pad (2023) (`aries-o`):**
 >>>>>>> upstream/master
@@ -589,6 +602,7 @@
 `OPD2305`: OnePlus Pad Go Wi-Fi
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **OnePlus Pad (`dunhuang-o`):**
 
 `OPD2407`: OnePlus Pad (2024)
@@ -599,6 +613,8 @@
 
 `OPD2403`: OnePlus Pad 2
 =======
+=======
+>>>>>>> upstream/master
 **OnePlus Pad (2024) (`dunhuang-o`):**
 
 `OPD2407`: OnePlus Pad (2024)
@@ -608,6 +624,9 @@
 `OPD2404`: OnePlus Pad Pro
 
 `OPD2403`: OnePlus Pad 2 (2024)
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 
 **OnePlus Pad 3 / OnePlus Pad 2 Pro (`erhai-o`):**
@@ -627,7 +646,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -654,6 +676,7 @@
 
 `OPD2481`: OnePlus Pad Lite LTE
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 **OnePlus Pad 2:**
 
@@ -688,10 +711,15 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 **OnePlus Pad 2 (2025) (`himalaya-o`):**
 
 `OPD2508`: OnePlus Pad 2 (2025)
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## OnePlus Wearables
 
@@ -727,6 +755,11 @@
 
 `OPWWE251`: OnePlus Watch 3 (Global)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+`OPWE242`: OnePlus Watch 3 43mm (Global)
+>>>>>>> upstream/master
 =======
 
 `OPWE242`: OnePlus Watch 3 43mm (Global)
