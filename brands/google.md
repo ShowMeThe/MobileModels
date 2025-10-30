@@ -303,8 +303,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `GRY0E`: Pixel Watch 3 LTE (45mm)
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 `GRY0E`: Pixel Watch 3 LTE (45mm)
@@ -324,6 +327,10 @@
 **Pixel Watch 4 (`kenari_lte`):**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+`G1KAW`: Pixel Watch 4 LTE (45mm)
+>>>>>>> upstream/master
+=======
 `G1KAW`: Pixel Watch 4 LTE (45mm)
 >>>>>>> upstream/master
 =======
