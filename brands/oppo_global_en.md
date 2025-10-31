@@ -62,7 +62,10 @@
 `CPH2659`: OPPO Find X8 Pro
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **OPPO Find X9:**
 
 `CPH2797`: OPPO Find X9
@@ -71,6 +74,9 @@
 
 `CPH2791`: OPPO Find X9 Pro
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## Find N series
 
@@ -531,13 +537,19 @@
 `CPH2733`: OPPO A5x 5G
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **OPPO A6 Pro:**
 
 `CPH2799`: OPPO A6 Pro
 
 `CPH2781`: OPPO A6 Pro 5G
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **OPPO A7:**
 
