@@ -354,6 +354,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> upstream/master
@@ -436,6 +437,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **一加 15 (`infiniti`):**
 
 `PLK110`: 一加 15 国行版
@@ -447,6 +450,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -588,7 +594,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **一加平板 (`aries-o`):**
+=======
+**一加平板 (2023) (`aries-o`):**
+>>>>>>> upstream/master
 =======
 **一加平板 (2023) (`aries-o`):**
 >>>>>>> upstream/master
@@ -614,6 +624,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **一加平板 (`dunhuang-o`):**
 
 `OPD2407`: 一加平板 (2024) 国行版
@@ -624,6 +635,8 @@
 
 `OPD2403`: 一加平板 2 国际版
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -642,6 +655,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -670,7 +686,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -703,6 +722,7 @@
 
 `OPD2481`: 一加平板 Lite LTE
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -746,6 +766,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **一加平板 2 (2025) (`himalaya-o`):**
 
 `OPD2508`: 一加平板 2 (2025) 国行版
@@ -753,6 +775,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -797,6 +822,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+`OPWE242`: 一加手表 3 43mm 国际版
+>>>>>>> upstream/master
 =======
 
 `OPWE242`: 一加手表 3 43mm 国际版
