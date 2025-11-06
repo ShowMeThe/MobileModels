@@ -294,22 +294,34 @@
 `V2511` `V2512`: vivo V60
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **vivo V60 Lite:**
 
 `V2530`: vivo V60 Lite
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **vivo V60 Lite 5G:**
 
 `V2529`: vivo V60 Lite 5G
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **vivo V60e:**
 
 `V2513`: vivo V60e
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## vivo S series
 
@@ -550,11 +562,17 @@
 `V2425` `V2454`: Jovi Y19s
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **vivo Y19s 5G:**
 
 `V2541`: vivo Y19s 5G
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **vivo Y19s Pro (`PD2420F`):**
 
@@ -631,7 +649,11 @@
 **vivo Y21d:**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 `V2520` `V2524` `V2535`: vivo Y21d
+=======
+`V2520` `V2524` `V2525` `V2535` `V2560`: vivo Y21d
+>>>>>>> upstream/master
 =======
 `V2520` `V2524` `V2525` `V2535` `V2560`: vivo Y21d
 >>>>>>> upstream/master
