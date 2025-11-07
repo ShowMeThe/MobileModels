@@ -295,7 +295,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **vivo V60 Lite:**
@@ -303,6 +306,9 @@
 `V2530`: vivo V60 Lite
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -312,7 +318,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **vivo V60e:**
@@ -320,6 +329,9 @@
 `V2513`: vivo V60e
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -563,7 +575,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **vivo Y19s 5G:**
@@ -571,6 +586,9 @@
 `V2541`: vivo Y19s 5G
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -650,7 +668,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `V2520` `V2524` `V2535`: vivo Y21d
+=======
+`V2520` `V2524` `V2525` `V2535` `V2560`: vivo Y21d
+>>>>>>> upstream/master
 =======
 `V2520` `V2524` `V2525` `V2535` `V2560`: vivo Y21d
 >>>>>>> upstream/master
