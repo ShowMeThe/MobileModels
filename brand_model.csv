@@ -6262,6 +6262,11 @@ huawei,PLR-AL50,cn,华为, HUAWEI Mate 70 Pro 优享版
 huawei,PLA-AL10,cn,华为, HUAWEI Mate 70 Pro+
 huawei,PLU-AL10,cn,华为, HUAWEI Mate 70 RS 非凡大师
 huawei,SUP-AL90,cn,华为, HUAWEI Mate 70 Air
+huawei,VYG-AL00,cn,华为, HUAWEI Mate 80
+huawei,SGT-AL50,cn,华为, HUAWEI Mate 80 Pro (12GB 内存)
+huawei,SGT-AL00,cn,华为, HUAWEI Mate 80 Pro (16GB 内存)
+huawei,SGT-AL10,cn,华为, HUAWEI Mate 80 Pro Max
+huawei,SGU-AL10,cn,华为, HUAWEI Mate 80 RS 非凡大师
 huawei,TAH-AN00,cn,华为, HUAWEI Mate X
 huawei,TAH-AN00m,cn,华为, HUAWEI Mate Xs
 huawei,TET-AN00,cn,华为, HUAWEI Mate X2 5G
@@ -6276,6 +6281,8 @@ huawei,GRL-AL10,cn,华为, HUAWEI Mate XT 非凡大师
 huawei,ICL-AL10,cn,华为, HUAWEI Mate X6
 huawei,ICL-AL20,cn,华为, HUAWEI Mate X6 典藏版
 huawei,GRL-AL20,cn,华为, HUAWEI Mate XTs 非凡大师
+huawei,DEL-AL10,cn,华为, HUAWEI Mate X7
+huawei,DEL-AL20,cn,华为, HUAWEI Mate X7 典藏版
 huawei,U9200,cn,华为, 华为 Ascend P1
 huawei,U9200E,cn,华为, 华为 Ascend P1 XL
 huawei,U9200S,cn,华为, 华为 Ascend P1 S
@@ -6552,6 +6559,7 @@ huawei,CTR-AL20,cn,华为, 华为畅享 70 Pro
 huawei,MGA-AL40,cn,华为, 华为畅享 70z
 huawei,GFY-AL00,cn,华为, 华为畅享 70S
 huawei,BRE-AL80,cn,华为, 华为畅享 70X
+huawei,BRE-AL80a,cn,华为, 华为畅享 70X 尊享版
 huawei,BRE-AL00a,cn,华为, 华为畅享 70X 活力版 (128GB)
 huawei,BRE-AL00b,cn,华为, 华为畅享 70X 活力版 (256GB/512GB)
 huawei,JUY-AL00,cn,华为, 华为畅享 80
@@ -6622,11 +6630,15 @@ huawei,WEB-AL10,cn,华为, HUAWEI MatePad Pro 13.2 英寸 2025 SIM 卡版
 huawei,MRDI-W00,cn,华为, HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 版
 huawei,MRDI-W10,cn,华为, HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 柔光版
 huawei,MRDI-W20,cn,华为, HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 柔光版 (16GB+1TB)
+huawei,QXS-W00,cn,华为, HUAWEI MatePad Edge
+huawei,QXS-W10,cn,华为, HUAWEI MatePad Edge (24GB+1TB)
+huawei,QXS-W20,cn,华为, HUAWEI MatePad Edge 液冷版
 huawei,DBY2-W00,cn,华为, HUAWEI MatePad Air 11.5 英寸 Wi-Fi 版
 huawei,DBY2-AL00,cn,华为, HUAWEI MatePad Air 11.5 英寸 LTE 版
 huawei,BKY-W00,cn,华为, HUAWEI MatePad Air 12 英寸 Wi-Fi 版 (8GB+256GB)
 huawei,BKY-W10,cn,华为, HUAWEI MatePad Air 12 英寸 Wi-Fi 版 (12GB+256GB)
 huawei,BKY-W20,cn,华为, HUAWEI MatePad Air 12 英寸 Wi-Fi 柔光版
+huawei,LRT-W00,cn,华为, HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 版 (8GB+256GB)
 huawei,LRT-W20,cn,华为, HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 版
 huawei,LRT-W30,cn,华为, HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 柔光版
 huawei,BAH3-W09,cn,华为, HUAWEI MatePad 10.4 英寸 Wi-Fi 版 (麒麟 810)
@@ -6716,6 +6728,7 @@ huawei,BVE-W10,cn,华为, 华为擎云 C5z 10.4 英寸 Wi-Fi 版
 huawei,DBY-W09,cn,华为, 华为平板 C7 10.95 英寸 Wi-Fi 版
 huawei,DBY2Z-AL00,cn,华为, 华为擎云 C7 11.5 英寸 Wi-Fi 版
 huawei,BBG7-W00,cn,华为, 华为擎云 C7 (第 2 代) 11.5 英寸 Wi-Fi 版
+huawei,WEB-W00,cn,华为, 华为擎云 C9 13.2 英寸 Wi-Fi 版
 huawei,HZ-W09,cn,华为, HUAWEI MateBook m3
 huawei,HZ-W19,cn,华为, HUAWEI MateBook m5
 huawei,HZ-W29,cn,华为, HUAWEI MateBook m7
@@ -6972,6 +6985,7 @@ huawei,HD98EDIH,cn,华为, 华为智慧屏 MateTV 98 英寸
 huawei,HD75EDIJ,cn,华为, 华为智慧屏 MateTV Pro 75 英寸
 huawei,HD8XEDIJ,cn,华为, 华为智慧屏 MateTV Pro 85 英寸
 huawei,HD98EDIJ,cn,华为, 华为智慧屏 MateTV Pro 98 英寸
+huawei,HD1XEDIJ,cn,华为, 华为智慧屏 MateTV Max 110 英寸
 huawei,HD55KANB,cn,华为, 华为智慧屏 S 55 60Hz (3GB+16GB)
 huawei,HD55KANC,cn,华为, 华为智慧屏 S 55 60Hz (3GB+32GB)
 huawei,HD55KANS,cn,华为, 华为智慧屏 S Pro 55 120Hz (3GB+16GB)
@@ -7096,6 +7110,7 @@ huawei,WDS-B19,cn,华为, HUAWEI WATCH Ultimate 非凡探索
 huawei,MCH-AL00,cn,华为, HUAWEI WATCH Ultimate 2 非凡探索
 huawei,CLB-B19,cn,华为, HUAWEI WATCH ULTIMATE DESIGN 非凡大师 黄金款
 huawei,EDD-B39,cn,华为, HUAWEI WATCH ULTIMATE DESIGN 非凡大师 蓝宝石黄金款
+huawei,LNG-AL00,cn,华为, HUAWEI WATCH ULTIMATE DESIGN 非凡大师 紫金款
 huawei,ELA-B19,cn,华为, HUAWEI WATCH GT 雅致款
 huawei,FTN-B19,cn,华为, HUAWEI WATCH GT 时尚版/运动版
 huawei,DAN-B19,cn,华为, HUAWEI WATCH GT 2 42mm
@@ -7144,6 +7159,7 @@ huawei,ODN-B99,cn,华为, HUAWEI WATCH B5-736
 huawei,GLL-AL30B,cn,华为, HUAWEI WATCH B7-536
 huawei,GLL-AL09B,cn,华为, HUAWEI WATCH B7-738
 huawei,MLY-B10,cn,华为, HUAWEI WATCH B9-D10
+huawei,SYA-B19B,cn,华为, 华为擎云 H3540
 huawei,PNX-B19B,cn,华为, 华为擎云 H5546
 huawei,VLI-B19B,cn,华为, 华为擎云 H5556
 huawei,VLI-B29B,cn,华为, 华为擎云 H5756
