@@ -256,7 +256,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -363,6 +366,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -431,6 +435,26 @@
 =======
 >>>>>>> upstream/master
 =======
+>>>>>>> upstream/master
+=======
+**HUAWEI Mate 80 (`Voyager`):**
+
+`VYG-AL00`: HUAWEI Mate 80
+
+**HUAWEI Mate 80 Pro (`Sagittarius`):**
+
+`SGT-AL50`: HUAWEI Mate 80 Pro (12GB 内存)
+
+`SGT-AL00`: HUAWEI Mate 80 Pro (16GB 内存)
+
+**HUAWEI Mate 80 Pro Max (`Sagittarius`):**
+
+`SGT-AL10`: HUAWEI Mate 80 Pro Max
+
+**HUAWEI Mate 80 RS 非凡大师 (`SagittariusU`):**
+
+`SGU-AL10`: HUAWEI Mate 80 RS 非凡大师
+
 >>>>>>> upstream/master
 **HUAWEI Mate X (`Tahiti`):**
 
@@ -474,6 +498,15 @@
 
 `GRL-AL20`: HUAWEI Mate XTs 非凡大师
 
+<<<<<<< HEAD
+=======
+**HUAWEI Mate X7 (`Delphi`):**
+
+`DEL-AL10`: HUAWEI Mate X7
+
+`DEL-AL20`: HUAWEI Mate X7 典藏版
+
+>>>>>>> upstream/master
 ## HUAWEI P / Pura 系列
 
 **华为 Ascend P1:**
@@ -987,7 +1020,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1106,6 +1142,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1495,6 +1534,11 @@
 
 `BRE-AL80`: 华为畅享 70X
 
+<<<<<<< HEAD
+=======
+`BRE-AL80a`: 华为畅享 70X 尊享版
+
+>>>>>>> upstream/master
 **华为畅享 70X 活力版 (`Bruce`):**
 
 `BRE-AL00a`: 华为畅享 70X 活力版 (128GB)
@@ -1677,6 +1721,19 @@
 
 `MRDI-W20`: HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 柔光版 (16GB+1TB)
 
+<<<<<<< HEAD
+=======
+## HUAWEI MatePad Edge 系列
+
+**HUAWEI MatePad Edge (`Qianxuesen`):**
+
+`QXS-W00`: HUAWEI MatePad Edge
+
+`QXS-W10`: HUAWEI MatePad Edge (24GB+1TB)
+
+`QXS-W20`: HUAWEI MatePad Edge 液冷版
+
+>>>>>>> upstream/master
 ## HUAWEI MatePad Air 系列
 
 **HUAWEI MatePad Air (`Debussy2`):**
@@ -1695,6 +1752,11 @@
 
 **HUAWEI MatePad Air (`Laurent`):**
 
+<<<<<<< HEAD
+=======
+`LRT-W00`: HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 版 (8GB+256GB)
+
+>>>>>>> upstream/master
 `LRT-W20`: HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 版
 
 `LRT-W30`: HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 柔光版
@@ -1929,6 +1991,13 @@
 
 `BBG7-W00`: 华为擎云 C7 (第 2 代) 11.5 英寸 Wi-Fi 版
 
+<<<<<<< HEAD
+=======
+**华为擎云 C9 (`Weber`):**
+
+`WEB-W00`: 华为擎云 C9 13.2 英寸 Wi-Fi 版
+
+>>>>>>> upstream/master
 ## 笔记本电脑
 
 **HUAWEI MateBook (`Hertz`):**
@@ -2597,6 +2666,13 @@
 
 `HD98EDIJ`: 华为智慧屏 MateTV Pro 98 英寸
 
+<<<<<<< HEAD
+=======
+**华为智慧屏 MateTV Max:**
+
+`HD1XEDIJ`: 华为智慧屏 MateTV Max 110 英寸
+
+>>>>>>> upstream/master
 **华为智慧屏 S 系列 (`Kant`):**
 
 `HD55KANB`: 华为智慧屏 S 55 60Hz (3GB+16GB)
@@ -2838,11 +2914,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `HD65KULU`: 华为 Vision 智慧屏 5 SE 65
 
 `HD75KULU`: 华为 Vision 智慧屏 5 SE 75
 
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2955,6 +3034,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3136,7 +3218,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3192,6 +3277,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3233,6 +3321,11 @@
 
 `EDD-B39`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 蓝宝石黄金款
 
+<<<<<<< HEAD
+=======
+`LNG-AL00`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 紫金款
+
+>>>>>>> upstream/master
 **HUAWEI WATCH GT:**
 
 `ELA-B19`: HUAWEI WATCH GT 雅致款
@@ -3395,6 +3488,13 @@
 
 `MLY-B10`: HUAWEI WATCH B9-D10
 
+<<<<<<< HEAD
+=======
+**华为擎云 H3540 (`Seiya`):**
+
+`SYA-B19B`: 华为擎云 H3540
+
+>>>>>>> upstream/master
 **华为擎云 H5546:**
 
 `PNX-B19B`: 华为擎云 H5546

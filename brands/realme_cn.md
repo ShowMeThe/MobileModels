@@ -148,6 +148,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> upstream/master
@@ -329,6 +330,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 **真我 GT8 (`amg`):**
 
 `RMX6699`: 真我 GT8
@@ -337,6 +340,9 @@
 
 `RMX5200`: 真我 GT8 Pro
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## Neo 系列
 
@@ -381,6 +387,7 @@
 `RMX3850`: 真我 GT Neo6 SE
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **真我 Neo7:**
 
 `RMX5060`: 真我 Neo7
@@ -395,6 +402,8 @@
 
 **真我 Neo7x:**
 =======
+=======
+>>>>>>> upstream/master
 **真我 Neo7 (`cayman`):**
 
 `RMX5060`: 真我 Neo7
@@ -408,6 +417,9 @@
 `RMX5080`: 真我 Neo7 SE
 
 **真我 Neo7x (`dongfeng`):**
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 
 `RMX5071`: 真我 Neo7x
@@ -533,7 +545,11 @@
 `RMX3920`: 真我 13 Pro+
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **真我 14:**
+=======
+**真我 14 (`dongfeng`):**
+>>>>>>> upstream/master
 =======
 **真我 14 (`dongfeng`):**
 >>>>>>> upstream/master
