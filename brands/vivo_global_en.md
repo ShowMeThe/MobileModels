@@ -101,6 +101,17 @@
 
 `V2429`: vivo X Fold5
 
+<<<<<<< HEAD
+=======
+**vivo X300 (`PD2509F`):**
+
+`V2515`: vivo X300
+
+**vivo X300 Pro (`PD2502F`):**
+
+`V2514`: vivo X300 Pro
+
+>>>>>>> upstream/master
 ## vivo V series
 
 **vivo V15 (`PD1831F`):**
@@ -317,7 +328,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -391,6 +405,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -466,7 +483,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -540,6 +560,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -849,7 +872,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -923,6 +949,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1068,7 +1097,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `V2520` `V2524` `V2535`: vivo Y21d
+=======
+`V2520` `V2524` `V2525` `V2535` `V2560`: vivo Y21d
+>>>>>>> upstream/master
 =======
 `V2520` `V2524` `V2525` `V2535` `V2560`: vivo Y21d
 >>>>>>> upstream/master
@@ -1424,6 +1457,13 @@
 
 `I2401`: iQOO 13
 
+<<<<<<< HEAD
+=======
+**iQOO 15 (`PD2505F`):**
+
+`I2501`: iQOO 15
+
+>>>>>>> upstream/master
 **iQOO Neo6 (`PD2199F`):**
 
 `I2202`: iQOO Neo6
@@ -1530,4 +1570,10 @@
 
 **iQOO Z10R 5G:**
 
+<<<<<<< HEAD
 `I2410`: iQOO Z10R 5G
+=======
+`I2410`: iQOO Z10R 5G India
+
+`I2505`: iQOO Z10R 5G Global
+>>>>>>> upstream/master
