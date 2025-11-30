@@ -102,7 +102,10 @@
 `V2429`: vivo X Fold5
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **vivo X300 (`PD2509F`):**
 
 `V2515`: vivo X300
@@ -111,6 +114,9 @@
 
 `V2514`: vivo X300 Pro
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## vivo V series
 
@@ -329,7 +335,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -406,6 +415,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -484,7 +496,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -561,6 +576,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -873,7 +891,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -950,6 +971,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1098,7 +1122,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `V2520` `V2524` `V2535`: vivo Y21d
+=======
+`V2520` `V2524` `V2525` `V2535` `V2560`: vivo Y21d
+>>>>>>> upstream/master
 =======
 `V2520` `V2524` `V2525` `V2535` `V2560`: vivo Y21d
 >>>>>>> upstream/master
@@ -1458,11 +1486,17 @@
 `I2401`: iQOO 13
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **iQOO 15 (`PD2505F`):**
 
 `I2501`: iQOO 15
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **iQOO Neo6 (`PD2199F`):**
 
@@ -1571,7 +1605,13 @@
 **iQOO Z10R 5G:**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 `I2410`: iQOO Z10R 5G
+=======
+`I2410`: iQOO Z10R 5G India
+
+`I2505`: iQOO Z10R 5G Global
+>>>>>>> upstream/master
 =======
 `I2410`: iQOO Z10R 5G India
 
