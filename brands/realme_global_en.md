@@ -361,7 +361,11 @@
 
 `RMX3371`: realme GT NEO 3T
 
+<<<<<<< HEAD
 **realme GT 3 (`senna-C`):**
+=======
+**realme GT 3 (`senna-c`):**
+>>>>>>> upstream/master
 
 `RMX3709`: realme GT 3 240W
 
@@ -373,11 +377,19 @@
 
 `RMX3853`: realme GT 6T
 
+<<<<<<< HEAD
 **realme GT 7:**
 
 `RMX5061`: realme GT 7
 
 **realme GT 7T:**
+=======
+**realme GT 7 (`cayman-b`):**
+
+`RMX5061`: realme GT 7
+
+**realme GT 7T (`brz-b`):**
+>>>>>>> upstream/master
 
 `RMX5085`: realme GT 7T
 
@@ -589,7 +601,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -717,6 +732,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -799,6 +815,12 @@
 =======
 >>>>>>> upstream/master
 =======
+>>>>>>> upstream/master
+=======
+**realme C85 Pro:**
+
+`RMX5555`: realme C85 Pro
+
 >>>>>>> upstream/master
 ## Note series
 
@@ -870,6 +892,13 @@
 
 `RMX5116`: realme P4 Pro 5G
 
+<<<<<<< HEAD
+=======
+**realme P4x:**
+
+`RMX5108`: realme P4x 5G
+
+>>>>>>> upstream/master
 ## Narzo series
 
 **realme Narzo (`nemo`):**
