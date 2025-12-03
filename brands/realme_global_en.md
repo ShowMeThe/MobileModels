@@ -362,7 +362,11 @@
 `RMX3371`: realme GT NEO 3T
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **realme GT 3 (`senna-C`):**
+=======
+**realme GT 3 (`senna-c`):**
+>>>>>>> upstream/master
 =======
 **realme GT 3 (`senna-c`):**
 >>>>>>> upstream/master
@@ -378,17 +382,23 @@
 `RMX3853`: realme GT 6T
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **realme GT 7:**
 
 `RMX5061`: realme GT 7
 
 **realme GT 7T:**
 =======
+=======
+>>>>>>> upstream/master
 **realme GT 7 (`cayman-b`):**
 
 `RMX5061`: realme GT 7
 
 **realme GT 7T (`brz-b`):**
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 
 `RMX5085`: realme GT 7T
@@ -602,7 +612,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -733,6 +746,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -817,10 +831,15 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 **realme C85 Pro:**
 
 `RMX5555`: realme C85 Pro
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## Note series
 
@@ -893,11 +912,17 @@
 `RMX5116`: realme P4 Pro 5G
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **realme P4x:**
 
 `RMX5108`: realme P4x 5G
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## Narzo series
 
