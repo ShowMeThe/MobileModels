@@ -3,7 +3,11 @@
 - Range: All international models (excluding Chinese models)
 - Codename: ✅
 
+<<<<<<< HEAD
 ## HONOR phones
+=======
+## HONOR phones (Huawei)
+>>>>>>> upstream/master
 
 **HONOR 4X (`Cherry`):**
 
@@ -185,6 +189,11 @@
 
 `OXF-N29` `OXF-AN10`: HONOR View30 PRO 5G
 
+<<<<<<< HEAD
+=======
+## HONOR phones (Honor Device)
+
+>>>>>>> upstream/master
 **HONOR 50 (`Nottingham`):**
 
 `NTH-NX9`: HONOR 50
@@ -356,7 +365,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -509,6 +521,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -752,6 +767,13 @@
 
 `NIC-LX3P`: HONOR Play9C
 
+<<<<<<< HEAD
+=======
+**HONOR Play10 (`Elsa`):**
+
+`ELA-LX2` `ELA-LX3`: HONOR Play10
+
+>>>>>>> upstream/master
 **HONOR Pad 8 (`Hendry`):**
 
 `HEY-W09`: HONOR Pad 8
@@ -815,6 +837,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`HEY3-N09`: HONOR Pad 10 5G
+
+>>>>>>> upstream/master
 =======
 `HEY3-N09`: HONOR Pad 10 5G
 

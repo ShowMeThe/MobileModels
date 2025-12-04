@@ -363,7 +363,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **realme GT 3 (`senna-C`):**
+=======
+**realme GT 3 (`senna-c`):**
+>>>>>>> upstream/master
 =======
 **realme GT 3 (`senna-c`):**
 >>>>>>> upstream/master
@@ -383,6 +387,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **realme GT 7:**
 
 `RMX5061`: realme GT 7
@@ -391,12 +396,17 @@
 =======
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **realme GT 7 (`cayman-b`):**
 
 `RMX5061`: realme GT 7
 
 **realme GT 7T (`brz-b`):**
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -613,7 +623,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -747,6 +760,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -831,6 +845,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **realme C85 Pro:**
@@ -838,6 +854,9 @@
 `RMX5555`: realme C85 Pro
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -913,7 +932,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **realme P4x:**
@@ -921,6 +943,9 @@
 `RMX5108`: realme P4x 5G
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
