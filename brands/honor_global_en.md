@@ -4,7 +4,11 @@
 - Codename: ✅
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## HONOR phones
+=======
+## HONOR phones (Huawei)
+>>>>>>> upstream/master
 =======
 ## HONOR phones (Huawei)
 >>>>>>> upstream/master
@@ -190,8 +194,13 @@
 `OXF-N29` `OXF-AN10`: HONOR View30 PRO 5G
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ## HONOR phones (Honor Device)
+
+>>>>>>> upstream/master
+=======
+## HONOR phones (Honor)
 
 >>>>>>> upstream/master
 **HONOR 50 (`Nottingham`):**
@@ -366,7 +375,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -522,6 +534,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -768,11 +783,17 @@
 `NIC-LX3P`: HONOR Play9C
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **HONOR Play10 (`Elsa`):**
 
 `ELA-LX2` `ELA-LX3`: HONOR Play10
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **HONOR Pad 8 (`Hendry`):**
 
@@ -838,6 +859,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`HEY3-N09`: HONOR Pad 10 5G
+
+>>>>>>> upstream/master
 =======
 `HEY3-N09`: HONOR Pad 10 5G
 
