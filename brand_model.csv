@@ -448,6 +448,7 @@ samsung,SM-F9360,cn,三星, Galaxy Z Fold4
 samsung,SM-F9460,cn,三星, Galaxy Z Fold5
 samsung,SM-F9560,cn,三星, Galaxy Z Fold6
 samsung,SM-F9660,cn,三星, Galaxy Z Fold7
+samsung,SM-F9680,cn,三星, Galaxy Z TriFold
 samsung,SM-F7000,cn,三星, Galaxy Z Flip
 samsung,SM-F7070,cn,三星, Galaxy Z Flip 5G
 samsung,SM-F7110,cn,三星, Galaxy Z Flip3 5G
@@ -596,6 +597,7 @@ samsung,SM-X520,cn,三星, Galaxy Tab S10 FE WLAN
 samsung,SM-X526C,cn,三星, Galaxy Tab S10 FE 5G
 samsung,SM-X620,cn,三星, Galaxy Tab S10 FE+ WLAN
 samsung,SM-X626C,cn,三星, Galaxy Tab S10 FE+ 5G
+samsung,SM-X400,cn,三星, Galaxy Tab S10 Lite WLAN
 samsung,SM-X730,cn,三星, Galaxy Tab S11 WLAN
 samsung,SM-X736C,cn,三星, Galaxy Tab S11 5G
 samsung,SM-X930,cn,三星, Galaxy Tab S11 Ultra WLAN
@@ -9057,6 +9059,9 @@ samsung,SM-F966Q,en,三星, Galaxy Z Fold7 Japan (SIM Free)
 samsung,SM-F966Z,en,三星, Galaxy Z Fold7 Japan (SoftBank)
 samsung,SCG34,en,三星, Galaxy Z Fold7 Japan (au)
 samsung,SC-56F,en,三星, Galaxy Z Fold7 Japan (NTT Docomo)
+samsung,SM-F968B,en,三星, Galaxy Z TriFold Global
+samsung,SM-F9680,en,三星, Galaxy Z TriFold China
+samsung,SM-F968N,en,三星, Galaxy Z TriFold South Korea
 samsung,SM-F700F,en,三星, Galaxy Z Flip Global
 samsung,SM-F700U,en,三星, Galaxy Z Flip US Carrier
 samsung,SM-F700U1,en,三星, Galaxy Z Flip US Unlocked
