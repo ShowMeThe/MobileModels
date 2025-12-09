@@ -400,6 +400,13 @@
 
 `SM-F9660`: Galaxy Z Fold7
 
+<<<<<<< HEAD
+=======
+**Galaxy Z TriFold (`q7mq`):**
+
+`SM-F9680`: Galaxy Z TriFold
+
+>>>>>>> upstream/master
 **Galaxy Z Flip (`bloomq`):**
 
 `SM-F7000`: Galaxy Z Flip
@@ -840,7 +847,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1016,6 +1026,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1343,6 +1356,13 @@
 
 `SM-X626C`: Galaxy Tab S10 FE+ 5G
 
+<<<<<<< HEAD
+=======
+**Galaxy Tab S10 Lite (`gts10litewifi`):**
+
+`SM-X400`: Galaxy Tab S10 Lite WLAN
+
+>>>>>>> upstream/master
 **Galaxy Tab S11 (`gts11wifi`):**
 
 `SM-X730`: Galaxy Tab S11 WLAN

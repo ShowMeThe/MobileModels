@@ -120,7 +120,15 @@
 
 `M2101K7AC`: Redmi Note 10 4G 国行版 (未上市)
 
+<<<<<<< HEAD
 **[`N17`] Redmi Note 13 5G (`iron`):**
+=======
+**[`M6`] Redmi Note 12 Pro 4G (`diamond`):**
+
+`23025RA15A`: Redmi Note 12 Pro 4G 国际版 (未上市版本)
+
+**[`N17P`] Redmi Note 13 5G (`iron`):**
+>>>>>>> upstream/master
 
 `2312DRAF3G`: Redmi Note 13 5G 国际版 (一个 SKU, 未上市)
 
