@@ -122,8 +122,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **[`N17`] Redmi Note 13 5G (`iron`):**
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **[`M6`] Redmi Note 12 Pro 4G (`diamond`):**
@@ -132,6 +135,9 @@
 
 **[`N17P`] Redmi Note 13 5G (`iron`):**
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
