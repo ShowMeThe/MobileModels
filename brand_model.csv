@@ -5546,6 +5546,7 @@ oppo,PLA110,cn,OPPO, OPPO Reno14
 oppo,PKZ110,cn,OPPO, OPPO Reno14 Pro
 oppo,PLW110,cn,OPPO, OPPO Reno15
 oppo,PLV110,cn,OPPO, OPPO Reno15 Pro
+oppo,PMD110,cn,OPPO, OPPO Reno15c
 oppo,PCLM10,cn,OPPO, OPPO Reno Ace
 oppo,PDHM00,cn,OPPO, OPPO Ace2
 oppo,PACM00,cn,OPPO, OPPO R15 全网通版
@@ -9751,6 +9752,7 @@ huawei,PAL-LX9,en,华为, HUAWEI Mate Xs 2
 huawei,PAL-L29,en,华为, HUAWEI Mate Xs 2
 huawei,ALT-L29,en,华为, HUAWEI Mate X3
 huawei,ICL-LX9,en,华为, HUAWEI Mate X6
+huawei,DEL-LX9,en,华为, HUAWEI Mate X7
 huawei,GRL-LX9,en,华为, HUAWEI Mate XT ULTIMATE DESIGN
 huawei,P6-U06,en,华为, HUAWEI Ascend P6 Single SIM
 huawei,P7-L10,en,华为, HUAWEI Ascend P7
@@ -9912,6 +9914,9 @@ huawei,BNE-LX3,en,华为, HUAWEI nova 12 SE
 huawei,BLK-LX9,en,华为, HUAWEI nova 13
 huawei,MIS-LX9,en,华为, HUAWEI nova 13 Pro
 huawei,CTR-L91,en,华为, HUAWEI nova 13i
+huawei,TLR-LX9,en,华为, HUAWEI nova 14
+huawei,MIA-LX9,en,华为, HUAWEI nova 14 Pro
+huawei,STG-LX2,en,华为, HUAWEI nova 14i
 huawei,WKG-LX9,en,华为, HUAWEI nova Y60
 huawei,EVE-LX9,en,华为, HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Plus
 huawei,EVE-LX9N,en,华为, HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Plus
@@ -10032,6 +10037,7 @@ huawei,SLG-W09,en,华为, HUAWEI MatePad 11.5 S 2025 Wi-Fi
 huawei,DBY2-W09,en,华为, HUAWEI MatePad Air Wi-Fi
 huawei,DBY2-L09,en,华为, HUAWEI MatePad Air LTE
 huawei,BKY-W09,en,华为, HUAWEI MatePad 12 X Wi-Fi
+huawei,LRT-W09,en,华为, HUAWEI MatePad 12 X 2025 Wi-Fi
 huawei,MRX-W09,en,华为, HUAWEI MatePad Pro 10.8 Wi-Fi
 huawei,MRX-W29,en,华为, HUAWEI MatePad Pro 10.8 Wi-Fi
 huawei,MRX-AL09,en,华为, HUAWEI MatePad Pro 10.8 LTE
