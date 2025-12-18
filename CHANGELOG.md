@@ -66,6 +66,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ### 2025-10-11
 - `samsung_cn` 新增 心系天下 三星 W26。
@@ -267,6 +268,10 @@
 ### 2025-12-14
 - `oppo_cn` 新增 OPPO Reno15c。
 >>>>>>> upstream/master
+=======
+### 2025-12-14
+- `oppo_cn` 新增 OPPO Reno15c。
+>>>>>>> upstream/master
 ### 2025-12-08
 - `samsung_cn` 新增 Galaxy Z TriFold。
 ### 2025-12-02
@@ -279,6 +284,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -316,6 +324,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -373,6 +384,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -461,6 +475,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -590,6 +607,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -740,6 +760,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -905,6 +928,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1076,6 +1102,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1260,6 +1289,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1447,6 +1479,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1642,6 +1677,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
