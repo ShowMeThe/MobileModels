@@ -231,6 +231,9 @@ oneplus,CPH2745,en,一加, OnePlus 15 India
 oneplus,CPH2747,en,一加, OnePlus 15 Europe / Global
 oneplus,CPH2749,en,一加, OnePlus 15 North America
 oneplus,PLR110,en,一加, OnePlus Ace 6T China
+oneplus,CPH2767,en,一加, OnePlus 15R India
+oneplus,CPH2769,en,一加, OnePlus 15R Europe / Global
+oneplus,CPH2771,en,一加, OnePlus 15R North America
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord Europe / Global
 oneplus,DN2101,en,一加, OnePlus Nord 2 India
@@ -284,6 +287,7 @@ oneplus,OPD2415,en,一加, OnePlus Pad 3
 oneplus,OPD2480,en,一加, OnePlus Pad Lite Wi-Fi
 oneplus,OPD2481,en,一加, OnePlus Pad Lite LTE
 oneplus,OPD2508,en,一加, OnePlus Pad 2 China
+oneplus,OPD2504,en,一加, OnePlus Pad Go 2 Wi-Fi
 oneplus,OPD2508,en,一加, OnePlus Pad 2 (2025)
 oneplus,W101IN,en,一加, OnePlus Band India
 oneplus,OPBBE221,en,一加, OnePlus Nord Watch
@@ -2505,6 +2509,9 @@ oneplus,CPH2745,cn,一加, 一加 15 印度版
 oneplus,CPH2747,cn,一加, 一加 15 欧洲版 / 国际版
 oneplus,CPH2749,cn,一加, 一加 15 北美版
 oneplus,PLR110,cn,一加, 一加 Ace 6T 国行版
+oneplus,CPH2767,cn,一加, 一加 15R 印度版
+oneplus,CPH2769,cn,一加, 一加 15R 欧洲版 / 国际版
+oneplus,CPH2771,cn,一加, 一加 15R 北美版
 oneplus,AC2001,cn,一加, 一加 Nord 印度版
 oneplus,AC2003,cn,一加, 一加 Nord 欧洲版 / 国际版
 oneplus,DN2101,cn,一加, 一加 Nord 2 印度版
@@ -2558,6 +2565,7 @@ oneplus,OPD2415,cn,一加, 一加平板 3 国际版
 oneplus,OPD2480,cn,一加, 一加平板 Lite Wi-Fi
 oneplus,OPD2481,cn,一加, 一加平板 Lite LTE
 oneplus,OPD2508,cn,一加, 一加平板 2 国行版
+oneplus,OPD2504,cn,一加, 一加平板 Go 2 Wi-Fi
 oneplus,OPD2508,cn,一加, 一加平板 2 (2025) 国行版
 oneplus,W101IN,cn,一加, 一加 Band 印度版
 oneplus,OPBBE221,cn,一加, 一加 Nord Watch
