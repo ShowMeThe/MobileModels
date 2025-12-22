@@ -21,7 +21,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## HONOR phones
+=======
+## HONOR phones (Huawei)
+>>>>>>> upstream/master
 =======
 ## HONOR phones (Huawei)
 >>>>>>> upstream/master
@@ -275,8 +279,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ## HONOR phones (Honor Device)
+
+>>>>>>> upstream/master
+=======
+## HONOR phones (Honor)
 
 >>>>>>> upstream/master
 =======
@@ -536,7 +545,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -743,6 +755,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1040,7 +1055,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1096,6 +1114,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1212,6 +1233,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`HEY3-N09`: HONOR Pad 10 5G
+
+>>>>>>> upstream/master
 =======
 `HEY3-N09`: HONOR Pad 10 5G
 
