@@ -5674,6 +5674,7 @@ oppo,OPD2401,cn,OPPO, OPPO Pad 3 Pro
 oppo,OPD2409,cn,OPPO, OPPO Pad 4 Pro
 oppo,OPD2417,cn,OPPO, OPPO Pad SE
 oppo,OPD2506,cn,OPPO, OPPO Pad 5
+oppo,OPD2501,cn,OPPO, OPPO Pad Air5
 oppo,OB19B1,cn,OPPO, OPPO Band 运动版
 oppo,OB19O1,cn,OPPO, OPPO Band 运动版
 oppo,OB19B1,cn,OPPO, OPPO Band 运动版 (国际版)
@@ -5707,6 +5708,7 @@ oppo,OWW235,cn,OPPO, OPPO Watch Sport
 oppo,OWW242,cn,OPPO, OPPO Watch X2 Mini
 oppo,OWW251,cn,OPPO, OPPO Watch X2
 oppo,OWW262,cn,OPPO, OPPO Watch S
+oppo,OWW261,cn,OPPO, OPPO Watch X3
 letv,X600,cn,乐视, 乐 1 通用版
 letv,X608,cn,乐视, 乐 1 移动定制版
 letv,X500,cn,乐视, 乐 1s 通用版
@@ -6476,6 +6478,9 @@ huawei,MIA-AL00,cn,华为, HUAWEI nova 14 Pro
 huawei,MRT-AL10,cn,华为, HUAWEI nova 14 Ultra
 huawei,TYR-AL00,cn,华为, HUAWEI nova 14 活力版
 huawei,PSD-AL80,cn,华为, HUAWEI nova Flip S
+huawei,PSN-AL00,cn,华为, HUAWEI nova 15
+huawei,KLE-AL00U,cn,华为, HUAWEI nova 15 Pro
+huawei,SLY-AL00,cn,华为, HUAWEI nova 15 Ultra
 huawei,G6-T00,cn,华为, 华为 Ascend G6 移动版
 huawei,G6-U00,cn,华为, 华为 Ascend G6 联通版
 huawei,G6-C00,cn,华为, 华为 Ascend G6 电信版
@@ -6667,6 +6672,7 @@ huawei,BKY-W00,cn,华为, HUAWEI MatePad Air 12 英寸 Wi-Fi 版 (8GB+256GB)
 huawei,BKY-W10,cn,华为, HUAWEI MatePad Air 12 英寸 Wi-Fi 版 (12GB+256GB)
 huawei,BKY-W20,cn,华为, HUAWEI MatePad Air 12 英寸 Wi-Fi 柔光版
 huawei,LRT-W00,cn,华为, HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 版 (8GB+256GB)
+huawei,BKY-W21,cn,华为, HUAWEI MatePad Air 12 英寸 Wi-Fi 柔光版
 huawei,LRT-W20,cn,华为, HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 版
 huawei,LRT-W30,cn,华为, HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 柔光版
 huawei,BAH3-W09,cn,华为, HUAWEI MatePad 10.4 英寸 Wi-Fi 版 (麒麟 810)
@@ -6691,6 +6697,9 @@ huawei,TGR-W10,cn,华为, HUAWEI MatePad 11.5 S Wi-Fi 柔光版
 huawei,DMG-W00,cn,华为, HUAWEI MatePad 11.5 S 灵动款 Wi-Fi 版
 huawei,SLG-W10,cn,华为, HUAWEI MatePad 11.5 S 2025 Wi-Fi 版
 huawei,SLG-W50,cn,华为, HUAWEI MatePad 11.5 S 2025 灵动款 Wi-Fi 版
+huawei,TXZ-W10,cn,华为, HUAWEI MatePad 11.5 英寸 2026 Wi-Fi 版
+huawei,TXZ-W20,cn,华为, HUAWEI MatePad 11.5 英寸 2026 Wi-Fi 柔光版
+huawei,TXZ-AL10,cn,华为, HUAWEI MatePad 11.5 英寸 2026 SIM 卡版
 huawei,MLR-AL00,cn,华为, HUAWEI MatePad Mini 悦读版 8.8 英寸
 huawei,MLR-AL10,cn,华为, HUAWEI MatePad Mini 8.8 英寸
 huawei,AGS2-W09,cn,华为, 华为畅享平板 10.1 英寸 Wi-Fi 版
@@ -7180,6 +7189,7 @@ huawei,MLY-B10,cn,华为, HUAWEI WATCH D 黑色氟橡胶表带
 huawei,MLY-B11,cn,华为, HUAWEI WATCH D 米白色氟橡胶表带
 huawei,LCA-B10,cn,华为, HUAWEI WATCH D2 幻夜黑
 huawei,LCA-B11,cn,华为, HUAWEI WATCH D2 晨曦金
+huawei,LCA-B29,cn,华为, HUAWEI WATCH D2 星云蓝
 huawei,SGA-B19,cn,华为, HUAWEI WATCH Buds
 huawei,MIL-B29B,cn,华为, HUAWEI WATCH B5-532
 huawei,JPT-B29B,cn,华为, HUAWEI WATCH B5-536
