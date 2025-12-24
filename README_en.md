@@ -88,6 +88,10 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+| [sony](brands/sony.md) | Sony | All models since 2015 |
+>>>>>>> upstream/master
 =======
 | [sony](brands/sony.md) | Sony | All models since 2015 |
 >>>>>>> upstream/master
