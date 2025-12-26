@@ -839,6 +839,11 @@ xiaomi,25113PN0EC,en,小米, Xiaomi 17 China
 xiaomi,25113PN0EI,en,小米, Xiaomi 17 India
 xiaomi,25098PN5AC,en,小米, Xiaomi 17 Pro China
 xiaomi,2509FPN0BC,en,小米, Xiaomi 17 Pro Max China
+xiaomi,2512BPNDAG,en,小米, Xiaomi 17 Ultra Global
+xiaomi,2512BPNDAC,en,小米, Xiaomi 17 Ultra China
+xiaomi,2512BPNDAI,en,小米, Xiaomi 17 Ultra India
+xiaomi,25128PNA1G,en,小米, Leitzphone powered by Xiaomi (Global)
+xiaomi,25128PNA1C,en,小米, Xiaomi 17 Ultra by Leica (China)
 xiaomi,2015011,en,小米, Mi Note Global
 xiaomi,2014616,en,小米, Mi Note China (Dual-network)
 xiaomi,2014619,en,小米, Mi Note China (Full-network)
@@ -1075,6 +1080,8 @@ xiaomi,25062RN2DL,en,小米, REDMI 15 Latin America
 xiaomi,25057RN09G,en,小米, REDMI 15 5G Global
 xiaomi,25057RN09E,en,小米, REDMI 15 5G Europe
 xiaomi,25057RN09I,en,小米, REDMI 15 5G India
+xiaomi,25057RN09R,en,小米, REDMI 15 5G Japan (SIM Free)
+xiaomi,A501XM,en,小米, REDMI 15 5G Japan (SoftBank)
 xiaomi,25078RA3EA,en,小米, REDMI 15C Global
 xiaomi,25078RA3EY,en,小米, REDMI 15C Global (NFC)
 xiaomi,25078RA3EE,en,小米, REDMI 15C Europe
@@ -1267,10 +1274,14 @@ xiaomi,24090RA29C,en,小米, Redmi Note 14 Pro 5G China
 xiaomi,24115RA8EG,en,小米, Redmi Note 14 Pro+ 5G Global
 xiaomi,24115RA8EI,en,小米, Redmi Note 14 Pro+ 5G India
 xiaomi,24115RA8EC,en,小米, Redmi Note 14 Pro+ 5G China
+xiaomi,2510DRA23G,en,小米, REDMI Note 15 Global
+xiaomi,2510DRA23E,en,小米, REDMI Note 15 Europe
+xiaomi,2510DRA23L,en,小米, REDMI Note 15 Latin America
 xiaomi,25098RA98G,en,小米, REDMI Note 15 5G Global
 xiaomi,25098RA98E,en,小米, REDMI Note 15 5G Europe
 xiaomi,25098RA98I,en,小米, REDMI Note 15 5G India
 xiaomi,25098RA98C,en,小米, REDMI Note 15 5G China
+xiaomi,25100RA69G,en,小米, REDMI Note 15 Pro Global
 xiaomi,25080RABDG,en,小米, REDMI Note 15 Pro 5G Global
 xiaomi,25080RABDI,en,小米, REDMI Note 15 Pro 5G India
 xiaomi,25080RABDR,en,小米, REDMI Note 15 Pro 5G Japan
@@ -1436,7 +1447,9 @@ xiaomi,25062PC34E,en,小米, POCO M7 Europe
 xiaomi,24108PCE2I,en,小米, POCO M7 5G India
 xiaomi,25057PC09I,en,小米, POCO M7 Plus 5G India
 xiaomi,2409FPCC4G,en,小米, POCO M7 Pro 5G Global
+xiaomi,25118PC98G,en,小米, POCO M8 5G Global
 xiaomi,2508CPC2BI,en,小米, POCO M8 5G India
+xiaomi,2510EPC8BG,en,小米, POCO M8 Pro 5G Global
 xiaomi,M2006C3MI,en,小米, POCO C3 India
 xiaomi,211033MI,en,小米, POCO C31 India
 xiaomi,220333QPG,en,小米, POCO C40 Global
@@ -1693,6 +1706,11 @@ xiaomi,25113PN0EG,cn,小米, Xiaomi 17 国际版
 xiaomi,25113PN0EI,cn,小米, Xiaomi 17 印度版
 xiaomi,25098PN5AC,cn,小米, Xiaomi 17 Pro
 xiaomi,2509FPN0BC,cn,小米, Xiaomi 17 Pro Max
+xiaomi,2512BPNDAC,cn,小米, Xiaomi 17 Ultra 国行版
+xiaomi,2512BPNDAG,cn,小米, Xiaomi 17 Ultra 国际版
+xiaomi,2512BPNDAI,cn,小米, Xiaomi 17 Ultra 印度版
+xiaomi,25128PNA1C,cn,小米, Xiaomi 17 Ultra by Leica 国行版
+xiaomi,25128PNA1G,cn,小米, Leitzphone powered by Xiaomi 国际版
 xiaomi,2014616,cn,小米, 小米 Note 双网通版
 xiaomi,2014619,cn,小米, 小米 Note 全网通版
 xiaomi,2014618,cn,小米, 小米 Note 移动合约版
@@ -1729,6 +1747,7 @@ xiaomi,2405CPX3DC,cn,小米, Xiaomi MIX Flip 国行版
 xiaomi,2405CPX3DG,cn,小米, Xiaomi MIX Flip 国际版
 xiaomi,2505APX7BC,cn,小米, Xiaomi MIX Flip 2 国行版
 xiaomi,2016001,cn,小米, 小米 Max 标准版 全网通版
+xiaomi,2016001,cn,小米, 小米 Max 标准版 国行版
 xiaomi,2016002,cn,小米, 小米 Max 标准版 国际版
 xiaomi,2016007,cn,小米, 小米 Max 高配版
 xiaomi,MDE40,cn,小米, 小米 Max 2 全网通版
@@ -1960,6 +1979,8 @@ xiaomi,25062RN2DL,cn,小米, REDMI 15 拉美版
 xiaomi,25057RN09G,cn,小米, REDMI 15 5G 国际版
 xiaomi,25057RN09E,cn,小米, REDMI 15 5G 欧洲版
 xiaomi,25057RN09I,cn,小米, REDMI 15 5G 印度版
+xiaomi,25057RN09R,cn,小米, REDMI 15 5G 日本版 (无锁)
+xiaomi,A501XM,cn,小米, REDMI 15 5G 日本版 (SoftBank)
 xiaomi,25078RA3EA,cn,小米, REDMI 15C 国际版
 xiaomi,25078RA3EY,cn,小米, REDMI 15C 国际版 (NFC)
 xiaomi,25078RA3EE,cn,小米, REDMI 15C 欧洲版
@@ -2153,10 +2174,14 @@ xiaomi,24090RA29I,cn,小米, Redmi Note 14 Pro 5G 印度版
 xiaomi,24115RA8EC,cn,小米, Redmi Note 14 Pro+ 国行版
 xiaomi,24115RA8EG,cn,小米, Redmi Note 14 Pro+ 5G 国际版
 xiaomi,24115RA8EI,cn,小米, Redmi Note 14 Pro+ 5G 印度版
+xiaomi,2510DRA23G,cn,小米, REDMI Note 15 国际版
+xiaomi,2510DRA23E,cn,小米, REDMI Note 15 欧洲版
+xiaomi,2510DRA23L,cn,小米, REDMI Note 15 拉美版
 xiaomi,25098RA98C,cn,小米, REDMI Note 15 国行版
 xiaomi,25098RA98G,cn,小米, REDMI Note 15 5G 国际版
 xiaomi,25098RA98E,cn,小米, REDMI Note 15 5G 欧洲版
 xiaomi,25098RA98I,cn,小米, REDMI Note 15 5G 印度版
+xiaomi,25100RA69G,cn,小米, REDMI Note 15 Pro 国际版
 xiaomi,25080RABDC,cn,小米, REDMI Note 15 Pro 国行版
 xiaomi,25080RABDG,cn,小米, REDMI Note 15 Pro 5G 国际版
 xiaomi,25080RABDI,cn,小米, REDMI Note 15 Pro 5G 印度版
@@ -2354,7 +2379,9 @@ xiaomi,25062PC34E,cn,小米, POCO M7 欧洲版
 xiaomi,24108PCE2I,cn,小米, POCO M7 5G 印度版
 xiaomi,25057PC09I,cn,小米, POCO M7 Plus 5G 印度版
 xiaomi,2409FPCC4G,cn,小米, POCO M7 Pro 5G 国际版
+xiaomi,25118PC98G,cn,小米, POCO M8 5G 国际版
 xiaomi,2508CPC2BI,cn,小米, POCO M8 5G 印度版
+xiaomi,2510EPC8BG,cn,小米, POCO M8 Pro 5G 国际版
 xiaomi,M2006C3MI,cn,小米, POCO C3 印度版
 xiaomi,211033MI,cn,小米, POCO C31 印度版
 xiaomi,220333QPG,cn,小米, POCO C40 国际版
@@ -5773,9 +5800,12 @@ xiaomi,24129PN74C,cn,小米, Xiaomi 15
 xiaomi,25019PNF3C,cn,小米, Xiaomi 15 Ultra
 xiaomi,25010PN30C,cn,小米, Xiaomi 15 Ultra 双卫星版
 xiaomi,25113PN0EC,cn,小米, Xiaomi 17
+xiaomi,2512BPNDAC,cn,小米, Xiaomi 17 Ultra
+xiaomi,25128PNA1C,cn,小米, Xiaomi 17 Ultra by Leica
 xiaomi,M1810E5E,cn,小米, 小米 MIX 3
 xiaomi,2405CPX3DC,cn,小米, Xiaomi MIX Flip
 xiaomi,2505APX7BC,cn,小米, Xiaomi MIX Flip 2
+xiaomi,2016001,cn,小米, 小米 Max 标准版
 xiaomi,21051182C,cn,小米, 小米平板 5
 xiaomi,23043RP34C,cn,小米, Xiaomi Pad 6
 xiaomi,24018RPACC,cn,小米, Xiaomi Pad 6S Pro 12.4
@@ -7142,6 +7172,8 @@ huawei,MDS-AL00,cn,华为, HUAWEI WATCH 4 Pro
 huawei,MDS-AL10,cn,华为, HUAWEI WATCH 4 Pro
 huawei,SOC-AL00,cn,华为, HUAWEI WATCH 5 42mm
 huawei,RTS-AL00,cn,华为, HUAWEI WATCH 5 46mm
+huawei,SOC-AL00,cn,华为, HUAWEI WATCH 5 42mm / HUAWEI WATCH 十周年款 42mm
+huawei,RTS-AL00,cn,华为, HUAWEI WATCH 5 46mm / HUAWEI WATCH 十周年款 46mm
 huawei,CLB-B19,cn,华为, HUAWEI WATCH Ultimate 非凡大师
 huawei,WDS-B19,cn,华为, HUAWEI WATCH Ultimate 非凡探索
 huawei,MCH-AL00,cn,华为, HUAWEI WATCH Ultimate 2 非凡探索
@@ -8147,6 +8179,8 @@ vivo,V1965A,cn,VIVO, vivo Y50
 vivo,V2023EA,cn,VIVO, vivo Y50t
 vivo,V2443A,cn,VIVO, vivo Y37t 5G / vivo Y50 5G / vivo Y50i 5G
 vivo,V2443BA,cn,VIVO, vivo Y50m 5G
+vivo,V2443A,cn,VIVO, vivo Y37t 5G / vivo Y50 5G / vivo Y50i 5G / vivo Y50e 5G / vivo Y50s 5G
+vivo,V2443BA,cn,VIVO, vivo Y50m 5G / vivo Y50c 5G
 vivo,V2002A,cn,VIVO, vivo Y51s 5G
 vivo,V2057A,cn,VIVO, vivo Y52s 5G
 vivo,V2054A,cn,VIVO, vivo Y52s (t1 版) 5G
@@ -8484,6 +8518,8 @@ xiaomi-wear,XMWT01,cn,其他, 小米手表
 xiaomi-wear,M2320W1,cn,其他, Xiaomi Watch 2
 xiaomi-wear,M2234W1,cn,其他, Xiaomi Watch 2 Pro 蓝牙版
 xiaomi-wear,M2233W1,cn,其他, Xiaomi Watch 2 Pro LTE
+xiaomi-wear,M2501W1,cn,其他, Xiaomi Watch 5 蓝牙版
+xiaomi-wear,M2505W1,cn,其他, Xiaomi Watch 5 LTE
 xiaomi-wear,REDMIWT02,cn,其他, Mi Watch Lite 国际版
 xiaomi-wear,XMWT06,cn,其他, 小米手表 Color
 xiaomi-wear,XMWTCL01,cn,其他, 小米手表 Color 运动版 国行版
@@ -8538,6 +8574,7 @@ xiaomi-wear,M2419E1,cn,其他, 小米 Air4 SE
 xiaomi-wear,M2341E1,cn,其他, Xiaomi Buds 5
 xiaomi-wear,M2437E1,cn,其他, Xiaomi Buds 5 Pro 蓝牙版
 xiaomi-wear,M2438E1,cn,其他, Xiaomi Buds 5 Pro Wi-Fi 版
+xiaomi-wear,M2540E1,cn,其他, Xiaomi Buds 6
 xiaomi-wear,M2503E1,cn,其他, Xiaomi 开放式耳机 Pro
 xiaomi-wear,GCDEJ01LS,cn,其他, Xiaomi 骨传导耳机
 xiaomi-wear,M2447E1,cn,其他, Xiaomi 骨传导耳机 2
@@ -8564,6 +8601,7 @@ xiaomi-wear,M2349E1,cn,其他, Redmi Buds 6 青春版 / Redmi Buds 6 Lite 国际
 xiaomi-wear,M2420E1,cn,其他, Redmi Buds 6 Play 国际版
 xiaomi-wear,M2411E1,cn,其他, REDMI Buds SE
 xiaomi-wear,M2455E1,cn,其他, REDMI Buds 7S
+xiaomi-wear,M2535E1,cn,其他, REDMI Buds 8 Pro
 xiaomi-wear,TWSEJ01ZM,cn,其他, POCO Buds Pro Genshin Impact Edition 国际版
 xiaomi-wear,M2237E1,cn,其他, POCO Pods 印度版
 xiaomi-wear,M2350E1,cn,其他, POCO Buds X1 印度版
@@ -9716,6 +9754,7 @@ nubia,NX789J,cn,努比亚, 红魔 10 Pro / 红魔 10 Pro+
 nubia,NX779J,cn,努比亚, 红魔 10 Air
 nubia,NX789J,cn,努比亚, 红魔 10S Pro / 红魔 10S Pro+
 nubia,NX809J,cn,努比亚, 红魔 11 Pro / 红魔 11 Pro+
+nubia,NX799J,cn,努比亚, 红魔 11 Air
 nubia,NP01J,cn,努比亚, 红魔电竞平板 5G
 nubia,NP03J,cn,努比亚, 红魔电竞平板 Pro
 nubia,NP02J,cn,努比亚, 红魔平板 · 3D 探索版 5G
