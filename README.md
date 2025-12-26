@@ -71,7 +71,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 汇总各厂商上市的手机型号与对应的宣传名。
+=======
+汇总各厂商上市的手机型号与对应的传播名。
+>>>>>>> upstream/master
 =======
 汇总各厂商上市的手机型号与对应的传播名。
 >>>>>>> upstream/master
@@ -354,7 +358,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 | [lenovo](brands/lenovo.md) | 联想 (Lenovo) | 联想品牌 2017 年起上市的机型、ZUK 全部机型 | ✅ | ❌ | -- |
+=======
+| [lenovo_cn](brands/lenovo_cn.md) | 联想 (Lenovo) | 联想品牌 2017 年起上市的机型、ZUK 全部机型 | ✅ | ❌ | -- |
+>>>>>>> upstream/master
 =======
 | [lenovo_cn](brands/lenovo_cn.md) | 联想 (Lenovo) | 联想品牌 2017 年起上市的机型、ZUK 全部机型 | ✅ | ❌ | -- |
 >>>>>>> upstream/master
@@ -616,8 +624,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 | [motorola](brands/motorola.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
 | [nokia](brands/nokia.md) | 诺基亚 (Nokia) | 2017 年起由 HMD Global 制造的智能手机机型 | ✅ | ❌ | -- |
+=======
+| [motorola_cn](brands/motorola_cn.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
+| [nokia_cn](brands/nokia_cn.md) | 诺基亚 (Nokia) | 2017 年起由 HMD Global 制造的智能手机机型 | ✅ | ❌ | -- |
+>>>>>>> upstream/master
 =======
 | [motorola_cn](brands/motorola_cn.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
 | [nokia_cn](brands/nokia_cn.md) | 诺基亚 (Nokia) | 2017 年起由 HMD Global 制造的智能手机机型 | ✅ | ❌ | -- |
@@ -949,6 +962,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 | [sony_cn](brands/sony_cn.md) | 索尼 (SONY) | 国内上市的较新款机型 | ❌ | ❌ | -- |
 | [vivo_cn](brands/vivo_cn.md) | vivo | 2018 年起新型号命名方式的国行机型 | ✅ | ❌ | -- |
 | [vivo_global_en](brands/vivo_global_en.md) | vivo | 2019 年起上市的海外机型 | ⏹  | ⏹ | 英文版 |
@@ -958,6 +972,8 @@
 | [zhixuan](brands/zhixuan.md) | 华为智选 | U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO | ⏹ | ❌ | -- |
 | [zte](brands/zte.md) | 中兴 (ZTE) | 2017 年起上市的机型 | ❌ | ❌ | -- |
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1157,6 +1173,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master

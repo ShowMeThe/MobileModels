@@ -64,7 +64,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Range: Xiaomi/Redmi/POCO phones & tablets
+=======
+- Range: Xiaomi/REDMI/POCO phones & tablets
+>>>>>>> upstream/master
 =======
 - Range: Xiaomi/REDMI/POCO phones & tablets
 >>>>>>> upstream/master
@@ -741,6 +745,23 @@
 
 `2509FPN0BC`: Xiaomi 17 Pro Max China
 
+<<<<<<< HEAD
+=======
+**[`P1`] Xiaomi 17 Ultra (`nezha`):**
+
+`2512BPNDAG`: Xiaomi 17 Ultra Global
+
+`2512BPNDAC`: Xiaomi 17 Ultra China
+
+`2512BPNDAI`: Xiaomi 17 Ultra India
+
+**[`P1S`] Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica (`nezha`):**
+
+`25128PNA1G`: Leitzphone powered by Xiaomi (Global)
+
+`25128PNA1C`: Xiaomi 17 Ultra by Leica (China)
+
+>>>>>>> upstream/master
 **[`X5`] Mi Note (`virgo`):**
 
 `2015011`: Mi Note Global
@@ -1005,7 +1026,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Redmi phones
+=======
+## REDMI phones
+>>>>>>> upstream/master
 =======
 ## REDMI phones
 >>>>>>> upstream/master
@@ -1675,6 +1700,13 @@
 
 `25057RN09I`: REDMI 15 5G India
 
+<<<<<<< HEAD
+=======
+`25057RN09R`: REDMI 15 5G Japan (SIM Free)
+
+`A501XM`: REDMI 15 5G Japan (SoftBank)
+
+>>>>>>> upstream/master
 **[`P15A`] REDMI 15C (`dew`):**
 
 `25078RA3EA`: REDMI 15C Global
@@ -2239,11 +2271,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 5G China
 
 `XIG05`: Redmi Note 13 Pro 5G Japan (KDDI)
 
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2441,6 +2476,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2630,6 +2668,17 @@
 
 `24115RA8EC`: Redmi Note 14 Pro+ 5G China
 
+<<<<<<< HEAD
+=======
+**[`P7`] REDMI Note 15 (`spinel`):**
+
+`2510DRA23G`: REDMI Note 15 Global
+
+`2510DRA23E`: REDMI Note 15 Europe
+
+`2510DRA23L`: REDMI Note 15 Latin America
+
+>>>>>>> upstream/master
 **[`P17`] REDMI Note 15 5G (`kunzite`):**
 
 `25098RA98G`: REDMI Note 15 5G Global
@@ -2640,7 +2689,15 @@
 
 `25098RA98C`: REDMI Note 15 5G China
 
+<<<<<<< HEAD
 **[`P16`] REDMI Note 15 Pro (`lapis`):**
+=======
+**[`P6`] REDMI Note 15 Pro (`charoite`):**
+
+`25100RA69G`: REDMI Note 15 Pro Global
+
+**[`P16`] REDMI Note 15 Pro 5G (`lapis`):**
+>>>>>>> upstream/master
 
 `25080RABDG`: REDMI Note 15 Pro 5G Global
 
@@ -2650,7 +2707,11 @@
 
 `25080RABDC`: REDMI Note 15 Pro 5G China
 
+<<<<<<< HEAD
 **[`P16U`] REDMI Note 15 Pro+ (`flourite`):**
+=======
+**[`P16U`] REDMI Note 15 Pro+ 5G (`flourite`):**
+>>>>>>> upstream/master
 
 `2510ERA8BG`: REDMI Note 15 Pro+ 5G Global
 
@@ -2658,7 +2719,11 @@
 
 `2510ERA8BC`: REDMI Note 15 Pro+ 5G China
 
+<<<<<<< HEAD
 **[`P16US`] REDMI Note 15 Pro+ (`flourite`):**
+=======
+**[`P16US`] REDMI Note 15 Pro+ 5G (`flourite`):**
+>>>>>>> upstream/master
 
 `25104RADAC`: REDMI Note 15 Pro+ 5G Satellite China
 
@@ -2891,6 +2956,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+**[`O11US`] REDMI K80 Pro (`miro`):**
+
+>>>>>>> upstream/master
 =======
 **[`O11US`] REDMI K80 Pro (`miro`):**
 
@@ -3242,7 +3312,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3455,6 +3528,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3467,6 +3541,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3657,6 +3733,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4005,7 +4084,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4200,6 +4282,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4503,10 +4588,24 @@
 
 `2409FPCC4G`: POCO M7 Pro 5G Global
 
+<<<<<<< HEAD
+=======
+**[`P17`] POCO M8 5G (`kunzite`):**
+
+`25118PC98G`: POCO M8 5G Global
+
+>>>>>>> upstream/master
 **[`P15`] POCO M8 5G (`tornado`):**
 
 `2508CPC2BI`: POCO M8 5G India
 
+<<<<<<< HEAD
+=======
+**[`P16U`] POCO M8 Pro 5G (`flourite`):**
+
+`2510EPC8BG`: POCO M8 Pro 5G Global
+
+>>>>>>> upstream/master
 **[`C3M`] POCO C3 (`angelicain`):**
 
 `M2006C3MI`: POCO C3 India
