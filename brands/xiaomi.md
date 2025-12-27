@@ -489,7 +489,10 @@
 `2509FPN0BC`: Xiaomi 17 Pro Max
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **[`P1`] Xiaomi 17 Ultra (`nezha`):**
 
 `2512BPNDAC`: Xiaomi 17 Ultra 国行版
@@ -504,6 +507,9 @@
 
 `25128PNA1G`: Leitzphone powered by Xiaomi 国际版
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## 小米 Note 系列
 
@@ -620,7 +626,11 @@
 **[`B3`] 小米 Max (`hydrogen`):**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 `2016001`: 小米 Max 标准版 全网通版
+=======
+`2016001`: 小米 Max 标准版 国行版
+>>>>>>> upstream/master
 =======
 `2016001`: 小米 Max 标准版 国行版
 >>>>>>> upstream/master
@@ -890,7 +900,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 红米 / Redmi 数字系列
+=======
+## 红米 / REDMI 数字系列
+>>>>>>> upstream/master
 =======
 ## 红米 / REDMI 数字系列
 >>>>>>> upstream/master
@@ -1572,11 +1586,17 @@
 `25057RN09I`: REDMI 15 5G 印度版
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 `25057RN09R`: REDMI 15 5G 日本版 (无锁)
 
 `A501XM`: REDMI 15 5G 日本版 (SoftBank)
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **[`P15A`] REDMI 15C (`dew`):**
 
@@ -1669,7 +1689,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 红米 / Redmi Note 系列
+=======
+## 红米 / REDMI Note 系列
+>>>>>>> upstream/master
 =======
 ## 红米 / REDMI Note 系列
 >>>>>>> upstream/master
@@ -2407,7 +2431,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 国行版
+=======
+`2312DRA50C` : Redmi Note 13 Pro 国行版 (LPDDR4x + UFS 2.2)
+>>>>>>> upstream/master
 =======
 `2312DRA50C` : Redmi Note 13 Pro 国行版 (LPDDR4x + UFS 2.2)
 >>>>>>> upstream/master
@@ -2675,7 +2703,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2872,6 +2903,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3064,7 +3098,10 @@
 `24115RA8EI`: Redmi Note 14 Pro+ 5G 印度版
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **[`P7`] REDMI Note 15 (`spinel`):**
 
 `2510DRA23G`: REDMI Note 15 国际版
@@ -3073,6 +3110,9 @@
 
 `2510DRA23L`: REDMI Note 15 拉美版
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **[`P17`] REDMI Note 15 (`kunzite`):**
 
@@ -3085,11 +3125,17 @@
 `25098RA98I`: REDMI Note 15 5G 印度版
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **[`P6`] REDMI Note 15 Pro (`charoite`):**
 
 `25100RA69G`: REDMI Note 15 Pro 国际版
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **[`P16`] REDMI Note 15 Pro (`lapis`):**
 
@@ -3196,7 +3242,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Redmi Turbo 系列
+=======
+## REDMI Turbo 系列
+>>>>>>> upstream/master
 =======
 ## REDMI Turbo 系列
 >>>>>>> upstream/master
@@ -3470,7 +3520,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Redmi K 系列
+=======
+## REDMI K 系列
+>>>>>>> upstream/master
 =======
 ## REDMI K 系列
 >>>>>>> upstream/master
@@ -3873,6 +3927,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+**[`O11US`] REDMI K80 Pro 冠军版 (`miro`):**
+
+>>>>>>> upstream/master
 =======
 **[`O11US`] REDMI K80 Pro 冠军版 (`miro`):**
 
@@ -4229,7 +4288,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4445,6 +4507,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4459,6 +4522,8 @@
 ## 其他 REDMI 手机
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4653,6 +4718,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4942,7 +5010,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Redmi 平板
+=======
+## REDMI 平板
+>>>>>>> upstream/master
 =======
 ## REDMI 平板
 >>>>>>> upstream/master
@@ -5353,7 +5425,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5551,6 +5626,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5857,22 +5935,34 @@
 `2409FPCC4G`: POCO M7 Pro 5G 国际版
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **[`P17`] POCO M8 5G (`kunzite`):**
 
 `25118PC98G`: POCO M8 5G 国际版
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **[`P15`] POCO M8 5G (`tornado`):**
 
 `2508CPC2BI`: POCO M8 5G 印度版
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **[`P16U`] POCO M8 Pro 5G (`flourite`):**
 
 `2510EPC8BG`: POCO M8 Pro 5G 国际版
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **[`C3M`] POCO C3 (`angelicain`):**
 

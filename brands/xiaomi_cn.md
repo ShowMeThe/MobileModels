@@ -283,7 +283,10 @@
 `2509FPN0BC`: Xiaomi 17 Pro Max
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **[`P1`] Xiaomi 17 Ultra (`nezha`):**
 
 `2512BPNDAC`: Xiaomi 17 Ultra
@@ -292,6 +295,9 @@
 
 `25128PNA1C`: Xiaomi 17 Ultra by Leica
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## 小米 Note 系列
 
@@ -394,7 +400,11 @@
 **[`B3`] 小米 Max (`hydrogen`):**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 `2016001`: 小米 Max 标准版 全网通版
+=======
+`2016001`: 小米 Max 标准版
+>>>>>>> upstream/master
 =======
 `2016001`: 小米 Max 标准版
 >>>>>>> upstream/master
@@ -1245,7 +1255,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1439,6 +1452,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
