@@ -111,7 +111,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Xiaomi Watch 2 (`axolotlaxie`):**
+=======
+**[`M61C`] Xiaomi Watch 2 (`axolotlaxie`):**
+>>>>>>> upstream/master
 =======
 **[`M61C`] Xiaomi Watch 2 (`axolotlaxie`):**
 >>>>>>> upstream/master
@@ -131,7 +135,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **[`O61`] Xiaomi Watch 5 (`grass`):**
@@ -141,6 +148,9 @@
 `M2505W1`: Xiaomi Watch 5 LTE
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -357,7 +367,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -554,6 +567,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -735,7 +751,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **[`P75`] Xiaomi Buds 6:**
@@ -743,6 +762,9 @@
 `M2540E1`: Xiaomi Buds 6
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -756,7 +778,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Xiaomi 骨传导耳机 2:**
+=======
+**[`O73`] Xiaomi 骨传导耳机 2:**
+>>>>>>> upstream/master
 =======
 **[`O73`] Xiaomi 骨传导耳机 2:**
 >>>>>>> upstream/master
@@ -862,7 +888,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **[`P76`] REDMI Buds 8 Pro:**
@@ -870,6 +899,9 @@
 `M2535E1`: REDMI Buds 8 Pro
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
