@@ -1449,6 +1449,7 @@ xiaomi,25057PC09I,en,小米, POCO M7 Plus 5G India
 xiaomi,2409FPCC4G,en,小米, POCO M7 Pro 5G Global
 xiaomi,25118PC98G,en,小米, POCO M8 5G Global
 xiaomi,2508CPC2BI,en,小米, POCO M8 5G India
+xiaomi,25118PC98I,en,小米, POCO M8 5G India
 xiaomi,2510EPC8BG,en,小米, POCO M8 Pro 5G Global
 xiaomi,M2006C3MI,en,小米, POCO C3 India
 xiaomi,211033MI,en,小米, POCO C31 India
@@ -1475,6 +1476,7 @@ xiaomi,2410FPCC5I,en,小米, POCO C75 India
 xiaomi,24116PCC1I,en,小米, POCO C75 5G India
 xiaomi,25078PC3EG,en,小米, POCO C85 Global
 xiaomi,25078PC3EE,en,小米, POCO C85 Europe
+xiaomi,2508CPC2BI,en,小米, POCO C85 5G India
 xiaomi,A0101,en,小米, Mi Pad
 xiaomi,2015716,en,小米, Mi Pad 2
 xiaomi,MCE91,en,小米, Mi Pad 3
@@ -2381,6 +2383,7 @@ xiaomi,25057PC09I,cn,小米, POCO M7 Plus 5G 印度版
 xiaomi,2409FPCC4G,cn,小米, POCO M7 Pro 5G 国际版
 xiaomi,25118PC98G,cn,小米, POCO M8 5G 国际版
 xiaomi,2508CPC2BI,cn,小米, POCO M8 5G 印度版
+xiaomi,25118PC98I,cn,小米, POCO M8 5G 印度版
 xiaomi,2510EPC8BG,cn,小米, POCO M8 Pro 5G 国际版
 xiaomi,M2006C3MI,cn,小米, POCO C3 印度版
 xiaomi,211033MI,cn,小米, POCO C31 印度版
@@ -2407,6 +2410,7 @@ xiaomi,2410FPCC5I,cn,小米, POCO C75 印度版
 xiaomi,24116PCC1I,cn,小米, POCO C75 5G 印度版
 xiaomi,25078PC3EG,cn,小米, POCO C85 国际版
 xiaomi,25078PC3EE,cn,小米, POCO C85 欧洲版
+xiaomi,2508CPC2BI,cn,小米, POCO C85 5G 印度版
 xiaomi,2405CPCFBG,cn,小米, POCO Pad Wi-Fi 国际版
 xiaomi,24074PCD2I,cn,小米, POCO Pad 5G 印度版
 xiaomi,25099RP08G,cn,小米, POCO Pad X1 国际版
@@ -2700,7 +2704,13 @@ oppo,CPH2701,en,OPPO, OPPO Reno13 F
 oppo,CPH2699,en,OPPO, OPPO Reno13 F 5G / OPPO Reno13 FS 5G / OPPO Reno13 A
 oppo,CPH2737,en,OPPO, OPPO Reno14
 oppo,CPH2739,en,OPPO, OPPO Reno14 Pro
+oppo,CPH2737,en,OPPO, OPPO Reno14 5G
+oppo,CPH2739,en,OPPO, OPPO Reno14 Pro 5G
 oppo,CPH2743,en,OPPO, OPPO Reno14 F 5G / OPPO Reno14 FS 5G
+oppo,CPH2825,en,OPPO, OPPO Reno15 5G
+oppo,CPH2813,en,OPPO, OPPO Reno15 Pro 5G
+oppo,CPH2811,en,OPPO, OPPO Reno15 Pro Max 5G
+oppo,CPH2801,en,OPPO, OPPO Reno15 F 5G
 oppo,CPH1819,en,OPPO, OPPO F7
 oppo,CPH1821,en,OPPO, OPPO F7
 oppo,CPH1859,en,OPPO, OPPO F7 Youth
@@ -2775,9 +2785,17 @@ oppo,CPH2755,en,OPPO, OPPO A5i Pro
 oppo,CPH2821,en,OPPO, OPPO A5i Pro 5G
 oppo,CPH2725,en,OPPO, OPPO A5x
 oppo,CPH2733,en,OPPO, OPPO A5x 5G
+oppo,CPH2817,en,OPPO, OPPO A6
+oppo,CPH2831,en,OPPO, OPPO A6 5G
 oppo,CPH2799,en,OPPO, OPPO A6 Pro
 oppo,CPH2781,en,OPPO, OPPO A6 Pro 5G
 oppo,CPH2823,en,OPPO, OPPO A6x 5G
+oppo,CPH2815,en,OPPO, OPPO A6s
+oppo,CPH2819,en,OPPO, OPPO A6x
+oppo,CPH2783,en,OPPO, OPPO A6x 5G Global
+oppo,CPH2823,en,OPPO, OPPO A6x 5G India
+oppo,CPH2847,en,OPPO, OPPO A6t
+oppo,CPH2849,en,OPPO, OPPO A6t Pro
 oppo,CPH1901,en,OPPO, OPPO A7
 oppo,CPH1905,en,OPPO, OPPO A7
 oppo,CPH1903,en,OPPO, OPPO AX7
@@ -4108,6 +4126,7 @@ realme,RMX3852,cn,真我, 真我 GT Neo6 / 真我 GT Neo6 《完美世界》动�
 realme,RMX5060,cn,真我, 真我 Neo7 / 《画江湖之不良人》限定礼盒
 realme,RMX5060,cn,真我, 真我 Neo7 / 真我 Neo7 《画江湖之不良人》限定礼盒
 realme,RMX5071,cn,真我, 真我 Neo7x
+realme,RMX8899,cn,真我, 真我 Neo8
 realme,RMX1971,cn,真我, 真我 Q
 realme,RMX2117,cn,真我, 真我 Q2 5G
 realme,RMX2173,cn,真我, 真我 Q2 Pro 5G
@@ -4321,6 +4340,8 @@ realme,RMX5101,en,真我, realme 15 Pro 5G
 realme,RMX5111,en,真我, realme 15T 5G
 realme,RMX5000,en,真我, realme 15 Lite 5G
 realme,RMX5250,en,真我, realme 15x 5G
+realme,RMX5120,en,真我, realme 16 Pro 5G
+realme,RMX5131,en,真我, realme 16 Pro+ 5G
 realme,RMX1901,en,真我, realme X
 realme,RMX1921,en,真我, realme XT Global
 realme,RMX1922,en,真我, realme XT India
@@ -4481,6 +4502,8 @@ realme,RMX5003,en,真我, realme NARZO 70 Turbo 5G
 realme,RMX5033,en,真我, realme NARZO 80 Pro 5G
 realme,RMX3944,en,真我, realme NARZO 80x 5G
 realme,RMX3945,en,真我, realme NARZO 80 Lite 5G
+realme,RMX5111,en,真我, realme NARZO 90 5G
+realme,RMX5264,en,真我, realme NARZO 90x 5G
 realme,RMP2102,en,真我, realme Pad LTE
 realme,RMP2103,en,真我, realme Pad Wi-Fi
 realme,RMP2105,en,真我, realme Pad mini LTE
@@ -8249,6 +8272,7 @@ vivo,V2445EA,cn,VIVO, vivo Y300t / vivo Y300+
 vivo,V2452GA,cn,VIVO, vivo Y300 GT
 vivo,V2506A,cn,VIVO, vivo Y500
 vivo,V2516A,cn,VIVO, vivo Y500 Pro
+vivo,V2531A,cn,VIVO, vivo Y500i
 vivo,V2115A,cn,VIVO, vivo T1
 vivo,V2123A,cn,VIVO, vivo T1x
 vivo,V2199GA,cn,VIVO, vivo T2
@@ -8350,6 +8374,7 @@ vivo,V2452A,cn,VIVO, iQOO Z10 Turbo
 vivo,V2453A,cn,VIVO, iQOO Z10 Turbo Pro
 vivo,V2507A,cn,VIVO, iQOO Z10 Turbo+
 vivo,V2445A,cn,VIVO, iQOO Z10x
+vivo,V2536A,cn,VIVO, iQOO Z11 Turbo
 vivo,V2023A,cn,VIVO, iQOO U1
 vivo,V2065A,cn,VIVO, iQOO U1x
 vivo,V2061A,cn,VIVO, iQOO U3 5G
