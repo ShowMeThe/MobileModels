@@ -5686,6 +5686,7 @@ oppo,PKQ110,cn,OPPO, OPPO A5 5G (2025)
 oppo,PKQ110,cn,OPPO, OPPO A5 5G (2025) / OPPO A6 Plus
 oppo,PKV110,cn,OPPO, OPPO A5 活力版
 oppo,PKW110,cn,OPPO, OPPO A5x
+oppo,PKW110,cn,OPPO, OPPO A5x / OPPO A5m
 oppo,PKP110,cn,OPPO, OPPO A5 Pro
 oppo,PLS120,cn,OPPO, OPPO A6
 oppo,PLL110,cn,OPPO, OPPO A6 GT / OPPO A6 Max
@@ -7068,6 +7069,9 @@ huawei,HD75ARKA,cn,华为, 华为智慧屏 V5 Pro 75
 huawei,HD85ARKA,cn,华为, 华为智慧屏 V5 Pro 85
 huawei,HD98ARKA,cn,华为, 华为智慧屏 V5 Pro 98
 huawei,HDC0ARIA,cn,华为, 华为智慧屏 V5 Max 110
+huawei,HD75ARIC,cn,华为, 华为智慧屏 V6 75
+huawei,HD85ARIC,cn,华为, 华为智慧屏 V6 85
+huawei,HD98ARIC,cn,华为, 华为智慧屏 V6 98
 huawei,PLAT-760,cn,华为, 华为智慧屏 X65
 huawei,HD65EDIH,cn,华为, 华为智慧屏 MateTV 65 英寸
 huawei,HD75EDIH,cn,华为, 华为智慧屏 MateTV 75 英寸
@@ -7688,6 +7692,7 @@ honor,NIC-AN00,cn,荣耀, 荣耀 Play10C 5G
 honor,NLA-AN00,cn,荣耀, 荣耀 Play10A 5G
 honor,DVD-AN00,cn,荣耀, 荣耀 Power
 honor,DVD-AN80,cn,荣耀, 荣耀 Power 卫星版
+honor,SER-AN00,cn,荣耀, 荣耀 Power2
 honor,EDI-AL10,cn,荣耀, 荣耀 Note8 全网通版
 honor,EDI-DL00,cn,荣耀, 荣耀 Note8 移动/联通版
 honor,RVL-AL09,cn,荣耀, 荣耀 Note10
