@@ -124,7 +124,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -319,6 +322,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -689,17 +695,23 @@
 **OPPO Reno14 (`zhuque`) (`zhuque-s2`):**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 `CPH2737`: OPPO Reno14
 
 **OPPO Reno14 Pro (`zhuque`) (`zhuque-s1`):**
 
 `CPH2739`: OPPO Reno14 Pro
 =======
+=======
+>>>>>>> upstream/master
 `CPH2737`: OPPO Reno14 5G
 
 **OPPO Reno14 Pro (`zhuque`) (`zhuque-s1`):**
 
 `CPH2739`: OPPO Reno14 Pro 5G
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 
 **OPPO Reno14 F / OPPO Reno14 FS (`zhuque`) (`zhuque-s3`):**
@@ -707,7 +719,10 @@
 `CPH2743`: OPPO Reno14 F 5G / OPPO Reno14 FS 5G
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **OPPO Reno15:**
 
 `CPH2825`: OPPO Reno15 5G
@@ -724,6 +739,9 @@
 
 `CPH2801`: OPPO Reno15 F 5G
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## F series
 
@@ -992,6 +1010,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> upstream/master
@@ -1116,12 +1135,17 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 **OPPO A6:**
 
 `CPH2817`: OPPO A6
 
 `CPH2831`: OPPO A6 5G
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **OPPO A6 Pro:**
 
@@ -1129,6 +1153,7 @@
 
 `CPH2781`: OPPO A6 Pro 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1400,6 +1425,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 **OPPO A6s:**
 
 `CPH2815`: OPPO A6s
@@ -1420,6 +1447,9 @@
 
 `CPH2849`: OPPO A6t Pro
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **OPPO A7:**
 
