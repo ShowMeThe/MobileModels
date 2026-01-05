@@ -629,6 +629,8 @@ samsung,SM-X200,cn,三星, Galaxy Tab A8 WLAN
 samsung,SM-X205C,cn,三星, Galaxy Tab A8 LTE
 samsung,SM-X210,cn,三星, Galaxy Tab A9+ WLAN
 samsung,SM-X216C,cn,三星, Galaxy Tab A9+ 5G
+samsung,SM-X230,cn,三星, Galaxy Tab A11+ WLAN
+samsung,SM-X236C,cn,三星, Galaxy Tab A11+ 5H
 samsung,SM-T230,cn,三星, Galaxy Tab4 7.0 WLAN
 samsung,SM-T231,cn,三星, Galaxy Tab4 7.0 3G
 samsung,SM-T239C,cn,三星, Galaxy Tab4 7.0 VE LTE
@@ -4232,6 +4234,7 @@ zhixuan,JEY-AN00,cn,华为智选, Hi 畅享 70 Plus 5G
 zhixuan,JLG-AN00,cn,华为智选, Hi 畅享 80 5G / Hi 畅享 80S 5G
 zhixuan,JLG-AN80,cn,华为智选, Hi 畅享 80 GT 5G
 zhixuan,SHR-AN00,cn,华为智选, Hi 畅享 80 Pro 5G
+zhixuan,SNP-AN00,cn,华为智选, Hi 畅享 80 Plus 5G
 zhixuan,CHE-AN00,cn,华为智选, WIKO X70
 zhixuan,BRO-W00,cn,华为智选, Hi MatePad
 zhixuan,MASH-16,cn,华为智选, Hi MateBook 14 (16GB 内存)
@@ -5061,6 +5064,7 @@ vivo,V2428,en,VIVO, vivo V50e
 vivo,V2441,en,VIVO, vivo V50 Lite
 vivo,V2450,en,VIVO, vivo V50 Lite 5G
 vivo,V2453,en,VIVO, vivo V50 Lite 5G
+vivo,V2440,en,VIVO, vivo V50 Lite 5G
 vivo,V2440,en,VIVO, Jovi V50 Lite
 vivo,V2511,en,VIVO, vivo V60
 vivo,V2512,en,VIVO, vivo V60
@@ -5229,6 +5233,7 @@ vivo,I2212,en,VIVO, iQOO 11
 vivo,I2220,en,VIVO, iQOO 12
 vivo,I2401,en,VIVO, iQOO 13
 vivo,I2501,en,VIVO, iQOO 15
+vivo,I2508,en,VIVO, iQOO 15R
 vivo,I2202,en,VIVO, iQOO Neo6
 vivo,I2214,en,VIVO, iQOO Neo7
 vivo,I2217,en,VIVO, iQOO Neo7 Pro
