@@ -234,6 +234,8 @@ oneplus,PLR110,en,一加, OnePlus Ace 6T China
 oneplus,CPH2767,en,一加, OnePlus 15R India
 oneplus,CPH2769,en,一加, OnePlus 15R Europe / Global
 oneplus,CPH2771,en,一加, OnePlus 15R North America
+oneplus,PLU110,en,一加, OnePlus Turbo 6 China
+oneplus,PLY110,en,一加, OnePlus Turbo 6V China
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord Europe / Global
 oneplus,DN2101,en,一加, OnePlus Nord 2 India
@@ -2545,6 +2547,8 @@ oneplus,PLR110,cn,一加, 一加 Ace 6T 国行版
 oneplus,CPH2767,cn,一加, 一加 15R 印度版
 oneplus,CPH2769,cn,一加, 一加 15R 欧洲版 / 国际版
 oneplus,CPH2771,cn,一加, 一加 15R 北美版
+oneplus,PLU110,cn,一加, 一加 Turbo 6 国行版
+oneplus,PLY110,cn,一加, 一加 Turbo 6V 国行版
 oneplus,AC2001,cn,一加, 一加 Nord 印度版
 oneplus,AC2003,cn,一加, 一加 Nord 欧洲版 / 国际版
 oneplus,DN2101,cn,一加, 一加 Nord 2 印度版
@@ -7823,6 +7827,7 @@ honor,ELN-W09,cn,荣耀, 荣耀平板 X8 Pro 11.5 英寸 Wi-Fi 版
 honor,NDL-W09,cn,荣耀, 荣耀平板 X9 11 英寸 Wi-Fi 版
 honor,NDL-AL00,cn,荣耀, 荣耀平板 X9 11 英寸 LTE 版
 honor,ELN2-W09,cn,荣耀, 荣耀平板 X9 Pro 11.5 英寸 Wi-Fi 版
+honor,ELE2-W00,cn,荣耀, 荣耀平板 X10 Pro 11.5 英寸 Wi-Fi 版
 honor,AGM-W09HN,cn,荣耀, 荣耀平板 Z3 9.7 英寸 Wi-Fi 版
 honor,AGM-AL09HN,cn,荣耀, 荣耀平板 Z3 9.7 英寸 LTE 版
 honor,AGM3-W09HN,cn,荣耀, 荣耀平板 Z5 10.1 英寸 Wi-Fi 版
