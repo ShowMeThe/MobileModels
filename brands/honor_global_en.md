@@ -40,7 +40,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## HONOR phones
+=======
+## HONOR phones (Huawei)
+>>>>>>> upstream/master
 =======
 ## HONOR phones (Huawei)
 >>>>>>> upstream/master
@@ -370,8 +374,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ## HONOR phones (Honor Device)
+
+>>>>>>> upstream/master
+=======
+## HONOR phones (Honor)
 
 >>>>>>> upstream/master
 =======
@@ -624,6 +633,17 @@
 
 `ALI-NX1` `ALI-NX3`: HONOR Magic6 Lite 5G
 
+<<<<<<< HEAD
+=======
+**HONOR Magic V3 (`FalconP`):**
+
+`FCP-N49`: HONOR Magic V3
+
+**HONOR Magic7 (`Philippe`):**
+
+`PTP-N29`: HONOR Magic7
+
+>>>>>>> upstream/master
 **HONOR Magic7 Pro (`Patek`):**
 
 `PTP-N49`: HONOR Magic7 Pro
@@ -636,6 +656,7 @@
 
 `BRP-NX1M` `BRP-NX3`: HONOR Magic7 Lite
 
+<<<<<<< HEAD
 **HONOR Magic V3 (`FalconP`):**
 
 `FCP-N49`: HONOR Magic V3
@@ -897,6 +918,12 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+**HONOR Magic V5 (`Maybach`):**
+
+`MBH-N49`: HONOR Magic V5
+
+>>>>>>> upstream/master
 **HONOR Magic8 Pro:**
 
 `BKQ-N49`: HONOR Magic8 Pro
@@ -990,6 +1017,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1179,7 +1209,11 @@
 
 `NLA-LX1` `NLA-LX2` `NLA-LX3`: HONOR X5c
 
+<<<<<<< HEAD
 `NLA-LX2P`: HONOR X5c Plus
+=======
+`NLA-LX1` `NLA-LX2P`: HONOR X5c Plus
+>>>>>>> upstream/master
 
 **HONOR X6 (`Vinnie`):**
 
@@ -1271,6 +1305,13 @@
 
 `ABR-LX1` `ABR-LX2` `ABR-LX3`: HONOR X8c
 
+<<<<<<< HEAD
+=======
+**HONOR X8d:**
+
+`LNA-LX2` `LNA-LX3`: HONOR X8d
+
+>>>>>>> upstream/master
 **HONOR X9 (`Andy`):**
 
 `ANY-LX1` `ANY-LX2` `ANY-LX3`: HONOR X9
@@ -1344,7 +1385,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1457,6 +1501,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1630,6 +1677,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`HEY3-N09`: HONOR Pad 10 5G
+
+>>>>>>> upstream/master
 =======
 `HEY3-N09`: HONOR Pad 10 5G
 
@@ -1996,7 +2048,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2040,6 +2095,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
