@@ -5422,11 +5422,13 @@ honor,BVL-N49,en,荣耀, HONOR Magic6 Pro
 honor,BVL-N59,en,荣耀, PORSCHE DESIGN HONOR Magic6 RSR
 honor,ALI-NX1,en,荣耀, HONOR Magic6 Lite 5G
 honor,ALI-NX3,en,荣耀, HONOR Magic6 Lite 5G
+honor,FCP-N49,en,荣耀, HONOR Magic V3
+honor,PTP-N29,en,荣耀, HONOR Magic7
 honor,PTP-N49,en,荣耀, HONOR Magic7 Pro
 honor,PTP-N59,en,荣耀, PORSCHE DESIGN HONOR Magic7 RSR
 honor,BRP-NX1M,en,荣耀, HONOR Magic7 Lite
 honor,BRP-NX3,en,荣耀, HONOR Magic7 Lite
-honor,FCP-N49,en,荣耀, HONOR Magic V3
+honor,MBH-N49,en,荣耀, HONOR Magic V5
 honor,BKQ-N49,en,荣耀, HONOR Magic8 Pro
 honor,MTN-NX1M,en,荣耀, HONOR Magic8 Lite
 honor,MTN-NX3,en,荣耀, HONOR Magic8 Lite
@@ -5442,6 +5444,7 @@ honor,NLA-LX1,en,荣耀, HONOR X5c
 honor,NLA-LX2,en,荣耀, HONOR X5c
 honor,NLA-LX3,en,荣耀, HONOR X5c
 honor,NLA-LX2P,en,荣耀, HONOR X5c Plus
+honor,NLA-LX1,en,荣耀, HONOR X5c Plus
 honor,VNE-LX1,en,荣耀, HONOR X6
 honor,VNE-LX2,en,荣耀, HONOR X6
 honor,VNE-LX3,en,荣耀, HONOR X6
@@ -5493,6 +5496,8 @@ honor,LLY-LX3,en,荣耀, HONOR X8b
 honor,ABR-LX1,en,荣耀, HONOR X8c
 honor,ABR-LX2,en,荣耀, HONOR X8c
 honor,ABR-LX3,en,荣耀, HONOR X8c
+honor,LNA-LX2,en,荣耀, HONOR X8d
+honor,LNA-LX3,en,荣耀, HONOR X8d
 honor,ANY-LX1,en,荣耀, HONOR X9
 honor,ANY-LX2,en,荣耀, HONOR X9
 honor,ANY-LX3,en,荣耀, HONOR X9
@@ -7489,6 +7494,8 @@ honor,BKQ-AN00,cn,荣耀, 荣耀 Magic8
 honor,BKQ-AN80,cn,荣耀, 荣耀 Magic8 (16GB+1TB)
 honor,BKQ-AN10,cn,荣耀, 荣耀 Magic8 Pro
 honor,BKQ-AN90,cn,荣耀, 荣耀 Magic8 Pro (16GB+1TB)
+honor,LDY-AN00,cn,荣耀, 荣耀 Magic8 Pro Air
+honor,BKQ-AN20,cn,荣耀, 荣耀 Magic8 RSR 保时捷设计
 honor,H60-L01,cn,荣耀, 荣耀 6 移动版
 honor,H60-L02,cn,荣耀, 荣耀 6 联通版
 honor,H60-L03,cn,荣耀, 荣耀 6 移动定制版
