@@ -2721,6 +2721,7 @@ oppo,CPH2811,en,OPPO, OPPO Reno15 Pro Max 5G
 oppo,CPH2813,en,OPPO, OPPO Reno15 Pro 5G / OPPO Reno15 Pro Mini 5G
 oppo,CPH2811,en,OPPO, OPPO Reno15 Pro 5G / OPPO Reno15 Pro Max 5G
 oppo,CPH2801,en,OPPO, OPPO Reno15 F 5G
+oppo,CPH2801,en,OPPO, OPPO Reno15 F 5G / OPPO Reno15 FS 5G
 oppo,CPH1819,en,OPPO, OPPO F7
 oppo,CPH1821,en,OPPO, OPPO F7
 oppo,CPH1859,en,OPPO, OPPO F7 Youth
@@ -2801,6 +2802,7 @@ oppo,CPH2799,en,OPPO, OPPO A6 Pro
 oppo,CPH2781,en,OPPO, OPPO A6 Pro 5G
 oppo,CPH2823,en,OPPO, OPPO A6x 5G
 oppo,CPH2815,en,OPPO, OPPO A6s
+oppo,CPH2789,en,OPPO, OPPO A6s 5G
 oppo,CPH2819,en,OPPO, OPPO A6x
 oppo,CPH2783,en,OPPO, OPPO A6x 5G Global
 oppo,CPH2823,en,OPPO, OPPO A6x 5G India
@@ -5019,6 +5021,8 @@ vivo,V2505,en,VIVO, vivo X200 FE
 vivo,V2429,en,VIVO, vivo X Fold5
 vivo,V2515,en,VIVO, vivo X300
 vivo,V2514,en,VIVO, vivo X300 Pro
+vivo,V2537,en,VIVO, vivo X300 FE
+vivo,V2542,en,VIVO, vivo X300 FE
 vivo,V2025,en,VIVO, vivo V20
 vivo,V2022,en,VIVO, vivo V20 SE
 vivo,V2023,en,VIVO, vivo V20 SE
@@ -5711,6 +5715,7 @@ oppo,PLL110,cn,OPPO, OPPO A6 GT / OPPO A6 Max
 oppo,PLL110,cn,OPPO, OPPO A6 GT / OPPO A6 Max / OPPO A6l
 oppo,PLN110,cn,OPPO, OPPO A6 Pro
 oppo,PKW120,cn,OPPO, OPPO A6i
+oppo,PMC110,cn,OPPO, OPPO A6c
 oppo,PBCM30,cn,OPPO, OPPO K1
 oppo,PCGM00,cn,OPPO, OPPO K3 全网通版
 oppo,PCGT00,cn,OPPO, OPPO K3 移动版
@@ -8354,6 +8359,7 @@ vivo,V2307A,cn,VIVO, iQOO 12
 vivo,V2329A,cn,VIVO, iQOO 12 Pro
 vivo,V2408A,cn,VIVO, iQOO 13
 vivo,V2505A,cn,VIVO, iQOO 15
+vivo,V2546A,cn,VIVO, iQOO 15 Ultra
 vivo,V1914A,cn,VIVO, iQOO Neo 全网通版
 vivo,V1914T,cn,VIVO, iQOO Neo 移动全网通版
 vivo,V1936A,cn,VIVO, iQOO Neo 855 版 全网通版
