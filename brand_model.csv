@@ -5019,6 +5019,7 @@ vivo,V2415,en,VIVO, vivo X200
 vivo,V2413,en,VIVO, vivo X200 Pro
 vivo,V2503,en,VIVO, vivo X200 FE
 vivo,V2505,en,VIVO, vivo X200 FE
+vivo,V2561,en,VIVO, vivo X200T
 vivo,V2429,en,VIVO, vivo X Fold5
 vivo,V2515,en,VIVO, vivo X300
 vivo,V2514,en,VIVO, vivo X300 Pro
@@ -5277,6 +5278,7 @@ vivo,I2502,en,VIVO, iQOO Z10 Lite
 vivo,I2410,en,VIVO, iQOO Z10R 5G
 vivo,I2410,en,VIVO, iQOO Z10R 5G India
 vivo,I2505,en,VIVO, iQOO Z10R 5G Global
+vivo,I2507,en,VIVO, iQOO Z11x 5G
 asus,_Z01QD,cn,其他, ROG 游戏手机
 asus,_I001DA,cn,其他, ROG 游戏手机 2
 asus,_I001DB,cn,其他, ROG 游戏手机 2
@@ -9307,6 +9309,9 @@ samsung,SM-A066B,en,三星, Galaxy A06 5G Global
 samsung,SM-A066M,en,三星, Galaxy A06 5G Latin America
 samsung,SM-A075F,en,三星, Galaxy A07 Global
 samsung,SM-A075M,en,三星, Galaxy A07 Latin America
+samsung,SM-A076E,en,三星, Galaxy A07 5G Global
+samsung,SM-A076B,en,三星, Galaxy A07 5G Global
+samsung,SM-A076M,en,三星, Galaxy A07 5G Latin America
 samsung,SM-A105F,en,三星, Galaxy A10 Global
 samsung,SM-A015FN,en,三星, Galaxy A10 Global
 samsung,SM-A015G,en,三星, Galaxy A10 Global
@@ -9388,6 +9393,10 @@ samsung,SM-A166P,en,三星, Galaxy A16 5G Global (MediaTek)
 samsung,SM-A175F,en,三星, Galaxy A17 Global
 samsung,SM-A175N,en,三星, Galaxy A17 South Korea
 samsung,SM-A176B,en,三星, Galaxy A17 5G Global
+samsung,SM-A176U,en,三星, Galaxy A17 5G US Carrier
+samsung,SM-A176U1,en,三星, Galaxy A17 5G US Unlocked
+samsung,SM-S176V,en,三星, Galaxy A17 5G TracFone
+samsung,SM-A176W,en,三星, Galaxy A17 5G Canada
 samsung,SM-A1760,en,三星, Galaxy A17 5G HK & TW
 samsung,SM-A260F,en,三星, Galaxy A2 Core Global
 samsung,SM-A260G,en,三星, Galaxy A2 Core India
@@ -9650,6 +9659,7 @@ samsung,SM-M146B,en,三星, Galaxy M14 5G
 samsung,SM-M156B,en,三星, Galaxy M15 5G
 samsung,SM-M166P,en,三星, Galaxy M16 5G
 samsung,SM-M176B,en,三星, Galaxy M17 5G
+samsung,SM-M076B,en,三星, Galaxy M17e 5G
 samsung,SM-M205N,en,三星, Galaxy M20 South Korea
 samsung,SM-M205F,en,三星, Galaxy M20 Global
 samsung,SM-M205FN,en,三星, Galaxy M20 EU
@@ -9713,6 +9723,7 @@ samsung,SM-E546B,en,三星, Galaxy F54 5G
 samsung,SM-E556B,en,三星, Galaxy F55 5G
 samsung,SM-E566B,en,三星, Galaxy F56 5G
 samsung,SM-E625F,en,三星, Galaxy F62
+samsung,SM-E076B,en,三星, Galaxy F70e 5G
 nubia,NX501,cn,努比亚, nubia Z5
 nubia,NX401,cn,努比亚, nubia Z5 mini
 nubia,NX402,cn,努比亚, nubia Z5 mini
@@ -9797,6 +9808,8 @@ nubia,Z2459,cn,努比亚, nubia V70
 nubia,Z2458,cn,努比亚, nubia V70 Design
 nubia,Z2467,cn,努比亚, nubia V70 Max
 nubia,A403ZT,cn,努比亚, nubia S 5G SoftBank
+nubia,A507ZT,cn,努比亚, nubia S2e SoftBank
+nubia,Z6305R,cn,努比亚, nubia S2R
 nubia,LPD-20W,cn,努比亚, nubia Pad 3D
 nubia,NP02J,cn,努比亚, nubia Pad 3D II
 nubia,K99J,cn,努比亚, nubia Pad SE
