@@ -871,7 +871,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1015,6 +1018,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1389,13 +1395,19 @@
 `SM-A075M`: Galaxy A07 Latin America
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **Galaxy A07 5G (`a07x`):**
 
 `SM-A076E` `SM-A076B`: Galaxy A07 5G Global
 
 `SM-A076M`: Galaxy A07 5G Latin America
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **Galaxy A10 (`a10`):**
 
@@ -1687,7 +1699,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2003,6 +2018,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2215,7 +2233,10 @@
 `SM-A176B`: Galaxy A17 5G Global
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 `SM-A176U`: Galaxy A17 5G US Carrier
 
 `SM-A176U1`: Galaxy A17 5G US Unlocked
@@ -2224,6 +2245,9 @@
 
 `SM-A176W`: Galaxy A17 5G Canada
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 `SM-A1760`: Galaxy A17 5G HK & TW
 
@@ -2884,11 +2908,17 @@
 `SM-M176B`: Galaxy M17 5G
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **Galaxy M17e 5G (`a07x`):**
 
 `SM-M076B`: Galaxy M17e 5G
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **Galaxy M20 (`m20`):**
 
@@ -3114,9 +3144,15 @@
 
 `SM-E625F`: Galaxy F62
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 
 **Galaxy F70e 5G (`a07x`):**
 
 `SM-E076B`: Galaxy F70e 5G
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
