@@ -1286,14 +1286,17 @@ xiaomi,25098RA98G,en,小米, REDMI Note 15 5G Global
 xiaomi,25098RA98E,en,小米, REDMI Note 15 5G Europe
 xiaomi,25098RA98I,en,小米, REDMI Note 15 5G India
 xiaomi,25098RA98C,en,小米, REDMI Note 15 5G China
+xiaomi,25098RA98T,en,小米, REDMI Note 15 5G Saudi Arabia
 xiaomi,25100RA69G,en,小米, REDMI Note 15 Pro Global
 xiaomi,25080RABDG,en,小米, REDMI Note 15 Pro 5G Global
 xiaomi,25080RABDI,en,小米, REDMI Note 15 Pro 5G India
 xiaomi,25080RABDR,en,小米, REDMI Note 15 Pro 5G Japan
 xiaomi,25080RABDC,en,小米, REDMI Note 15 Pro 5G China
+xiaomi,25080RABDT,en,小米, REDMI Note 15 Pro 5G Saudi Arabia
 xiaomi,2510ERA8BG,en,小米, REDMI Note 15 Pro+ 5G Global
 xiaomi,2510ERA8BI,en,小米, REDMI Note 15 Pro+ 5G India
 xiaomi,2510ERA8BC,en,小米, REDMI Note 15 Pro+ 5G China
+xiaomi,2510ERA8BT,en,小米, REDMI Note 15 Pro+ 5G Saudi Arabia
 xiaomi,25104RADAC,en,小米, REDMI Note 15 Pro+ 5G Satellite China
 xiaomi,25057RA09C,en,小米, REDMI Note 15R China
 xiaomi,M2004J7AC,en,小米, Redmi 10X 5G China
@@ -1302,6 +1305,8 @@ xiaomi,M2003J15SC,en,小米, Redmi 10X 4G China
 xiaomi,24069RA21C,en,小米, Redmi Turbo 3 China
 xiaomi,24129RT7CC,en,小米, REDMI Turbo 4 China
 xiaomi,25053RT47C,en,小米, REDMI Turbo 4 Pro China
+xiaomi,2511FRT34C,en,小米, REDMI Turbo 5 China
+xiaomi,2602BRT18C,en,小米, REDMI Turbo 5 Max China
 xiaomi,M1903F10A,en,小米, Redmi K20 China
 xiaomi,M1903F10C,en,小米, Redmi K20 Chinese Carrier Version
 xiaomi,M1903F10I,en,小米, Redmi K20 India
@@ -2188,14 +2193,17 @@ xiaomi,25098RA98C,cn,小米, REDMI Note 15 国行版
 xiaomi,25098RA98G,cn,小米, REDMI Note 15 5G 国际版
 xiaomi,25098RA98E,cn,小米, REDMI Note 15 5G 欧洲版
 xiaomi,25098RA98I,cn,小米, REDMI Note 15 5G 印度版
+xiaomi,25098RA98T,cn,小米, REDMI Note 15 5G 沙特版
 xiaomi,25100RA69G,cn,小米, REDMI Note 15 Pro 国际版
 xiaomi,25080RABDC,cn,小米, REDMI Note 15 Pro 国行版
 xiaomi,25080RABDG,cn,小米, REDMI Note 15 Pro 5G 国际版
 xiaomi,25080RABDI,cn,小米, REDMI Note 15 Pro 5G 印度版
 xiaomi,25080RABDR,cn,小米, REDMI Note 15 Pro 5G 日本版
+xiaomi,25080RABDT,cn,小米, REDMI Note 15 Pro 5G 沙特版
 xiaomi,2510ERA8BC,cn,小米, REDMI Note 15 Pro+ 国行版
 xiaomi,2510ERA8BG,cn,小米, REDMI Note 15 Pro+ 5G 国际版
 xiaomi,2510ERA8BI,cn,小米, REDMI Note 15 Pro+ 5G 印度版
+xiaomi,2510ERA8BT,cn,小米, REDMI Note 15 Pro+ 5G 沙特版
 xiaomi,25104RADAC,cn,小米, REDMI Note 15 Pro+ 卫星消息版
 xiaomi,25057RA09C,cn,小米, REDMI Note 15R
 xiaomi,M2004J7AC,cn,小米, Redmi 10X 5G
@@ -2204,6 +2212,8 @@ xiaomi,M2003J15SC,cn,小米, Redmi 10X 4G
 xiaomi,24069RA21C,cn,小米, Redmi Turbo 3
 xiaomi,24129RT7CC,cn,小米, REDMI Turbo 4
 xiaomi,25053RT47C,cn,小米, REDMI Turbo 4 Pro
+xiaomi,2511FRT34C,cn,小米, REDMI Turbo 5
+xiaomi,2602BRT18C,cn,小米, REDMI Turbo 5 Max
 xiaomi,M1903F10A,cn,小米, Redmi K20 全网通版
 xiaomi,M1903F10C,cn,小米, Redmi K20 运营商全网通版
 xiaomi,M1903F10I,cn,小米, Redmi K20 印度版
