@@ -183,6 +183,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
         - ⚠️ 2026 年起型号的计算规则疑似已变更
 >>>>>>> upstream/master
@@ -197,6 +198,11 @@
 >>>>>>> upstream/master
     - 第二、三位代表产品系列，`PN` - Xiaomi 数字/Civi，`PX` - Xiaomi MIX，`PY` - Xiaomi Civi，`RA` - Redmi Note，`RT` - Redmi Turbo，`RN` - Redmi 数字，`RK` - Redmi K，`PC` - POCO，`RP` - Xiaomi/Redmi 平板；`PS` - 摄影手柄；`MP` - 平板触控笔；`KB` - 平板键盘
 - `一位字母`: 区分渠道版本，`C` - 国行全网通版，`A` `G` `X` - 全球版，`O` `Y` - 全球版（NFC），`E` - 欧洲版，`I` `P` - 印度版，`H` - 可能是全球版也可能是印度版，`L` - 拉丁美洲版，`R` - 日本版，`T` - 泰国版
+=======
+        - ⚠️ 2026 年起型号的计算规则疑似已变更
+    - 第二、三位代表产品系列，`PN` - Xiaomi 数字/Civi，`PX` - Xiaomi MIX，`PY` - Xiaomi Civi，`RA` - Redmi Note，`RT` - Redmi Turbo，`RN` - Redmi 数字，`RK` - Redmi K，`PC` - POCO，`RP` - Xiaomi/Redmi 平板；`PS` - 摄影手柄；`MP` - 平板触控笔；`KB` - 平板键盘
+- `一位字母`: 区分渠道版本，`C` - 国行全网通版，`A` `G` `X` - 全球版，`O` `Y` - 全球版（NFC），`E` - 欧洲版，`I` `P` - 印度版，`H` - 可能是全球版也可能是印度版，`L` - 拉丁美洲版，`R` - 日本版，`T` - 泰国版或沙特阿拉伯版
+>>>>>>> upstream/master
 =======
         - ⚠️ 2026 年起型号的计算规则疑似已变更
     - 第二、三位代表产品系列，`PN` - Xiaomi 数字/Civi，`PX` - Xiaomi MIX，`PY` - Xiaomi Civi，`RA` - Redmi Note，`RT` - Redmi Turbo，`RN` - Redmi 数字，`RK` - Redmi K，`PC` - POCO，`RP` - Xiaomi/Redmi 平板；`PS` - 摄影手柄；`MP` - 平板触控笔；`KB` - 平板键盘
