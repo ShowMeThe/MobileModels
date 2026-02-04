@@ -140,7 +140,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **真我 GT2 Pro:**
+=======
+**真我 GT2 Pro (`ferrari`):**
+>>>>>>> upstream/master
 =======
 **真我 GT2 Pro (`ferrari`):**
 >>>>>>> upstream/master
@@ -334,6 +338,7 @@
 
 `RMX3551`: 真我 GT2 大师探索版
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -786,6 +791,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **真我 GT5 150W (`zonda-a`):**
 
 `RMX3820`: 真我 GT5 150W
@@ -865,7 +872,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `RMX6688`: 真我 GT7 / 阿斯顿马丁 F1 限量版
+=======
+`RMX6688`: 真我 GT7 / 真我 GT7 阿斯顿马丁 F1 限量版
+>>>>>>> upstream/master
 =======
 `RMX6688`: 真我 GT7 / 真我 GT7 阿斯顿马丁 F1 限量版
 >>>>>>> upstream/master
@@ -1119,6 +1130,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1320,6 +1334,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1485,6 +1502,7 @@
 
 `RMX3562`: 真我 GT Neo3 150W
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1738,6 +1756,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **真我 GT Neo5 150W (`senna-b`):**
 
 `RMX3706`: 真我 GT Neo5 150W
@@ -1813,7 +1833,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `RMX3852`: 真我 GT Neo6 / 《完美世界》动画云曦限定礼盒
+=======
+`RMX3852`: 真我 GT Neo6 / 真我 GT Neo6 《完美世界》动画云曦限定礼盒
+>>>>>>> upstream/master
 =======
 `RMX3852`: 真我 GT Neo6 / 真我 GT Neo6 《完美世界》动画云曦限定礼盒
 >>>>>>> upstream/master
@@ -2065,7 +2089,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `RMX5060`: 真我 Neo7 / 《画江湖之不良人》限定礼盒
+>>>>>>> upstream/master
+=======
+`RMX5060`: 真我 Neo7 / 真我 Neo7 《画江湖之不良人》限定礼盒
 >>>>>>> upstream/master
 =======
 `RMX5060`: 真我 Neo7 / 真我 Neo7 《画江湖之不良人》限定礼盒
@@ -2319,6 +2347,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2520,6 +2551,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2595,6 +2627,8 @@
 `RMX5071`: 真我 Neo7x
 
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2704,6 +2738,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2893,6 +2930,7 @@
 
 `RMX3920`: 真我 13 Pro+
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3178,6 +3216,9 @@
 =======
 **真我 14 (`dongfeng`):**
 >>>>>>> upstream/master
+=======
+**真我 14 (`dongfeng`):**
+>>>>>>> upstream/master
 
 `RMX5075`: 真我 14
 
@@ -3244,7 +3285,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **真我 14 Pro+:**
+=======
+**真我 14 Pro+ (`piaget`):**
+>>>>>>> upstream/master
 =======
 **真我 14 Pro+ (`piaget`):**
 >>>>>>> upstream/master
@@ -3488,12 +3533,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **真我 15 Pro:**
 
 `RMX5100`: 真我 15 Pro
 
 **真我 15T:**
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3673,6 +3721,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3790,6 +3839,8 @@
 `RMX5112`: 真我 15T
 
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 
@@ -3808,6 +3859,9 @@
 `RMX5130`: 真我 16 Pro+
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
