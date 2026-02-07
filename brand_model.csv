@@ -5134,7 +5134,13 @@ vivo,V2221,en,VIVO, vivo Y02s
 vivo,V2229,en,VIVO, vivo Y02s
 vivo,V2532,en,VIVO, vivo Y04e
 vivo,V2531,en,VIVO, vivo Y04s
+vivo,V2556,en,VIVO, vivo Y05
+vivo,V2565,en,VIVO, vivo Y05
 vivo,V2028,en,VIVO, vivo Y11s
+vivo,V2555,en,VIVO, vivo Y11d
+vivo,V2578,en,VIVO, vivo Y11d
+vivo,V2580,en,VIVO, vivo Y11d
+vivo,V2577,en,VIVO, vivo Y11e
 vivo,V2026,en,VIVO, vivo Y12A
 vivo,V2048,en,VIVO, vivo Y12D
 vivo,V2026,en,VIVO, vivo Y12s
@@ -5152,6 +5158,7 @@ vivo,V2410,en,VIVO, vivo Y18s
 vivo,V2408,en,VIVO, vivo Y18t
 vivo,V2350,en,VIVO, vivo Y18e
 vivo,V2414,en,VIVO, vivo Y18i
+vivo,V2432,en,VIVO, vivo Y19 5G
 vivo,V2419,en,VIVO, vivo Y19s
 vivo,V2423,en,VIVO, vivo Y19s
 vivo,V2425,en,VIVO, Jovi Y19s
@@ -5173,6 +5180,7 @@ vivo,V2111,en,VIVO, vivo Y21
 vivo,V2149,en,VIVO, vivo Y21A
 vivo,V2111-EG,en,VIVO, vivo Y21A
 vivo,V2140,en,VIVO, vivo Y21e
+vivo,V2140,en,VIVO, vivo Y21e (2022)
 vivo,V2152,en,VIVO, vivo Y21G
 vivo,V2110,en,VIVO, vivo Y21s
 vivo,V2136,en,VIVO, vivo Y21s
@@ -5183,6 +5191,7 @@ vivo,V2524,en,VIVO, vivo Y21d
 vivo,V2535,en,VIVO, vivo Y21d
 vivo,V2525,en,VIVO, vivo Y21d
 vivo,V2560,en,VIVO, vivo Y21d
+vivo,V2525,en,VIVO, vivo Y21e (2025)
 vivo,V2207,en,VIVO, vivo Y22
 vivo,V2238,en,VIVO, vivo Y22
 vivo,V2206,en,VIVO, vivo Y22s
@@ -5207,6 +5216,7 @@ vivo,V2036,en,VIVO, vivo Y31
 vivo,V2036_21,en,VIVO, vivo Y31
 vivo,V2521,en,VIVO, vivo Y31 5G
 vivo,V2534,en,VIVO, vivo Y31 Pro 5G
+vivo,V2533,en,VIVO, vivo Y31e 5G
 vivo,V2057,en,VIVO, vivo Y33
 vivo,V2109-EG,en,VIVO, vivo Y33A
 vivo,V2109,en,VIVO, vivo Y33s
