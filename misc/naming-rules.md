@@ -142,6 +142,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `V` 或 `I` + `四位数字` + `一位字母`
 - `V` 代表 vivo，`I` 代表 iQOO（仅海外版）
 - `四位数字`: 前二位代表年份，后二位用于区分产品；部分型号后跟一位字母，代表衍生版本
@@ -149,6 +150,8 @@
 - **示例:** `V2136A`（iQOO 8 全网通版），其中 `21` 代表 2021 年（个别产品可能有出入）；`A` 代表全网通版
 - **注:** 海外版型号 `四位数字` 与国行无对应关系
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -161,6 +164,9 @@
 - **注:** 国行版型号 `四位数字` 通常与机型代号相关；海外版型号 `四位数字` 与国行无对应关系，亦与机型代号无关
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -210,6 +216,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
         - ⚠️ 2026 年起型号的计算规则疑似已变更
 >>>>>>> upstream/master
@@ -224,6 +231,11 @@
 >>>>>>> upstream/master
     - 第二、三位代表产品系列，`PN` - Xiaomi 数字/Civi，`PX` - Xiaomi MIX，`PY` - Xiaomi Civi，`RA` - Redmi Note，`RT` - Redmi Turbo，`RN` - Redmi 数字，`RK` - Redmi K，`PC` - POCO，`RP` - Xiaomi/Redmi 平板；`PS` - 摄影手柄；`MP` - 平板触控笔；`KB` - 平板键盘
 - `一位字母`: 区分渠道版本，`C` - 国行全网通版，`A` `G` `X` - 全球版，`O` `Y` - 全球版（NFC），`E` - 欧洲版，`I` `P` - 印度版，`H` - 可能是全球版也可能是印度版，`L` - 拉丁美洲版，`R` - 日本版，`T` - 泰国版
+=======
+        - ⚠️ 2026 年起型号的计算规则疑似已变更
+    - 第二、三位代表产品系列，`PN` - Xiaomi 数字/Civi，`PX` - Xiaomi MIX，`PY` - Xiaomi Civi，`RA` - Redmi Note，`RT` - Redmi Turbo，`RN` - Redmi 数字，`RK` - Redmi K，`PC` - POCO，`RP` - Xiaomi/Redmi 平板；`PS` - 摄影手柄；`MP` - 平板触控笔；`KB` - 平板键盘
+- `一位字母`: 区分渠道版本，`C` - 国行全网通版，`A` `G` `X` - 全球版，`O` `Y` - 全球版（NFC），`E` - 欧洲版，`I` `P` - 印度版，`H` - 可能是全球版也可能是印度版，`L` - 拉丁美洲版，`R` - 日本版，`T` - 泰国版或沙特阿拉伯版
+>>>>>>> upstream/master
 =======
         - ⚠️ 2026 年起型号的计算规则疑似已变更
     - 第二、三位代表产品系列，`PN` - Xiaomi 数字/Civi，`PX` - Xiaomi MIX，`PY` - Xiaomi Civi，`RA` - Redmi Note，`RT` - Redmi Turbo，`RN` - Redmi 数字，`RK` - Redmi K，`PC` - POCO，`RP` - Xiaomi/Redmi 平板；`PS` - 摄影手柄；`MP` - 平板触控笔；`KB` - 平板键盘
