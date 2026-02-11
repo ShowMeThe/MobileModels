@@ -1430,6 +1430,10 @@ xiaomi,24095PCADG,en,小米, POCO X7 Global
 xiaomi,24095PCADI,en,小米, POCO X7 India
 xiaomi,2412DPC0AG,en,小米, POCO X7 Pro Global
 xiaomi,2412DPC0AI,en,小米, POCO X7 Pro India
+xiaomi,2511FPC34G,en,小米, POCO X8 Pro Global
+xiaomi,2511FPC34I,en,小米, POCO X8 Pro India
+xiaomi,2602BPC18G,en,小米, POCO X8 Pro Max Global
+xiaomi,2602BPC18I,en,小米, POCO X8 Pro Max India
 xiaomi,M2004J19PI,en,小米, POCO M2 India
 xiaomi,M2003J6CI,en,小米, POCO M2 Pro India
 xiaomi,M2010J19CG,en,小米, POCO M3 Global
@@ -2369,6 +2373,10 @@ xiaomi,24095PCADG,cn,小米, POCO X7 国际版
 xiaomi,24095PCADI,cn,小米, POCO X7 印度版
 xiaomi,2412DPC0AG,cn,小米, POCO X7 Pro 国际版
 xiaomi,2412DPC0AI,cn,小米, POCO X7 Pro 印度版
+xiaomi,2511FPC34G,cn,小米, POCO X8 Pro 国际版
+xiaomi,2511FPC34I,cn,小米, POCO X8 Pro 印度版
+xiaomi,2602BPC18G,cn,小米, POCO X8 Pro Max 国际版
+xiaomi,2602BPC18I,cn,小米, POCO X8 Pro Max 印度版
 xiaomi,M2004J19PI,cn,小米, POCO M2 印度版
 xiaomi,M2003J6CI,cn,小米, POCO M2 Pro 印度版
 xiaomi,M2010J19CG,cn,小米, POCO M3 国际版
@@ -2732,6 +2740,7 @@ oppo,CPH2813,en,OPPO, OPPO Reno15 Pro 5G / OPPO Reno15 Pro Mini 5G
 oppo,CPH2811,en,OPPO, OPPO Reno15 Pro 5G / OPPO Reno15 Pro Max 5G
 oppo,CPH2801,en,OPPO, OPPO Reno15 F 5G
 oppo,CPH2801,en,OPPO, OPPO Reno15 F 5G / OPPO Reno15 FS 5G
+oppo,CPH2801,en,OPPO, OPPO Reno15 F 5G / OPPO Reno15 FS 5G / OPPO Reno15c 5G
 oppo,CPH1819,en,OPPO, OPPO F7
 oppo,CPH1821,en,OPPO, OPPO F7
 oppo,CPH1859,en,OPPO, OPPO F7 Youth
@@ -2818,6 +2827,7 @@ oppo,CPH2783,en,OPPO, OPPO A6x 5G Global
 oppo,CPH2823,en,OPPO, OPPO A6x 5G India
 oppo,CPH2847,en,OPPO, OPPO A6t
 oppo,CPH2849,en,OPPO, OPPO A6t Pro
+oppo,CPH2851,en,OPPO, OPPO A6t Pro 5G
 oppo,CPH1901,en,OPPO, OPPO A7
 oppo,CPH1905,en,OPPO, OPPO A7
 oppo,CPH1903,en,OPPO, OPPO AX7
@@ -2915,6 +2925,8 @@ oppo,CPH2729,en,OPPO, OPPO K13 5G
 oppo,CPH2753,en,OPPO, OPPO K13x 5G
 oppo,CPH2761,en,OPPO, OPPO K13 Turbo 5G
 oppo,CPH2731,en,OPPO, OPPO K13 Turbo Pro 5G
+oppo,CPH2869,en,OPPO, OPPO K14 5G
+oppo,CPH2871,en,OPPO, OPPO K14x 5G
 oppo,OPD2102A,en,OPPO, OPPO Pad Air
 oppo,OPD2202,en,OPPO, OPPO Pad 2
 oppo,OPD2302,en,OPPO, OPPO Pad Neo Wi-Fi
