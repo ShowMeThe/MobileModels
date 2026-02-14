@@ -47,8 +47,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - ⚠️ 名义上支持，但严格限制名额/审核，或新机型不再支持解锁，或存在免费且公开的非官方解锁方案 | **可点击**
 - ⏹ 部分支持/部分开源/部分保修 | **可点击**
+=======
+- ☑️ 部分支持/部分开源/部分保修 | **可点击**
+- ✖️ 名义上支持，但严格限制名额/审核，或新机型不再支持解锁，或官方解锁渠道正在关闭，或存在免费且公开的非官方解锁方案 | **可点击**
+>>>>>>> upstream/master
 =======
 - ☑️ 部分支持/部分开源/部分保修 | **可点击**
 - ✖️ 名义上支持，但严格限制名额/审核，或新机型不再支持解锁，或官方解锁渠道正在关闭，或存在免费且公开的非官方解锁方案 | **可点击**
@@ -275,7 +280,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **Bootloader 解锁**: [⏹](https://source.android.com/source/running#unlocking-the-bootloader)
+=======
+- **Bootloader 解锁**: [☑️](https://source.android.com/source/running#unlocking-the-bootloader)
+>>>>>>> upstream/master
 =======
 - **Bootloader 解锁**: [☑️](https://source.android.com/source/running#unlocking-the-bootloader)
 >>>>>>> upstream/master
@@ -448,7 +457,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **Linux 内核开源**: [⏹](https://www.hihonor.com/global/opensource/)
+=======
+- **Linux 内核开源**: [☑️](https://www.hihonor.com/global/opensource/)
+>>>>>>> upstream/master
 =======
 - **Linux 内核开源**: [☑️](https://www.hihonor.com/global/opensource/)
 >>>>>>> upstream/master
@@ -613,7 +626,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **Linux 内核开源**: [⏹](https://consumer.huawei.com/en/opensource/)
+=======
+- **Linux 内核开源**: [☑️](https://consumer.huawei.com/en/opensource/)
+>>>>>>> upstream/master
 =======
 - **Linux 内核开源**: [☑️](https://consumer.huawei.com/en/opensource/)
 >>>>>>> upstream/master
@@ -779,7 +796,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **Bootloader 解锁**: [⚠️](https://www.htcdev.com/bootloader/)
+=======
+- **Bootloader 解锁**: [✖️](https://www.htcdev.com/bootloader/)
+>>>>>>> upstream/master
 =======
 - **Bootloader 解锁**: [✖️](https://www.htcdev.com/bootloader/)
 >>>>>>> upstream/master
@@ -953,11 +974,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **解锁后保修状态**: ⏹
 - **是否支持回锁**: ⏹
     - **是否支持自定义信任根**: ⏹
 - **Linux 内核开源**: [⏹](https://support.lenovo.com/us/en/solutions/ht511330-lenovo-open-source-portal)
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1079,6 +1103,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1212,7 +1239,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **Linux 内核开源**: ⏹
+=======
+- **Linux 内核开源**: ☑️
+>>>>>>> upstream/master
 =======
 - **Linux 内核开源**: ☑️
 >>>>>>> upstream/master
@@ -1383,7 +1414,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **Linux 内核开源**: [⏹](https://github.com/meizuosc)
+=======
+- **Linux 内核开源**: [☑️](https://github.com/meizuosc)
+>>>>>>> upstream/master
 =======
 - **Linux 内核开源**: [☑️](https://github.com/meizuosc)
 >>>>>>> upstream/master
@@ -1563,8 +1598,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **是否支持回锁**: ⏹
     - **是否支持自定义信任根**: ⏹
+=======
+- **是否支持回锁**: ☑️
+    - **是否支持自定义信任根**: ☑️
+>>>>>>> upstream/master
 =======
 - **是否支持回锁**: ☑️
     - **是否支持自定义信任根**: ☑️
@@ -1787,6 +1827,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - 解锁后会暂时屏蔽 TEE，回锁后恢复（解锁后的 TEE 功能可使用 OPPO/一加/真我 的方法修复）
 
 ## 努比亚 (nubia) & 红魔 (Red Magic)
@@ -1795,6 +1836,8 @@
 - **是否支持回锁**: ✅
 - **Linux 内核开源**: [⏹](https://github.com/ztemt) | [⏹](https://opensource.ztedevices.com/)
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1919,6 +1962,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2047,7 +2093,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - **是否支持自定义信任根**: ⏹
+=======
+    - **是否支持自定义信任根**: ☑️
+>>>>>>> upstream/master
 =======
     - **是否支持自定义信任根**: ☑️
 >>>>>>> upstream/master
@@ -2218,7 +2268,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - 解锁后会暂时屏蔽 TEE，回锁后恢复（解锁后 TEE 的功能除 SOTER key 外可修复）
+=======
+    - 高通平台机型解锁后会暂时屏蔽 TEE，回锁后恢复（解锁后 TEE 的功能除 SOTER key 外可用第三方手段修复）
+>>>>>>> upstream/master
 =======
     - 高通平台机型解锁后会暂时屏蔽 TEE，回锁后恢复（解锁后 TEE 的功能除 SOTER key 外可用第三方手段修复）
 >>>>>>> upstream/master
@@ -2383,7 +2437,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **Bootloader 解锁**: [⚠️](https://www.oppo.cn/thread-397164526-1)
+=======
+- **Bootloader 解锁**: [✖️](https://www.oppo.cn/thread-397164526-1)
+>>>>>>> upstream/master
 =======
 - **Bootloader 解锁**: [✖️](https://www.oppo.cn/thread-397164526-1)
 >>>>>>> upstream/master
@@ -2552,12 +2610,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - 解锁后会暂时屏蔽 TEE，回锁后恢复（解锁后 TEE 的功能除 SOTER key 外可修复）
     - 手机产品获取 ROOT 后，若刷机（官网下载升级工具自行刷机或官方服务中心免费协助刷机）后可恢复系统则享有正常的三包服务；刷机不可以恢复则只享有保修服务，不适用退换机服务。
 
 ## 真我 (realme)
 - **Bootloader 解锁**: [⏹](https://www.realmebbs.com/post-details/1275426081138028544)
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2680,6 +2741,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2811,6 +2875,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - 解锁后会暂时屏蔽 TEE，回锁后恢复（解锁后 TEE 的功能除 SOTER key 外可修复）
 
 ## 三星 (Samsung)
@@ -2820,6 +2885,8 @@
 - **是否支持回锁**: ✅
     - **是否支持自定义信任根**: ⏹
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2945,6 +3012,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3072,12 +3142,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **Bootloader 解锁**: [⏹](https://developer.sony.com/develop/open-devices/get-started/unlock-bootloader)
 - **解锁等待时长**: 无 (秒解)
 - **解锁后保修状态**: ❌
 - **是否支持回锁**: ✅
     - **是否支持自定义信任根**: ⏹
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3200,6 +3273,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3326,12 +3402,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **Bootloader 解锁**: ⚠️
 - **解锁等待时长**: 无 (秒解)
 - **解锁后保修状态**: 不详
 - **是否支持回锁**: ❌
 - **Linux 内核开源**: [⏹](https://github.com/SmartisanTech/SmartisanOS_Kernel_Source)
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3454,6 +3533,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3579,7 +3661,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **Linux 内核开源**: [⏹](https://opensource.vivo.com/Project)
+=======
+- **Linux 内核开源**: [☑️](https://opensource.vivo.com/Project)
+>>>>>>> upstream/master
 =======
 - **Linux 内核开源**: [☑️](https://opensource.vivo.com/Project)
 >>>>>>> upstream/master
@@ -3746,8 +3832,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - **国行机型:** [⚠️](https://web.vip.miui.com/page/info/mio/mio/testDetails?type=BL_BLOCK&id=-1)
     - **非国行机型:** [⚠️](https://c.mi.com/global/post/710306/)
+=======
+    - **国行机型:** [✖️](https://web.vip.miui.com/page/info/mio/mio/testDetails?type=BL_BLOCK&id=-1)
+    - **非国行机型:** [✖️](https://c.mi.com/global/post/710306/)
+>>>>>>> upstream/master
 =======
     - **国行机型:** [✖️](https://web.vip.miui.com/page/info/mio/mio/testDetails?type=BL_BLOCK&id=-1)
     - **非国行机型:** [✖️](https://c.mi.com/global/post/710306/)
@@ -3954,7 +4045,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **Linux 内核开源**: [⏹](https://github.com/MiCode)
+=======
+- **Linux 内核开源**: [☑️](https://github.com/MiCode)
+>>>>>>> upstream/master
 =======
 - **Linux 内核开源**: [☑️](https://github.com/MiCode)
 >>>>>>> upstream/master
@@ -4130,6 +4225,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+            - 2026 年暂未开放解锁申请入口
+>>>>>>> upstream/master
 =======
             - 2026 年暂未开放解锁申请入口
 >>>>>>> upstream/master
@@ -4297,6 +4396,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+        - MIUI 12 及以下系统不再提供解锁
+>>>>>>> upstream/master
 =======
         - MIUI 12 及以下系统不再提供解锁
 >>>>>>> upstream/master
