@@ -259,6 +259,17 @@
 
 `GM66V`: Pixel 10 Pro Fold (Japan)
 
+<<<<<<< HEAD
+=======
+**Pixel 10a (`stallion`):**
+
+`GE1GQ`: Pixel 10a (US)
+
+`G4H7L`: Pixel 10a (Global)
+
+`GV0BP`: Pixel 10a (Japan)
+
+>>>>>>> upstream/master
 **Pixel C (`dragon`):**
 
 `C1502W`: Pixel C
@@ -415,8 +426,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `GRY0E`: Pixel Watch 3 LTE (45mm)
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -772,6 +786,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+`G1KAW`: Pixel Watch 4 LTE (45mm)
+>>>>>>> upstream/master
+=======
 `G1KAW`: Pixel Watch 4 LTE (45mm)
 >>>>>>> upstream/master
 =======
