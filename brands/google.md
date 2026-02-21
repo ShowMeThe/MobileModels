@@ -261,7 +261,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **Pixel 10a (`stallion`):**
@@ -273,6 +276,9 @@
 `GV0BP`: Pixel 10a (Japan)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -434,8 +440,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `GRY0E`: Pixel Watch 3 LTE (45mm)
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -797,6 +806,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+`G1KAW`: Pixel Watch 4 LTE (45mm)
+>>>>>>> upstream/master
+=======
 `G1KAW`: Pixel Watch 4 LTE (45mm)
 >>>>>>> upstream/master
 =======
