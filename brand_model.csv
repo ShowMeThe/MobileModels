@@ -3159,6 +3159,39 @@ samsung,SM-S731U,en,三星, Galaxy S25 FE US Carrier
 samsung,SM-S731U1,en,三星, Galaxy S25 FE US Unlocked
 samsung,SM-S731W,en,三星, Galaxy S25 FE Canada
 samsung,SM-S731N,en,三星, Galaxy S25 FE South Korea
+samsung,SM-S942B,en,三星, Galaxy S26 Global
+samsung,SM-S942N,en,三星, Galaxy S26 South Korea
+samsung,SM-S942U,en,三星, Galaxy S26 US Carrier
+samsung,SM-S942U1,en,三星, Galaxy S26 US Unlocked
+samsung,SM-S942W,en,三星, Galaxy S26 Canada
+samsung,SM-S9420,en,三星, Galaxy S26 China
+samsung,SM-S942Q,en,三星, Galaxy S26 Japan (SIM Free)
+samsung,SM-S942Z,en,三星, Galaxy S26 Japan (SoftBank)
+samsung,SM-S942C,en,三星, Galaxy S26 Japan (Rakuten Mobile)
+samsung,SCG36,en,三星, Galaxy S26 Japan (au)
+samsung,SC-51G,en,三星, Galaxy S26 Japan (NTT Docomo)
+samsung,SM-S947B,en,三星, Galaxy S26+ Global
+samsung,SM-S947N,en,三星, Galaxy S26+ South Korea
+samsung,SM-S947U,en,三星, Galaxy S26+ US Carrier
+samsung,SM-S947U1,en,三星, Galaxy S26+ US Unlocked
+samsung,SM-S947W,en,三星, Galaxy S26+ Canada
+samsung,SM-S9470,en,三星, Galaxy S26+ China
+samsung,SM-S947Q,en,三星, Galaxy S26+ Japan (SIM Free)
+samsung,SM-S947Z,en,三星, Galaxy S26+ Japan (SoftBank)
+samsung,SM-S947C,en,三星, Galaxy S26+ Japan (Rakuten Mobile)
+samsung,SCG38,en,三星, Galaxy S26+ Japan (au)
+samsung,SC-52G,en,三星, Galaxy S26+ Japan (NTT Docomo)
+samsung,SM-S948B,en,三星, Galaxy S26 Ultra Global
+samsung,SM-S948U,en,三星, Galaxy S26 Ultra US Carrier
+samsung,SM-S948U1,en,三星, Galaxy S26 Ultra US Unlocked
+samsung,SM-S948W,en,三星, Galaxy S26 Ultra Canada
+samsung,SM-S9480,en,三星, Galaxy S26 Ultra China
+samsung,SM-S948N,en,三星, Galaxy S26 Ultra South Korea
+samsung,SM-S948Q,en,三星, Galaxy S26 Ultra Japan (SIM Free)
+samsung,SM-S948Z,en,三星, Galaxy S26 Ultra Japan (SoftBank)
+samsung,SM-S948C,en,三星, Galaxy S26 Ultra Japan (Rakuten Mobile)
+samsung,SCG37,en,三星, Galaxy S26 Ultra Japan (au)
+samsung,SC-53G,en,三星, Galaxy S26 Ultra Japan (NTT Docomo)
 samsung,SM-N960F,en,三星, Galaxy Note9 Global
 samsung,SM-N960U,en,三星, Galaxy Note9 US Carrier
 samsung,SM-N960U1,en,三星, Galaxy Note9 US Unlocked
@@ -3586,6 +3619,13 @@ samsung,SM-S366V,en,三星, Galaxy A36 5G TracFone
 samsung,SM-A366W,en,三星, Galaxy A36 5G Canada
 samsung,SM-A3660,en,三星, Galaxy A36 5G HK & TW
 samsung,SM-A366N,en,三星, Galaxy A36 5G South Korea
+samsung,SM-A376E,en,三星, Galaxy A37 5G Global
+samsung,SM-A376B,en,三星, Galaxy A37 5G EU
+samsung,SM-A376U,en,三星, Galaxy A37 5G US Carrier
+samsung,SM-A376U1,en,三星, Galaxy A37 5G US Unlocked
+samsung,SM-S376V,en,三星, Galaxy A37 5G TracFone
+samsung,SM-A376W,en,三星, Galaxy A37 5G Canada
+samsung,SM-A3760,en,三星, Galaxy A37 5G HK & TW
 samsung,SM-A405FN,en,三星, Galaxy A40 Global
 samsung,SM-A405FM,en,三星, Galaxy A40 Russia
 samsung,SM-A405S,en,三星, Galaxy A40 South Korea (SK Telecom)
@@ -3659,15 +3699,25 @@ samsung,SM-A546W,en,三星, Galaxy A54 5G Canada
 samsung,SM-A5460,en,三星, Galaxy A54 5G China
 samsung,SCG21,en,三星, Galaxy A54 5G Japan (au)
 samsung,SC-53D,en,三星, Galaxy A54 5G Japan (NTT Docomo)
+samsung,SM-A546S,en,三星, Galaxy Quantum4 South Korea
 samsung,SM-A556E,en,三星, Galaxy A55 5G Global
 samsung,SM-A556B,en,三星, Galaxy A55 5G EU
 samsung,SM-A5560,en,三星, Galaxy A55 5G China
 samsung,SCG27,en,三星, Galaxy A55 5G Japan (au)
 samsung,SC-53E,en,三星, Galaxy A55 5G Japan (NTT Docomo)
+samsung,SM-A556S,en,三星, Galaxy Quantum5 South Korea
 samsung,SM-A566E,en,三星, Galaxy A56 5G Global
 samsung,SM-A566B,en,三星, Galaxy A56 5G EU
 samsung,SM-A5660,en,三星, Galaxy A56 5G China
 samsung,SM-A566S,en,三星, Galaxy A56 5G South Korea
+samsung,SM-A566U1,en,三星, Galaxy A56 5G US Unlocked
+samsung,SM-A566S,en,三星, Galaxy Quantum6 South Korea
+samsung,SM-A576B,en,三星, Galaxy A57 5G Global
+samsung,SM-A576U1,en,三星, Galaxy A57 5G US Unlocked
+samsung,SM-A576W,en,三星, Galaxy A57 5G Canada
+samsung,SM-A5760,en,三星, Galaxy A57 5G China
+samsung,SM-A576Q,en,三星, Galaxy A57 5G Japan (SIM Free)
+samsung,SM-A576Z,en,三星, Galaxy A57 5G Japan (SoftBank)
 samsung,SM-A606F,en,三星, Galaxy A60 Global
 samsung,SM-A6060,en,三星, Galaxy A60 China mainland
 samsung,SM-A606Y,en,三星, Galaxy A60 TW
@@ -3699,6 +3749,7 @@ samsung,SM-A805N,en,三星, Galaxy A80 South Korea
 samsung,SM-A908B,en,三星, Galaxy A90 5G Global
 samsung,SM-A9080,en,三星, Galaxy A90 5G China
 samsung,SM-A908N,en,三星, Galaxy A90 5G South Korea
+samsung,SM-A826S,en,三星, Galaxy Quantom2 South Korea
 samsung,SM-M015F,en,三星, Galaxy M01
 samsung,SM-M015G,en,三星, Galaxy M01
 samsung,SM-M013F,en,三星, Galaxy M01 Core
@@ -3764,6 +3815,7 @@ samsung,SM-M515F,en,三星, Galaxy M51
 samsung,SM-M526B,en,三星, Galaxy M52 5G
 samsung,SM-M526BR,en,三星, Galaxy M52 5G
 samsung,SM-M536B,en,三星, Galaxy M53 5G
+samsung,SM-M536S,en,三星, Galaxy Quantum3 South Korea
 samsung,SM-M546B,en,三星, Galaxy M54 5G
 samsung,SM-M556B,en,三星, Galaxy M55 5G India
 samsung,SM-M556E,en,三星, Galaxy M55 5G Global
@@ -5504,9 +5556,12 @@ xiaomi-wear,M2420E1,cn,其他, Redmi Buds 6 Play 国际版
 xiaomi-wear,M2411E1,cn,其他, REDMI Buds SE
 xiaomi-wear,M2455E1,cn,其他, REDMI Buds 7S
 xiaomi-wear,M2535E1,cn,其他, REDMI Buds 8 Pro
+xiaomi-wear,M2539E1,cn,其他, REDMI Buds 8 青春版
 xiaomi-wear,TWSEJ01ZM,cn,其他, POCO Buds Pro Genshin Impact Edition 国际版
 xiaomi-wear,M2237E1,cn,其他, POCO Pods 印度版
 xiaomi-wear,M2350E1,cn,其他, POCO Buds X1 印度版
+xiaomi-wear,M2543T1,cn,其他, Xiaomi Tag 蓝牙版
+xiaomi-wear,M2542T1,cn,其他, Xiaomi Tag UWB
 apple,A1324,cn,苹果, iPhone 3G 
 apple,A1325,cn,苹果, iPhone 3GS (无 WLAN 功能)
 apple,A1332,cn,苹果, iPhone 4
@@ -6857,6 +6912,9 @@ samsung,SM-S9310,cn,三星, Galaxy S25
 samsung,SM-S9360,cn,三星, Galaxy S25+
 samsung,SM-S9370,cn,三星, Galaxy S25 Edge
 samsung,SM-S9380,cn,三星, Galaxy S25 Ultra
+samsung,SM-S9420,cn,三星, Galaxy S26
+samsung,SM-S9470,cn,三星, Galaxy S26+
+samsung,SM-S9480,cn,三星, Galaxy S26 Ultra
 samsung,GT-I9220,cn,三星, Galaxy Note 公开版
 samsung,GT-I9228,cn,三星, Galaxy Note 移动定制版
 samsung,SCH-I889,cn,三星, Galaxy Note 电信定制版
@@ -6942,6 +7000,7 @@ samsung,SM-A5360,cn,三星, Galaxy A53 5G
 samsung,SM-A5460,cn,三星, Galaxy A54 5G
 samsung,SM-A5560,cn,三星, Galaxy A55 5G
 samsung,SM-A5660,cn,三星, Galaxy A56 5G
+samsung,SM-A5760,cn,三星, Galaxy A57 5G
 samsung,SM-E5260,cn,三星, Galaxy F52 5G
 samsung,SM-M3070,cn,三星, Galaxy M30s
 samsung,SM-C5000,cn,三星, Galaxy C5
@@ -7178,6 +7237,7 @@ huawei,CET-LX9,en,华为, HUAWEI Mate 50
 huawei,DCO-LX9,en,华为, HUAWEI Mate 50 Pro
 huawei,ALN-LX9,en,华为, HUAWEI Mate 60 Pro
 huawei,PLR-L29,en,华为, HUAWEI Mate 70 Pro
+huawei,SGT-LX9,en,华为, HUAWEI Mate 80 Pro
 huawei,TAH-N29m,en,华为, HUAWEI Mate Xs Dual SIM
 huawei,PAL-LX9,en,华为, HUAWEI Mate Xs 2
 huawei,PAL-L29,en,华为, HUAWEI Mate Xs 2
