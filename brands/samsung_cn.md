@@ -260,6 +260,21 @@
 
 `SM-S9380`: Galaxy S25 Ultra
 
+<<<<<<< HEAD
+=======
+**Galaxy S26 (`m1q`):**
+
+`SM-S9420`: Galaxy S26
+
+**Galaxy S26+ (`m2q`):**
+
+`SM-S9470`: Galaxy S26+
+
+**Galaxy S26 Ultra (`m3q`):**
+
+`SM-S9480`: Galaxy S26 Ultra
+
+>>>>>>> upstream/master
 ## Galaxy Note 系列
 
 **Galaxy Note:**
@@ -480,7 +495,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -722,6 +740,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1057,6 +1078,13 @@
 
 `SM-A5660`: Galaxy A56 5G
 
+<<<<<<< HEAD
+=======
+**Galaxy A57 5G (`a57x`):**
+
+`SM-A5760`: Galaxy A57 5G
+
+>>>>>>> upstream/master
 ## Galaxy F 系列
 
 **Galaxy F52 5G (`f52x`):**
@@ -1401,7 +1429,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1817,6 +1848,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2384,7 +2418,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2626,6 +2663,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2948,7 +2988,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3113,6 +3156,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
