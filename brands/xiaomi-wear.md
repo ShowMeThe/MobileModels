@@ -173,7 +173,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Xiaomi Watch 2 (`axolotlaxie`):**
+=======
+**[`M61C`] Xiaomi Watch 2 (`axolotlaxie`):**
+>>>>>>> upstream/master
 =======
 **[`M61C`] Xiaomi Watch 2 (`axolotlaxie`):**
 >>>>>>> upstream/master
@@ -441,7 +445,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -632,6 +639,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `M2505W1`: Xiaomi Watch 5 LTE
 
 <<<<<<< HEAD
@@ -645,6 +653,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -826,6 +836,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1220,7 +1233,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1603,6 +1619,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1970,7 +1989,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2164,6 +2186,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2363,7 +2388,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Xiaomi 骨传导耳机 2:**
+=======
+**[`O73`] Xiaomi 骨传导耳机 2:**
+>>>>>>> upstream/master
 =======
 **[`O73`] Xiaomi 骨传导耳机 2:**
 >>>>>>> upstream/master
@@ -2717,7 +2746,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2911,6 +2943,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3037,10 +3070,15 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 **[`P79A`] REDMI Buds 8 青春版:**
 
 `M2539E1`: REDMI Buds 8 青春版
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## POCO TWS
 
@@ -3055,8 +3093,11 @@
 **[`N79A`] POCO Buds X1:**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 `M2350E1`: POCO Buds X1 印度版
 =======
+=======
+>>>>>>> upstream/master
 `M2350E1`: POCO Buds X1 印度版
 
 ## 其他
@@ -3065,5 +3106,9 @@
 
 `M2543T1`: Xiaomi Tag 蓝牙版
 
+<<<<<<< HEAD
+`M2542T1`: Xiaomi Tag UWB
+>>>>>>> upstream/master
+=======
 `M2542T1`: Xiaomi Tag UWB
 >>>>>>> upstream/master

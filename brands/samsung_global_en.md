@@ -550,7 +550,10 @@
 `SM-S731N`: Galaxy S25 FE South Korea
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **Galaxy S26 (`m1s`):**
 
 `SM-S942B`: Galaxy S26 Global
@@ -627,6 +630,9 @@
 
 `SC-53G`: Galaxy S26 Ultra Japan (NTT Docomo)
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## Galaxy Note
 
@@ -985,7 +991,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1234,6 +1243,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1713,7 +1725,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1825,6 +1840,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2221,7 +2239,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2642,6 +2663,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2959,7 +2983,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3073,6 +3100,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3427,7 +3457,10 @@
 `SM-A366N`: Galaxy A36 5G South Korea
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **Galaxy A37 5G (`a37x`):**
 
 `SM-A376E`: Galaxy A37 5G Global
@@ -3444,6 +3477,9 @@
 
 `SM-A3760`: Galaxy A37 5G HK & TW
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **Galaxy A40 (`a40`):**
 
@@ -3620,6 +3656,11 @@
 `SC-53D`: Galaxy A54 5G Japan (NTT Docomo)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`SM-A546S`: Galaxy Quantum4 South Korea
+
+>>>>>>> upstream/master
 =======
 `SM-A546S`: Galaxy Quantum4 South Korea
 
@@ -3637,6 +3678,11 @@
 `SC-53E`: Galaxy A55 5G Japan (NTT Docomo)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`SM-A556S`: Galaxy Quantum5 South Korea
+
+>>>>>>> upstream/master
 =======
 `SM-A556S`: Galaxy Quantum5 South Korea
 
@@ -3648,10 +3694,13 @@
 `SM-A566B`: Galaxy A56 5G EU
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 `SM-A5660`: Galaxy A56 5G China
 
 `SM-A566S`: Galaxy A56 5G South Korea
 =======
+=======
+>>>>>>> upstream/master
 `SM-A566U1`: Galaxy A56 5G US Unlocked
 
 `SM-A5660`: Galaxy A56 5G China
@@ -3671,6 +3720,9 @@
 `SM-A576Q`: Galaxy A57 5G Japan (SIM Free)
 
 `SM-A576Z`: Galaxy A57 5G Japan (SoftBank)
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 
 **Galaxy A60 (`a60q`):**
@@ -3752,11 +3804,17 @@
 `SM-A908N`: Galaxy A90 5G South Korea
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **Galaxy Quantum2 (`a82xq`):**
 
 `SM-A826S`: Galaxy Quantom2 South Korea
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## Galaxy M
 
@@ -3896,7 +3954,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4006,6 +4067,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4182,6 +4246,11 @@
 `SM-M536B`: Galaxy M53 5G
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`SM-M536S`: Galaxy Quantum3 South Korea
+
+>>>>>>> upstream/master
 =======
 `SM-M536S`: Galaxy Quantum3 South Korea
 
@@ -4341,7 +4410,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4451,6 +4523,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
