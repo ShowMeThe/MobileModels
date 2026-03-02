@@ -2441,6 +2441,7 @@ xiaomi,2512BPNDAG,cn,小米, Xiaomi 17 Ultra 国际版
 xiaomi,2512BPNDAI,cn,小米, Xiaomi 17 Ultra 印度版
 xiaomi,25128PNA1C,cn,小米, Xiaomi 17 Ultra by Leica 国行版
 xiaomi,25128PNA1G,cn,小米, Leitzphone powered by Xiaomi 国际版
+xiaomi,25128PNA1G,cn,小米, Leica Leitzphone powered by Xiaomi 国际版
 xiaomi,2015011,cn,小米, 小米 Note 国际版
 xiaomi,M1910F4G,cn,小米, 小米 Note 10 国际版
 xiaomi,M1910F4S,cn,小米, 小米 Note 10 Pro 国际版
@@ -2797,6 +2798,9 @@ xiaomi,25028RN03A,cn,小米, REDMI A5 国际版
 xiaomi,25028RN03Y,cn,小米, REDMI A5 国际版
 xiaomi,25028RN03I,cn,小米, REDMI A5 印度版
 xiaomi,25028RN03L,cn,小米, REDMI A5 拉美版
+xiaomi,25128RN17A,cn,小米, REDMI A7 Pro 国际版
+xiaomi,25128RN17Y,cn,小米, REDMI A7 Pro 国际版
+xiaomi,25128RN17L,cn,小米, REDMI A7 Pro 拉美版
 xiaomi,22081283C,cn,小米, Redmi Pad 国行版
 xiaomi,22081283G,cn,小米, Redmi Pad 国际版
 xiaomi,23073RPBFC,cn,小米, Redmi Pad SE 国行版
@@ -7525,6 +7529,7 @@ huawei,BTKR-W09,en,华为, HUAWEI MatePad 11.5 2024 Wi-Fi
 huawei,TGR-W09,en,华为, HUAWEI MatePad 11.5 S Wi-Fi
 huawei,TXZ-W09,en,华为, HUAWEI MatePad 11.5 2025 Wi-Fi
 huawei,SLG-W09,en,华为, HUAWEI MatePad 11.5 S 2025 Wi-Fi
+huawei,SLG-W09,en,华为, HUAWEI MatePad 11.5 S 2026 Wi-Fi
 huawei,DBY2-W09,en,华为, HUAWEI MatePad Air Wi-Fi
 huawei,DBY2-L09,en,华为, HUAWEI MatePad Air LTE
 huawei,BKY-W09,en,华为, HUAWEI MatePad 12 X Wi-Fi
@@ -8142,6 +8147,7 @@ xiaomi,2512BPNDAC,en,小米, Xiaomi 17 Ultra China
 xiaomi,2512BPNDAI,en,小米, Xiaomi 17 Ultra India
 xiaomi,25128PNA1G,en,小米, Leitzphone powered by Xiaomi (Global)
 xiaomi,25128PNA1C,en,小米, Xiaomi 17 Ultra by Leica (China)
+xiaomi,25128PNA1G,en,小米, Leica Leitzphone powered by Xiaomi (Global)
 xiaomi,2015011,en,小米, Mi Note Global
 xiaomi,2014616,en,小米, Mi Note China (Dual-network)
 xiaomi,2014619,en,小米, Mi Note China (Full-network)
@@ -8681,6 +8687,9 @@ xiaomi,25028RN03A,en,小米, REDMI A5 Global
 xiaomi,25028RN03Y,en,小米, REDMI A5 Global
 xiaomi,25028RN03I,en,小米, REDMI A5 India
 xiaomi,25028RN03L,en,小米, REDMI A5 Latin America
+xiaomi,25128RN17A,en,小米, REDMI A7 Pro Global
+xiaomi,25128RN17Y,en,小米, REDMI A7 Pro Global
+xiaomi,25128RN17L,en,小米, REDMI A7 Pro Latin America
 xiaomi,M1805E10A,en,小米, POCO F1
 xiaomi,M2004J11G,en,小米, POCO F2 Pro Global
 xiaomi,M2012K11AG,en,小米, POCO F3 Global
