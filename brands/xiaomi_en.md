@@ -130,7 +130,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Range: Xiaomi/Redmi/POCO phones & tablets
+=======
+- Range: Xiaomi/REDMI/POCO phones & tablets
+>>>>>>> upstream/master
 =======
 - Range: Xiaomi/REDMI/POCO phones & tablets
 >>>>>>> upstream/master
@@ -1071,7 +1075,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1210,6 +1217,7 @@
 
 `2512BPNDAI`: Xiaomi 17 Ultra India
 
+<<<<<<< HEAD
 **[`P1S`] Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica (`nezha`):**
 
 `25128PNA1G`: Leitzphone powered by Xiaomi (Global)
@@ -1411,6 +1419,14 @@
 =======
 >>>>>>> upstream/master
 =======
+>>>>>>> upstream/master
+=======
+**[`P1S`] Leica Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica (`nezha`):**
+
+`25128PNA1G`: Leica Leitzphone powered by Xiaomi (Global)
+
+`25128PNA1C`: Xiaomi 17 Ultra by Leica (China)
+
 >>>>>>> upstream/master
 **[`X5`] Mi Note (`virgo`):**
 
@@ -1742,7 +1758,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Redmi phones
+=======
+## REDMI phones
+>>>>>>> upstream/master
 =======
 ## REDMI phones
 >>>>>>> upstream/master
@@ -2676,7 +2696,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2876,6 +2899,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3637,11 +3663,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 5G China
 
 `XIG05`: Redmi Note 13 Pro 5G Japan (KDDI)
 
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4037,6 +4066,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4424,7 +4456,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4628,6 +4663,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4769,6 +4807,7 @@
 
 `25098RA98C`: REDMI Note 15 5G China
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5035,6 +5074,10 @@
 `25098RA98T`: REDMI Note 15 5G Saudi Arabia
 
 >>>>>>> upstream/master
+=======
+`25098RA98T`: REDMI Note 15 5G Saudi Arabia
+
+>>>>>>> upstream/master
 **[`P6`] REDMI Note 15 Pro (`charoite`):**
 
 `25100RA69G`: REDMI Note 15 Pro Global
@@ -5105,6 +5148,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5245,6 +5291,7 @@
 
 `25080RABDC`: REDMI Note 15 Pro 5G China
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5578,6 +5625,11 @@
 
 **[`P16U`] REDMI Note 15 Pro+ 5G (`flourite`):**
 >>>>>>> upstream/master
+=======
+`25080RABDT`: REDMI Note 15 Pro 5G Saudi Arabia
+
+**[`P16U`] REDMI Note 15 Pro+ 5G (`flourite`):**
+>>>>>>> upstream/master
 
 `2510ERA8BG`: REDMI Note 15 Pro+ 5G Global
 
@@ -5585,6 +5637,7 @@
 
 `2510ERA8BC`: REDMI Note 15 Pro+ 5G China
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5918,6 +5971,11 @@
 
 **[`P16US`] REDMI Note 15 Pro+ 5G (`flourite`):**
 >>>>>>> upstream/master
+=======
+`2510ERA8BT`: REDMI Note 15 Pro+ 5G Saudi Arabia
+
+**[`P16US`] REDMI Note 15 Pro+ 5G (`flourite`):**
+>>>>>>> upstream/master
 
 `25104RADAC`: REDMI Note 15 Pro+ 5G Satellite China
 
@@ -5983,7 +6041,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6091,6 +6152,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6425,6 +6489,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+**[`O11US`] REDMI K80 Pro (`miro`):**
+
+>>>>>>> upstream/master
 =======
 **[`O11US`] REDMI K80 Pro (`miro`):**
 
@@ -7106,7 +7175,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -7517,6 +7589,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7529,6 +7602,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -7917,6 +7992,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8270,6 +8348,15 @@
 
 `25028RN03L`: REDMI A5 Latin America
 
+<<<<<<< HEAD
+=======
+**[`P25A`] REDMI A7 Pro (`arctic`):**
+
+`25128RN17A` `25128RN17Y`: REDMI A7 Pro Global
+
+`25128RN17L`: REDMI A7 Pro Latin America
+
+>>>>>>> upstream/master
 ## POCO Phones
 
 **[`E10`] POCO F1 (`beryllium`):**
@@ -8463,7 +8550,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -8856,6 +8946,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9212,7 +9305,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9279,6 +9375,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9480,7 +9579,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9615,6 +9717,7 @@
 
 `25118PC98G`: POCO M8 5G Global
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9951,6 +10054,10 @@
 `25118PC98I`: POCO M8 5G India
 
 >>>>>>> upstream/master
+=======
+`25118PC98I`: POCO M8 5G India
+
+>>>>>>> upstream/master
 **[`P16U`] POCO M8 Pro 5G (`flourite`):**
 
 `2510EPC8BG`: POCO M8 Pro 5G Global
@@ -10020,6 +10127,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -10282,7 +10392,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -10467,6 +10580,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
