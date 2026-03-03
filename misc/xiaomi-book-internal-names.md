@@ -152,6 +152,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+| REDMI Book 16 2025 (AMD) | `M54S` | 2025 |
+>>>>>>> upstream/master
 =======
 | REDMI Book 16 2025 (AMD) | `M54S` | 2025 |
 >>>>>>> upstream/master
