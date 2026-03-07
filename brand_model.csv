@@ -568,6 +568,9 @@ apple,A3257,cn,苹果, iPhone 17 Pro Max (美国)
 apple,A3525,cn,苹果," iPhone 17 Pro Max (加拿大, 日本, 墨西哥, 部分中东国家)"
 apple,A3527,cn,苹果, iPhone 17 Pro Max (中国大陆)
 apple,A3526,cn,苹果, iPhone 17 Pro Max (其他国家和地区)
+apple,A3575,cn,苹果," iPhone 17e (北美, 日本, 部分中东国家)"
+apple,A3635,cn,苹果, iPhone 17e (中国大陆)
+apple,A3634,cn,苹果, iPhone 17e (其他国家和地区)
 apple,A1219,cn,苹果, iPad (无线局域网)
 apple,A1337,cn,苹果, iPad (无线局域网 + 3G)
 apple,A1395,cn,苹果, iPad 2 (无线局域网)
@@ -627,6 +630,12 @@ apple,A3270,cn,苹果," iPad Air (11 英寸, M3) (无线局域网 + 蜂窝网络
 apple,A3268,cn,苹果," iPad Air (13 英寸, M3) (无线局域网)"
 apple,A3269,cn,苹果," iPad Air (13 英寸, M3) (无线局域网 + 蜂窝网络)"
 apple,A3271,cn,苹果," iPad Air (13 英寸, M3) (无线局域网 + 蜂窝网络) (中国大陆)"
+apple,A3459,cn,苹果," iPad Air (11 英寸, M4) (无线局域网)"
+apple,A3460,cn,苹果," iPad Air (11 英寸, M4) (无线局域网 + 蜂窝网络)"
+apple,A3463,cn,苹果," iPad Air (11 英寸, M4) (无线局域网 + 蜂窝网络) (中国大陆)"
+apple,A3461,cn,苹果," iPad Air (13 英寸, M4) (无线局域网)"
+apple,A3462,cn,苹果," iPad Air (13 英寸, M4) (无线局域网 + 蜂窝网络)"
+apple,A3464,cn,苹果," iPad Air (13 英寸, M4) (无线局域网 + 蜂窝网络) (中国大陆)"
 apple,A1584,cn,苹果, iPad Pro (12.9 英寸) (无线局域网)
 apple,A1652,cn,苹果, iPad Pro (12.9 英寸) (无线局域网 + 蜂窝网络)
 apple,A1673,cn,苹果, iPad Pro (9.7 英寸) (无线局域网)
@@ -5621,6 +5630,7 @@ apple,A3521,cn,苹果, iPhone 17
 apple,A3518,cn,苹果, iPhone Air
 apple,A3524,cn,苹果, iPhone 17 Pro
 apple,A3527,cn,苹果, iPhone 17 Pro Max
+apple,A3635,cn,苹果, iPhone 17e
 apple,A1460,cn,苹果, iPad (第 4 代) (无线局域网 + 蜂窝网络) 
 apple,A2199,cn,苹果, iPad (第 7 代) (无线局域网 + 蜂窝网络)
 apple,A2430,cn,苹果, iPad (第 8 代) (无线局域网 + 蜂窝网络)
@@ -5635,6 +5645,8 @@ apple,A2904,cn,苹果," iPad Air (11 英寸, M2) (无线局域网 + 蜂窝网络
 apple,A2900,cn,苹果," iPad Air (13 英寸, M2) (无线局域网 + 蜂窝网络)"
 apple,A3270,cn,苹果," iPad Air (11 英寸, M3) (无线局域网 + 蜂窝网络)"
 apple,A3271,cn,苹果," iPad Air (13 英寸, M3) (无线局域网 + 蜂窝网络)"
+apple,A3463,cn,苹果," iPad Air (11 英寸, M4) (无线局域网 + 蜂窝网络)"
+apple,A3464,cn,苹果," iPad Air (13 英寸, M4) (无线局域网 + 蜂窝网络)"
 apple,A1675,cn,苹果, iPad Pro (9.7 英寸) (无线局域网 + 蜂窝网络) 
 apple,A1821,cn,苹果," iPad Pro (12.9 英寸, 第 2 代) (无线局域网 + 蜂窝网络) "
 apple,A1852,cn,苹果, iPad Pro (10.5 英寸) (无线局域网 + 蜂窝网络) 
@@ -6486,6 +6498,8 @@ honor,ABR-NX1,en,荣耀, HONOR 400 Lite
 honor,ABR-NX3,en,荣耀, HONOR 400 Lite
 honor,LGN-NX1,en,荣耀, HONOR 400 Smart
 honor,LGN-NX3,en,荣耀, HONOR 400 Smart
+honor,LNA-NX1,en,荣耀, HONOR 600 Lite
+honor,LNA-NX3,en,荣耀, HONOR 600e
 honor,LGE-NX9,en,荣耀, HONOR Magic4 Pro
 honor,ANY-LX1,en,荣耀, HONOR Magic4 Lite
 honor,ANY-LX2,en,荣耀, HONOR Magic4 Lite
@@ -6542,6 +6556,8 @@ honor,ALT-NX3,en,荣耀, HONOR X6b 5G
 honor,NIC-LX1,en,荣耀, HONOR X6c
 honor,NIC-LX2,en,荣耀, HONOR X6c
 honor,NIC-LX3,en,荣耀, HONOR X6c
+honor,NLA-NX1,en,荣耀, HONOR X6d 5G
+honor,NLA-NX3,en,荣耀, HONOR X6d 5G
 honor,CMA-LX1,en,荣耀, HONOR X7
 honor,CMA-LX2,en,荣耀, HONOR X7
 honor,CMA-LX3,en,荣耀, HONOR X7
@@ -6600,6 +6616,7 @@ honor,HEY3-N09,en,荣耀, HONOR Pad 10 5G
 honor,ROL-W00,en,荣耀, HONOR Pad V9
 honor,ROD2-W09,en,荣耀, HONOR MagicPad2
 honor,CGA-W00,en,荣耀, HONOR MagicPad3
+honor,YLE-W09,en,荣耀, HONOR MagicPad4
 honor,JMS-W09,en,荣耀, HONOR Pad X7 Wi-Fi
 honor,JMS-L09,en,荣耀, HONOR Pad X7 LTE
 honor,AGM3-W09HN,en,荣耀, HONOR Pad X8 Wi-Fi
@@ -10078,6 +10095,7 @@ oppo,CPH2371,en,OPPO, OPPO Find X5 Lite
 oppo,CPH2651,en,OPPO, OPPO Find X8
 oppo,CPH2659,en,OPPO, OPPO Find X8 Pro
 oppo,CPH2797,en,OPPO, OPPO Find X9
+oppo,OPG07,en,OPPO, OPPO Find X9 (KDDI)
 oppo,CPH2791,en,OPPO, OPPO Find X9 Pro
 oppo,CPH2439,en,OPPO, OPPO Find N2
 oppo,CPH2437,en,OPPO, OPPO Find N2 Flip
@@ -10168,6 +10186,7 @@ oppo,CPH2811,en,OPPO, OPPO Reno15 Pro 5G / OPPO Reno15 Pro Max 5G
 oppo,CPH2801,en,OPPO, OPPO Reno15 F 5G
 oppo,CPH2801,en,OPPO, OPPO Reno15 F 5G / OPPO Reno15 FS 5G
 oppo,CPH2801,en,OPPO, OPPO Reno15 F 5G / OPPO Reno15 FS 5G / OPPO Reno15c 5G
+oppo,CPH2801,en,OPPO, OPPO Reno15 F 5G / OPPO Reno15 FS 5G / OPPO Reno15 C 5G / OPPO Reno15 A
 oppo,CPH1819,en,OPPO, OPPO F7
 oppo,CPH1821,en,OPPO, OPPO F7
 oppo,CPH1859,en,OPPO, OPPO F7 Youth
@@ -10244,6 +10263,8 @@ oppo,CPH2725,en,OPPO, OPPO A5x
 oppo,CPH2733,en,OPPO, OPPO A5x 5G
 oppo,CPH2817,en,OPPO, OPPO A6
 oppo,CPH2831,en,OPPO, OPPO A6 5G
+oppo,CPH2831,en,OPPO, OPPO A6 5G Global
+oppo,CPH2785,en,OPPO, OPPO A6 5G India
 oppo,CPH2799,en,OPPO, OPPO A6 Pro
 oppo,CPH2781,en,OPPO, OPPO A6 Pro 5G
 oppo,CPH2823,en,OPPO, OPPO A6x 5G
@@ -10253,6 +10274,7 @@ oppo,CPH2819,en,OPPO, OPPO A6x
 oppo,CPH2783,en,OPPO, OPPO A6x 5G Global
 oppo,CPH2823,en,OPPO, OPPO A6x 5G India
 oppo,CPH2847,en,OPPO, OPPO A6t
+oppo,CPH2853,en,OPPO, OPPO A6t 5G
 oppo,CPH2849,en,OPPO, OPPO A6t Pro
 oppo,CPH2851,en,OPPO, OPPO A6t Pro 5G
 oppo,CPH1901,en,OPPO, OPPO A7
@@ -10568,6 +10590,9 @@ apple,A3257,en,苹果, iPhone 17 Pro Max (United States)
 apple,A3525,en,苹果," iPhone 17 Pro Max (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
 apple,A3527,en,苹果, iPhone 17 Pro Max (China mainland)
 apple,A3526,en,苹果, iPhone 17 Pro Max (Rest of the world)
+apple,A3575,en,苹果," iPhone 17e (United States, Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+apple,A3635,en,苹果, iPhone 17e (China mainland)
+apple,A3634,en,苹果, iPhone 17e (Rest of the world)
 apple,A1219,en,苹果, iPad Wi-Fi
 apple,A1337,en,苹果, iPad Wi-Fi + 3G
 apple,A1395,en,苹果, iPad 2 Wi-Fi
@@ -10627,6 +10652,12 @@ apple,A3270,en,苹果," iPad Air (11-inch, M3) Wi-Fi + Cellular (China mainland)
 apple,A3268,en,苹果," iPad Air (13-inch, M3) Wi-Fi"
 apple,A3269,en,苹果," iPad Air (13-inch, M3) Wi-Fi + Cellular"
 apple,A3271,en,苹果," iPad Air (13-inch, M3) Wi-Fi + Cellular (China mainland)"
+apple,A3459,en,苹果," iPad Air (11-inch, M4) Wi-Fi"
+apple,A3460,en,苹果," iPad Air (11-inch, M4) Wi-Fi + Cellular"
+apple,A3463,en,苹果," iPad Air (11-inch, M4) Wi-Fi + Cellular (China mainland)"
+apple,A3461,en,苹果," iPad Air (13-inch, M4) Wi-Fi"
+apple,A3462,en,苹果," iPad Air (13-inch, M4) Wi-Fi + Cellular"
+apple,A3464,en,苹果," iPad Air (13-inch, M4) Wi-Fi + Cellular (China mainland)"
 apple,A1584,en,苹果, iPad Pro (12.9-inch) Wi-Fi
 apple,A1652,en,苹果, iPad Pro (12.9-inch) Wi-Fi + Cellular
 apple,A1673,en,苹果, iPad Pro (9.7-inch) Wi-Fi
