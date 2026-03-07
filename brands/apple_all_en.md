@@ -519,6 +519,17 @@
 
 `A3526`: iPhone 17 Pro Max (Rest of the world)
 
+<<<<<<< HEAD
+=======
+**[`V159AP`] iPhone 17e (`iPhone18,5`):**
+
+`A3575`: iPhone 17e (United States, Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+
+`A3635`: iPhone 17e (China mainland)
+
+`A3634`: iPhone 17e (Rest of the world)
+
+>>>>>>> upstream/master
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**
@@ -727,6 +738,29 @@
 
 `A3271`: iPad Air (13-inch, M3) Wi-Fi + Cellular (China mainland)
 
+<<<<<<< HEAD
+=======
+**[`J707AP`] iPad Air (11-inch, M4) (`iPad16,8`):**
+
+`A3459`: iPad Air (11-inch, M4) Wi-Fi
+
+**[`J708AP`] iPad Air (11-inch, M4) (`iPad16,9`):**
+
+`A3460`: iPad Air (11-inch, M4) Wi-Fi + Cellular
+
+`A3463`: iPad Air (11-inch, M4) Wi-Fi + Cellular (China mainland)
+
+**[`J737AP`] iPad Air (13-inch, M4) (`iPad16,10`):**
+
+`A3461`: iPad Air (13-inch, M4) Wi-Fi
+
+**[`J738AP`] iPad Air (13-inch, M4) (`iPad16,11`):**
+
+`A3462`: iPad Air (13-inch, M4) Wi-Fi + Cellular
+
+`A3464`: iPad Air (13-inch, M4) Wi-Fi + Cellular (China mainland)
+
+>>>>>>> upstream/master
 ## iPad Pro
 
 **[`J98aAP`] iPad Pro (12.9-inch) (`iPad6,7`):**
@@ -1059,7 +1093,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1497,6 +1534,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2230,7 +2270,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Apple TV (1st generation) (`AppleTV1,1`):**
+=======
+**[`Mac-F4228DC8`] Apple TV (1st generation) (`AppleTV1,1`):**
+>>>>>>> upstream/master
 =======
 **[`Mac-F4228DC8`] Apple TV (1st generation) (`AppleTV1,1`):**
 >>>>>>> upstream/master
@@ -2590,7 +2634,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3012,6 +3059,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master

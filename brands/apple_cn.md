@@ -268,6 +268,13 @@
 
 `A3527`: iPhone 17 Pro Max
 
+<<<<<<< HEAD
+=======
+**[`V159AP`] iPhone 17e (`iPhone18,5`):**
+
+`A3635`: iPhone 17e
+
+>>>>>>> upstream/master
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**
@@ -444,6 +451,25 @@
 
 `A3271`: iPad Air (13 英寸, M3) (无线局域网 + 蜂窝网络)
 
+<<<<<<< HEAD
+=======
+**[`J707AP`] iPad Air (11 英寸, M4) (`iPad16,8`):**
+
+`A3459`: iPad Air (11 英寸, M4) (无线局域网)
+
+**[`J708AP`] iPad Air (11 英寸, M4) (`iPad16,9`):**
+
+`A3463`: iPad Air (11 英寸, M4) (无线局域网 + 蜂窝网络)
+
+**[`J737AP`] iPad Air (13 英寸, M4) (`iPad16,10`):**
+
+`A3461`: iPad Air (13 英寸, M4) (无线局域网)
+
+**[`J738AP`] iPad Air (13 英寸, M4) (`iPad16,11`):**
+
+`A3464`: iPad Air (13 英寸, M4) (无线局域网 + 蜂窝网络)
+
+>>>>>>> upstream/master
 ## iPad Pro
 
 **[`J98aAP`] iPad Pro (12.9 英寸) (`iPad6,7`):**
@@ -730,7 +756,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1164,6 +1193,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1889,7 +1921,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2311,6 +2346,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
