@@ -152,6 +152,7 @@ vivo,V2023EA,cn,VIVO, vivo Y50t
 vivo,V2443A,cn,VIVO, vivo Y37t 5G / vivo Y50 5G / vivo Y50i 5G
 vivo,V2443BA,cn,VIVO, vivo Y50m 5G
 vivo,V2443A,cn,VIVO, vivo Y37t 5G / vivo Y50 5G / vivo Y50i 5G / vivo Y50e 5G / vivo Y50s 5G
+vivo,V2443A,cn,VIVO, vivo Y37t 5G / vivo Y37+ 5G / vivo Y50 5G / vivo Y50i 5G / vivo Y50e 5G / vivo Y50s 5G
 vivo,V2443BA,cn,VIVO, vivo Y50m 5G / vivo Y50c 5G
 vivo,V2002A,cn,VIVO, vivo Y51s 5G
 vivo,V2057A,cn,VIVO, vivo Y52s 5G
@@ -4058,6 +4059,7 @@ realme,RMX3943,en,真我, realme C75 5G India
 realme,RMX3963,en,真我, realme C75 5G Global
 realme,RMX5020,en,真我, realme C75x
 realme,RMX5253,en,真我, realme C85 5G
+realme,RMX5256,en,真我, realme C83 5G
 realme,RMX5566,en,真我, realme C85
 realme,RMX5555,en,真我, realme C85 Pro
 realme,RMX3834,en,真我, realme Note 50
@@ -4122,6 +4124,7 @@ realme,RMX3944,en,真我, realme NARZO 80x 5G
 realme,RMX3945,en,真我, realme NARZO 80 Lite 5G
 realme,RMX5111,en,真我, realme NARZO 90 5G
 realme,RMX5264,en,真我, realme NARZO 90x 5G
+realme,RMX5107,en,真我, realme NARZO Power 5G
 realme,RMP2102,en,真我, realme Pad LTE
 realme,RMP2103,en,真我, realme Pad Wi-Fi
 realme,RMP2105,en,真我, realme Pad mini LTE
@@ -6164,6 +6167,9 @@ vivo,V2539,en,VIVO, vivo V70
 vivo,V2540,en,VIVO, vivo V70
 vivo,V2548,en,VIVO, vivo V70 Elite
 vivo,V2550,en,VIVO, vivo V70 FE
+vivo,V2551,en,VIVO, vivo V70 FE
+vivo,V2552,en,VIVO, vivo V70 FE
+vivo,V2558,en,VIVO, vivo V70 FE
 vivo,V1937,en,VIVO, vivo S1 Prime
 vivo,V2153,en,VIVO, vivo T1
 vivo,V2168,en,VIVO, vivo T1
@@ -6201,6 +6207,7 @@ vivo,V2532,en,VIVO, vivo Y04e
 vivo,V2531,en,VIVO, vivo Y04s
 vivo,V2556,en,VIVO, vivo Y05
 vivo,V2565,en,VIVO, vivo Y05
+vivo,V2575,en,VIVO, vivo Y11 5G
 vivo,V2028,en,VIVO, vivo Y11s
 vivo,V2555,en,VIVO, vivo Y11d
 vivo,V2578,en,VIVO, vivo Y11d
@@ -6300,6 +6307,7 @@ vivo,V2030,en,VIVO, vivo Y51
 vivo,V2035,en,VIVO, vivo Y51
 vivo,V2031,en,VIVO, vivo Y51s
 vivo,V2031_21,en,VIVO, vivo Y51s
+vivo,V2544,en,VIVO, vivo Y51 Pro 5G
 vivo,V2053,en,VIVO, vivo Y52 5G
 vivo,V2058,en,VIVO, vivo Y53s
 vivo,V2154,en,VIVO, vivo Y55
@@ -9443,7 +9451,10 @@ nothing,A142P,cn,其他, Nothing Phone (2a) Plus
 nothing,A024,cn,其他, Nothing Phone (3)
 nothing,A059,cn,其他, Nothing Phone (3a)
 nothing,A059P,cn,其他, Nothing Phone (3a) Plus
+nothing,A059P,cn,其他, Nothing Phone (3a) Pro
 nothing,A001T,cn,其他, Nothing Phone (3a) Lite
+nothing,A069,cn,其他, Nothing Phone (4a)
+nothing,A069P,cn,其他, Nothing Phone (4a) Pro
 nothing,A015,cn,其他, CMF Phone 1
 nothing,A001,cn,其他, CMF Phone 2 Pro
 honor,NTS-AL00,cn,荣耀, 荣耀 Magic 全网通版
