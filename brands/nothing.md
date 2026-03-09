@@ -30,6 +30,7 @@
 `A059`: Nothing Phone (3a)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Nothing Phone (3a) Plus (`Asteroids`):**
 
 `A059P`: Nothing Phone (3a) Plus
@@ -436,10 +437,15 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 **Nothing Phone (3a) Pro (`Asteroids`):**
 
 `A059P`: Nothing Phone (3a) Pro
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **Nothing Phone (3a) Lite (`Galaxian`):**
 
@@ -579,6 +585,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -847,6 +854,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 **Nothing Phone (4a) (`Frogger`):**
 
 `A069`: Nothing Phone (4a)
@@ -855,6 +864,9 @@
 
 `A069P`: Nothing Phone (4a) Pro
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **CMF Phone 1 (`Tetris`):**
 
