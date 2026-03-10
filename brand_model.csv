@@ -5424,6 +5424,10 @@ huawei,KIM-B29,cn,华为, 华为手环 9 NFC 版
 huawei,NOR-B19,cn,华为, 华为手环 10 标准版 (增强型聚合纤维表壳)
 huawei,NOR-B29,cn,华为, 华为手环 10 标准版 (铝合金表壳)
 huawei,NOR-B39,cn,华为, 华为手环 10 NFC 版
+huawei,CDY-B19,cn,华为, 华为手环 11 标准版 (增强型聚合纤维表壳)
+huawei,CDY-B29,cn,华为, 华为手环 11 标准版 (铝合金表壳)
+huawei,CDY-B39,cn,华为, 华为手环 11 NFC 版
+huawei,CDY-B59,cn,华为, 华为手环 11 Pro
 huawei,GMN-BX9,cn,华为, 华为手环 B3
 huawei,GRU-B09,cn,华为, 华为手环 B3 青春版
 huawei,JNS-BX9,cn,华为, 华为手环 B5
@@ -10060,6 +10064,7 @@ honor,TUR-L19,cn,荣耀, 荣耀手表 5 Ultra
 honor,IVY-B39,cn,荣耀, 荣耀手表 Fit
 honor,IVY-B39,cn,荣耀, 荣耀手表 GS 5 / 荣耀手表 Fit
 honor,LWS-WB10,cn,荣耀, 荣耀手表 X5
+honor,WTS-B19,cn,荣耀, 荣耀手表 X5i
 honor,NYX-B10HN,cn,荣耀, 荣耀手环 3 标准版
 honor,NYX-B20HN,cn,荣耀, 荣耀手环 3 NFC 版
 honor,CRS-B19,cn,荣耀, 荣耀手环 4 标准版
