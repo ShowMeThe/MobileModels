@@ -5311,6 +5311,14 @@ huawei,HD85KULU,cn,华为, 华为 Vision 智慧屏 5 SE 85
 huawei,HD65NEWN,cn,华为, 华为 Vision 智慧屏 5 Pro 65
 huawei,HD75NEWN,cn,华为, 华为 Vision 智慧屏 5 Pro 75
 huawei,HD85NEWN,cn,华为, 华为 Vision 智慧屏 5 Pro 85
+huawei,HD6XWATN,cn,华为, 华为 Vision 智慧屏 6 65
+huawei,HD7XWATN,cn,华为, 华为 Vision 智慧屏 6 75
+huawei,HD8XWATN,cn,华为, 华为 Vision 智慧屏 6 85
+huawei,HD9XWATN,cn,华为, 华为 Vision 智慧屏 6 98
+huawei,HD55KLY26A,cn,华为, 华为 Vision 智慧屏 6 SE 55
+huawei,HD65KLY26A,cn,华为, 华为 Vision 智慧屏 6 SE 65
+huawei,HD75KLY26A,cn,华为, 华为 Vision 智慧屏 6 SE 75
+huawei,HD85KLY26A,cn,华为, 华为 Vision 智慧屏 6 SE 85
 huawei,HD55DESB,cn,华为, 华为智慧屏 B3-500
 huawei,HD65DESB,cn,华为, 华为智慧屏 B3-600
 huawei,HDB325A7,cn,华为, 华为智慧屏 B3 55
@@ -7653,9 +7661,11 @@ realme,RMX6699,cn,真我, 真我 GT8
 realme,RMX5200,cn,真我, 真我 GT8 Pro
 realme,RMX6688,cn,真我, 真我 GT7 / 阿斯顿马丁 F1 限量版
 realme,RMX6688,cn,真我, 真我 GT7 / 真我 GT7 阿斯顿马丁 F1 限量版
+realme,RMX5200,cn,真我, 真我 GT8 Pro / 真我 GT8 Pro 阿斯顿马丁 F1 限量版
 realme,RMX3031,cn,真我, 真我 GT Neo 5G
 realme,RMX3350,cn,真我, 真我 GT Neo 闪速版
 realme,RMX3370,cn,真我, 真我 GT Neo2
+realme,RMX3370,cn,真我, 真我 GT Neo2 / 真我 GT Neo2 龙珠定制版
 realme,RMX3357,cn,真我, 真我 GT Neo2T
 realme,RMX3560,cn,真我, 真我 GT Neo3 80W
 realme,RMX3562,cn,真我, 真我 GT Neo3 150W
@@ -7667,6 +7677,7 @@ realme,RMX3850,cn,真我, 真我 GT Neo6 SE
 realme,RMX5060,cn,真我, 真我 Neo7
 realme,RMX5062,cn,真我, 真我 Neo7 Turbo
 realme,RMX5080,cn,真我, 真我 Neo7 SE
+realme,RMX3562,cn,真我, 真我 GT Neo3 150W / 真我 GT Neo3 火影限定版
 realme,RMX3852,cn,真我, 真我 GT Neo6 / 《完美世界》动画云曦限定礼盒
 realme,RMX3852,cn,真我, 真我 GT Neo6 / 真我 GT Neo6 《完美世界》动画云曦限定礼盒
 realme,RMX5060,cn,真我, 真我 Neo7 / 《画江湖之不良人》限定礼盒
@@ -7708,6 +7719,7 @@ realme,RMX5050,cn,真我, 真我 14 Pro+
 realme,RMX5105,cn,真我, 真我 15
 realme,RMX5100,cn,真我, 真我 15 Pro
 realme,RMX5112,cn,真我, 真我 15T
+realme,RMX5100,cn,真我, 真我 15 Pro / 真我 15 Pro 《权力的游戏》限定版
 realme,RMX5170,cn,真我, 真我 16
 realme,RMX5121,cn,真我, 真我 16 Pro
 realme,RMX5130,cn,真我, 真我 16 Pro+
