@@ -6024,6 +6024,7 @@ oneplus,PLR110,en,一加, OnePlus Ace 6T China
 oneplus,CPH2767,en,一加, OnePlus 15R India
 oneplus,CPH2769,en,一加, OnePlus 15R Europe / Global
 oneplus,CPH2771,en,一加, OnePlus 15R North America
+oneplus,PLZ110,en,一加, OnePlus 15T China
 oneplus,PLU110,en,一加, OnePlus Turbo 6 China
 oneplus,PLY110,en,一加, OnePlus Turbo 6V China
 oneplus,AC2001,en,一加, OnePlus Nord India
@@ -6209,6 +6210,8 @@ vivo,V2509,en,VIVO, vivo T4 Lite 5G
 vivo,V2518,en,VIVO, vivo T4R 5G
 vivo,V2510,en,VIVO, vivo T4 Pro
 vivo,V2504,en,VIVO, vivo T4 Ultra
+vivo,V2568,en,VIVO, vivo T5 Pro
+vivo,V2545,en,VIVO, vivo T5x 5G
 vivo,V2044,en,VIVO, vivo Y3s
 vivo,V2118,en,VIVO, vivo Y01
 vivo,V2166,en,VIVO, vivo Y01A
@@ -6395,6 +6398,7 @@ vivo,I2410,en,VIVO, iQOO Z10R 5G
 vivo,I2410,en,VIVO, iQOO Z10R 5G India
 vivo,I2505,en,VIVO, iQOO Z10R 5G Global
 vivo,I2507,en,VIVO, iQOO Z11x 5G
+vivo,I2512,en,VIVO, iQOO Z11 5G
 vivo,V2427,en,VIVO, Jovi V50
 vivo,V2440,en,VIVO, Jovi V50 Lite 5G
 vivo,V2459,en,VIVO, Jovi Y29s 5G
@@ -6781,6 +6785,7 @@ oneplus,PLR110,cn,一加, 一加 Ace 6T 国行版
 oneplus,CPH2767,cn,一加, 一加 15R 印度版
 oneplus,CPH2769,cn,一加, 一加 15R 欧洲版 / 国际版
 oneplus,CPH2771,cn,一加, 一加 15R 北美版
+oneplus,PLZ110,cn,一加, 一加 15T 国行版
 oneplus,PLU110,cn,一加, 一加 Turbo 6 国行版
 oneplus,PLY110,cn,一加, 一加 Turbo 6V 国行版
 oneplus,AC2001,cn,一加, 一加 Nord 印度版
@@ -8041,6 +8046,9 @@ meizu,M468Q,en,魅族, Lync & Co Phone Note
 meizu,M481S,en,魅族, Lync & Co Phone Pro
 meizu,M481S,en,魅族, Polestar Phone
 meizu,M481R,en,魅族, HongQi Wonder
+lenovo,TB376FC,cn,联想, 联想 AI 平板 小新 Pro 13
+lenovo,TB378FC,cn,联想, 联想 AI 平板 小新 Pro GT 13
+lenovo,TB323FU,cn,联想, 联想 AI 平板 拯救者 Y700 五代
 xiaomi,MI-ONE,en,小米, Mi 1 Lite
 xiaomi,2012051,en,小米, Mi 1S WCDMA
 xiaomi,2012053,en,小米, Mi 1S CDMA
