@@ -210,7 +210,10 @@
 `TB710FU`: 小新平板 Pro GT
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **联想 AI 平板 小新 Pro 13:**
 
 `TB376FC`: 联想 AI 平板 小新 Pro 13
@@ -219,6 +222,9 @@
 
 `TB378FC`: 联想 AI 平板 小新 Pro GT 13
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **小新 Pad Studio (`calla`):**
 
@@ -283,11 +289,17 @@
 `TB322FC`: 拯救者平板 Y700 四代
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **联想 AI 平板 拯救者 Y700 五代 (`baldur`):**
 
 `TB323FU`: 联想 AI 平板 拯救者 Y700 五代
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **拯救者平板 Y900 (`inception`):**
 

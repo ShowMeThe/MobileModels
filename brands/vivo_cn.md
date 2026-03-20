@@ -250,6 +250,19 @@
 
 `V2502DA`: vivo X300 Pro 卫星通信版
 
+<<<<<<< HEAD
+=======
+**vivo X300s (`PD2548`):**
+
+`V2548A`: vivo X300s
+
+**vivo X300 Ultra (`PD2547`):**
+
+`V2547A`: vivo X300 Ultra
+
+`V2547DA`: vivo X300 Ultra 卫星通信版
+
+>>>>>>> upstream/master
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -500,7 +513,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -824,6 +840,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1277,6 +1296,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **vivo Y37t / vivo Y50 (2025) / vivo Y50i (`PD2443`):**
 
 `V2443A`: vivo Y37t 5G / vivo Y50 5G / vivo Y50i 5G
@@ -1490,6 +1510,11 @@
 
 `V2443A`: vivo Y37t 5G / vivo Y37+ 5G / vivo Y50 5G / vivo Y50i 5G / vivo Y50e 5G / vivo Y50s 5G
 >>>>>>> upstream/master
+=======
+**vivo Y37t / vivo Y37+ / vivo Y50 (2025) / vivo Y50i / vivo Y50e / vivo Y50s (`PD2443`):**
+
+`V2443A`: vivo Y37t 5G / vivo Y37+ 5G / vivo Y50 5G / vivo Y50i 5G / vivo Y50e 5G / vivo Y50s 5G
+>>>>>>> upstream/master
 
 **vivo Y50m / vivo Y50c (`PD2443`):**
 
@@ -1577,6 +1602,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2106,7 +2134,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2513,6 +2544,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2625,6 +2657,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2863,6 +2897,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3285,7 +3322,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3476,6 +3516,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3850,7 +3893,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4311,6 +4357,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4781,7 +4830,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5020,6 +5072,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5176,6 +5229,16 @@
 =======
 >>>>>>> upstream/master
 =======
+>>>>>>> upstream/master
+=======
+**iQOO Z11 (`PD2551`):**
+
+`V2551A`: iQOO Z11
+
+**iQOO Z11x (`PD2532`):**
+
+`V2532A`: iQOO Z11x
+
 >>>>>>> upstream/master
 ## iQOO U 系列
 
@@ -5249,6 +5312,13 @@
 
 `PA2511`: vivo Pad SE
 
+<<<<<<< HEAD
+=======
+**vivo Pad6 Pro:**
+
+`PA2671`: vivo Pad6 Pro
+
+>>>>>>> upstream/master
 **iQOO Pad (`DPD2307`):**
 
 `iPA2375`: iQOO Pad
@@ -5277,6 +5347,13 @@
 
 `iPA2537`: iQOO Pad5e
 
+<<<<<<< HEAD
+=======
+**iQOO Pad6 Pro:**
+
+`iPA2673`: iQOO Pad6 Pro
+
+>>>>>>> upstream/master
 ## 穿戴设备
 
 **vivo WATCH:**
@@ -5464,7 +5541,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5939,6 +6019,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6425,8 +6508,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `iWA2556B`: iQOO WATCH 5 eSIM 版
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6899,6 +6985,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `iWA2536A`: iQOO WATCH GT 2 蓝牙版
 >>>>>>> upstream/master
 =======
@@ -6918,6 +7005,11 @@
 >>>>>>> upstream/master
 =======
 `iWA2536A`: iQOO WATCH GT 2 蓝牙版
+>>>>>>> upstream/master
+=======
+`iWA2536A`: iQOO WATCH GT 2 蓝牙版
+
+`iWA2536C`: iQOO WATCH GT 2 eSIM 版
 >>>>>>> upstream/master
 =======
 `iWA2536A`: iQOO WATCH GT 2 蓝牙版
