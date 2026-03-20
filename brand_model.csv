@@ -67,6 +67,9 @@ vivo,V2436A,cn,VIVO, vivo X Fold5
 vivo,V2509A,cn,VIVO, vivo X300
 vivo,V2502A,cn,VIVO, vivo X300 Pro
 vivo,V2502DA,cn,VIVO, vivo X300 Pro 卫星通信版
+vivo,V2548A,cn,VIVO, vivo X300s
+vivo,V2547A,cn,VIVO, vivo X300 Ultra
+vivo,V2547DA,cn,VIVO, vivo X300 Ultra 卫星通信版
 vivo,V1831A,cn,VIVO, vivo S1 全网通版
 vivo,V1831T,cn,VIVO, vivo S1 移动全网通版
 vivo,V1832A,cn,VIVO, vivo S1 Pro 全网通版
@@ -320,6 +323,8 @@ vivo,V2453A,cn,VIVO, iQOO Z10 Turbo Pro
 vivo,V2507A,cn,VIVO, iQOO Z10 Turbo+
 vivo,V2445A,cn,VIVO, iQOO Z10x
 vivo,V2536A,cn,VIVO, iQOO Z11 Turbo
+vivo,V2551A,cn,VIVO, iQOO Z11
+vivo,V2532A,cn,VIVO, iQOO Z11x
 vivo,V2023A,cn,VIVO, iQOO U1
 vivo,V2065A,cn,VIVO, iQOO U1x
 vivo,V2061A,cn,VIVO, iQOO U3 5G
@@ -337,6 +342,7 @@ vivo,PA2553,cn,VIVO, vivo Pad5
 vivo,PA2573,cn,VIVO, vivo Pad5 Pro
 vivo,PA2535,cn,VIVO, vivo Pad5e
 vivo,PA2511,cn,VIVO, vivo Pad SE
+vivo,PA2671,cn,VIVO, vivo Pad6 Pro
 vivo,iPA2375,cn,VIVO, iQOO Pad
 vivo,iPA2451,cn,VIVO, iQOO Pad Air
 vivo,iPA2453,cn,VIVO, iQOO Pad2
@@ -344,6 +350,7 @@ vivo,iPA2475,cn,VIVO, iQOO Pad2 Pro
 vivo,iPA2556,cn,VIVO, iQOO Pad5
 vivo,iPA2575,cn,VIVO, iQOO Pad5 Pro
 vivo,iPA2537,cn,VIVO, iQOO Pad5e
+vivo,iPA2673,cn,VIVO, iQOO Pad6 Pro
 vivo,WA2052,cn,VIVO, vivo WATCH 42mm
 vivo,WA2056,cn,VIVO, vivo WATCH 46mm
 vivo,WA2156A,cn,VIVO, vivo WATCH 2 eSIM 版
@@ -4087,6 +4094,7 @@ realme,RMX5116,en,真我, realme P4 Pro 5G
 realme,RMX5108,en,真我, realme P4x 5G
 realme,RMX5107,en,真我, realme P4 Power 5G
 realme,RMX5313,en,真我, realme P4 Lite
+realme,RMX5261,en,真我, realme P4 Lite 5G
 realme,RMX2002,en,真我, realme Narzo Indonesia
 realme,RMX2040,en,真我, realme Narzo 10 India
 realme,RMX2020,en,真我, realme Narzo 10A India
