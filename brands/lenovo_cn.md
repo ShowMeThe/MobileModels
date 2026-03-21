@@ -211,7 +211,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **联想 AI 平板 小新 Pro 13:**
@@ -223,6 +226,9 @@
 `TB378FC`: 联想 AI 平板 小新 Pro GT 13
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -290,7 +296,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **联想 AI 平板 拯救者 Y700 五代 (`baldur`):**
@@ -298,6 +307,9 @@
 `TB323FU`: 联想 AI 平板 拯救者 Y700 五代
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
