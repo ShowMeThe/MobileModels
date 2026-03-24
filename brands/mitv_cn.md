@@ -505,6 +505,11 @@
 `L50RB-RAE`: REDMI 电视 A50 2025 节能版 (二级能效)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`L50RA-RAD`: REDMI 电视 A50 一级能效版
+
+>>>>>>> upstream/master
 =======
 `L50RA-RAD`: REDMI 电视 A50 一级能效版
 
@@ -544,7 +549,10 @@
 `L75RB-APE`: REDMI 智能电视 A Pro 75 2025 节能版 (一级能效)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **REDMI 电视 A Pro 2025:**
 
 `L43RC-AP`: REDMI 电视 A Pro 43 2026
@@ -559,6 +567,9 @@
 
 `L75RC-AP`: REDMI 电视 A Pro 75 2026
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **Redmi 智能电视 X:**
 
@@ -665,7 +676,11 @@
 `L100R8-MAX`: Redmi 智能电视 MAX 100 英寸
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **[`N36`] Redmi 智能电视 MAX:**
+=======
+**[`N36`] Redmi 智能电视 MAX 2025:**
+>>>>>>> upstream/master
 =======
 **[`N36`] Redmi 智能电视 MAX 2025:**
 >>>>>>> upstream/master
@@ -679,7 +694,10 @@
 `L100RA-MAXE`: REDMI 电视 MAX 100 2025 节能版 (一级能效)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **REDMI 电视 MAX 2026:**
 
 `L85RC-MAXE`: REDMI 电视 MAX 85 一级能效版
@@ -690,6 +708,9 @@
 
 `L100RC-AP`: REDMI 电视 MAX 100 2026
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## 电视主机与盒子
 
