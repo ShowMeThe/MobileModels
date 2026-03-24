@@ -4508,6 +4508,7 @@ huawei,VYG-AL00,cn,华为, HUAWEI Mate 80
 huawei,SGT-AL50,cn,华为, HUAWEI Mate 80 Pro (12GB 内存)
 huawei,SGT-AL00,cn,华为, HUAWEI Mate 80 Pro (16GB 内存)
 huawei,SGT-AL10,cn,华为, HUAWEI Mate 80 Pro Max
+huawei,SGT-AL10,cn,华为, HUAWEI Mate 80 Pro Max / HUAWEI Mate 80 Pro Max 风驰版
 huawei,SGU-AL10,cn,华为, HUAWEI Mate 80 RS 非凡大师
 huawei,TAH-AN00,cn,华为, HUAWEI Mate X
 huawei,TAH-AN00m,cn,华为, HUAWEI Mate Xs
@@ -4808,6 +4809,9 @@ huawei,BRE-AL80a,cn,华为, 华为畅享 70X 尊享版
 huawei,BRE-AL00a,cn,华为, 华为畅享 70X 活力版 (128GB)
 huawei,BRE-AL00b,cn,华为, 华为畅享 70X 活力版 (256GB/512GB)
 huawei,JUY-AL00,cn,华为, 华为畅享 80
+huawei,JUY-AL80,cn,华为, 华为畅享 90
+huawei,JUY-AL50,cn,华为, 华为畅享 90 Plus
+huawei,CHZ-AL00,cn,华为, 华为畅享 90 Pro Max
 huawei,S8-301W,cn,华为, 华为 MediaPad M1 Wi-Fi 版
 huawei,S8-301U,cn,华为, 华为 MediaPad M1 3G 版
 huawei,S8-303L,cn,华为, 华为 MediaPad M1 LTE 版
