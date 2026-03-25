@@ -316,7 +316,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -792,6 +795,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1272,7 +1278,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1613,6 +1622,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1874,6 +1886,13 @@
 
 `Z2465N`: nubia Neo 3 GT 5G
 
+<<<<<<< HEAD
+=======
+**nubia Neo 5 GT:**
+
+`Z2570N`: nubia Neo 5 GT 5G
+
+>>>>>>> upstream/master
 **nubia Music:**
 
 `Z2353`: nubia Music
@@ -1894,6 +1913,13 @@
 
 `Z2463N`: nubia Focus 2 Ultra 5G
 
+<<<<<<< HEAD
+=======
+**nubia Fold:**
+
+`A502ZT`: nubia Fold SoftBank
+
+>>>>>>> upstream/master
 **nubia Air:**
 
 `Z2468N`: nubia Air
@@ -1910,6 +1936,11 @@
 
 `Z2474` `Z6657CA`: nubia A76
 
+<<<<<<< HEAD
+=======
+`Z2469N`: nubia A76 5G
+
+>>>>>>> upstream/master
 **nubia V50 Vita:**
 
 `nubia 8550`: nubia V50 Vita
@@ -1999,7 +2030,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2188,6 +2222,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2569,8 +2606,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `NX789J` : 红魔 10S Pro / 红魔 10S Pro+
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3047,6 +3087,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3185,6 +3226,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3453,6 +3496,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master

@@ -506,6 +506,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`L50RA-RAD`: REDMI 电视 A50 一级能效版
+
+>>>>>>> upstream/master
 =======
 `L50RA-RAD`: REDMI 电视 A50 一级能效版
 
@@ -550,7 +555,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **REDMI 电视 A Pro 2025:**
@@ -568,6 +576,9 @@
 `L75RC-AP`: REDMI 电视 A Pro 75 2026
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -677,7 +688,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **[`N36`] Redmi 智能电视 MAX:**
+=======
+**[`N36`] Redmi 智能电视 MAX 2025:**
+>>>>>>> upstream/master
 =======
 **[`N36`] Redmi 智能电视 MAX 2025:**
 >>>>>>> upstream/master
@@ -695,7 +710,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **REDMI 电视 MAX 2026:**
@@ -709,6 +727,9 @@
 `L100RC-AP`: REDMI 电视 MAX 100 2026
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
