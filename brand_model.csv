@@ -871,6 +871,9 @@ oppo,PKU110,cn,OPPO, OPPO Find X8 Ultra 卫星通信版
 oppo,PLJ110,cn,OPPO, OPPO Find X9
 oppo,PLG110,cn,OPPO, OPPO Find X9 Pro
 oppo,PLG120,cn,OPPO, OPPO Find X9 Pro 卫星通信版
+oppo,PME110,cn,OPPO, OPPO Find X9s Pro
+oppo,PMA110,cn,OPPO, OPPO Find X9 Ultra
+oppo,PMA120,cn,OPPO, OPPO Find X9 Ultra 卫星通信版
 oppo,PEUM00,cn,OPPO, OPPO Find N
 oppo,PGU110,cn,OPPO, OPPO Find N2
 oppo,PGT110,cn,OPPO, OPPO Find N2 Flip
@@ -1024,7 +1027,9 @@ oppo,PLN110,cn,OPPO, OPPO A6 Pro
 oppo,PKW120,cn,OPPO, OPPO A6i
 oppo,PLT120,cn,OPPO, OPPO A6s
 oppo,PLT120,cn,OPPO, OPPO A6s / OPPO A6i+
+oppo,PLT120,cn,OPPO, OPPO A6s / OPPO A6i+ / OPPO A6k
 oppo,PLT130,cn,OPPO, OPPO A6v
+oppo,PLT140,cn,OPPO, OPPO A6x
 oppo,PMC110,cn,OPPO, OPPO A6c
 oppo,PBCM30,cn,OPPO, OPPO K1
 oppo,PCGM00,cn,OPPO, OPPO K3 全网通版
@@ -9011,14 +9016,17 @@ nubia,Z2352N,cn,努比亚, nubia Neo 2 5G
 nubia,Z2461,cn,努比亚, nubia Neo 3
 nubia,Z2464N,cn,努比亚, nubia Neo 3 5G
 nubia,Z2465N,cn,努比亚, nubia Neo 3 GT 5G
+nubia,Z2570N,cn,努比亚, nubia Neo 5 GT 5G
 nubia,Z2353,cn,努比亚, nubia Music
 nubia,Z2460,cn,努比亚, nubia Music 2 / nubia Music Pro
 nubia,Z2455,cn,努比亚, nubia Focus
 nubia,Z2462N,cn,努比亚, nubia Focus 2 5G
 nubia,Z2463N,cn,努比亚, nubia Focus 2 Ultra 5G
+nubia,A502ZT,cn,努比亚, nubia Fold SoftBank
 nubia,Z2468N,cn,努比亚, nubia Air
 nubia,Z2473,cn,努比亚, nubia A56
 nubia,Z6255CA,cn,努比亚, nubia A75
+nubia,Z2469N,cn,努比亚, nubia A76 5G
 nubia,Z2356,cn,努比亚, nubia V60
 nubia,Z2350,cn,努比亚, nubia V60 Design
 nubia,Z2459,cn,努比亚, nubia V70
