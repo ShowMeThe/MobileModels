@@ -169,6 +169,8 @@ vivo,V2230A,cn,VIVO, vivo Y53t 5G
 vivo,V2045A,cn,VIVO, vivo Y54s 5G
 vivo,V2164A,cn,VIVO, vivo Y55s 5G
 vivo,V2279A,cn,VIVO, vivo Y55t 5G
+vivo,V2559A,cn,VIVO, vivo Y60 5G
+vivo,V2559BA,cn,VIVO, vivo Y60m 5G
 vivo,V2002A,cn,VIVO, vivo Y70s 5G
 vivo,V2002A,cn,VIVO, vivo Y70t 5G
 vivo,V1731CA,cn,VIVO, vivo Y71s
@@ -220,6 +222,7 @@ vivo,V2452GA,cn,VIVO, vivo Y300 GT
 vivo,V2506A,cn,VIVO, vivo Y500
 vivo,V2516A,cn,VIVO, vivo Y500 Pro
 vivo,V2531A,cn,VIVO, vivo Y500i
+vivo,V2531A,cn,VIVO, vivo Y500i / vivo Y500s
 vivo,V2115A,cn,VIVO, vivo T1
 vivo,V2123A,cn,VIVO, vivo T1x
 vivo,V2199GA,cn,VIVO, vivo T2
@@ -5285,6 +5288,10 @@ huawei,HD6XAJMS,cn,华为, 华为智慧屏 S6 Pro 65
 huawei,HD7XAJMS,cn,华为, 华为智慧屏 S6 Pro 75
 huawei,HD8XAJMS,cn,华为, 华为智慧屏 S6 Pro 85
 huawei,HD9XAJMS,cn,华为, 华为智慧屏 S6 Pro 98
+huawei,HD6XNEWN,cn,华为, 华为智慧屏 S7 Pro 65
+huawei,HD7XNEWN,cn,华为, 华为智慧屏 S7 Pro 75
+huawei,HD8XNEWN,cn,华为, 华为智慧屏 S7 Pro 85
+huawei,HD9XNEWN,cn,华为, 华为智慧屏 S7 Pro 98
 huawei,HD55DESA,cn,华为, 华为智慧屏 SE 55 (2GB+16GB)
 huawei,HD55DESZ,cn,华为, 华为智慧屏 SE 55 畅连通话版 1080P (2GB+16GB)
 huawei,HD55DESY,cn,华为, 华为智慧屏 SE 55 畅连通话版 1080P 金属底座 (2GB+16GB)
