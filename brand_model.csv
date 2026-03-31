@@ -3262,6 +3262,8 @@ honor,NLA-LX2,en,荣耀, HONOR X5c
 honor,NLA-LX3,en,荣耀, HONOR X5c
 honor,NLA-LX2P,en,荣耀, HONOR X5c Plus
 honor,NLA-LX1,en,荣耀, HONOR X5c Plus
+honor,NAA-LX2,en,荣耀, HONOR X5d
+honor,NAA-LX2P,en,荣耀, HONOR X5d Plus
 honor,VNE-LX1,en,荣耀, HONOR X6
 honor,VNE-LX2,en,荣耀, HONOR X6
 honor,VNE-LX3,en,荣耀, HONOR X6
@@ -4515,6 +4517,7 @@ honor,AGI-AN00,cn,荣耀, 荣耀 X60 GT
 honor,MTN-AN00,cn,荣耀, 荣耀 X70
 honor,MTN-AN80,cn,荣耀, 荣耀 X70 (12GB+512GB)
 honor,ABR-AN00,cn,荣耀, 荣耀 X70i
+honor,LNA-AN00,cn,荣耀, 荣耀 X80i
 honor,JMM-AL00,cn,荣耀, 荣耀 V9 Play 全网通标配版
 honor,JMM-AL10,cn,荣耀, 荣耀 V9 Play 全网通高配版
 honor,JMM-TL00,cn,荣耀, 荣耀 V9 Play 移动定制标配版
@@ -4749,6 +4752,7 @@ honor,GLO-G56,cn,荣耀, 荣耀 MagicBook 14 2023 i5 (16GB+512GB)
 honor,GLO-G561,cn,荣耀, 荣耀 MagicBook 14 2023 i5 (16GB+1TB)
 honor,GLO-G52,cn,荣耀, 荣耀 MagicBook 14 2023 i5 (32GB+1TB)
 honor,GLO-G561,cn,荣耀, 荣耀 MagicBook 14 Pro 2023 i5 (16GB+1TB)
+honor,BCC-N,cn,荣耀, 荣耀 MagicBook 14 2026
 honor,Boh-WAH9HN,cn,荣耀, 荣耀 MagicBook 15 i5
 honor,Boh-WAH9HNP,cn,荣耀, 荣耀 MagicBook 15 i5 (16GB+512GB)
 honor,Boh-WAE9HN,cn,荣耀, 荣耀 MagicBook 15 i7
@@ -4767,6 +4771,13 @@ honor,BDR-WFE9HN,cn,荣耀, 荣耀 MagicBook 15 2021 i7 (荣耀终端)
 honor,BMH-WDQ9HN,cn,荣耀, 荣耀 MagicBook 15 2021 R5 (8GB+256GB)
 honor,BMH-WFQ9HN,cn,荣耀, 荣耀 MagicBook 15 2021 R5 (16GB+512GB)
 honor,BMH-WFP9HN,cn,荣耀, 荣耀 MagicBook 15 2021 R7
+honor,HYM-W56,cn,荣耀, 荣耀 MagicBook 16 2021 R5
+honor,HYM-W76,cn,荣耀, 荣耀 MagicBook 16 2021 R7
+honor,HYM-W76,cn,荣耀, 荣耀 MagicBook 16 Pro 2021 R7
+honor,JGC-N,cn,荣耀, 荣耀 MagicBook 16 2026
+honor,FMB-P,cn,荣耀, 荣耀 MagicBook Pro 14 2025
+honor,FMB-PM,cn,荣耀, 荣耀 MagicBook Pro 14 2025 极客版
+honor,ZQC-P,cn,荣耀, 荣耀 MagicBook Pro 14 2026
 honor,HBL-W19,cn,荣耀, 荣耀 MagicBook Pro i5
 honor,HBL-W29,cn,荣耀, 荣耀 MagicBook Pro i7
 honor,HBL-W19L,cn,荣耀, 荣耀 MagicBook Pro 科技尝鲜版 i5
@@ -4783,15 +4794,13 @@ honor,HLYL-WFQ9,cn,荣耀, 荣耀 MagicBook Pro 2020 R5 (华为终端)
 honor,HLYL-WFP9,cn,荣耀, 荣耀 MagicBook Pro 2020 R7 (华为终端)
 honor,HYLR-WDQ9,cn,荣耀, 荣耀 MagicBook Pro 2020 R5 (荣耀终端)
 honor,HYLR-WFP9,cn,荣耀, 荣耀 MagicBook Pro 2020 R7 (荣耀终端)
-honor,HYM-W56,cn,荣耀, 荣耀 MagicBook 16 2021 R5
-honor,HYM-W76,cn,荣耀, 荣耀 MagicBook 16 2021 R7
-honor,HYM-W76,cn,荣耀, 荣耀 MagicBook 16 Pro 2021 R7
 honor,DRA-56,cn,荣耀, 荣耀 MagicBook Pro 16 Ultra 5 (16GB 内存)
 honor,DRA-54,cn,荣耀, 荣耀 MagicBook Pro 16 Ultra 5 (24GB 内存)
 honor,DRA-72,cn,荣耀, 荣耀 MagicBook Pro 16 Ultra 7 (32GB 内存)
 honor,DRB-P,cn,荣耀, 荣耀 MagicBook Pro 16 2025
 honor,FMB-P,cn,荣耀, 荣耀 MagicBook Pro 14
 honor,FMB-PM,cn,荣耀, 荣耀 MagicBook Pro 14 极客版
+honor,XWC-P,cn,荣耀, 荣耀 MagicBook 16 2026
 honor,HGE-W56,cn,荣耀, 荣耀 MagicBook V 14 i5
 honor,HGE-W76,cn,荣耀, 荣耀 MagicBook V 14 i7
 honor,HGF-W56,cn,荣耀, 荣耀 MagicBook V 14 2022 i5
@@ -5664,6 +5673,8 @@ oppo,PLL110,cn,OPPO, OPPO K13s
 oppo,PKV110,cn,OPPO, OPPO K13x
 oppo,PLM110,cn,OPPO, OPPO K13 Turbo
 oppo,PLE110,cn,OPPO, OPPO K13 Turbo Pro
+oppo,PMH110,cn,OPPO, OPPO K15 Pro
+oppo,PMG110,cn,OPPO, OPPO K15 Pro+
 oppo,OPD2101,cn,OPPO, OPPO Pad
 oppo,OPD2102,cn,OPPO, OPPO Pad Air
 oppo,OPD2201,cn,OPPO, OPPO Pad 2
@@ -5674,6 +5685,8 @@ oppo,OPD2409,cn,OPPO, OPPO Pad 4 Pro
 oppo,OPD2417,cn,OPPO, OPPO Pad SE
 oppo,OPD2506,cn,OPPO, OPPO Pad 5
 oppo,OPD2501,cn,OPPO, OPPO Pad Air5
+oppo,OPD2511,cn,OPPO, OPPO Pad 5 Pro
+oppo,OPD2515,cn,OPPO, OPPO Pad Mini
 oppo,OB19B1,cn,OPPO, OPPO Band 运动版
 oppo,OB19O1,cn,OPPO, OPPO Band 运动版
 oppo,OB19B1,cn,OPPO, OPPO Band 运动版 (国际版)
