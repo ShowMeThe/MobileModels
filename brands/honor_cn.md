@@ -302,7 +302,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -810,6 +813,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -982,6 +986,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1227,6 +1233,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1347,6 +1354,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1410,6 +1419,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1853,7 +1865,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2237,6 +2252,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2648,7 +2666,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2938,6 +2959,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3297,6 +3321,13 @@
 
 `ABR-AN00`: 荣耀 X70i
 
+<<<<<<< HEAD
+=======
+**荣耀 X80i:**
+
+`LNA-AN00`: 荣耀 X80i
+
+>>>>>>> upstream/master
 ## 荣耀 Play 系列
 
 **荣耀 V9 Play (`Jimmy`):**
@@ -3413,6 +3444,7 @@
 
 `NIC-AN00`: 荣耀 Play10C 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3860,6 +3892,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **荣耀 Play10A (`Nala`):**
 
 `NLA-AN00`: 荣耀 Play10A 5G
@@ -3902,6 +3936,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4076,7 +4113,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4345,6 +4385,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4724,6 +4767,7 @@
 
 `NIC-AN00`: 荣耀畅玩 60 5G / 荣耀畅玩 60m 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5321,6 +5365,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **荣耀畅玩 60A (`Nala`):**
 
 `NLA-AN00`: 荣耀畅玩 60A 5G
@@ -5363,6 +5409,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5606,7 +5655,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5892,6 +5944,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6297,7 +6352,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6801,6 +6859,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7262,6 +7323,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> upstream/master
@@ -7362,6 +7424,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -7465,6 +7529,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7619,6 +7686,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7708,6 +7776,11 @@
 =======
 >>>>>>> upstream/master
 `ELE2-W19`: 荣耀平板 X10 Pro 柔光版 11.5 英寸 Wi-Fi 版
+=======
+`ELE2-W19`: 荣耀平板 X10 Pro 柔光版 11.5 英寸 Wi-Fi 版
+
+## 荣耀平板学习机
+>>>>>>> upstream/master
 =======
 `ELE2-W19`: 荣耀平板 X10 Pro 柔光版 11.5 英寸 Wi-Fi 版
 
@@ -8017,6 +8090,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8221,7 +8297,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -8364,6 +8443,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8523,7 +8605,11 @@
 
 `BG2-W09`: 荣耀畅玩平板 2 7 英寸 Wi-Fi 版
 
+<<<<<<< HEAD
 ## 荣耀笔记本电脑
+=======
+## 荣耀 MagicBook 系列
+>>>>>>> upstream/master
 
 **荣耀 MagicBook (`Volta`):**
 
@@ -8641,6 +8727,13 @@
 
 `GLO-G561`: 荣耀 MagicBook 14 Pro 2023 i5 (16GB+1TB)
 
+<<<<<<< HEAD
+=======
+**荣耀 MagicBook 14 2026:**
+
+`BCC-N`: 荣耀 MagicBook 14 2026
+
+>>>>>>> upstream/master
 **荣耀 MagicBook 15 (`BohrB`):**
 
 `Boh-WAH9HN`: 荣耀 MagicBook 15 i5
@@ -8689,6 +8782,35 @@
 
 `BMH-WFP9HN`: 荣耀 MagicBook 15 2021 R7
 
+<<<<<<< HEAD
+=======
+**荣耀 MagicBook 16 2021 (`HalleyM`):**
+
+`HYM-W56`: 荣耀 MagicBook 16 2021 R5
+
+`HYM-W76`: 荣耀 MagicBook 16 2021 R7
+
+**荣耀 MagicBook 16 Pro 2021 (`HalleyM`):**
+
+`HYM-W76`: 荣耀 MagicBook 16 Pro 2021 R7
+
+**荣耀 MagicBook 16 2026:**
+
+`JGC-N`: 荣耀 MagicBook 16 2026
+
+## 荣耀 MagicBook Pro 系列
+
+**荣耀 MagicBook Pro 14 2025:**
+
+`FMB-P`: 荣耀 MagicBook Pro 14 2025
+
+`FMB-PM`: 荣耀 MagicBook Pro 14 2025 极客版
+
+**荣耀 MagicBook Pro 14 2026:**
+
+`ZQC-P`: 荣耀 MagicBook Pro 14 2026
+
+>>>>>>> upstream/master
 **荣耀 MagicBook Pro:**
 
 `HBL-W19`: 荣耀 MagicBook Pro i5
@@ -8731,6 +8853,7 @@
 
 `HYLR-WFP9`: 荣耀 MagicBook Pro 2020 R7 (荣耀终端)
 
+<<<<<<< HEAD
 **荣耀 MagicBook 16 (`HalleyM`):**
 
 `HYM-W56`: 荣耀 MagicBook 16 2021 R5
@@ -8741,6 +8864,8 @@
 
 `HYM-W76`: 荣耀 MagicBook 16 Pro 2021 R7
 
+=======
+>>>>>>> upstream/master
 **荣耀 MagicBook Pro 16 (`DarwinA`):**
 
 `DRA-56`: 荣耀 MagicBook Pro 16 Ultra 5 (16GB 内存)
@@ -8753,11 +8878,19 @@
 
 `DRB-P`: 荣耀 MagicBook Pro 16 2025
 
+<<<<<<< HEAD
 **荣耀 MagicBook Pro 14:**
 
 `FMB-P`: 荣耀 MagicBook Pro 14
 
 `FMB-PM`: 荣耀 MagicBook Pro 14 极客版
+=======
+**荣耀 MagicBook Pro 16 2026:**
+
+`XWC-P`: 荣耀 MagicBook 16 2026
+
+## 荣耀 MagicBook V / Art 系列
+>>>>>>> upstream/master
 
 **荣耀 MagicBook V 14 (`HiggsE`):**
 
@@ -8787,6 +8920,11 @@
 
 `MRB-A`: 荣耀 MagicBook Art 14 2025
 
+<<<<<<< HEAD
+=======
+## 荣耀笔记本 X 系列
+
+>>>>>>> upstream/master
 **荣耀 MagicBook X 14 (`NobelBR`):**
 
 `NBR-WAI9`: 荣耀 MagicBook X 14 i3
@@ -9002,7 +9140,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9499,6 +9640,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9577,6 +9719,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9956,6 +10100,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -10436,7 +10583,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -10933,6 +11083,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -10963,6 +11114,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -11414,6 +11567,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -11727,6 +11883,11 @@
 
 `FRI-F56Z`: 荣耀 MagicBook Z3 14 2023 i5
 
+<<<<<<< HEAD
+=======
+## 荣耀游戏本系列
+
+>>>>>>> upstream/master
 **荣耀猎人游戏本 V700:**
 
 `FRD-WDG9`: 荣耀猎人游戏本 V700 i5 (8GB+512GB) (华为终端)
@@ -12025,7 +12186,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -12525,6 +12689,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -12860,6 +13027,7 @@
 
 `TUR-L19`: 荣耀手表 5 Ultra
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13360,6 +13528,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **荣耀手表 GS 5 / 荣耀手表 Fit:**
 
 `IVY-B39`: 荣耀手表 GS 5 / 荣耀手表 Fit
@@ -13433,6 +13603,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -13741,6 +13914,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -14031,6 +14205,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -14095,6 +14271,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
