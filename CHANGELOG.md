@@ -171,6 +171,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ### 2025-10-11
 - `samsung_cn` 新增 心系天下 三星 W26。
@@ -738,6 +739,10 @@
 =======
 =======
 >>>>>>> upstream/master
+=======
+### 2026-04-01
+- `honor_cn` 新增 荣耀畅玩 80 Pro。
+>>>>>>> upstream/master
 ### 2026-03-30
 - `honor_cn` 新增 荣耀 X80i、荣耀 MagicBook 2026 系列。
 - `oppo_cn` 新增 OPPO K15 Pro 系列、OPPO Pad 5 Pro/Pad Mini。
@@ -745,6 +750,9 @@
 - `huawei_cn` 新增 华为智慧屏 S7 Pro。
 - `vivo_cn` 新增 vivo Y500s、Y60/Y60m 5G。
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -760,6 +768,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -788,6 +799,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -825,6 +839,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -871,6 +888,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -926,6 +946,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -994,6 +1017,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1074,6 +1100,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1170,6 +1199,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1277,6 +1309,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1401,6 +1436,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1575,6 +1613,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1798,6 +1839,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2037,6 +2081,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2296,6 +2343,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2565,6 +2615,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2852,6 +2905,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3152,6 +3208,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3476,6 +3535,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3828,6 +3890,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4200,6 +4265,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4603,6 +4671,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5047,6 +5118,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5512,6 +5586,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5992,6 +6069,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6478,6 +6558,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6977,6 +7060,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7479,6 +7565,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7989,6 +8078,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
