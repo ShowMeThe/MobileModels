@@ -4625,6 +4625,7 @@ honor,JDY-AN00,cn,荣耀, 荣耀畅玩 50 5G / 荣耀畅玩 50m 5G
 honor,CLK-AN00,cn,荣耀, 荣耀畅玩 50 Plus 5G
 honor,NIC-AN00,cn,荣耀, 荣耀畅玩 60 5G / 荣耀畅玩 60m 5G
 honor,NLA-AN00,cn,荣耀, 荣耀畅玩 60A 5G
+honor,NLA-AN00,cn,荣耀, 荣耀畅玩 60A 5G / 荣耀畅玩 80
 honor,ALT-AN00,cn,荣耀, 荣耀畅玩 60 Plus 5G
 honor,LOG-AN00,cn,荣耀, 荣耀畅玩 70 Plus 5G / 荣耀畅玩 70m Plus 5G
 honor,LOG-AN10,cn,荣耀, 荣耀畅玩 80 Pro 5G
@@ -8909,12 +8910,15 @@ vivo,V2440,en,VIVO, Jovi V50 Lite 5G
 vivo,V2459,en,VIVO, Jovi Y29s 5G
 vivo,V2427,en,VIVO, JOVI V50
 vivo,V2440,en,VIVO, JOVI V50 Lite 5G
+vivo,J2507,en,VIVO, JOVI V70 5G
 vivo,V2425,en,VIVO, JOVI Y19s
 vivo,V2454,en,VIVO, JOVI Y19s
+vivo,J2503,en,VIVO, JOVI Y21
 vivo,J2508,en,VIVO, JOVI Y21 5G
 vivo,V2445,en,VIVO, JOVI Y29
 vivo,V2459,en,VIVO, JOVI Y29s 5G
 vivo,V2444,en,VIVO, JOVI Y39 5G
+vivo,J2506,en,VIVO, JOVI Y31
 mitv,L47M1-AA,cn,小米电视, 小米电视 47 英寸
 mitv,L40M2-AA,cn,小米电视, 小米电视 2 40 英寸
 mitv,L49M2-AA,cn,小米电视, 小米电视 2 49 英寸
