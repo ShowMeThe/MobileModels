@@ -1523,6 +1523,7 @@ oppo,CPH2847,en,OPPO, OPPO A6t
 oppo,CPH2853,en,OPPO, OPPO A6t 5G
 oppo,CPH2849,en,OPPO, OPPO A6t Pro
 oppo,CPH2851,en,OPPO, OPPO A6t Pro 5G
+oppo,CPH2895,en,OPPO, OPPO A6c
 oppo,CPH1901,en,OPPO, OPPO A7
 oppo,CPH1905,en,OPPO, OPPO A7
 oppo,CPH1903,en,OPPO, OPPO AX7
@@ -9080,6 +9081,11 @@ mitv,L65MB-S,cn,小米电视, 小米电视 S65 Mini LED 2025
 mitv,L75MB-S,cn,小米电视, 小米电视 S75 Mini LED 2025
 mitv,L85MB-S,cn,小米电视, 小米电视 S85 Mini LED 2025
 mitv,L98MB-S,cn,小米电视, 小米电视 S98 Mini LED 2025
+mitv,L55MC-S,cn,小米电视, 小米电视 S55 Mini LED 2026
+mitv,L65MC-S,cn,小米电视, 小米电视 S65 Mini LED 2026
+mitv,L75MC-S,cn,小米电视, 小米电视 S75 Mini LED 2026
+mitv,L85MC-S,cn,小米电视, 小米电视 S85 Mini LED 2026
+mitv,L100MC-S,cn,小米电视, 小米电视 S100 Mini LED 2026
 mitv,L65MA-SM,cn,小米电视, 小米电视 S Pro 65 Mini LED
 mitv,L75MA-SM,cn,小米电视, 小米电视 S Pro 75 Mini LED
 mitv,L85MA-SM,cn,小米电视, 小米电视 S Pro 85 Mini LED
@@ -10867,10 +10873,13 @@ realme,RMX5253,en,真我, realme C85 5G
 realme,RMX5256,en,真我, realme C83 5G
 realme,RMX5566,en,真我, realme C85
 realme,RMX5555,en,真我, realme C85 Pro
+realme,RMX5258,en,真我, realme C100 5G
+realme,RMX5377,en,真我, realme C100i
 realme,RMX3834,en,真我, realme Note 50
 realme,RMX3933,en,真我, realme Note 60
 realme,RMX3938,en,真我, realme Note 60x
 realme,RMX5313,en,真我, realme Note 70 / realme Note 70T
+realme,RMX5388,en,真我, realme Note 80
 realme,RMX1831,en,真我, realme U1
 realme,RMX1833,en,真我, realme U1
 realme,RMX3870,en,真我, realme P1 5G
