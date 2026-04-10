@@ -270,6 +270,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> upstream/master
@@ -629,11 +630,16 @@
 
 **OPPO Find X9 Pro:**
 =======
+=======
+>>>>>>> upstream/master
 **OPPO Find X9 (`zhujiang`):**
 
 `PLJ110`: OPPO Find X9
 
 **OPPO Find X9 Pro (`changjiang`):**
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 
 `PLG110`: OPPO Find X9 Pro
@@ -817,6 +823,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1141,6 +1148,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1196,6 +1205,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1278,6 +1290,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> upstream/master
@@ -1325,6 +1338,9 @@
 =======
 **OPPO Find N6 (`swangoose`):**
 >>>>>>> upstream/master
+=======
+**OPPO Find N6 (`swangoose`):**
+>>>>>>> upstream/master
 
 `PLP110`: OPPO Find N6
 
@@ -1352,6 +1368,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1555,7 +1574,11 @@
 
 `PJJ110`: OPPO Reno11 Pro
 
+<<<<<<< HEAD
 **OPPO Reno12 (`omega`) (`omega-c1`):**
+=======
+**OPPO Reno12 (`omega`) (`omega-c2`):**
+>>>>>>> upstream/master
 
 `PJV110`: OPPO Reno12
 
@@ -1579,6 +1602,7 @@
 
 `PKZ110`: OPPO Reno14 Pro
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2791,6 +2815,20 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+**OPPO Reno15 (`whoopass-c2`):**
+
+`PLW110`: OPPO Reno15
+
+**OPPO Reno15 Pro (`whoopass-c1`):**
+
+`PLV110`: OPPO Reno15 Pro
+
+**OPPO Reno15c (`whoopass-c3`):**
+
+`PMD110`: OPPO Reno15c
+
+>>>>>>> upstream/master
 ## Ace 系列
 
 **OPPO Reno Ace:**
@@ -3055,6 +3093,7 @@
 
 `PJY110`: OPPO A3 Pro / OPPO A5 Plus
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4688,6 +4727,8 @@
 `PKW110`: OPPO A5x / OPPO A5m
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 **OPPO A5 / OPPO A6 Plus:**
 
 `PKQ110`: OPPO A5 5G (2025) / OPPO A6 Plus
@@ -4699,6 +4740,9 @@
 **OPPO A5x / OPPO A5m:**
 
 `PKW110`: OPPO A5x / OPPO A5m
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 
 **OPPO A5 Pro (`alpha`) (`alpha-h`):**
@@ -4709,6 +4753,7 @@
 
 `PLS120`: OPPO A6
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5480,6 +5525,11 @@
 
 `PLL110`: OPPO A6 GT / OPPO A6 Max / OPPO A6l
 >>>>>>> upstream/master
+=======
+**OPPO A6 GT / OPPO A6 Max / OPPO A6l (`baikal-h`):**
+
+`PLL110`: OPPO A6 GT / OPPO A6 Max / OPPO A6l
+>>>>>>> upstream/master
 
 **OPPO A6 Pro:**
 
@@ -5489,6 +5539,7 @@
 
 `PKW120`: OPPO A6i
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5835,6 +5886,8 @@
 =======
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **OPPO A6s / OPPO A6i+ / OPPO A6k:**
 
 `PLT120`: OPPO A6s / OPPO A6i+ / OPPO A6k
@@ -5843,6 +5896,9 @@
 
 `PMT110`: OPPO A6s Pro
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5916,6 +5972,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6016,6 +6073,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6065,6 +6124,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6183,6 +6245,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6377,7 +6442,11 @@
 `PERM00`: OPPO K7x
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **OPPO K9:**
+=======
+**OPPO K9 (`ciri`):**
+>>>>>>> upstream/master
 =======
 **OPPO K9 (`ciri`):**
 >>>>>>> upstream/master
@@ -6417,17 +6486,23 @@
 `PHF110`: OPPO K11x
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **OPPO K12:**
 
 `PJR110`: OPPO K12
 
 **OPPO K12 Plus:**
 =======
+=======
+>>>>>>> upstream/master
 **OPPO K12 (`benz`):**
 
 `PJR110`: OPPO K12
 
 **OPPO K12 Plus (`jeep`):**
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 
 `PKS110`: OPPO K12 Plus
@@ -6436,6 +6511,7 @@
 
 `PJT110`: OPPO K12x
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 **OPPO K12s:**
 
@@ -6447,6 +6523,8 @@
 
 **OPPO K13x:**
 =======
+=======
+>>>>>>> upstream/master
 **OPPO K12s (`knight-l`):**
 
 `PLD110`: OPPO K12s
@@ -6456,6 +6534,9 @@
 `PLL110`: OPPO K13s
 
 **OPPO K13x (`alpha-l5`):**
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 
 `PKV110`: OPPO K13x
@@ -6464,6 +6545,7 @@
 
 `PLM110`: OPPO K13 Turbo
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 **OPPO K13 Turbo:**
 
@@ -6529,6 +6611,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 **OPPO K13 Turbo Pro (`knight-h`):**
 
 `PLE110`: OPPO K13 Turbo Pro
@@ -6541,6 +6625,9 @@
 
 `PMG110`: OPPO K15 Pro+
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## 平板电脑
 
@@ -6751,7 +6838,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -7278,6 +7368,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7412,6 +7503,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -7737,6 +7830,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7933,6 +8027,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -7968,6 +8064,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8242,7 +8341,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -8778,6 +8880,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8918,6 +9021,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9243,6 +9348,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master

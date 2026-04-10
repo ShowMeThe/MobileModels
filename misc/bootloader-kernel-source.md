@@ -30,6 +30,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 各 Android 手机厂商 Bootloader 解锁 / 内核开源 / 解锁后保修情况
 
 > 以下所列如无特殊说明，均为官方支持情况，如有错漏欢迎提交 PR
@@ -6925,6 +6926,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 # 各 Android 厂商 Bootloader 解锁 / 内核开源 / 解锁后保修情况
 
 不再维护，内容已移至 https://github.com/KHwang9883/bootloader-kernel-source
@@ -6959,6 +6962,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+第三方 fork：https://github.com/MlgmXyysd/android-bootloader-kernel-source
+>>>>>>> upstream/master
+=======
 第三方 fork：https://github.com/MlgmXyysd/android-bootloader-kernel-source
 >>>>>>> upstream/master
 =======
