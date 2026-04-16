@@ -818,6 +818,7 @@ honor,NLA-AN00,cn,荣耀, 荣耀畅玩 60A 5G
 honor,NLA-AN00,cn,荣耀, 荣耀畅玩 60A 5G / 荣耀畅玩 80
 honor,ALT-AN00,cn,荣耀, 荣耀畅玩 60 Plus 5G
 honor,LOG-AN00,cn,荣耀, 荣耀畅玩 70 Plus 5G / 荣耀畅玩 70m Plus 5G
+honor,LAB-AN00,cn,荣耀, 荣耀畅玩 80 Plus 5G
 honor,LOG-AN10,cn,荣耀, 荣耀畅玩 80 Pro 5G
 honor,S8-701w,cn,荣耀, 荣耀平板 Wi-Fi 版
 honor,S8-701u,cn,荣耀, 荣耀平板 3G 版
@@ -859,6 +860,7 @@ honor,ROD2-W09,cn,荣耀, 荣耀平板 MagicPad 2 12.3 英寸 Wi-Fi 版
 honor,CGA-W00,cn,荣耀, 荣耀平板 MagicPad 3 13.3 英寸 Wi-Fi 版
 honor,CGL-W00,cn,荣耀, 荣耀 MagicPad 3 12.5 英寸 Wi-Fi 版
 honor,YLP-W00,cn,荣耀, 荣耀 MagicPad 3 Pro 13.3 英寸 Wi-Fi 版
+honor,YLE-W09,cn,荣耀, 荣耀 MagicPad 3 Pro 12.3 英寸 Wi-Fi 版
 honor,ROL-W60,cn,荣耀, 荣耀平板 GT 11.5 英寸 Wi-Fi 版
 honor,ROD2-W69,cn,荣耀, 荣耀平板 GT Pro 12.3 英寸 Wi-Fi 版
 honor,CHG-W60,cn,荣耀, 荣耀平板 GT2 Pro 12.5 英寸 Wi-Fi 版
@@ -9214,6 +9216,11 @@ mitv,L65MC-S,cn,小米电视, 小米电视 S65 Mini LED 2026
 mitv,L75MC-S,cn,小米电视, 小米电视 S75 Mini LED 2026
 mitv,L85MC-S,cn,小米电视, 小米电视 S85 Mini LED 2026
 mitv,L100MC-S,cn,小米电视, 小米电视 S100 Mini LED 2026
+mitv,L55MC-SD,cn,小米电视, 小米电视 S55 Mini LED 2026 至尊版
+mitv,L65MC-SD,cn,小米电视, 小米电视 S65 Mini LED 2026 至尊版
+mitv,L75MC-SD,cn,小米电视, 小米电视 S75 Mini LED 2026 至尊版
+mitv,L85MC-SD,cn,小米电视, 小米电视 S85 Mini LED 2026 至尊版
+mitv,L100MC-SD,cn,小米电视, 小米电视 S100 Mini LED 2026 至尊版
 mitv,L65MA-SM,cn,小米电视, 小米电视 S Pro 65 Mini LED
 mitv,L75MA-SM,cn,小米电视, 小米电视 S Pro 75 Mini LED
 mitv,L85MA-SM,cn,小米电视, 小米电视 S Pro 85 Mini LED
