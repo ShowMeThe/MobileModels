@@ -1566,6 +1566,7 @@ oneplus,CPH2771,cn,一加, 一加 15R 北美版
 oneplus,PLZ110,cn,一加, 一加 15T 国行版
 oneplus,PLU110,cn,一加, 一加 Turbo 6 国行版
 oneplus,PLY110,cn,一加, 一加 Turbo 6V 国行版
+oneplus,PMB110,cn,一加, 一加 Ace 6 至尊版 国行版
 oneplus,CPH2793,cn,一加, 一加 Nord 6 印度版
 oneplus,CPH2795,cn,一加, 一加 Nord 6 国际版
 oneplus,CPH2805,cn,一加, 一加 Nord CE 6 印度版
@@ -1635,6 +1636,7 @@ oneplus,OPWWE234,cn,一加, 一加手表 2R 国际版
 oneplus,OPWWE231,cn,一加, 一加手表 2 国际版
 oneplus,OPWWE251,cn,一加, 一加手表 3 国际版
 oneplus,OPWE242,cn,一加, 一加手表 3 43mm 国际版
+oneplus,OPWWE261,cn,一加, 一加手表 4 国际版
 xiaomi,MI-ONE,cn,小米, 小米 1 青春版
 xiaomi,2012051,cn,小米, 小米 1S 联通版
 xiaomi,2012053,cn,小米, 小米 1S 电信版
@@ -4815,6 +4817,7 @@ xiaomi-wear,M2349E1,cn,其他, Redmi Buds 6 青春版 / Redmi Buds 6 Lite 国际
 xiaomi-wear,M2420E1,cn,其他, Redmi Buds 6 Play 国际版
 xiaomi-wear,M2411E1,cn,其他, REDMI Buds SE
 xiaomi-wear,M2455E1,cn,其他, REDMI Buds 7S
+xiaomi-wear,M2544E1,cn,其他, REDMI Buds 8
 xiaomi-wear,M2535E1,cn,其他, REDMI Buds 8 Pro
 xiaomi-wear,M2539E1,cn,其他, REDMI Buds 8 青春版
 xiaomi-wear,M2537E1,cn,其他, REDMI Buds 8 活力版 / REDMI Buds 8 Active 国际版
@@ -5734,6 +5737,7 @@ oneplus,CPH2771,en,一加, OnePlus 15R North America
 oneplus,PLZ110,en,一加, OnePlus 15T China
 oneplus,PLU110,en,一加, OnePlus Turbo 6 China
 oneplus,PLY110,en,一加, OnePlus Turbo 6V China
+oneplus,PMB110,en,一加, OnePlus Ace 6 Ultra China
 oneplus,CPH2793,en,一加, OnePlus Nord 6 India
 oneplus,CPH2795,en,一加, OnePlus Nord 6 Global
 oneplus,CPH2805,en,一加, OnePlus Nord CE 6 India
@@ -5803,6 +5807,7 @@ oneplus,OPWWE234,en,一加, OnePlus Watch 2R
 oneplus,OPWWE231,en,一加, OnePlus Watch 2 (Global)
 oneplus,OPWWE251,en,一加, OnePlus Watch 3 (Global)
 oneplus,OPWE242,en,一加, OnePlus Watch 3 43mm (Global)
+oneplus,OPWWE261,en,一加, OnePlus Watch 4 (Global)
 realme,CPH1859,en,真我, realme 1
 realme,CPH1861,en,真我, realme 1
 realme,RMX1805,en,真我, realme 2
@@ -6073,6 +6078,7 @@ realme,RMX3945,en,真我, realme NARZO 80 Lite 5G
 realme,RMX5111,en,真我, realme NARZO 90 5G
 realme,RMX5264,en,真我, realme NARZO 90x 5G
 realme,RMX5107,en,真我, realme NARZO Power 5G
+realme,RMX5261,en,真我, realme NARZO 100 Lite 5G
 realme,RMP2102,en,真我, realme Pad LTE
 realme,RMP2103,en,真我, realme Pad Wi-Fi
 realme,RMP2105,en,真我, realme Pad mini LTE
