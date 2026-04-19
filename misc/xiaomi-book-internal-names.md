@@ -199,6 +199,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 | REDMI Book 16 2025 (AMD) | `M54S` | 2025 |
 >>>>>>> upstream/master
@@ -480,6 +481,10 @@
 >>>>>>> upstream/master
 =======
 | REDMI Book 16 2025 (AMD) | `M54S` | 2025 |
+>>>>>>> upstream/master
+=======
+| REDMI Book 16 2025 (AMD) | `M54S` | 2025 |
+| Xiaomi Book Pro 14 2026 | `P52` | 2026 |
 >>>>>>> upstream/master
 =======
 | REDMI Book 16 2025 (AMD) | `M54S` | 2025 |
