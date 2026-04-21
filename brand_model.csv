@@ -7774,8 +7774,13 @@ huawei,HED-AL00,cn,华为, HUAWEI Pura 80
 huawei,LMR-AL00,cn,华为, HUAWEI Pura 80 Pro
 huawei,LMR-AL10,cn,华为, HUAWEI Pura 80 Pro+
 huawei,LMR-AL10,cn,华为, HUAWEI Pura 80 Ultra
+huawei,KEE-AL00,cn,华为, HUAWEI Pura 90
+huawei,MLN-AL00,cn,华为, HUAWEI Pura 90 Pro
+huawei,SCA-AL00,cn,华为, HUAWEI Pura 90 Pro Max
 huawei,VDE-AL00,cn,华为, HUAWEI Pura X
 huawei,VDE-AL10,cn,华为, HUAWEI Pura X 典藏版
+huawei,HOP-AL00,cn,华为, HUAWEI Pura X Max
+huawei,HOP-AL10,cn,华为, HUAWEI Pura X Max 典藏版
 huawei,BAL-AL60,cn,华为, HUAWEI Pocket S
 huawei,LEM-AL00,cn,华为, HUAWEI Pocket 2
 huawei,LEM-AL50,cn,华为, HUAWEI Pocket 2 优享版
@@ -7983,6 +7988,7 @@ huawei,BRE-AL00b,cn,华为, 华为畅享 70X 活力版 (256GB/512GB)
 huawei,JUY-AL00,cn,华为, 华为畅享 80
 huawei,JUY-AL80,cn,华为, 华为畅享 90
 huawei,JUY-AL50,cn,华为, 华为畅享 90 Plus
+huawei,JUY-AL50,cn,华为, 华为畅享 90 Plus / 华为畅享 90m Plus
 huawei,CHZ-AL00,cn,华为, 华为畅享 90 Pro Max
 huawei,S8-301W,cn,华为, 华为 MediaPad M1 Wi-Fi 版
 huawei,S8-301U,cn,华为, 华为 MediaPad M1 3G 版
@@ -8231,6 +8237,8 @@ huawei,KLVG-16,cn,华为, HUAWEI MateBook 14 2023 (16GB 内存)
 huawei,KLVG-32,cn,华为, HUAWEI MateBook 14 2023 (32GB 内存)
 huawei,FLMH-16,cn,华为, HUAWEI MateBook 14 酷睿 Ultra (16GB 内存)
 huawei,FLMH-32,cn,华为, HUAWEI MateBook 14 酷睿 Ultra (32GB 内存)
+huawei,MNTXM-24A,cn,华为, HUAWEI MateBook 14 鸿蒙版 (24GB 内存)
+huawei,MNTXM-32A,cn,华为, HUAWEI MateBook 14 鸿蒙版 (32GB 内存)
 huawei,HKD-W58,cn,华为, HUAWEI MateBook 14s i5 (8GB+512GB)
 huawei,HKD-W56,cn,华为, HUAWEI MateBook 14s i5 (16GB+512GB)
 huawei,HKD-W76,cn,华为, HUAWEI MateBook 14s i7 (16GB+512GB/1TB)
@@ -8516,6 +8524,10 @@ huawei,HD55KLY26A,cn,华为, 华为 Vision 智慧屏 6 SE 55
 huawei,HD65KLY26A,cn,华为, 华为 Vision 智慧屏 6 SE 65
 huawei,HD75KLY26A,cn,华为, 华为 Vision 智慧屏 6 SE 75
 huawei,HD85KLY26A,cn,华为, 华为 Vision 智慧屏 6 SE 85
+huawei,HD1XAJMS,cn,华为, 华为 Vision 智慧屏 6 Pro 65
+huawei,HD77AJMS,cn,华为, 华为 Vision 智慧屏 6 Pro 75
+huawei,HD85AJMS,cn,华为, 华为 Vision 智慧屏 6 Pro 85
+huawei,HD98AJMS,cn,华为, 华为 Vision 智慧屏 6 Pro 98
 huawei,HD55DESB,cn,华为, 华为智慧屏 B3-500
 huawei,HD65DESB,cn,华为, 华为智慧屏 B3-600
 huawei,HDB325A7,cn,华为, 华为智慧屏 B3 55
@@ -8553,6 +8565,7 @@ huawei,MCH-AL00,cn,华为, HUAWEI WATCH Ultimate 2 非凡探索
 huawei,CLB-B19,cn,华为, HUAWEI WATCH ULTIMATE DESIGN 非凡大师 黄金款
 huawei,EDD-B39,cn,华为, HUAWEI WATCH ULTIMATE DESIGN 非凡大师 蓝宝石黄金款
 huawei,LNG-AL00,cn,华为, HUAWEI WATCH ULTIMATE DESIGN 非凡大师 紫金款
+huawei,CHC-AL00,cn,华为, HUAWEI WATCH ULTIMATE DESIGN 非凡大师 星钻绽放
 huawei,ELA-B19,cn,华为, HUAWEI WATCH GT 雅致款
 huawei,FTN-B19,cn,华为, HUAWEI WATCH GT 时尚版/运动版
 huawei,DAN-B19,cn,华为, HUAWEI WATCH GT 2 42mm
@@ -8579,6 +8592,7 @@ huawei,KSU-B29,cn,华为, HUAWEI WATCH GT 6 Pro 42mm
 huawei,ATM-B29,cn,华为, HUAWEI WATCH GT 6 Pro 46mm
 huawei,RUN-B19,cn,华为, HUAWEI WATCH GT Runner
 huawei,RUN-B29,cn,华为, HUAWEI WATCH GT Runner
+huawei,CHT-B19,cn,华为, HUAWEI WATCH GT Runner 2
 huawei,OCF-B29,cn,华为, HUAWEI WATCH GT 2022 典藏版
 huawei,AND-B19,cn,华为, HUAWEI WATCH GT Cyber
 huawei,TIA-B19,cn,华为, HUAWEI WATCH FIT / HUAWEI WATCH FIT new
@@ -8590,12 +8604,15 @@ huawei,YDA-B19V,cn,华为, HUAWEI WATCH FIT 2 雅致款 / 时尚款
 huawei,SLO-B19,cn,华为, HUAWEI WATCH FIT 3
 huawei,SYA-B19,cn,华为, HUAWEI WATCH FIT 4
 huawei,SYA-B29,cn,华为, HUAWEI WATCH FIT 4 Pro
+huawei,NKI-B19,cn,华为, HUAWEI WATCH FIT 5
+huawei,NKI-B29,cn,华为, HUAWEI WATCH FIT 5 Pro
 huawei,MLY-B10,cn,华为, HUAWEI WATCH D 黑色氟橡胶表带
 huawei,MLY-B11,cn,华为, HUAWEI WATCH D 米白色氟橡胶表带
 huawei,LCA-B10,cn,华为, HUAWEI WATCH D2 幻夜黑
 huawei,LCA-B11,cn,华为, HUAWEI WATCH D2 晨曦金
 huawei,LCA-B29,cn,华为, HUAWEI WATCH D2 星云蓝
 huawei,SGA-B19,cn,华为, HUAWEI WATCH Buds
+huawei,LBA-B19,cn,华为, HUAWEI WATCH Buds 2
 huawei,MIL-B29B,cn,华为, HUAWEI WATCH B5-532
 huawei,JPT-B29B,cn,华为, HUAWEI WATCH B5-536
 huawei,ODN-B99,cn,华为, HUAWEI WATCH B5-736
@@ -8657,6 +8674,7 @@ huawei,FIJ-CG020,cn,华为, HUAWEI X GENTLE MONSTER Eyewear II
 huawei,EVI-CG010,cn,华为, 华为智能眼镜
 huawei,LFT-G00,cn,华为, 华为智能眼镜 2
 huawei,ALI-CG01,cn,华为, HUAWEI Vision Glass
+huawei,AIL-G01,cn,华为, 华为 AI 眼镜
 huawei,U9500,cn,华为, 华为 Ascend D1
 huawei,U9500E,cn,华为, 华为 Ascend D1 XL
 huawei,U9510,cn,华为, 华为 Ascend D1 四核
@@ -10456,6 +10474,7 @@ vivo,V2045A,cn,VIVO, vivo Y54s 5G
 vivo,V2164A,cn,VIVO, vivo Y55s 5G
 vivo,V2279A,cn,VIVO, vivo Y55t 5G
 vivo,V2559A,cn,VIVO, vivo Y60 5G
+vivo,V2559A,cn,VIVO, vivo Y60 5G / vivo Y6t 5G
 vivo,V2559BA,cn,VIVO, vivo Y60m 5G
 vivo,V2002A,cn,VIVO, vivo Y70s 5G
 vivo,V2002A,cn,VIVO, vivo Y70t 5G
