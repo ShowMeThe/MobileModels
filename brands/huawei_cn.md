@@ -402,6 +402,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> upstream/master
@@ -1126,6 +1127,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **HUAWEI Mate 70 Air (`Superman`):**
 
 `SUP-AL90`: HUAWEI Mate 70 Air
@@ -1189,6 +1192,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1348,7 +1354,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `SGT-AL10`: HUAWEI Mate 80 Pro Max
+=======
+`SGT-AL10`: HUAWEI Mate 80 Pro Max / HUAWEI Mate 80 Pro Max 风驰版
+>>>>>>> upstream/master
 =======
 `SGT-AL10`: HUAWEI Mate 80 Pro Max / HUAWEI Mate 80 Pro Max 风驰版
 >>>>>>> upstream/master
@@ -1583,6 +1593,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1934,7 +1947,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **HUAWEI Mate X6 (`Iceland`):**
+=======
+**HUAWEI Mate X6 (`Icelan`):**
+>>>>>>> upstream/master
 =======
 **HUAWEI Mate X6 (`Icelan`):**
 >>>>>>> upstream/master
@@ -2174,7 +2191,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2616,6 +2636,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3113,12 +3136,36 @@
 
 `LMR-AL10`: HUAWEI Pura 80 Ultra
 
+<<<<<<< HEAD
+=======
+**HUAWEI Pura 90 (`Klee`):**
+
+`KEE-AL00`: HUAWEI Pura 90
+
+**HUAWEI Pura 90 Pro (`Malena`):**
+
+`MLN-AL00`: HUAWEI Pura 90 Pro
+
+**HUAWEI Pura 90 Pro Max (`Sicilia`):**
+
+`SCA-AL00`: HUAWEI Pura 90 Pro Max
+
+>>>>>>> upstream/master
 **HUAWEI Pura X (`Verde`):**
 
 `VDE-AL00`: HUAWEI Pura X
 
 `VDE-AL10`: HUAWEI Pura X 典藏版
 
+<<<<<<< HEAD
+=======
+**HUAWEI Pura X Max (`Hope`):**
+
+`HOP-AL00`: HUAWEI Pura X Max
+
+`HOP-AL10`: HUAWEI Pura X Max 典藏版
+
+>>>>>>> upstream/master
 ## HUAWEI Pocket 系列
 
 **HUAWEI Pocket S (`Bali`):**
@@ -3369,6 +3416,7 @@
 
 `MIS-AL00`: HUAWEI nova 13 Pro
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3934,6 +3982,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **HUAWEI nova 14 (`Taylor`):**
 
 `TLR-AL00`: HUAWEI nova 14
@@ -4005,6 +4055,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4312,6 +4365,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4804,7 +4860,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5171,6 +5230,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5862,6 +5924,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`BRE-AL80a`: 华为畅享 70X 尊享版
+
+>>>>>>> upstream/master
 =======
 `BRE-AL80a`: 华为畅享 70X 尊享版
 
@@ -6507,6 +6574,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **华为畅享 80:**
 =======
 **华为畅享 80 (`Judy`):**
@@ -6647,6 +6715,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **华为畅享 80 (`Judy`):**
 
 `JUY-AL00`: 华为畅享 80
@@ -6655,9 +6725,15 @@
 
 `JUY-AL80`: 华为畅享 90
 
+<<<<<<< HEAD
 **华为畅享 90 Plus (`Judy`):**
 
 `JUY-AL50`: 华为畅享 90 Plus
+=======
+**华为畅享 90 Plus / 华为畅享 90m Plus (`Judy`):**
+
+`JUY-AL50`: 华为畅享 90 Plus / 华为畅享 90m Plus
+>>>>>>> upstream/master
 
 **华为畅享 90 Pro Max (`Chenzhen`):**
 
@@ -6690,6 +6766,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7063,7 +7142,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -7509,6 +7591,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7814,6 +7899,7 @@
 
 `BKY-W10`: HUAWEI MatePad Air 12 英寸 Wi-Fi 版 (12GB+256GB)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8309,6 +8395,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 `BKY-W20` `BKY-W21`: HUAWEI MatePad Air 12 英寸 Wi-Fi 柔光版
 
 **HUAWEI MatePad Air (`Laurent`):**
@@ -8433,6 +8521,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8855,7 +8946,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9218,6 +9312,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9769,7 +9866,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -10209,6 +10309,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -10698,6 +10801,15 @@
 
 `FLMH-32`: HUAWEI MateBook 14 酷睿 Ultra (32GB 内存)
 
+<<<<<<< HEAD
+=======
+**HUAWEI MateBook 14 鸿蒙版:**
+
+`MNTXM-24A`: HUAWEI MateBook 14 鸿蒙版 (24GB 内存)
+
+`MNTXM-32A`: HUAWEI MateBook 14 鸿蒙版 (32GB 内存)
+
+>>>>>>> upstream/master
 **HUAWEI MateBook 14s (`HookeD`):**
 
 `HKD-W58`: HUAWEI MateBook 14s i5 (8GB+512GB)
@@ -11256,7 +11368,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -11592,6 +11707,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -11979,7 +12097,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -12419,6 +12540,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -12833,7 +12957,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -12916,6 +13043,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -13254,11 +13384,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `HD65KULU`: 华为 Vision 智慧屏 5 SE 65
 
 `HD75KULU`: 华为 Vision 智慧屏 5 SE 75
 
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -13809,6 +13942,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -14220,7 +14356,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -14358,6 +14497,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -14436,6 +14576,18 @@
 =======
 >>>>>>> upstream/master
 =======
+>>>>>>> upstream/master
+=======
+**华为 Vision 智慧屏 6 Pro:**
+
+`HD1XAJMS`: 华为 Vision 智慧屏 6 Pro 65
+
+`HD77AJMS`: 华为 Vision 智慧屏 6 Pro 75
+
+`HD85AJMS`: 华为 Vision 智慧屏 6 Pro 85
+
+`HD98AJMS`: 华为 Vision 智慧屏 6 Pro 98
+
 >>>>>>> upstream/master
 **华为智慧屏 B 系列:**
 
@@ -14505,6 +14657,7 @@
 
 `MDS-AL00` `MDS-AL10`: HUAWEI WATCH 4 Pro
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14859,6 +15012,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **HUAWEI WATCH 5 / HUAWEI WATCH 十周年款 (`Socrates`):**
 
 `SOC-AL00`: HUAWEI WATCH 5 42mm / HUAWEI WATCH 十周年款 42mm
@@ -14981,6 +15136,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -15385,7 +15543,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -15879,6 +16040,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -16358,6 +16522,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 `LNG-AL00`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 紫金款
 
@@ -16940,6 +17105,12 @@
 >>>>>>> upstream/master
 =======
 `LNG-AL00`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 紫金款
+
+>>>>>>> upstream/master
+=======
+`LNG-AL00`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 紫金款
+
+`CHC-AL00`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 星钻绽放
 
 >>>>>>> upstream/master
 **HUAWEI WATCH GT:**
@@ -16972,6 +17143,7 @@
 
 `JPT-B19` `JPT-B29`: HUAWEI WATCH GT 3 46mm
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17396,6 +17568,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **HUAWEI WATCH GT 3 Pro (`Frigga`):**
 
 `FRG-B19`: HUAWEI WATCH GT 3 Pro 43mm
@@ -17546,6 +17720,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -17842,6 +18019,7 @@
 
 `JNA-B29`: HUAWEI WATCH GT 5 Pro 42mm
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -18395,6 +18573,9 @@
 =======
 **HUAWEI WATCH GT 5 Pro (`Vilipro`):**
 >>>>>>> upstream/master
+=======
+**HUAWEI WATCH GT 5 Pro (`Vilipro`):**
+>>>>>>> upstream/master
 
 `VLI-B29`: HUAWEI WATCH GT 5 Pro 46mm
 
@@ -18418,10 +18599,18 @@
 
 `RUN-B19` `RUN-B29`: HUAWEI WATCH GT Runner
 
+<<<<<<< HEAD
+=======
+**HUAWEI WATCH GT Runner 2 (`Chitu`):**
+
+`CHT-B19`: HUAWEI WATCH GT Runner 2
+
+>>>>>>> upstream/master
 **HUAWEI WATCH GT 2022 典藏版:**
 
 `OCF-B29`: HUAWEI WATCH GT 2022 典藏版
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -18975,6 +19164,9 @@
 =======
 **HUAWEI WATCH GT Cyber (`Arnold`):**
 >>>>>>> upstream/master
+=======
+**HUAWEI WATCH GT Cyber (`Arnold`):**
+>>>>>>> upstream/master
 
 `AND-B19`: HUAWEI WATCH GT Cyber
 
@@ -19006,6 +19198,17 @@
 
 `SYA-B29`: HUAWEI WATCH FIT 4 Pro
 
+<<<<<<< HEAD
+=======
+**HUAWEI WATCH FIT 5:**
+
+`NKI-B19`: HUAWEI WATCH FIT 5
+
+**HUAWEI WATCH FIT 5 Pro:**
+
+`NKI-B29`: HUAWEI WATCH FIT 5 Pro
+
+>>>>>>> upstream/master
 **HUAWEI WATCH D:**
 
 `MLY-B10`: HUAWEI WATCH D 黑色氟橡胶表带
@@ -19137,6 +19340,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`LCA-B29`: HUAWEI WATCH D2 星云蓝
+
+>>>>>>> upstream/master
 =======
 `LCA-B29`: HUAWEI WATCH D2 星云蓝
 
@@ -19617,6 +19825,13 @@
 
 `SGA-B19`: HUAWEI WATCH Buds
 
+<<<<<<< HEAD
+=======
+**HUAWEI WATCH Buds 2:**
+
+`LBA-B19`: HUAWEI WATCH Buds 2
+
+>>>>>>> upstream/master
 **HUAWEI WATCH B5 (`Milo`):**
 
 `MIL-B29B`: HUAWEI WATCH B5-532
@@ -19763,7 +19978,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **HUAWEI WATCH B5:**
+=======
+**HUAWEI WATCH B5 (`Odin`):**
+>>>>>>> upstream/master
 =======
 **HUAWEI WATCH B5 (`Odin`):**
 >>>>>>> upstream/master
@@ -20339,7 +20558,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -20634,6 +20856,7 @@
 
 `SYA-B19B`: 华为擎云 H3540
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -21078,6 +21301,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **华为擎云 H5546 (`Phoinix`):**
 
 `PNX-B19B`: 华为擎云 H5546
@@ -21224,6 +21449,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -21620,7 +21848,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -21754,6 +21985,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -21927,6 +22161,13 @@
 
 `ALI-CG01`: HUAWEI Vision Glass
 
+<<<<<<< HEAD
+=======
+**华为 AI 眼镜:**
+
+`AIL-G01`: 华为 AI 眼镜
+
+>>>>>>> upstream/master
 ## 华为早期手机产品 
 
 **华为 Ascend D1:**
