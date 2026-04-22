@@ -399,6 +399,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> upstream/master
@@ -838,6 +839,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **[`P1`] Xiaomi 17 Ultra / Xiaomi 17 Ultra by Leica (`nezha`):**
 
 `2512BPNDAC`: Xiaomi 17 Ultra / Xiaomi 17 Ultra by Leica (非卫星)
@@ -895,6 +898,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1211,7 +1217,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `2016001`: 小米 Max 标准版 全网通版
+=======
+`2016001`: 小米 Max 标准版
+>>>>>>> upstream/master
 =======
 `2016001`: 小米 Max 标准版
 >>>>>>> upstream/master
@@ -2289,7 +2299,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2550,6 +2563,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3041,7 +3057,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3583,6 +3602,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3943,6 +3963,13 @@
 =======
 >>>>>>> upstream/master
 ## 其他红米手机
+=======
+**[`P12`] REDMI K90 Max (`prague`):**
+
+`2604FRK1EC`: REDMI K90 Max
+
+## 其他 REDMI 手机
+>>>>>>> upstream/master
 
 **[`H3C`] 红米 Pro (`omega`):**
 
@@ -3958,6 +3985,13 @@
 
 `M1803E6C`: 红米 S2 联通电信定制版
 
+<<<<<<< HEAD
+=======
+**[`P25`] REDMI R70 5G / REDMI R70m 5G (`somalia`):**
+
+`26020RN1AC`: REDMI R70 5G / REDMI R70m 5G
+
+>>>>>>> upstream/master
 ## REDMI 平板
 
 **[`L83`] Redmi Pad (`yunluo`):**
@@ -3992,10 +4026,28 @@
 
 `2509BRP2DC`: REDMI Pad 2 Pro 5G
 
+<<<<<<< HEAD
+=======
+**[`P85`] REDMI Pad 2 SE (`guitar`):**
+
+`2603ARP14C`: REDMI Pad 2 SE
+
+**[`P85X`] REDMI Pad 2 SE 4G (`erhu`):**
+
+`2604ERP4DC`: REDMI Pad 2 SE 4G
+
+>>>>>>> upstream/master
 **[`O88`] REDMI K Pad (`turner`):**
 
 `25079RPDCC`: REDMI K Pad
 
+<<<<<<< HEAD
+=======
+**[`P88`] REDMI K Pad 2 (`yili`):**
+
+`26048RP6AC`: REDMI K Pad 2
+
+>>>>>>> upstream/master
 ## 其他系列
 
 **小米米家翻译机 (`Babel`):**
@@ -4006,6 +4058,17 @@
 
 `21051191C`: CyberDog 仿生四足机器人
 
+<<<<<<< HEAD
+=======
+**小米澎湃智能座舱:**
+
+`2405AVPB7C`: 小米澎湃智能座舱 (第一代 SU7/SU7 Ultra)
+
+**小米澎湃智能座舱 (`suiren`):**
+
+`25033VP3FC`: 小米澎湃智能座舱 (YU7/新一代 SU7)
+
+>>>>>>> upstream/master
 **[`P802`] Xiaomi YU7 后排移动控制屏 (`konghou`):**
 
 `2503CVPC6C`: Xiaomi YU7 后排移动控制屏

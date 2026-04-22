@@ -181,7 +181,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Range: Xiaomi/Redmi/POCO phones & tablets
+=======
+- Range: Xiaomi/REDMI/POCO phones & tablets
+>>>>>>> upstream/master
 =======
 - Range: Xiaomi/REDMI/POCO phones & tablets
 >>>>>>> upstream/master
@@ -1326,6 +1330,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> upstream/master
@@ -1770,6 +1775,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **[`P1`] Xiaomi 17 Ultra / Xiaomi 17 Ultra by Leica (`nezha`):**
 
 `2512BPNDAG`: Xiaomi 17 Ultra Global
@@ -1827,6 +1834,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1930,6 +1940,7 @@
 
 `25128PNA1G`: Leica Leitzphone powered by Xiaomi (Global)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2181,6 +2192,20 @@
 >>>>>>> upstream/master
 =======
 `25128PNA1C`: Xiaomi 17 Ultra by Leica (China, Tiantong & Beidou satellites)
+
+>>>>>>> upstream/master
+=======
+`25128PNA1C`: Xiaomi 17 Ultra by Leica (China, Tiantong & Beidou satellites)
+
+**[`P12A`] Xiaomi 17T (`chagall`):**
+
+`2602DPT53G`: Xiaomi 17T Global
+
+**[`P12U`] Xiaomi 17T Pro (`warhol`):**
+
+`2602EPTC0G`: Xiaomi 17T Pro Global
+
+`2602EPTC0R`: Xiaomi 17T Pro Japan (SIM Free)
 
 >>>>>>> upstream/master
 **[`X5`] Mi Note (`virgo`):**
@@ -2564,7 +2589,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Redmi phones
+=======
+## REDMI phones
+>>>>>>> upstream/master
 =======
 ## REDMI phones
 >>>>>>> upstream/master
@@ -3702,7 +3731,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4055,6 +4087,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4314,6 +4349,13 @@
 
 `25082RNC1C`: REDMI 15R 5G China
 
+<<<<<<< HEAD
+=======
+**[`P25`] REDMI 15A 5G (`somalia`):**
+
+`2602BRNA4I`: REDMI 15A 5G India
+
+>>>>>>> upstream/master
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
 `2014018`: Redmi Note WCDMA (1GB RAM)
@@ -4969,11 +5011,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `2312DRA50C` `2312CRAD3C`: Redmi Note 13 Pro 5G China
 
 `XIG05`: Redmi Note 13 Pro 5G Japan (KDDI)
 
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5522,6 +5567,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6062,7 +6110,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6419,6 +6470,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6662,6 +6716,7 @@
 
 `25098RA98C`: REDMI Note 15 5G China
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7183,6 +7238,14 @@
 `25098RA98T`: REDMI Note 15 5G Saudi Arabia
 
 >>>>>>> upstream/master
+=======
+`25098RA98T`: REDMI Note 15 5G Saudi Arabia
+
+**[`P17`] REDMI Note 15 SE 5G (`kunzite`):**
+
+`26022PCACI`: REDMI Note 15 SE 5G India
+
+>>>>>>> upstream/master
 **[`P6`] REDMI Note 15 Pro (`charoite`):**
 
 `25100RA69G`: REDMI Note 15 Pro Global
@@ -7304,6 +7367,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7546,6 +7612,7 @@
 
 `25080RABDC`: REDMI Note 15 Pro 5G China
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8185,6 +8252,11 @@
 
 **[`P16U`] REDMI Note 15 Pro+ 5G (`flourite`):**
 >>>>>>> upstream/master
+=======
+`25080RABDT`: REDMI Note 15 Pro 5G Saudi Arabia
+
+**[`P16U`] REDMI Note 15 Pro+ 5G (`flourite`):**
+>>>>>>> upstream/master
 
 `2510ERA8BG`: REDMI Note 15 Pro+ 5G Global
 
@@ -8192,6 +8264,7 @@
 
 `2510ERA8BC`: REDMI Note 15 Pro+ 5G China
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8831,6 +8904,11 @@
 
 **[`P16US`] REDMI Note 15 Pro+ 5G (`flourite`):**
 >>>>>>> upstream/master
+=======
+`2510ERA8BT`: REDMI Note 15 Pro+ 5G Saudi Arabia
+
+**[`P16US`] REDMI Note 15 Pro+ 5G (`flourite`):**
+>>>>>>> upstream/master
 
 `25104RADAC`: REDMI Note 15 Pro+ 5G Satellite China
 
@@ -8947,7 +9025,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9208,6 +9289,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9695,6 +9779,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+**[`O11US`] REDMI K80 Pro (`miro`):**
+
+>>>>>>> upstream/master
 =======
 **[`O11US`] REDMI K80 Pro (`miro`):**
 
@@ -10631,7 +10720,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -11195,6 +11287,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -11207,6 +11300,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -11748,6 +11843,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -12106,6 +12202,12 @@
 =======
 >>>>>>> upstream/master
 =======
+>>>>>>> upstream/master
+=======
+**[`P12`] REDMI K90 Max (`prague`):**
+
+`2604FRK1EC`: REDMI K90 Max
+
 >>>>>>> upstream/master
 **[`H3C`] Redmi Pro (`omega`):**
 
@@ -12254,7 +12356,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -12411,6 +12516,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -12511,6 +12617,14 @@
 =======
 >>>>>>> upstream/master
 =======
+>>>>>>> upstream/master
+=======
+**[`P25`] REDMI A7 Pro 5G / REDMI R70 5G / REDMI R70m 5G (`somalia`):**
+
+`26020RN1AI`: REDMI A7 Pro 5G India
+
+`26020RN1AC`: REDMI R70 5G China / REDMI R70m 5G China
+
 >>>>>>> upstream/master
 ## POCO Phones
 
@@ -12756,7 +12870,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -13302,6 +13419,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -13811,7 +13931,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -14031,6 +14154,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -14260,10 +14386,21 @@
 
 `24108PCE2I`: POCO M7 5G India
 
+<<<<<<< HEAD
 **[`O19`] POCO M7 Plus 5G (`spring`):**
 
 `25057PC09I`: POCO M7 Plus 5G India
 
+=======
+**[`O19`] POCO M7 Plus 5G / POCO M8s 5G (`spring`):**
+
+`25057PC09I`: POCO M7 Plus 5G India
+
+`26067PC09G`: POCO M8s 5G Global
+
+`26067PC09E`: POCO M8s 5G Europe
+
+>>>>>>> upstream/master
 **[`O17P`] POCO M7 Pro 5G (`beryl`) (`citrine`):**
 
 `2409FPCC4G`: POCO M7 Pro 5G Global
@@ -14385,7 +14522,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -14622,6 +14762,7 @@
 
 `25118PC98G`: POCO M8 5G Global
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -15213,6 +15354,10 @@
 `25118PC98I`: POCO M8 5G India
 
 >>>>>>> upstream/master
+=======
+`25118PC98I`: POCO M8 5G India
+
+>>>>>>> upstream/master
 **[`P16U`] POCO M8 Pro 5G (`flourite`):**
 
 `2510EPC8BG`: POCO M8 Pro 5G Global
@@ -15333,6 +15478,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -15748,7 +15896,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -16086,6 +16237,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -16230,6 +16382,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -16351,6 +16505,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -16594,10 +16751,13 @@
 
 `2505DRP06E`: REDMI Pad 2 4G Europe
 
+<<<<<<< HEAD
 **[`O88`] REDMI K Pad (`turner`):**
 
 `25079RPDCC`: REDMI K Pad China
 
+=======
+>>>>>>> upstream/master
 **[`P83`] REDMI Pad 2 Pro (`flute`):**
 
 `25099RP13G`: REDMI Pad 2 Pro Global
@@ -16614,6 +16774,31 @@
 
 `2509BRP2DC`: REDMI Pad 2 Pro 5G China
 
+<<<<<<< HEAD
+=======
+**[`P85`] REDMI Pad 2 9.7 / REDMI Pad 2 SE (`guitar`):**
+
+`2603ARP14G`: REDMI Pad 2 9.7 Global
+
+`2603ARP14C`: REDMI Pad 2 SE China
+
+**[`P85X`] REDMI Pad 2 9.7 4G / REDMI Pad 2 SE 4G (`erhu`):**
+
+`2604ERP4DG`: REDMI Pad 2 9.7 4G Global
+
+`2604ERP4DI`: REDMI Pad 2 9.7 4G India
+
+`2604ERP4DC`: REDMI Pad 2 SE 4G China
+
+**[`O88`] REDMI K Pad (`turner`):**
+
+`25079RPDCC`: REDMI K Pad China
+
+**[`P88`] REDMI K Pad 2 (`yili`):**
+
+`26048RP6AC`: REDMI K Pad 2 China
+
+>>>>>>> upstream/master
 **[`N83P`] POCO Pad (`dizi`):**
 
 `2405CPCFBG`: POCO Pad Wi-Fi Global
@@ -16640,6 +16825,17 @@
 
 `21051191C`: Xiaomi CyberDog Bio-inspired Quadruped Robot
 
+<<<<<<< HEAD
+=======
+**Xiaomi EV Cockpit:**
+
+`2405AVPB7C`: Xiaomi EV Cockpit (SU7 2024/SU7 Ultra)
+
+**Xiaomi EV Cockpit (`suiren`):**
+
+`25033VP3FC`: Xiaomi EV Cockpit (YU7/SU7 2026)
+
+>>>>>>> upstream/master
 **[`P802`] Xiaomi YU7 Back Row Mobile Control Screen (`konghou`):**
 
 `2503CVPC6C`: Xiaomi YU7 Back Row Mobile Control Screen

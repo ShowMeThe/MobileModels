@@ -188,7 +188,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 汇总各厂商上市的手机型号与对应的宣传名。
+=======
+汇总各厂商上市的手机型号与对应的传播名。
+>>>>>>> upstream/master
 =======
 汇总各厂商上市的手机型号与对应的传播名。
 >>>>>>> upstream/master
@@ -758,6 +762,7 @@
 | [honor_global_en](brands/honor_global_en.md)| 荣耀 (HONOR) | 荣耀手机/平板，仅包含海外型号 | ⏹ | ✅ | 英文版 |
 | [huawei_cn](brands/huawei_cn.md) | 华为 (HUAWEI) | 华为 Mate/Pura/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及穿戴设备，仅包含国行型号 | ⏹ | ❌ | [其他早期型号参阅此处](misc/early-huawei-models.md) |
 | [huawei_global_en](brands/huawei_global_en.md)| 华为 (HUAWEI) | 华为 Mate/Pura/nova/Y 系列及平板电脑，仅包含海外型号 | ⏹ | ⏹ | 英文版 |
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2395,6 +2400,16 @@
 | [motorola_cn](brands/motorola_cn.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
 | [nokia_cn](brands/nokia_cn.md) | 诺基亚 (Nokia) | 2017 年起由 HMD Global 制造的智能手机机型 | ✅ | ❌ | -- |
 >>>>>>> upstream/master
+=======
+| [lenovo_cn](brands/lenovo_cn.md) | 联想 (Lenovo) | 联想品牌 2017 年起上市的机型、ZUK 全部机型 | ✅ | ❌ | -- |
+| [letv](brands/letv.md) | 乐视 (Letv) | 全部手机机型 | ❌ | ❌ | 不包含电视产品 |
+| [meizu](brands/meizu.md) | 魅族 (MEIZU) | 全部机型 | ✅ | ✅ | -- |
+| [meizu_en](brands/meizu_en.md) | 魅族 (MEIZU) | 全部机型 | ✅ | ✅ | 英文版 |
+| [mitv_cn](brands/mitv_cn.md) | 小米 (Xiaomi) | 全部国行小米/REDMI 电视、智能显示器、机顶盒 | ❌ | ❌ | -- |
+| [mitv_global_en](brands/mitv_global_en.md) | 小米 (Xiaomi) | 全部小米/REDMI 电视、机顶盒、智能电视棒，仅包含海外型号 | ❌ | ✅ | 英文版 |
+| [motorola_cn](brands/motorola_cn.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
+| [nokia_cn](brands/nokia_cn.md) | 诺基亚 (Nokia) | 2017 年起由 HMD Global 制造的智能手机机型 | ✅ | ❌ | -- |
+>>>>>>> upstream/master
 | [nothing](brands/nothing.md) | Nothing | 全部机型 | ✅ | ✅ | 英文版 |
 | [nubia](brands/nubia.md) | 努比亚 (nubia) | 全部机型 | ❌ | ⏹ | -- |
 | [oneplus](brands/oneplus.md) | 一加 (OnePlus) | 全部机型 | ✅ | ✅ | -- |
@@ -2406,6 +2421,7 @@
 | [samsung_cn](brands/samsung_cn.md) | 三星 (Samsung) | Galaxy S/Note/A/Z/M/C/J/On/Tab/心系天下系列及个别其他机型，仅包含国行型号 | ✅ | ❌ | [其他早期型号参阅此处](misc/early-samsung-models.md) |
 | [samsung_global_en](brands/samsung_global_en.md) | 三星 (Samsung) | Galaxy S/Note/A/Z/M/F 系列，2019 年起上市的机型 | ✅ | ⏹ | 英文版 |
 | [smartisan](brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | ✅ | ❌ | -- |
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2956,6 +2972,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 | [sony](brands/sony.md) | 索尼 (SONY) | 2015 年起上市的机型 | ✅ | ✅ | 英文版 |
 | [sony_cn](brands/sony_cn.md) | 索尼 (SONY) | 2015 年起上市的国行机型 | ✅ | ❌ | -- |
 | [vivo_cn](brands/vivo_cn.md) | vivo | 2018 年起新型号命名方式的国行机型 | ✅ | ❌ | -- |
@@ -2963,6 +2981,7 @@
 | [xiaomi](brands/xiaomi.md) | 小米 (Xiaomi) | 小米/REDMI/POCO 手机 & 平板等 | ✅ | ✅ | -- |
 | [xiaomi_cn](brands/xiaomi_cn.md) | 小米 (Xiaomi) | 小米/REDMI 手机 & 平板等 | ✅ | ✅ | 英文版 |
 | [xiaomi_en](brands/xiaomi_en.md) | 小米 (Xiaomi) | 小米/REDMI/POCO 手机 & 平板等 | ✅ | ✅ | 英文版 |
+<<<<<<< HEAD
 | [xiaomi-wear](brands/xiaomi-wear.md) | 小米 (Xiaomi) | 小米/Redmi 手表、手环、TWS 等穿戴设备 | ⏹ | ✅ | TWS 不包含外包型号；暂不含儿童手表型号 |
 | [zhixuan](brands/zhixuan.md) | 华为智选 | U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO | ⏹ | ❌ | -- |
 | [zte_cn](brands/zte_cn.md) | 中兴 (ZTE) | 2017 年起上市的机型 | ❌ | ❌ | -- |
@@ -3507,6 +3526,11 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+| [xiaomi-wear](brands/xiaomi-wear.md) | 小米 (Xiaomi) | 小米/REDMI 手表、手环、TWS 等穿戴设备 | ⏹ | ✅ | TWS 不包含外包型号；暂不含儿童手表型号 |
+| [zhixuan](brands/zhixuan.md) | 华为智选 | U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO | ⏹ | ❌ | -- |
+| [zte_cn](brands/zte_cn.md) | 中兴 (ZTE) | 2017 年起上市的机型 | ❌ | ❌ | -- |
+>>>>>>> upstream/master
 
 ## 更新日志
 
@@ -3522,6 +3546,7 @@
 - 将本项目 csv 及脚本迁移至 [此 repo](https://github.com/KHwang9883/MobileModels-csv)，使用 GitHub Actions 自动更新。
 
 ### 2022 年 4 月
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3699,6 +3724,9 @@
 =======
 - 新增 [各大 Android 厂商 BL 解锁/内核开源情况](https://github.com/KHwang9883/bootloader-kernel-source) 汇总（已停更）。
 >>>>>>> upstream/master
+=======
+- 新增 [各大 Android 厂商 BL 解锁/内核开源情况](https://github.com/KHwang9883/bootloader-kernel-source) 汇总（已停更）。
+>>>>>>> upstream/master
 
 ### 2021 年 12 月
 - 新增 [各品牌型号命名规则](misc/naming-rules.md) 汇总。
@@ -3731,6 +3759,7 @@
 
 - [电信设备终端网](http://zd.taf.org.cn)
 - [产品认证证书查询](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
+<<<<<<< HEAD
 - [工业和信息化部政务服务平台](https://ythzxfw.miit.gov.cn/resultQuery)
 - [产品库-中国电信天翼终端信息平台](http://surfing.tydevice.com/)
 - [Google Play 支持的设备](http://storage.googleapis.com/play_public/supported_devices.html)
@@ -3738,12 +3767,25 @@
 - [Bluetooth Launch Studio](https://launchstudio.bluetooth.com/Listings/Search)
 - [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
 - [Huawei Open Source Release Center](https://consumer.huawei.com/en/opensource/)
+=======
+- [工业和信息化部政务服务平台](https://ythzxfw.miit.gov.cn/jgcx/index.html)
+- [产品库-中国电信天翼终端信息平台](http://surfing.tydevice.com/)
+- [Google Play 支持的设备](http://storage.googleapis.com/play_public/supported_devices.html)
+- [Wi-Fi Alliance](https://www.wi-fi.org)
+- [Bluetooth Qualification Listings](https://qualification.bluetooth.com/Listings/Search)
+- [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
+- [Huawei Open Source Release Center](https://consumer.huawei.com/en/opensource/)
+- [HONOR Open Source Release Center](https://www.honor.com/global/opensource/)
+>>>>>>> upstream/master
 - [ReaMEIZU](https://reameizu.com/)
 - [The Apple Wiki](https://theapplewiki.com/)
 - [ipsw.me](https://ipsw.me)
 - [XDA Developers](https://www.xda-developers.com)
 - [Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
+<<<<<<< HEAD
 - [XSMS IMEI 数据库](http://xsms.com.ua/phone/imei/all/1)
+=======
+>>>>>>> upstream/master
 - [Android Dumps](https://dumps.tadiphone.dev/dumps)
 - [Lenovo Android タブレット一覧](https://idomizu.dev/archives/20150)
 

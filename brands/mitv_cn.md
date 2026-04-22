@@ -1,6 +1,10 @@
 # 小米电视型号汇总
 
+<<<<<<< HEAD
 - 汇总范围: 全部国行小米/Redmi 电视、机顶盒
+=======
+- 汇总范围: 全部国行小米/REDMI 电视、智能显示器、机顶盒
+>>>>>>> upstream/master
 - codename: ❌
 - 是否包含海外机型: [单独汇总 (英文)](/brands/mitv_global_en.md)
 
@@ -388,7 +392,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -433,6 +440,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L65MC-S`: 小米电视 S65 Mini LED 2026
 
 `L75MC-S`: 小米电视 S75 Mini LED 2026
@@ -476,6 +484,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -509,6 +519,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -576,7 +589,11 @@
 
 `L55M8-SP`: 小米电子水牌 55 英寸
 
+<<<<<<< HEAD
 ## Redmi 电视
+=======
+## REDMI 电视
+>>>>>>> upstream/master
 
 **Redmi 智能电视 A:**
 
@@ -684,6 +701,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`L50RA-RAD`: REDMI 电视 A50 一级能效版
+
+>>>>>>> upstream/master
 =======
 `L50RA-RAD`: REDMI 电视 A50 一级能效版
 
@@ -868,7 +890,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -970,6 +995,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1163,7 +1191,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **[`N36`] Redmi 智能电视 MAX:**
+=======
+**[`N36`] Redmi 智能电视 MAX 2025:**
+>>>>>>> upstream/master
 =======
 **[`N36`] Redmi 智能电视 MAX 2025:**
 >>>>>>> upstream/master
@@ -1293,7 +1325,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1391,6 +1426,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1449,6 +1485,22 @@
 =======
 >>>>>>> upstream/master
 =======
+>>>>>>> upstream/master
+=======
+## REDMI 智能显示器
+
+**REDMI 显示器 G Pro 27U:**
+
+`P27UDA-RGP`: REDMI 显示器 G Pro 27U
+
+**REDMI 显示器 G Pro 27U 2026:**
+
+`P27UEA-RGP`: REDMI 显示器 G Pro 27U 2026
+
+**REDMI 显示器 G Pro 32U 2026:**
+
+`P32UEA-RGP`: REDMI 显示器 G Pro 32U 2026
+
 >>>>>>> upstream/master
 ## 电视主机与盒子
 
