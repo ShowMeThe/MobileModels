@@ -208,6 +208,10 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+| [sony](brands/sony.md) | Sony | All models since 2015 |
+>>>>>>> upstream/master
 =======
 | [sony](brands/sony.md) | Sony | All models since 2015 |
 >>>>>>> upstream/master
@@ -765,6 +769,7 @@ Unlisted brands usually not include international models.
 ## References
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [TENAA](http://zd.taf.org.cn)
 - [CQCCMS](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
 - [MIIT](https://ythzxfw.miit.gov.cn/resultQuery)
@@ -775,6 +780,8 @@ Unlisted brands usually not include international models.
 - [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
 - [Huawei Open Source Release Center](https://consumer.huawei.com/en/opensource/)
 =======
+=======
+>>>>>>> upstream/master
 - [TAF](http://zd.taf.org.cn)
 - [CQCCMS](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
 - [MIIT](https://ythzxfw.miit.gov.cn/jgcx/index.html)
@@ -785,6 +792,9 @@ Unlisted brands usually not include international models.
 - [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
 - [Huawei Open Source Release Center](https://consumer.huawei.com/en/opensource/)
 - [HONOR Open Source Release Center](https://www.honor.com/global/opensource/)
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 - [ReaMEIZU](https://reameizu.com/)
 - [The Apple Wiki](https://theapplewiki.com/)
@@ -792,7 +802,10 @@ Unlisted brands usually not include international models.
 - [XDA Developers](https://www.xda-developers.com)
 - [Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [XSMS IMEI Database](http://xsms.com.ua/phone/imei/all/1)
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 - [Android Dumps](https://dumps.tadiphone.dev/dumps)
