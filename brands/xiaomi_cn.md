@@ -401,6 +401,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> upstream/master
@@ -844,6 +845,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **[`P1`] Xiaomi 17 Ultra / Xiaomi 17 Ultra by Leica (`nezha`):**
 
 `2512BPNDAC`: Xiaomi 17 Ultra / Xiaomi 17 Ultra by Leica (非卫星)
@@ -903,6 +906,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1225,7 +1231,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `2016001`: 小米 Max 标准版 全网通版
+=======
+`2016001`: 小米 Max 标准版
+>>>>>>> upstream/master
 =======
 `2016001`: 小米 Max 标准版
 >>>>>>> upstream/master
@@ -2164,9 +2174,15 @@
 
 `2311FRAFDC`: Redmi Note 13R Pro
 
+<<<<<<< HEAD
 **[`O17`] Redmi Note 14 5G (`beryl`):**
 
 `24094RAD4C`: Redmi Note 14 5G
+=======
+**[`O17`] Redmi Note 14 5G / REDMI Note 15R Pro (`beryl`):**
+
+`24094RAD4C`: Redmi Note 14 5G / REDMI Note 15R Pro
+>>>>>>> upstream/master
 
 **[`O16`] Redmi Note 14 Pro (`malachite`):**
 
@@ -2311,7 +2327,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2578,6 +2597,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3075,7 +3097,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3623,6 +3648,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3986,12 +4012,17 @@
 =======
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **[`P12`] REDMI K90 Max (`prague`):**
 
 `2604FRK1EC`: REDMI K90 Max
 
 ## 其他 REDMI 手机
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4012,7 +4043,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **[`P25`] REDMI R70 5G / REDMI R70m 5G (`somalia`):**
@@ -4020,6 +4054,9 @@
 `26020RN1AC`: REDMI R70 5G / REDMI R70m 5G
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4059,7 +4096,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **[`P85`] REDMI Pad 2 SE (`guitar`):**
@@ -4071,6 +4111,9 @@
 `2604ERP4DC`: REDMI Pad 2 SE 4G
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4080,7 +4123,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **[`P88`] REDMI K Pad 2 (`yili`):**
@@ -4088,6 +4134,9 @@
 `26048RP6AC`: REDMI K Pad 2
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4103,7 +4152,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **小米澎湃智能座舱:**
@@ -4115,6 +4167,9 @@
 `25033VP3FC`: 小米澎湃智能座舱 (YU7/新一代 SU7)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
