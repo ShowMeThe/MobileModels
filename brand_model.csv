@@ -1224,6 +1224,7 @@ honor,GDH-X,cn,荣耀, 荣耀笔记本 X14 锐龙版 2026
 honor,FMI-76,cn,荣耀, 荣耀笔记本 X14 Plus 2024 R7 (16GB+512GB)
 honor,FMI-721,cn,荣耀, 荣耀笔记本 X14 Plus 2024 R7 (32GB+1TB)
 honor,FRB-X,cn,荣耀, 荣耀笔记本 X14 Plus 2025
+honor,LVC-X,cn,荣耀, 荣耀笔记本 X14 Plus 2026
 honor,BBR-WAI9,cn,荣耀, 荣耀 MagicBook X 15 i3
 honor,BBR-WAH9,cn,荣耀, 荣耀 MagicBook X 15 i5
 honor,BDR-WDH,cn,荣耀, 荣耀 MagicBook X 15 2022 i5 (8GB+512GB)
@@ -1243,16 +1244,20 @@ honor,BRG-561,cn,荣耀, 荣耀笔记本 X16 2025 i5 (16GB+1TB)
 honor,BRG-765,cn,荣耀, 荣耀笔记本 X16 2025 i7 (16GB+512GB)
 honor,BRG-761,cn,荣耀, 荣耀笔记本 X16 2025 i7 (16GB+1TB)
 honor,BRG-X,cn,荣耀, 荣耀笔记本 X16 2026
+honor,GOG-X,cn,荣耀, 荣耀笔记本 X16 2026 战斗版
 honor,GOH-X,cn,荣耀, 荣耀笔记本 X16 锐龙版 2026
 honor,BRI-76,cn,荣耀, 荣耀笔记本 X16 Plus 2024 R7 (16GB+512GB)
 honor,BRI-721,cn,荣耀, 荣耀笔记本 X16 Plus 2024 R7 (32GB+1TB)
 honor,BRB-X,cn,荣耀, 荣耀笔记本 X16 Plus 2025
+honor,LHC-X,cn,荣耀, 荣耀笔记本 X16 Plus 2026
 honor,FRI-F56Z,cn,荣耀, 荣耀 MagicBook Z3 14 2023 i5
 honor,FRD-WDG9,cn,荣耀, 荣耀猎人游戏本 V700 i5 (8GB+512GB) (华为终端)
 honor,FRD-WFG9,cn,荣耀, 荣耀猎人游戏本 V700 i5 (16GB+512GB) (华为终端)
 honor,FRD-WFD9,cn,荣耀, 荣耀猎人游戏本 V700 i7 (16GB+512GB) (华为终端)
 honor,FRR-WFG9,cn,荣耀, 荣耀猎人游戏本 V700 i5 (16GB+512GB) (荣耀终端)
 honor,FRR-WFD9,cn,荣耀, 荣耀猎人游戏本 V700 i7 (16GB+512GB) (荣耀终端)
+honor,NWB-G,cn,荣耀, 荣耀 WIN 游戏本 H7
+honor,NWC2-G,cn,荣耀, 荣耀 WIN 游戏本 H9
 honor,OSCA-550A,cn,荣耀, 荣耀智慧屏 55 英寸 (2GB+16GB)
 honor,OSCA-550AX,cn,荣耀, 荣耀智慧屏 55 英寸 (4GB+32GB)
 honor,OSCA-550,cn,荣耀, 荣耀智慧屏 PRO 55 英寸 (2GB+32GB)
@@ -2455,6 +2460,7 @@ xiaomi,24117RN76E,cn,小米, Redmi Note 14 欧洲版
 xiaomi,24117RN76L,cn,小米, Redmi Note 14 拉美版
 xiaomi,24117RN76O,cn,小米, Redmi Note 14 国际版 (NFC)
 xiaomi,24094RAD4C,cn,小米, Redmi Note 14 5G 国行版
+xiaomi,24094RAD4C,cn,小米, Redmi Note 14 5G 国行版 / REDMI Note 15R Pro 国行版
 xiaomi,24094RAD4I,cn,小米, Redmi Note 14 5G 印度版 / Redmi Note 14 SE 5G 印度版
 xiaomi,24094RAD4G,cn,小米, Redmi Note 14 5G 国际版
 xiaomi,2502FRA65G,cn,小米, Redmi Note 14S 国际版
@@ -2721,6 +2727,7 @@ xiaomi,25028PC03L,cn,小米, POCO C71 拉美版
 xiaomi,2410FPCC5G,cn,小米, POCO C75 国际版
 xiaomi,2410FPCC5I,cn,小米, POCO C75 印度版
 xiaomi,24116PCC1I,cn,小米, POCO C75 5G 印度版
+xiaomi,25128PC17I,cn,小米, POCO C81 印度版
 xiaomi,25078PC3EG,cn,小米, POCO C85 国际版
 xiaomi,25078PC3EE,cn,小米, POCO C85 欧洲版
 xiaomi,2508CPC2BI,cn,小米, POCO C85 5G 印度版
@@ -4099,6 +4106,7 @@ xiaomi,24117RN76O,en,小米, Redmi Note 14 Global (NFC)
 xiaomi,24094RAD4G,en,小米, Redmi Note 14 5G Global
 xiaomi,24094RAD4I,en,小米, Redmi Note 14 5G India / Redmi Note 14 SE 5G India
 xiaomi,24094RAD4C,en,小米, Redmi Note 14 5G China
+xiaomi,24094RAD4C,en,小米, Redmi Note 14 5G China / REDMI Note 15R Pro China
 xiaomi,2502FRA65G,en,小米, Redmi Note 14S Global
 xiaomi,24116RACCG,en,小米, Redmi Note 14 Pro Global
 xiaomi,24090RA29G,en,小米, Redmi Note 14 Pro 5G Global
@@ -4325,6 +4333,7 @@ xiaomi,25028PC03L,en,小米, POCO C71 Latin America
 xiaomi,2410FPCC5G,en,小米, POCO C75 Global
 xiaomi,2410FPCC5I,en,小米, POCO C75 India
 xiaomi,24116PCC1I,en,小米, POCO C75 5G India
+xiaomi,25128PC17I,en,小米, POCO C81 India
 xiaomi,25078PC3EG,en,小米, POCO C85 Global
 xiaomi,25078PC3EE,en,小米, POCO C85 Europe
 xiaomi,2508CPC2BI,en,小米, POCO C85 5G India
@@ -4431,6 +4440,7 @@ vivo,V2515,en,VIVO, vivo X300
 vivo,V2514,en,VIVO, vivo X300 Pro
 vivo,V2537,en,VIVO, vivo X300 FE
 vivo,V2542,en,VIVO, vivo X300 FE
+vivo,V2562,en,VIVO, vivo X300 Ultra
 vivo,V2025,en,VIVO, vivo V20
 vivo,V2022,en,VIVO, vivo V20 SE
 vivo,V2023,en,VIVO, vivo V20 SE
@@ -4489,6 +4499,7 @@ vivo,V2440,en,VIVO, Jovi V50 Lite
 vivo,V2511,en,VIVO, vivo V60
 vivo,V2512,en,VIVO, vivo V60
 vivo,V2530,en,VIVO, vivo V60 Lite
+vivo,V2549,en,VIVO, vivo V60 Lite
 vivo,V2529,en,VIVO, vivo V60 Lite 5G
 vivo,V2513,en,VIVO, vivo V60e
 vivo,V2538,en,VIVO, vivo V70
@@ -4718,6 +4729,7 @@ vivo,V2459,en,VIVO, Jovi Y29s 5G
 vivo,I2510,en,VIVO, iQOO Z11 Lite 5G
 vivo,I2515,en,VIVO, iQOO Z11 Lite 44W 5G
 vivo,J2505,en,VIVO, JOVI X300 FE
+vivo,J2510,en,VIVO, JOVI X300 Ultra
 vivo,V2427,en,VIVO, JOVI V50
 vivo,V2440,en,VIVO, JOVI V50 Lite 5G
 vivo,J2507,en,VIVO, JOVI V70 5G
@@ -4971,6 +4983,7 @@ xiaomi-wear,M2234W1,cn,其他, Xiaomi Watch 2 Pro 蓝牙版
 xiaomi-wear,M2233W1,cn,其他, Xiaomi Watch 2 Pro LTE
 xiaomi-wear,M2501W1,cn,其他, Xiaomi Watch 5 蓝牙版
 xiaomi-wear,M2505W1,cn,其他, Xiaomi Watch 5 LTE
+xiaomi-wear,M2501W1,cn,其他, Xiaomi Watch 5 国际版
 xiaomi-wear,REDMIWT02,cn,其他, Mi Watch Lite 国际版
 xiaomi-wear,XMWT06,cn,其他, 小米手表 Color
 xiaomi-wear,XMWTCL01,cn,其他, 小米手表 Color 运动版 国行版
@@ -6777,6 +6790,7 @@ xiaomi,2312DRA50C,cn,小米, Redmi Note 13 Pro (LPDDR4x + UFS 2.2)
 xiaomi,2312CRAD3C,cn,小米, Redmi Note 13 Pro (LPDDR5 + UFS 3.1)
 xiaomi,23090RA98C,cn,小米, Redmi Note 13 Pro+
 xiaomi,24094RAD4C,cn,小米, Redmi Note 14 5G
+xiaomi,24094RAD4C,cn,小米, Redmi Note 14 5G / REDMI Note 15R Pro
 xiaomi,24090RA29C,cn,小米, Redmi Note 14 Pro
 xiaomi,24115RA8EC,cn,小米, Redmi Note 14 Pro+
 xiaomi,25098RA98C,cn,小米, REDMI Note 15
@@ -10795,6 +10809,7 @@ vivo,V2506A,cn,VIVO, vivo Y500
 vivo,V2516A,cn,VIVO, vivo Y500 Pro
 vivo,V2531A,cn,VIVO, vivo Y500i
 vivo,V2531A,cn,VIVO, vivo Y500i / vivo Y500s
+vivo,V2531A,cn,VIVO, vivo Y500i / vivo Y500s / vivo Y6
 vivo,V2561A,cn,VIVO, vivo Y600 Pro
 vivo,V2115A,cn,VIVO, vivo T1
 vivo,V2123A,cn,VIVO, vivo T1x
