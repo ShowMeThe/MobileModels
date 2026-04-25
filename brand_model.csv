@@ -1017,6 +1017,7 @@ honor,NLA-AN00,cn,荣耀, 荣耀畅玩 60A 5G
 honor,NLA-AN00,cn,荣耀, 荣耀畅玩 60A 5G / 荣耀畅玩 80
 honor,ALT-AN00,cn,荣耀, 荣耀畅玩 60 Plus 5G
 honor,LOG-AN00,cn,荣耀, 荣耀畅玩 70 Plus 5G / 荣耀畅玩 70m Plus 5G
+honor,NLA-AL00,cn,荣耀, 荣耀畅玩 70C
 honor,LAB-AN00,cn,荣耀, 荣耀畅玩 80 Plus 5G
 honor,LOG-AN10,cn,荣耀, 荣耀畅玩 80 Pro 5G
 honor,S8-701w,cn,荣耀, 荣耀平板 Wi-Fi 版
@@ -5560,6 +5561,8 @@ oppo,CPH2659,en,OPPO, OPPO Find X8 Pro
 oppo,CPH2797,en,OPPO, OPPO Find X9
 oppo,OPG07,en,OPPO, OPPO Find X9 (KDDI)
 oppo,CPH2791,en,OPPO, OPPO Find X9 Pro
+oppo,CPH2873,en,OPPO, OPPO Find X9s
+oppo,CPH2841,en,OPPO, OPPO Find X9 Ultra
 oppo,CPH2439,en,OPPO, OPPO Find N2
 oppo,CPH2437,en,OPPO, OPPO Find N2 Flip
 oppo,CPH2499,en,OPPO, OPPO Find N3
@@ -5685,6 +5688,8 @@ oppo,CPH2705,en,OPPO, OPPO F29 Pro 5G
 oppo,CPH2781,en,OPPO, OPPO F31 5G
 oppo,CPH2763,en,OPPO, OPPO F31 Pro 5G
 oppo,CPH2757,en,OPPO, OPPO F31 Pro+ 5G
+oppo,CPH2777,en,OPPO, OPPO F33 5G
+oppo,CPH2835,en,OPPO, OPPO F33 Pro 5G
 oppo,CPH1835,en,OPPO, OPPO R15
 oppo,CPH1831,en,OPPO, OPPO R15 Pro
 oppo,CPH1833,en,OPPO, OPPO R15 Pro
@@ -5733,8 +5738,12 @@ oppo,CPH2785,en,OPPO, OPPO A6 5G India
 oppo,CPH2799,en,OPPO, OPPO A6 Pro
 oppo,CPH2781,en,OPPO, OPPO A6 Pro 5G
 oppo,CPH2823,en,OPPO, OPPO A6x 5G
+oppo,CPH2781,en,OPPO, OPPO A6 Pro 5G Global
+oppo,CPH2827,en,OPPO, OPPO A6 Pro 5G India
 oppo,CPH2815,en,OPPO, OPPO A6s
 oppo,CPH2789,en,OPPO, OPPO A6s 5G
+oppo,CPH2789,en,OPPO, OPPO A6s 5G Global
+oppo,CPH2889,en,OPPO, OPPO A6s 5G India
 oppo,CPH2819,en,OPPO, OPPO A6x
 oppo,CPH2783,en,OPPO, OPPO A6x 5G Global
 oppo,CPH2823,en,OPPO, OPPO A6x 5G India
@@ -5861,6 +5870,9 @@ oppo,OW19W8,en,OPPO, OPPO Watch 46mm
 oppo,OW19W12,en,OPPO, OPPO Watch 46mm LTE
 oppo,OWWE231,en,OPPO, OPPO Watch X
 oppo,OWWE251,en,OPPO, OPPO Watch X2
+oppo,OWWE242,en,OPPO, OPPO Watch X2 Mini
+oppo,OWWE261,en,OPPO, OPPO Watch X3
+oppo,OWWE262,en,OPPO, OPPO Watch S
 oneplus,A0001,en,一加, OnePlus One China / China Mobile / Global
 oneplus,A1001,en,一加, OnePlus One China Unicom
 oneplus,A2001,en,一加, OnePlus 2 China
@@ -9177,6 +9189,8 @@ huawei,CTR-L91,en,华为, HUAWEI nova 13i
 huawei,TLR-LX9,en,华为, HUAWEI nova 14
 huawei,MIA-LX9,en,华为, HUAWEI nova 14 Pro
 huawei,STG-LX2,en,华为, HUAWEI nova 14i
+huawei,PSN-LX9,en,华为, HUAWEI nova 15 Pro
+huawei,KLE-LX9,en,华为, HUAWEI nova 15 Pro
 huawei,WKG-LX9,en,华为, HUAWEI nova Y60
 huawei,EVE-LX9,en,华为, HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Plus
 huawei,EVE-LX9N,en,华为, HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Plus
@@ -9312,6 +9326,7 @@ huawei,PCE-W29,en,华为, HUAWEI MatePad Pro 13.2 Wi-Fi
 huawei,WEB-W09,en,华为, HUAWEI MatePad Pro 13.2 2025 Wi-Fi
 huawei,MRO-W09,en,华为, HUAWEI MatePad Pro 12.2 Wi-Fi
 huawei,MRDI-W09,en,华为, HUAWEI MatePad Pro 12.2 2025 Wi-Fi
+huawei,MLR-W09,en,华为, HUAWEI MatePad Mini 8.8 Wi-Fi
 huawei,HMW-W09,en,华为, HUAWEI MatePad Paper Wi-Fi
 huawei,BGO-L03,en,华为, HUAWEI MediaPad T2 7.0 LTE
 huawei,BGO-DL09,en,华为, HUAWEI MediaPad T2 7.0 LTE
@@ -9577,6 +9592,7 @@ mitv,L32RA-RAE,cn,小米电视, REDMI 电视 A32 2025 节能版 (一级能效)
 mitv,L43RA-RAE,cn,小米电视, REDMI 电视 A43 2025 节能版 (一级能效)
 mitv,L50RB-RAE,cn,小米电视, REDMI 电视 A50 2025 节能版 (二级能效)
 mitv,L50RA-RAD,cn,小米电视, REDMI 电视 A50 一级能效版
+mitv,L50RB-RAD,cn,小米电视, REDMI 电视 A50 一级能效版
 mitv,L55RB-RAE,cn,小米电视, REDMI 电视 A55 2025 节能版 (一级能效)
 mitv,L65RB-RAE,cn,小米电视, REDMI 电视 A65 2025 节能版 (一级能效)
 mitv,L70RB-RAE,cn,小米电视, REDMI 电视 A70 2025 节能版 (一级能效)
