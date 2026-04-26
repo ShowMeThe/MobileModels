@@ -193,7 +193,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -369,6 +372,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -632,7 +638,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1030,6 +1039,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1751,6 +1763,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> upstream/master
@@ -2018,6 +2031,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **HUAWEI nova 14 (`Taylor`):**
 
 `TLR-LX9`: HUAWEI nova 14
@@ -2087,6 +2102,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2354,6 +2372,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2616,6 +2635,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 **HUAWEI nova 15 (`Pushkin`):**
 
 `PSN-LX9`: HUAWEI nova 15 Pro
@@ -2624,6 +2645,9 @@
 
 `KLE-LX9`: HUAWEI nova 15 Pro
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **HUAWEI nova Y60 (`Wukong`):**
 
@@ -2938,7 +2962,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `SLG-W09`: HUAWEI MatePad 11.5 S 2025 Wi-Fi
+=======
+`SLG-W09`: HUAWEI MatePad 11.5 S 2026 Wi-Fi
+>>>>>>> upstream/master
 =======
 `SLG-W09`: HUAWEI MatePad 11.5 S 2026 Wi-Fi
 >>>>>>> upstream/master
@@ -3247,7 +3275,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3645,6 +3676,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3947,11 +3981,17 @@
 `MRDI-W09`: HUAWEI MatePad Pro 12.2 2025 Wi-Fi
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **HUAWEI MatePad Mini (`Mclaren`):**
 
 `MLR-W09`: HUAWEI MatePad Mini 8.8 Wi-Fi
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **HUAWEI MatePad Paper (`Hemingway`):**
 
