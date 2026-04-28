@@ -940,6 +940,7 @@ honor,JDY-AN00,cn,荣耀, 荣耀 Play9C 5G
 honor,LOG-AN10,cn,荣耀, 荣耀 Play10T 5G
 honor,NIC-AN00,cn,荣耀, 荣耀 Play10C 5G
 honor,NLA-AN00,cn,荣耀, 荣耀 Play10A 5G
+honor,NLA-AN00,cn,荣耀, 荣耀 Play10A 5G / 荣耀 Play11C 5G
 honor,DVD-AN00,cn,荣耀, 荣耀 Power
 honor,DVD-AN80,cn,荣耀, 荣耀 Power 卫星版
 honor,SER-AN00,cn,荣耀, 荣耀 Power2
@@ -2584,9 +2585,13 @@ xiaomi,25028RN03A,cn,小米, REDMI A5 国际版
 xiaomi,25028RN03Y,cn,小米, REDMI A5 国际版
 xiaomi,25028RN03I,cn,小米, REDMI A5 印度版
 xiaomi,25028RN03L,cn,小米, REDMI A5 拉美版
+xiaomi,26020RNB4A,cn,小米, REDMI A7 国际版
+xiaomi,26020RNB4I,cn,小米, REDMI A7 印度版
+xiaomi,26020RNB4L,cn,小米, REDMI A7 拉美版
 xiaomi,25128RN17A,cn,小米, REDMI A7 Pro 国际版
 xiaomi,25128RN17Y,cn,小米, REDMI A7 Pro 国际版
 xiaomi,25128RN17L,cn,小米, REDMI A7 Pro 拉美版
+xiaomi,25128RN17I,cn,小米, REDMI A7 Pro 印度版
 xiaomi,26020RN1AC,cn,小米, REDMI R70 5G 国行版 / REDMI R70m 5G 国行版
 xiaomi,26020RN1AI,cn,小米, REDMI A7 Pro 5G 印度版
 xiaomi,22081283C,cn,小米, Redmi Pad 国行版
@@ -2729,6 +2734,9 @@ xiaomi,2410FPCC5G,cn,小米, POCO C75 国际版
 xiaomi,2410FPCC5I,cn,小米, POCO C75 印度版
 xiaomi,24116PCC1I,cn,小米, POCO C75 5G 印度版
 xiaomi,25128PC17I,cn,小米, POCO C81 印度版
+xiaomi,25128PC17G,cn,小米, POCO C81 Pro 国际版
+xiaomi,25128PC17L,cn,小米, POCO C81 Pro 拉美版
+xiaomi,26020PCB4I,cn,小米, POCO C81x 印度版
 xiaomi,25078PC3EG,cn,小米, POCO C85 国际版
 xiaomi,25078PC3EE,cn,小米, POCO C85 欧洲版
 xiaomi,2508CPC2BI,cn,小米, POCO C85 5G 印度版
@@ -4227,9 +4235,13 @@ xiaomi,25028RN03A,en,小米, REDMI A5 Global
 xiaomi,25028RN03Y,en,小米, REDMI A5 Global
 xiaomi,25028RN03I,en,小米, REDMI A5 India
 xiaomi,25028RN03L,en,小米, REDMI A5 Latin America
+xiaomi,26020RNB4A,en,小米, REDMI A7 Global
+xiaomi,26020RNB4I,en,小米, REDMI A7 India
+xiaomi,26020RNB4L,en,小米, REDMI A7 Latin America
 xiaomi,25128RN17A,en,小米, REDMI A7 Pro Global
 xiaomi,25128RN17Y,en,小米, REDMI A7 Pro Global
 xiaomi,25128RN17L,en,小米, REDMI A7 Pro Latin America
+xiaomi,25128RN17I,en,小米, REDMI A7 Pro India
 xiaomi,26020RN1AI,en,小米, REDMI A7 Pro 5G India
 xiaomi,26020RN1AC,en,小米, REDMI R70 5G China / REDMI R70m 5G China
 xiaomi,M1805E10A,en,小米, POCO F1
@@ -4335,6 +4347,9 @@ xiaomi,2410FPCC5G,en,小米, POCO C75 Global
 xiaomi,2410FPCC5I,en,小米, POCO C75 India
 xiaomi,24116PCC1I,en,小米, POCO C75 5G India
 xiaomi,25128PC17I,en,小米, POCO C81 India
+xiaomi,25128PC17G,en,小米, POCO C81 Pro Global
+xiaomi,25128PC17L,en,小米, POCO C81 Pro Latin America
+xiaomi,26020PCB4I,en,小米, POCO C81x India
 xiaomi,25078PC3EG,en,小米, POCO C85 Global
 xiaomi,25078PC3EE,en,小米, POCO C85 Europe
 xiaomi,2508CPC2BI,en,小米, POCO C85 5G India
