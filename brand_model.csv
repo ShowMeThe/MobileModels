@@ -3001,6 +3001,16 @@ letv,L6B,cn,乐视, Letv Y1 Pro+
 letv,L7,cn,乐视, Letv Y2 Pro
 letv,L8,cn,乐视, Letv S1 Pro 5G
 letv,L9,cn,乐视, Letv S3 Pro
+zte,W200DS,cn,中兴, 中兴云电脑 逍遥系列 (公开版)
+zte,W201DS,cn,中兴, 中兴云电脑 逍遥系列 (电信定制)
+zte,W202DS,cn,中兴, 中兴云电脑 逍遥系列 (移动定制)
+zte,W203DS,cn,中兴, 中兴云电脑 逍遥系列 (移动定制)
+zte,W205DS,cn,中兴, 中兴云电脑 逍遥系列 (联通定制)
+zte,W210DS,cn,中兴, 中兴云电脑 逍遥 20 (公开版)
+zte,W211DS,cn,中兴, 中兴云电脑 逍遥 20 (电信定制)
+zte,W212DS,cn,中兴, 中兴云电脑 逍遥 20 (移动定制)
+zte,W213DS,cn,中兴, 中兴云电脑 逍遥 20 (移动定制)
+zte,W215S,cn,中兴, 中兴云电脑 逍遥 20 (联通定制)
 coolpad,8297,cn,其他, 酷派大神 F1 移动 3G 版
 coolpad,8297W,cn,其他, 酷派大神 F1 联通 3G 版
 coolpad,8297D,cn,其他, 酷派大神 F1 青春版
@@ -7072,6 +7082,7 @@ zhixuan,MRK-BD00,cn,华为智选, Hi nova 10 SE 5G
 zhixuan,MIZ-BD00,cn,华为智选, Hi nova 11 5G
 zhixuan,SUP-BD00,cn,华为智选, Hi nova 12 SE 5G
 zhixuan,SPR-BD00,cn,华为智选, Hi nova 12z 5G
+zhixuan,BRO-W00,cn,华为智选, Hi MatePad
 zhixuan,F810,cn,华为智选, 雷鸟 FF1 5G
 zhixuan,NAT-TN70,cn,华为智选, TD Tech N8 Pro
 zhixuan,TDT-MA01,cn,华为智选, TD Tech M40
@@ -7088,7 +7099,6 @@ zhixuan,JLG-AN80,cn,华为智选, Hi 畅享 80 GT 5G
 zhixuan,SHR-AN00,cn,华为智选, Hi 畅享 80 Pro 5G
 zhixuan,SNP-AN00,cn,华为智选, Hi 畅享 80 Plus 5G
 zhixuan,CHE-AN00,cn,华为智选, WIKO X70
-zhixuan,BRO-W00,cn,华为智选, Hi MatePad
 zhixuan,MASH-16,cn,华为智选, Hi MateBook 14 (16GB 内存)
 zhixuan,MASH-32,cn,华为智选, Hi MateBook 14 (32GB 内存)
 zhixuan,MASI-16,cn,华为智选, Hi MateBook 14 酷睿 Ultra 2 (16GB 内存)
@@ -10727,6 +10737,7 @@ vivo,V2430A,cn,VIVO, vivo S20 Pro
 vivo,V2464A,cn,VIVO, vivo S30
 vivo,V2465A,cn,VIVO, vivo S30 Pro mini
 vivo,V2528A,cn,VIVO, vivo S50
+vivo,V2528A,cn,VIVO, vivo S50 / vivo S50t
 vivo,V2527A,cn,VIVO, vivo S50 Pro mini
 vivo,V1901A,cn,VIVO, vivo Y3 全网通版
 vivo,V1901T,cn,VIVO, vivo Y3 移动全网通版
