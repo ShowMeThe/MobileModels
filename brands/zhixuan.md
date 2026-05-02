@@ -121,7 +121,15 @@
 
 `SPR-BD00`: Hi nova 12z 5G
 
+<<<<<<< HEAD
 ## 雷鸟 FFALCON
+=======
+**Hi MatePad:**
+
+`BRO-W00`: Hi MatePad
+
+## 雷鸟手机（FFALCON）
+>>>>>>> upstream/master
 
 **雷鸟 FF1:**
 
@@ -147,6 +155,7 @@
 
 `LFT-AN00`: WIKO 5G
 
+<<<<<<< HEAD
 **Hi 畅享 60:**
 
 `GAR-AN00`: Hi 畅享 60 5G
@@ -164,6 +173,25 @@
 `MKY-AN20`: Hi 畅享 70 5G / Hi 畅享 70m 5G
 
 **Hi 畅享 70 Pro:**
+=======
+**Hi 畅享 60 (`Garcia`):**
+
+`GAR-AN00`: Hi 畅享 60 5G
+
+**Hi 畅享 60s (`Garcia`):**
+
+`GAR-AN60`: Hi 畅享 60s 5G
+
+**Hi 畅享 60 Pro (`Logan`):**
+
+`LGN-AN00`: Hi 畅享 60 Pro 5G
+
+**Hi 畅享 70 / Hi 畅享 70m (`Mickey`):**
+
+`MKY-AN20`: Hi 畅享 70 5G / Hi 畅享 70m 5G
+
+**Hi 畅享 70 Pro (`Ballon+`):**
+>>>>>>> upstream/master
 
 `BAL-AN20`: Hi 畅享 70 Pro 5G
 
@@ -179,6 +207,7 @@
 
 `JLG-AN80`: Hi 畅享 80 GT 5G
 
+<<<<<<< HEAD
 **Hi 畅享 80 Pro:**
 
 `SHR-AN00`: Hi 畅享 80 Pro 5G
@@ -1656,12 +1685,27 @@
 
 `BRO-W00`: Hi MatePad
 
+=======
+**Hi 畅享 80 Pro (`Shera`):**
+
+`SHR-AN00`: Hi 畅享 80 Pro 5G
+
+**Hi 畅享 80 Plus (`Snoopy`):**
+
+`SNP-AN00`: Hi 畅享 80 Plus 5G
+
+**WIKO X70 (`Change`):**
+
+`CHE-AN00`: WIKO X70
+
+>>>>>>> upstream/master
 **Hi MateBook 14:**
 
 `MASH-16`: Hi MateBook 14 (16GB 内存)
 
 `MASH-32`: Hi MateBook 14 (32GB 内存)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2233,17 +2277,25 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 `MASI-16`: Hi MateBook 14 酷睿 Ultra 2 (16GB 内存) (方形键盘)
 
 `MASC-24`: Hi MateBook 14 酷睿 Ultra 2 (24GB 内存) (圆形键盘)
 
 `MASC-32`: Hi MateBook 14 酷睿 Ultra 2 (32GB 内存) (圆形键盘)
 
+<<<<<<< HEAD
+=======
+**Hi MateBook 14 (`MunichA`):**
+
+>>>>>>> upstream/master
 `MNCAA-16`: Hi MateBook 14 锐龙 200 (16GB 内存) (方形键盘)
 
 `MNCAA-32`: Hi MateBook 14 锐龙 200 (32GB 内存) (方形键盘)
 
 `MNCAC-32`: Hi MateBook 14 锐龙 200 (32GB 内存) (圆形键盘)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2811,15 +2863,28 @@
 >>>>>>> upstream/master
 
 **Hi MateBook D 14:**
+=======
+
+**Hi MateBook D 14 (`LyonI`):**
+>>>>>>> upstream/master
 
 `LYOI-16`: Hi MateBook D 14 (16GB 内存)
 
 `LYOI-32`: Hi MateBook D 14 (32GB 内存)
 
+<<<<<<< HEAD
 **Hi MateBook D 16:**
 
 `NICG-16`: Hi MateBook D 16 (13 代酷睿) (16GB 内存)
 
+=======
+**Hi MateBook D 16 (`NiceG`):**
+
+`NICG-16`: Hi MateBook D 16 (13 代酷睿) (16GB 内存)
+
+**Hi MateBook D 16 (`NiceI`):**
+
+>>>>>>> upstream/master
 `NICI-16`: Hi MateBook D 16 (16GB 内存)
 
 `NICI-32`: Hi MateBook D 16 (32GB 内存)
