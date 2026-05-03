@@ -289,8 +289,11 @@
 **中兴 Axon Pad:**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 `ZTE PA01`: 中兴 Axon Pad
 =======
+=======
+>>>>>>> upstream/master
 `ZTE PA01`: 中兴 Axon Pad
 
 **中兴云电脑:**
@@ -311,5 +314,9 @@
 
 `W212DS` `W213DS`: 中兴云电脑 逍遥 20 (移动定制)
 
+<<<<<<< HEAD
+`W215S`: 中兴云电脑 逍遥 20 (联通定制)
+>>>>>>> upstream/master
+=======
 `W215S`: 中兴云电脑 逍遥 20 (联通定制)
 >>>>>>> upstream/master
