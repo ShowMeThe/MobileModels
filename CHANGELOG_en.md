@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-05-06
+- `oneplus_en` Add OnePlus Pad 4.
 ### 2026-04-27
 - `xiaomi_en` Add POCO C81x, REDMI A7.
 ### 2026-04-25

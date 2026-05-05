@@ -513,7 +513,7 @@
 
 **OnePlus Pad (2023) (`aries-o`):**
 
-`OPD2203`: OnePlus Pad (2023)
+`OPD2203`: OnePlus Pad (2023) Global
 
 **OnePlus Pad Go (`bluey-o`):**
 
@@ -523,19 +523,19 @@
 
 **OnePlus Pad (2024) (`dunhuang-o`):**
 
-`OPD2407`: OnePlus Pad (2024)
+`OPD2407`: OnePlus Pad (2024) China
 
 **OnePlus Pad 2 (2024) / OnePlus Pad Pro (`rainbow`) (~`caihong-o`~):**
 
-`OPD2404`: OnePlus Pad Pro
+`OPD2404`: OnePlus Pad Pro China
 
-`OPD2403`: OnePlus Pad 2 (2024)
+`OPD2403`: OnePlus Pad 2 (2024) Global
 
 **OnePlus Pad 3 / OnePlus Pad 2 Pro (`erhai-o`):**
 
-`OPD2413`: OnePlus Pad 2 Pro
+`OPD2413`: OnePlus Pad 2 Pro China
 
-`OPD2415`: OnePlus Pad 3
+`OPD2415`: OnePlus Pad 3 Global
 
 **OnePlus Pad Lite:**
 
@@ -551,7 +551,11 @@
 
 **OnePlus Pad 2 (2025) (`himalaya-o`):**
 
-`OPD2508`: OnePlus Pad 2 (2025)
+`OPD2508`: OnePlus Pad 2 (2025) China
+
+**OnePlus Pad 4:**
+
+`OPD2514`: OnePlus Pad 4 Global
 
 ## OnePlus Wearables
 
