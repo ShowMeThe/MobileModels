@@ -1835,6 +1835,7 @@ oneplus,OPD2508,cn,一加, 一加平板 2 国行版
 oneplus,OPD2504,cn,一加, 一加平板 Go 2 Wi-Fi
 oneplus,OPD2505,cn,一加, 一加平板 Go 2 5G
 oneplus,OPD2508,cn,一加, 一加平板 2 (2025) 国行版
+oneplus,OPD2514,cn,一加, 一加平板 4 国际版
 oneplus,W101IN,cn,一加, 一加 Band 印度版
 oneplus,OPBBE221,cn,一加, 一加 Nord Watch
 oneplus,W301CN,cn,一加, 一加手表 国行版 / Cyberpunk 2077 限定版
@@ -6074,6 +6075,7 @@ oneplus,DE2118,en,一加, OnePlus Nord N200 T-Mobile
 oneplus,CPH2389,en,一加, OnePlus Nord N300
 oneplus,CPH2551,en,一加, OnePlus Open
 oneplus,OPD2203,en,一加, OnePlus Pad (2023)
+oneplus,OPD2203,en,一加, OnePlus Pad (2023) Global
 oneplus,OPD2304,en,一加, OnePlus Pad Go LTE
 oneplus,OPD2305,en,一加, OnePlus Pad Go Wi-Fi
 oneplus,OPD2407,en,一加, OnePlus Pad (2024)
@@ -6082,12 +6084,19 @@ oneplus,OPD2403,en,一加, OnePlus Pad 2
 oneplus,OPD2403,en,一加, OnePlus Pad 2 (2024)
 oneplus,OPD2413,en,一加, OnePlus Pad 2 Pro
 oneplus,OPD2415,en,一加, OnePlus Pad 3
+oneplus,OPD2407,en,一加, OnePlus Pad (2024) China
+oneplus,OPD2404,en,一加, OnePlus Pad Pro China
+oneplus,OPD2403,en,一加, OnePlus Pad 2 (2024) Global
+oneplus,OPD2413,en,一加, OnePlus Pad 2 Pro China
+oneplus,OPD2415,en,一加, OnePlus Pad 3 Global
 oneplus,OPD2480,en,一加, OnePlus Pad Lite Wi-Fi
 oneplus,OPD2481,en,一加, OnePlus Pad Lite LTE
 oneplus,OPD2508,en,一加, OnePlus Pad 2 China
 oneplus,OPD2504,en,一加, OnePlus Pad Go 2 Wi-Fi
 oneplus,OPD2505,en,一加, OnePlus Pad Go 2 5G
 oneplus,OPD2508,en,一加, OnePlus Pad 2 (2025)
+oneplus,OPD2508,en,一加, OnePlus Pad 2 (2025) China
+oneplus,OPD2514,en,一加, OnePlus Pad 4 Global
 oneplus,W101IN,en,一加, OnePlus Band India
 oneplus,OPBBE221,en,一加, OnePlus Nord Watch
 oneplus,W301CN,en,一加, OnePlus Watch China / Cyberpunk 2077 Limited Edition
