@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-05-07
+- `huawei_global_en` Add HUAWEI nova 15 Max, MatePad Pro Max.
 ### 2026-05-06
 - `oneplus_en` Add OnePlus Pad 4.
 ### 2026-04-27

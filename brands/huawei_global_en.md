@@ -505,6 +505,10 @@
 
 `KLE-LX9`: HUAWEI nova 15 Pro
 
+**HUAWEI nova 15 Max (`Chenzhen`):**
+
+`CHZ-LX1`: HUAWEI nova 15 Max
+
 **HUAWEI nova Y60 (`Wukong`):**
 
 `WKG-LX9`: HUAWEI nova Y60
@@ -816,6 +820,10 @@
 **HUAWEI MatePad Pro 12.2 2025 (`Morandi`):**
 
 `MRDI-W09`: HUAWEI MatePad Pro 12.2 2025 Wi-Fi
+
+**HUAWEI MatePad Pro Max:**
+
+`GEM-W09`: HUAWEI MatePad Pro Max 13.2 Wi-Fi
 
 **HUAWEI MatePad Mini (`Mclaren`):**
 
