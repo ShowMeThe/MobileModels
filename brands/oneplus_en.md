@@ -381,6 +381,8 @@
 
 `CPH2805`: OnePlus Nord CE 6 India
 
+`CPH2807`: OnePlus Nord CE 6 Global
+
 **OnePlus Nord (`avicii`):**
 
 `AC2001`: OnePlus Nord India
@@ -456,6 +458,10 @@
 `CPH2717`: OnePlus Nord CE 5 India
 
 `CPH2719`: OnePlus Nord CE 5 Global
+
+**OnePlus Nord CE 6 Lite:**
+
+`CPH2943`: OnePlus Nord CE 6 Lite India
 
 **OnePlus Nord N10 (`billie8`):**
 
