@@ -382,6 +382,8 @@
 
 `CPH2805`: 一加 Nord CE 6 印度版
 
+`CPH2807`: 一加 Nord CE 6 国际版
+
 **一加 Nord (`avicii`):**
 
 `AC2001`: 一加 Nord 印度版
@@ -457,6 +459,10 @@
 `CPH2717`: 一加 Nord CE 5 印度版
 
 `CPH2719`: 一加 Nord CE 5 国际版
+
+**一加 Nord CE 6 Lite:**
+
+`CPH2943`: 一加 Nord CE 6 Lite 印度版
 
 **一加 Nord N10 (`billie8`):**
 
