@@ -1779,6 +1779,7 @@ oneplus,PMB110,cn,一加, 一加 Ace 6 至尊版 国行版
 oneplus,CPH2793,cn,一加, 一加 Nord 6 印度版
 oneplus,CPH2795,cn,一加, 一加 Nord 6 国际版
 oneplus,CPH2805,cn,一加, 一加 Nord CE 6 印度版
+oneplus,CPH2807,cn,一加, 一加 Nord CE 6 国际版
 oneplus,AC2001,cn,一加, 一加 Nord 印度版
 oneplus,AC2003,cn,一加, 一加 Nord 欧洲版 / 国际版
 oneplus,DN2101,cn,一加, 一加 Nord 2 印度版
@@ -1804,6 +1805,7 @@ oneplus,CPH2619,cn,一加, 一加 Nord CE 4 Lite 印度版
 oneplus,CPH2621,cn,一加, 一加 Nord CE 4 Lite 欧洲版 / 国际版
 oneplus,CPH2717,cn,一加, 一加 Nord CE 5 印度版
 oneplus,CPH2719,cn,一加, 一加 Nord CE 5 国际版
+oneplus,CPH2943,cn,一加, 一加 Nord CE 6 Lite 印度版
 oneplus,BE2025,cn,一加, 一加 Nord N10 Metro 版
 oneplus,BE2026,cn,一加, 一加 Nord N10 北美版
 oneplus,BE2029,cn,一加, 一加 Nord N10 欧洲版 / 国际版
@@ -6033,6 +6035,7 @@ oneplus,PMB110,en,一加, OnePlus Ace 6 Ultra China
 oneplus,CPH2793,en,一加, OnePlus Nord 6 India
 oneplus,CPH2795,en,一加, OnePlus Nord 6 Global
 oneplus,CPH2805,en,一加, OnePlus Nord CE 6 India
+oneplus,CPH2807,en,一加, OnePlus Nord CE 6 Global
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord Europe / Global
 oneplus,DN2101,en,一加, OnePlus Nord 2 India
@@ -6058,6 +6061,7 @@ oneplus,CPH2619,en,一加, OnePlus Nord CE 4 Lite India
 oneplus,CPH2621,en,一加, OnePlus Nord CE 4 Lite Europe / Global
 oneplus,CPH2717,en,一加, OnePlus Nord CE 5 India
 oneplus,CPH2719,en,一加, OnePlus Nord CE 5 Global
+oneplus,CPH2943,en,一加, OnePlus Nord CE 6 Lite India
 oneplus,BE2025,en,一加, OnePlus Nord N10 Metro
 oneplus,BE2026,en,一加, OnePlus Nord N10 North America
 oneplus,BE2029,en,一加, OnePlus Nord N10 Europe / Global
@@ -9227,6 +9231,7 @@ huawei,MIA-LX9,en,华为, HUAWEI nova 14 Pro
 huawei,STG-LX2,en,华为, HUAWEI nova 14i
 huawei,PSN-LX9,en,华为, HUAWEI nova 15 Pro
 huawei,KLE-LX9,en,华为, HUAWEI nova 15 Pro
+huawei,CHZ-LX1,en,华为, HUAWEI nova 15 Max
 huawei,WKG-LX9,en,华为, HUAWEI nova Y60
 huawei,EVE-LX9,en,华为, HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Plus
 huawei,EVE-LX9N,en,华为, HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Plus
@@ -9362,6 +9367,7 @@ huawei,PCE-W29,en,华为, HUAWEI MatePad Pro 13.2 Wi-Fi
 huawei,WEB-W09,en,华为, HUAWEI MatePad Pro 13.2 2025 Wi-Fi
 huawei,MRO-W09,en,华为, HUAWEI MatePad Pro 12.2 Wi-Fi
 huawei,MRDI-W09,en,华为, HUAWEI MatePad Pro 12.2 2025 Wi-Fi
+huawei,GEM-W09,en,华为, HUAWEI MatePad Pro Max 13.2 Wi-Fi
 huawei,MLR-W09,en,华为, HUAWEI MatePad Mini 8.8 Wi-Fi
 huawei,HMW-W09,en,华为, HUAWEI MatePad Paper Wi-Fi
 huawei,BGO-L03,en,华为, HUAWEI MediaPad T2 7.0 LTE
