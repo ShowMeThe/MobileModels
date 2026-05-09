@@ -559,7 +559,9 @@
 
 `OPD2508`: OnePlus Pad 2 (2025) China
 
-**OnePlus Pad 4:**
+**OnePlus Pad 3 Pro / OnePlus Pad 4:**
+
+`OPD2513`: OnePlus Pad 3 Pro China
 
 `OPD2514`: OnePlus Pad 4 Global
 
