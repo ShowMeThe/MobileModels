@@ -1030,6 +1030,10 @@
 
 `V2546A`: iQOO 15 Ultra
 
+**iQOO 15T (`PD2564`):**
+
+`V2564A`: iQOO 15T
+
 ## iQOO Neo 系列
 
 **iQOO Neo (`PD1914`):**
