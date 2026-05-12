@@ -289,6 +289,10 @@
 
 `RMX5131`: realme 16 Pro+ 5G
 
+**realme 16T 5G:**
+
+`RMX5268`: realme 16T 5G
+
 ## X series
 
 **realme X:**
