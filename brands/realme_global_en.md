@@ -833,7 +833,7 @@
 
 `RMX3944`: realme NARZO 80x 5G
 
-**realme NARZO 80 Lite:**
+**realme NARZO 80 Lite (`rado`):**
 
 `RMX3945`: realme NARZO 80 Lite 5G
 
