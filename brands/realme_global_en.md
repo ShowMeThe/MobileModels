@@ -521,23 +521,25 @@
 
 `RMX3762`: realme C53 India
 
-**realme C55:**
+**realme C55 (`miami`):**
 
 `RMX3710`: realme C55
 
-**realme C60:**
+**realme C60 (`hulk`):**
 
 `RMX3834`: realme C60
 
-**realme C61:**
+**realme C61 (`latte`):**
 
 `RMX3939` `RMX3930`: realme C61 Global
 
 `RMX3933`: realme C61 India
 
-**realme C63:**
+**realme C63 (`latte`):**
 
 `RMX3939`: realme C63
+
+**realme C63 5G (`barley-d`):**
 
 `RMX3950`: realme C63 5G
 
@@ -555,39 +557,45 @@
 
 `RMX3890`: realme C67
 
+**realme C67 5G (`chongqing`):**
+
 `RMX3782`: realme C67 5G
 
-**realme C71:**
+**realme C71 (`dhaka`):**
 
 `RMX5303`: realme C71
 
-**realme C73:**
+**realme C73 (`rado`):**
 
 `RMX3945`: realme C73 5G
 
-**realme C75:**
+**realme C75 (`oris-c`):**
 
 `RMX3941`: realme C75
+
+**realme C75 5G (`rado`):**
 
 `RMX3943`: realme C75 5G India
 
 `RMX3963`: realme C75 5G Global
 
-**realme C75x:**
+**realme C75x (`oris-a`):**
 
 `RMX5020`: realme C75x
 
-**realme C83:**
+**realme C83 (`mumbai`):**
 
 `RMX5256`: realme C83 5G
 
-**realme C85:**
+**realme C85 (`moscow-b`):**
 
 `RMX5566`: realme C85
 
+**realme C85 5G (`mumbai`):**
+
 `RMX5253`: realme C85 5G
 
-**realme C85 Pro:**
+**realme C85 Pro (`moscow`):**
 
 `RMX5555`: realme C85 Pro
 
@@ -601,19 +609,19 @@
 
 ## Note series
 
-**realme Note 50:**
+**realme Note 50 (`hulk`):**
 
 `RMX3834`: realme Note 50
 
-**realme Note 60:**
+**realme Note 60 (`latte`):**
 
 `RMX3933`: realme Note 60
 
-**realme Note 60x:**
+**realme Note 60x (`latte`):**
 
 `RMX3938`: realme Note 60x
 
-**realme Note 70 / realme Note 70T:**
+**realme Note 70 / realme Note 70T (`dhaka`):**
 
 `RMX5313`: realme Note 70 / realme Note 70T
 
@@ -669,7 +677,7 @@
 
 `RMX5110`: realme P4 5G
 
-**realme P4 Pro:**
+**realme P4 Pro (`neutron-p`):**
 
 `RMX5116`: realme P4 Pro 5G
 
@@ -681,11 +689,11 @@
 
 `RMX5107`: realme P4 Power 5G
 
-**realme P4 Lite:**
+**realme P4 Lite (`dhaka`):**
 
 `RMX5313`: realme P4 Lite
 
-**realme P4 Lite 5G:**
+**realme P4 Lite 5G (`mumbai-c2`):**
 
 `RMX5261`: realme P4 Lite 5G
 
@@ -769,31 +777,31 @@
 
 `RMX3506`: realme Narzo 50i Prime
 
-**realme Narzo N53:**
+**realme Narzo N53 (`hulk`):**
 
 `RMX3761`: realme Narzo N53
 
-**realme Narzo N55:**
+**realme Narzo N55 (`miami`):**
 
 `RMX3710`: realme Narzo N55
 
-**realme Narzo 60:**
+**realme Narzo 60 (`hawaii`):**
 
 `RMX3750`: realme Narzo 60 5G
 
-**realme Narzo 60 Pro:**
+**realme Narzo 60 Pro (`chengdu-b`):**
 
 `RMX3771`: realme Narzo 60 Pro 5G
 
-**realme Narzo 60x:**
+**realme Narzo 60x (`chongqing`):**
 
 `RMX3782`: realme Narzo 60x 5G
 
-**realme NARZO N61:**
+**realme NARZO N61 (`latte`):**
 
 `RMX3933`: realme NARZO N61
 
-**realme NARZO N63:**
+**realme NARZO N63 (`latte`):**
 
 `RMX3939`: realme NARZO N63
 
@@ -801,11 +809,11 @@
 
 `RMX3997`: realme NARZO N65 5G
 
-**realme NARZO 70:**
+**realme NARZO 70 (`tacoo-b`):**
 
 `RMX3869`: realme NARZO 70 5G
 
-**realme NARZO 70 Pro:**
+**realme NARZO 70 Pro (`tacoo`):**
 
 `RMX3868`: realme NARZO 70 Pro 5G
 
@@ -817,7 +825,7 @@
 
 `RMX5003`: realme NARZO 70 Turbo 5G
 
-**realme NARZO 80 Pro:**
+**realme NARZO 80 Pro (`casio-x`):**
 
 `RMX5033`: realme NARZO 80 Pro 5G
 
@@ -825,7 +833,7 @@
 
 `RMX3944`: realme NARZO 80x 5G
 
-**realme NARZO 80 Lite:**
+**realme NARZO 80 Lite (`rado`):**
 
 `RMX3945`: realme NARZO 80 Lite 5G
 
@@ -833,7 +841,7 @@
 
 `RMX5111`: realme NARZO 90 5G
 
-**realme NARZO 90x:**
+**realme NARZO 90x (`mumbai`):**
 
 `RMX5264`: realme NARZO 90x 5G
 
@@ -853,7 +861,7 @@
 
 `RMP2103`: realme Pad Wi-Fi
 
-**realme Pad mini:**
+**realme Pad mini (`freyia`):**
 
 `RMP2105`: realme Pad mini LTE
 
@@ -875,7 +883,7 @@
 
 `RMP2402`: realme Pad 2 Lite
 
-**realme Pad 3:**
+**realme Pad 3 (`chrome`):**
 
 `RMP2501`: realme Pad 3 5G
 
