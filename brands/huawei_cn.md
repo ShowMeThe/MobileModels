@@ -3027,6 +3027,14 @@
 
 `AHP-AL10`: 华为儿童手表 5X Pro
 
+**华为超新星手表 X1:**
+
+`DRA-L10`: 华为超新星手表 X1
+
+**华为超新星手表 X1 Pro:**
+
+`DRP-L10`: 华为超新星手表 X1 Pro
+
 **HUAWEI X GENTLE MONSTER Eyewear:**
 
 `CMG0-PER`: HUAWEI X GENTLE MONSTER Eyewear
