@@ -15,7 +15,11 @@
 
 `Lenovo L78031`: 联想 Z5 Pro
 
+<<<<<<< HEAD
 **联想 Z5 Pro (`heart`):**
+=======
+**联想 Z5 Pro GT (`heart`):**
+>>>>>>> upstream/master
 
 `Lenovo L78032`: 联想 Z5 Pro GT
 
@@ -103,6 +107,13 @@
 
 `Lenovo L71061`: 联想拯救者 Y90
 
+<<<<<<< HEAD
+=======
+**联想拯救者 Y70 新一代 (`avr`):**
+
+`XT2611-1`: 联想拯救者 Y70 新一代
+
+>>>>>>> upstream/master
 **联想乐檬 K12 (`guam`):**
 
 `XT2081-4`: 联想乐檬 K12
@@ -209,6 +220,7 @@
 
 `TB710FU`: 小新平板 Pro GT
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -380,6 +392,9 @@
 =======
 >>>>>>> upstream/master
 **联想 AI 平板 小新 Pro 13:**
+=======
+**联想 AI 平板 小新 Pro 13 (`malbec`):**
+>>>>>>> upstream/master
 
 `TB376FC`: 联想 AI 平板 小新 Pro 13
 
@@ -443,6 +458,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -675,7 +693,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -848,6 +869,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -965,6 +989,17 @@
 
 `TB570FU` `TB570ZU`: 拯救者平板 Y900
 
+<<<<<<< HEAD
+=======
+**联想 AI 平板 拯救者 Y900 11 (`beryl`):**
+
+`TB711FU`: 联想 AI 平板 拯救者 Y900 11
+
+**联想 AI 平板 拯救者 Y900 13:**
+
+`TB522FU`: 联想 AI 平板 拯救者 Y900 13
+
+>>>>>>> upstream/master
 **联想天骄平板电脑 (`p11_plus`) (`arnoii`):**
 
 `Lenovo TB-J616F` `Lenovo TB-J616N`: 联想天骄平板电脑
@@ -1151,6 +1186,13 @@
 
 `TB361ZU`: 联想昭阳 K12c 12.1 英寸 5G 版
 
+<<<<<<< HEAD
+=======
+**联想昭阳 K13 (`malbec`):**
+
+`TB391FC`: 联想昭阳 K13 13 英寸 Wi-Fi 版
+
+>>>>>>> upstream/master
 **联想昭阳 G11 (`barley`):**
 
 `TB-X802F`: 联想昭阳 G11 10.95 英寸 Wi-Fi 版
