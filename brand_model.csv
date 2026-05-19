@@ -1645,6 +1645,7 @@ xiaomi,2512BPNDAC,cn,小米, Xiaomi 17 Ultra
 xiaomi,25128PNA1C,cn,小米, Xiaomi 17 Ultra by Leica
 xiaomi,2512BPNDAC,cn,小米, Xiaomi 17 Ultra / Xiaomi 17 Ultra by Leica (非卫星)
 xiaomi,25128PNA1C,cn,小米, Xiaomi 17 Ultra by Leica (卫星通讯)
+xiaomi,2605EPN8EC,cn,小米, Xiaomi 17 Max
 xiaomi,2014616,cn,小米, 小米 Note 双网通版
 xiaomi,2014619,cn,小米, 小米 Note 全网通版
 xiaomi,2014618,cn,小米, 小米 Note 移动合约版
@@ -6901,6 +6902,7 @@ xiaomi,25128PNA1C,en,小米, Xiaomi 17 Ultra by Leica (China)
 xiaomi,2512BPNDAC,en,小米," Xiaomi 17 Ultra China / Xiaomi 17 Ultra by Leica (China, non-satellite)"
 xiaomi,25128PNA1G,en,小米, Leica Leitzphone powered by Xiaomi (Global)
 xiaomi,25128PNA1C,en,小米," Xiaomi 17 Ultra by Leica (China, Tiantong & Beidou satellites)"
+xiaomi,2605EPN8EC,en,小米, Xiaomi 17 Max
 xiaomi,2602DPT53G,en,小米, Xiaomi 17T Global
 xiaomi,2602EPTC0G,en,小米, Xiaomi 17T Pro Global
 xiaomi,2602EPTC0R,en,小米, Xiaomi 17T Pro Japan (SIM Free)
@@ -7364,6 +7366,7 @@ xiaomi,24069RA21C,en,小米, Redmi Turbo 3 China
 xiaomi,24129RT7CC,en,小米, REDMI Turbo 4 China
 xiaomi,25053RT47C,en,小米, REDMI Turbo 4 Pro China
 xiaomi,2511FRT34C,en,小米, REDMI Turbo 5 China
+xiaomi,2606FRT34I,en,小米, REDMI Turbo 5 India
 xiaomi,2602BRT18C,en,小米, REDMI Turbo 5 Max China
 xiaomi,M1903F10A,en,小米, Redmi K20 China
 xiaomi,M1903F10C,en,小米, Redmi K20 Chinese Carrier Version
@@ -7560,6 +7563,7 @@ xiaomi,2410FPCC5I,en,小米, POCO C75 India
 xiaomi,24116PCC1I,en,小米, POCO C75 5G India
 xiaomi,25128PC17I,en,小米, POCO C81 India
 xiaomi,25128PC17G,en,小米, POCO C81 Pro Global
+xiaomi,25128PC17Y,en,小米, POCO C81 Pro Global
 xiaomi,25128PC17L,en,小米, POCO C81 Pro Latin America
 xiaomi,26020PCB4I,en,小米, POCO C81x India
 xiaomi,25078PC3EG,en,小米, POCO C85 Global
@@ -7636,6 +7640,7 @@ xiaomi,2405CPCFBG,en,小米, POCO Pad Wi-Fi Global
 xiaomi,24074PCD2I,en,小米, POCO Pad 5G India
 xiaomi,25099RP08G,en,小米, POCO Pad X1 Global
 xiaomi,2509ARPBDG,en,小米, POCO Pad M1 Global
+xiaomi,2603APC14G,en,小米, POCO Pad C1 Global
 xiaomi,FYJ01QP,en,小米, Xiaomi Mijia Translator
 xiaomi,21051191C,en,小米, Xiaomi CyberDog Bio-inspired Quadruped Robot
 xiaomi,2405AVPB7C,en,小米, Xiaomi EV Cockpit (SU7 2024/SU7 Ultra)
@@ -8223,6 +8228,8 @@ xiaomi,2510ERA8BC,cn,小米, REDMI Note 15 Pro+ 国行版
 xiaomi,2510ERA8BG,cn,小米, REDMI Note 15 Pro+ 5G 国际版
 xiaomi,2510ERA8BI,cn,小米, REDMI Note 15 Pro+ 5G 印度版
 xiaomi,2510ERA8BT,cn,小米, REDMI Note 15 Pro+ 5G 沙特版
+xiaomi,2511FRT34C,cn,小米, REDMI Turbo 5 国行版
+xiaomi,2606FRT34I,cn,小米, REDMI Turbo 5 印度版
 xiaomi,M1903F10I,cn,小米, Redmi K20 印度版
 xiaomi,M1903F11I,cn,小米, Redmi K20 Pro 印度版
 xiaomi,22041216I,cn,小米, Redmi K50i 印度版
@@ -8408,6 +8415,7 @@ xiaomi,2410FPCC5I,cn,小米, POCO C75 印度版
 xiaomi,24116PCC1I,cn,小米, POCO C75 5G 印度版
 xiaomi,25128PC17I,cn,小米, POCO C81 印度版
 xiaomi,25128PC17G,cn,小米, POCO C81 Pro 国际版
+xiaomi,25128PC17Y,cn,小米, POCO C81 Pro 国际版
 xiaomi,25128PC17L,cn,小米, POCO C81 Pro 拉美版
 xiaomi,26020PCB4I,cn,小米, POCO C81x 印度版
 xiaomi,25078PC3EG,cn,小米, POCO C85 国际版
@@ -8418,6 +8426,7 @@ xiaomi,2405CPCFBG,cn,小米, POCO Pad Wi-Fi 国际版
 xiaomi,24074PCD2I,cn,小米, POCO Pad 5G 印度版
 xiaomi,25099RP08G,cn,小米, POCO Pad X1 国际版
 xiaomi,2509ARPBDG,cn,小米, POCO Pad M1 国际版
+xiaomi,2603APC14G,cn,小米, POCO Pad C1 国际版
 google,G-2PW4100,cn,Google, Pixel (North America)
 google,G-2PW4200,cn,Google, Pixel (Rest of the world)
 google,G-2PW2100,cn,Google, Pixel XL (North America)
@@ -8647,6 +8656,7 @@ nubia,NX779J,cn,努比亚, 红魔 10 Air
 nubia,NX789J,cn,努比亚, 红魔 10S Pro / 红魔 10S Pro+
 nubia,NX809J,cn,努比亚, 红魔 11 Pro / 红魔 11 Pro+
 nubia,NX799J,cn,努比亚, 红魔 11 Air
+nubia,NX809J,cn,努比亚, 红魔 11S Pro / 红魔 11S Pro+
 nubia,NP01J,cn,努比亚, 红魔电竞平板 5G
 nubia,NP03J,cn,努比亚, 红魔电竞平板 Pro
 nubia,NP02J,cn,努比亚, 红魔平板 · 3D 探索版 5G
@@ -9990,6 +10000,7 @@ honor,AMG-AN00,cn,荣耀, 荣耀 GT
 honor,PPG-AN00,cn,荣耀, 荣耀 GT Pro
 honor,AAP-AN00,cn,荣耀, 荣耀 WIN
 honor,AAK-AN00,cn,荣耀, 荣耀 WIN RT
+honor,SER-AN00,cn,荣耀, 荣耀 WIN Turbo
 honor,G750-T00,cn,荣耀, 荣耀 3X 双 3G 版
 honor,G750-U00,cn,荣耀, 荣耀 3X 联通版
 honor,G750-T20,cn,荣耀, 荣耀 3X Pro
@@ -10372,6 +10383,7 @@ honor,FRI-H56,cn,荣耀, 荣耀笔记本 X14 2024 R5 (16GB+512GB)
 honor,FRG-X,cn,荣耀, 荣耀笔记本 X14 2025
 honor,GDG-X,cn,荣耀, 荣耀笔记本 X14 2025 战斗版
 honor,FRG-X,cn,荣耀, 荣耀笔记本 X14 2026
+honor,LVD-X,cn,荣耀, 荣耀笔记本 X14 2026 战斗版
 honor,GDH-X,cn,荣耀, 荣耀笔记本 X14 锐龙版 2026
 honor,FMI-76,cn,荣耀, 荣耀笔记本 X14 Plus 2024 R7 (16GB+512GB)
 honor,FMI-721,cn,荣耀, 荣耀笔记本 X14 Plus 2024 R7 (32GB+1TB)
