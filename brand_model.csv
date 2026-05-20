@@ -1391,6 +1391,8 @@ oppo,PKZ110,cn,OPPO, OPPO Reno14 Pro
 oppo,PLW110,cn,OPPO, OPPO Reno15
 oppo,PLV110,cn,OPPO, OPPO Reno15 Pro
 oppo,PMD110,cn,OPPO, OPPO Reno15c
+oppo,PMM110,cn,OPPO, OPPO Reno16
+oppo,PMK110,cn,OPPO, OPPO Reno16 Pro
 oppo,PCLM10,cn,OPPO, OPPO Reno Ace
 oppo,PDHM00,cn,OPPO, OPPO Ace2
 oppo,PACM00,cn,OPPO, OPPO R15 全网通版
@@ -1525,6 +1527,7 @@ oppo,OPD2506,cn,OPPO, OPPO Pad 5
 oppo,OPD2501,cn,OPPO, OPPO Pad Air5
 oppo,OPD2511,cn,OPPO, OPPO Pad 5 Pro
 oppo,OPD2515,cn,OPPO, OPPO Pad Mini
+oppo,OPD2601,cn,OPPO, OPPO Pad 6
 oppo,OB19B1,cn,OPPO, OPPO Band 运动版
 oppo,OB19O1,cn,OPPO, OPPO Band 运动版
 oppo,OB19B1,cn,OPPO, OPPO Band 运动版 (国际版)
@@ -6692,6 +6695,8 @@ motorola,XT2533-4,cn,摩托罗拉, moto g100
 motorola,XT2601-1,cn,摩托罗拉, moto X70 Air
 motorola,XT2537-4,cn,摩托罗拉, moto g100s
 motorola,XT2603-1,cn,摩托罗拉, moto X70 Air Pro
+motorola,XT2651-4,cn,摩托罗拉, moto razr fold
+motorola,XT2655-4,cn,摩托罗拉, moto razr 70 Ultra
 lenovo,XT2611-1,cn,联想, 联想拯救者 Y70 新一代
 lenovo,TB376FC,cn,联想, 联想 AI 平板 小新 Pro 13
 lenovo,TB378FC,cn,联想, 联想 AI 平板 小新 Pro GT 13
