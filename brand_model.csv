@@ -1649,6 +1649,8 @@ xiaomi,25128PNA1C,cn,小米, Xiaomi 17 Ultra by Leica
 xiaomi,2512BPNDAC,cn,小米, Xiaomi 17 Ultra / Xiaomi 17 Ultra by Leica (非卫星)
 xiaomi,25128PNA1C,cn,小米, Xiaomi 17 Ultra by Leica (卫星通讯)
 xiaomi,2605EPN8EC,cn,小米, Xiaomi 17 Max
+xiaomi,M531DA,cn,小米, Xiaomi 17T
+xiaomi,M025EC,cn,小米, Xiaomi 17T Pro
 xiaomi,2014616,cn,小米, 小米 Note 双网通版
 xiaomi,2014619,cn,小米, 小米 Note 全网通版
 xiaomi,2014618,cn,小米, 小米 Note 移动合约版
@@ -1934,6 +1936,7 @@ xiaomi,21051191C,cn,小米, CyberDog 仿生四足机器人
 xiaomi,2405AVPB7C,cn,小米, 小米澎湃智能座舱 (第一代 SU7/SU7 Ultra)
 xiaomi,25033VP3FC,cn,小米, 小米澎湃智能座舱 (YU7/新一代 SU7)
 xiaomi,2503CVPC6C,cn,小米, Xiaomi YU7 后排移动控制屏
+xiaomi,2503CVPC6C,cn,小米, 小米汽车后排移动控制屏
 huawei,MT1-T00,cn,华为, 华为 Ascend Mate 移动版
 huawei,MT1-U06,cn,华为, 华为 Ascend Mate 联通版
 huawei,MT2-U071,cn,华为, 华为 Ascend Mate 2 联通 3G 版
@@ -4234,6 +4237,8 @@ xiaomi-wear,M2402B1,cn,其他, 小米手环 9 Pro 国际版
 xiaomi-wear,M2435B1,cn,其他, 小米手环 9 Active 国际版
 xiaomi-wear,M2457B1,cn,其他, 小米手环 10
 xiaomi-wear,M2456B1,cn,其他, 小米手环 10 NFC 版 / 陶瓷版
+xiaomi-wear,M2551B1,cn,其他, 小米手环 10 Pro 金属版
+xiaomi-wear,M2553B1,cn,其他, 小米手环 10 Pro 陶瓷版
 xiaomi-wear,XMWT01,cn,其他, 小米手表
 xiaomi-wear,M2320W1,cn,其他, Xiaomi Watch 2
 xiaomi-wear,M2234W1,cn,其他, Xiaomi Watch 2 Pro 蓝牙版
@@ -4301,6 +4306,7 @@ xiaomi-wear,M2540E1,cn,其他, Xiaomi Buds 6
 xiaomi-wear,M2503E1,cn,其他, Xiaomi 开放式耳机 Pro
 xiaomi-wear,GCDEJ01LS,cn,其他, Xiaomi 骨传导耳机
 xiaomi-wear,M2447E1,cn,其他, Xiaomi 骨传导耳机 2
+xiaomi-wear,M2529E1,cn,其他, Xiaomi 耳夹式耳机
 xiaomi-wear,TWSEJ01ZM,cn,其他, Redmi AirDots 3 Pro
 xiaomi-wear,M2104E1,cn,其他, Redmi Buds 3
 xiaomi-wear,M2110E1,cn,其他, Redmi Buds 3 青春版
@@ -6909,8 +6915,11 @@ xiaomi,25128PNA1G,en,小米, Leica Leitzphone powered by Xiaomi (Global)
 xiaomi,25128PNA1C,en,小米," Xiaomi 17 Ultra by Leica (China, Tiantong & Beidou satellites)"
 xiaomi,2605EPN8EC,en,小米, Xiaomi 17 Max
 xiaomi,2602DPT53G,en,小米, Xiaomi 17T Global
+xiaomi,2602DPT53I,en,小米, Xiaomi 17T India
+xiaomi,M531DA,en,小米, Xiaomi 17T China
 xiaomi,2602EPTC0G,en,小米, Xiaomi 17T Pro Global
 xiaomi,2602EPTC0R,en,小米, Xiaomi 17T Pro Japan (SIM Free)
+xiaomi,M025EC,en,小米, Xiaomi 17T Pro China
 xiaomi,2015011,en,小米, Mi Note Global
 xiaomi,2014616,en,小米, Mi Note China (Dual-network)
 xiaomi,2014619,en,小米, Mi Note China (Full-network)
@@ -7651,6 +7660,7 @@ xiaomi,21051191C,en,小米, Xiaomi CyberDog Bio-inspired Quadruped Robot
 xiaomi,2405AVPB7C,en,小米, Xiaomi EV Cockpit (SU7 2024/SU7 Ultra)
 xiaomi,25033VP3FC,en,小米, Xiaomi EV Cockpit (YU7/SU7 2026)
 xiaomi,2503CVPC6C,en,小米, Xiaomi YU7 Back Row Mobile Control Screen
+xiaomi,2503CVPC6C,en,小米, Xiaomi EV Back Row Mobile Control Screen
 apple,A1324,cn,苹果, iPhone 3G 
 apple,A1325,cn,苹果, iPhone 3GS (无 WLAN 功能)
 apple,A1332,cn,苹果, iPhone 4
@@ -7910,6 +7920,9 @@ xiaomi,25128PNA1G,cn,小米, Leitzphone powered by Xiaomi 国际版
 xiaomi,25128PNA1G,cn,小米, Leica Leitzphone powered by Xiaomi 国际版
 xiaomi,25128PNA1C,cn,小米, Xiaomi 17 Ultra by Leica 国行版 (卫星通讯)
 xiaomi,2602DPT53G,cn,小米, Xiaomi 17T 国际版
+xiaomi,M531DA,cn,小米, Xiaomi 17T 国行版
+xiaomi,2602DPT53I,cn,小米, Xiaomi 17T 印度版
+xiaomi,M025EC,cn,小米, Xiaomi 17T Pro 国行版
 xiaomi,2602EPTC0G,cn,小米, Xiaomi 17T Pro 国际版
 xiaomi,2602EPTC0R,cn,小米, Xiaomi 17T Pro 日本版 (无锁)
 xiaomi,2015011,cn,小米, 小米 Note 国际版
