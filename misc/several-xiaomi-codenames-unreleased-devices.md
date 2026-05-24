@@ -38,6 +38,13 @@
 
 `25067PYE3I`: Xiaomi 15 Civi 印度版 (未上市)
 
+<<<<<<< HEAD
+=======
+**Xiaomi 17 Air (`pecan`):**
+
+`26023PN08C`: Xiaomi 17 Air (未上市)
+
+>>>>>>> upstream/master
 **[`B3_PRO`] 小米 Max (`helium`):**
 
 `2016006`: 小米 Max 高配版 未知版本 (未上市)
@@ -98,6 +105,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`2505DPXD7C`: Xiaomi MIX Flip 2 国行版 (未使用型号)
+
+>>>>>>> upstream/master
 =======
 `2505DPXD7C`: Xiaomi MIX Flip 2 国行版 (未使用型号)
 
@@ -446,8 +458,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **[`N17`] Redmi Note 13 5G (`iron`):**
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -948,6 +963,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
