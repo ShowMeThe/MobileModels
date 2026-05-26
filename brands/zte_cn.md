@@ -278,6 +278,13 @@
 
 `ZTE 7533N` `Z9101`: 中兴远航 3D
 
+<<<<<<< HEAD
+=======
+**中兴畅行 70 Plus:**
+
+`ZTE 7671N`: 中兴畅行 70 Plus
+
+>>>>>>> upstream/master
 **中兴 V70:**
 
 `ZTE 9041N`: 中兴 V70
@@ -312,8 +319,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `ZTE PA01`: 中兴 Axon Pad
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -403,6 +413,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+`W215S`: 中兴云电脑 逍遥 20 (联通定制)
+>>>>>>> upstream/master
+=======
 `W215S`: 中兴云电脑 逍遥 20 (联通定制)
 >>>>>>> upstream/master
 =======

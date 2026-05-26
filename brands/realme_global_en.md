@@ -145,12 +145,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **realme 9:**
 
 `RMX3521`: realme 9
 
 **realme 9i:**
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -267,6 +270,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -387,8 +393,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `RMX3612`: realme 9i 5G
 
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -507,10 +516,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `RMX3474`: realme 9 5G EU
 
 **realme 9 Pro 5G:**
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -631,6 +643,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -717,6 +732,7 @@
 
 `RMX3393`: realme 9 Pro+ 5G Global
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1061,6 +1077,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **realme 9 5G Speed Edition (`ice`):**
 
 `RMX3461`: realme 9 5G Speed Edition India
@@ -1107,6 +1125,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1187,6 +1208,7 @@
 
 `RMX3661`: realme 10 Pro 5G Global / realme 10 Pro 5G Coca-Cola® Edition
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1469,6 +1491,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **realme 10 Pro+ 5G (`roma`):**
 
 `RMX3686`: realme 10 Pro+ 5G
@@ -1526,6 +1550,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1606,6 +1633,7 @@
 `RMX3771`: realme 11 Pro 5G
 
 **realme 11 Pro+ 5G (`chengdu`):**
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1757,6 +1785,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 
 `RMX3741`: realme 11 Pro+ 5G
 
@@ -1798,6 +1828,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1884,6 +1917,7 @@
 
 `RMX3998`: realme 12x 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2037,6 +2071,9 @@
 =======
 **realme 12+ 5G (`tacoo`):**
 >>>>>>> upstream/master
+=======
+**realme 12+ 5G (`tacoo`):**
+>>>>>>> upstream/master
 
 `RMX3867`: realme 12+ 5G
 
@@ -2048,6 +2085,7 @@
 
 `RMX3840`: realme 12 Pro+ 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2605,6 +2643,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **realme 13 (`tacoo-f`):**
 
 `RMX3871`: realme 13 4G
@@ -2646,6 +2686,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2791,6 +2834,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2895,6 +2941,7 @@
 
 `RMX3943`: realme 14x 5G Global
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3480,11 +3527,15 @@
 =======
 **realme 14T 5G (`dongfeng`):**
 >>>>>>> upstream/master
+=======
+**realme 14T 5G (`dongfeng`):**
+>>>>>>> upstream/master
 
 `RMX5074`: realme 14T 5G Global
 
 `RMX5078`: realme 14T 5G India
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3686,11 +3737,15 @@
 =======
 **realme 14 Pro 5G (`casio-x`):**
 >>>>>>> upstream/master
+=======
+**realme 14 Pro 5G (`casio-x`):**
+>>>>>>> upstream/master
 
 `RMX5056`: realme 14 Pro 5G India
 
 `RMX5057`: realme 14 Pro 5G Global
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4276,11 +4331,15 @@
 =======
 **realme 14 Pro+ 5G (`piaget`):**
 >>>>>>> upstream/master
+=======
+**realme 14 Pro+ 5G (`piaget`):**
+>>>>>>> upstream/master
 
 `RMX5051`: realme 14 Pro+ 5G India
 
 `RMX5054`: realme 14 Pro+ 5G Global
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5023,6 +5082,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **realme 15 5G (`casio-y`):**
 
 `RMX5106`: realme 15 5G
@@ -5036,6 +5097,7 @@
 `RMX5111`: realme 15T 5G
 
 **realme 15 Lite 5G (`casio`):**
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5512,6 +5574,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 
 `RMX5000`: realme 15 Lite 5G
 
@@ -5556,6 +5620,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5635,6 +5702,7 @@
 
 `RMX5171`: realme 16 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6217,6 +6285,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **realme 16 Pro 5G (`iwc`):**
 
 `RMX5120`: realme 16 Pro 5G
@@ -6290,6 +6360,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6396,6 +6467,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6436,6 +6509,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6535,6 +6611,7 @@
 
 `RMX3311` `RMX3312`: realme GT 2 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6756,6 +6833,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **realme GT 2 Pro (`ferrari`):**
 
 `RMX3301`: realme GT 2 Pro 5G
@@ -6815,6 +6894,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6920,6 +7002,7 @@
 
 `RMX3371`: realme GT NEO 3T
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8233,6 +8316,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **realme GT Neo5 SE (`senna-a`):**
 
 `RMX3701`: realme GT Neo5 SE
@@ -8241,6 +8326,7 @@
 
 `RMX3709`: realme GT 3 240W
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8399,6 +8485,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **realme GT 6 (`bale-c`):**
 
 `RMX3851`: realme GT 6
@@ -8457,6 +8545,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8567,6 +8658,7 @@
 
 `RMX5011`: realme GT 7 Pro
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8766,6 +8858,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **realme GT 8 Pro (`lafa`):**
 
 `RMX5210`: realme GT 8 Pro / realme GT 8 Pro Dream Edition
@@ -8819,6 +8913,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9036,6 +9133,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **realme C55:**
 
 `RMX3710`: realme C55
@@ -9046,6 +9144,8 @@
 
 **realme C61:**
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9088,6 +9188,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9128,11 +9231,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **realme C63:**
 
 `RMX3939`: realme C63
 
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9172,6 +9278,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9223,6 +9332,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `RMX3782`: realme C67 5G
 
 **realme C71:**
@@ -9238,6 +9348,8 @@
 `RMX3941`: realme C75
 
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9289,6 +9401,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9316,6 +9431,7 @@
 
 `RMX3963`: realme C75 5G Global
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11280,6 +11396,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **realme C75x (`oris-a`):**
 
 `RMX5020`: realme C75x
@@ -11311,6 +11429,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -11342,6 +11463,7 @@
 
 `RMX5377`: realme C100i
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11632,6 +11754,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 ## Note series
 
 **realme Note 50 (`hulk`):**
@@ -11661,6 +11785,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -11739,6 +11866,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -11850,6 +11980,7 @@
 
 ## P series
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12051,6 +12182,9 @@
 =======
 **realme P1 (`tacoo-c`):**
 >>>>>>> upstream/master
+=======
+**realme P1 (`tacoo-c`):**
+>>>>>>> upstream/master
 
 `RMX3870`: realme P1 5G
 
@@ -12058,6 +12192,7 @@
 
 `RMX3844`: realme P1 Pro 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12583,6 +12718,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **realme P1 Speed (`casio`):**
 
 `RMX5004`: realme P1 Speed 5G
@@ -12636,6 +12773,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -12740,6 +12880,7 @@
 `RMX3987`: realme P2 Pro 5G
 
 **realme P3 (`dongfeng`):**
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12955,6 +13096,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 
 `RMX5070` `RMX5079`: realme P3 5G
 
@@ -12975,6 +13118,7 @@
 `RMX3943`: realme P3 Lite 5G
 
 **realme P4 (`casio-p`):**
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14221,6 +14365,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 
 `RMX5110`: realme P4 5G
 
@@ -14239,6 +14385,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -14270,6 +14419,7 @@
 
 `RMX5107`: realme P4 Power 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14831,6 +14981,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **realme P4 Lite (`dhaka`):**
 
 `RMX5313`: realme P4 Lite
@@ -14850,6 +15002,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -14923,6 +15078,7 @@
 
 `RMX3286`: realme Narzo 50
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -15124,6 +15280,9 @@
 =======
 **realme Narzo 50 5G (`alice`):**
 >>>>>>> upstream/master
+=======
+**realme Narzo 50 5G (`alice`):**
+>>>>>>> upstream/master
 
 `RMX3571`: realme Narzo 50 5G India
 
@@ -15153,6 +15312,7 @@
 
 `RMX3506`: realme Narzo 50i Prime
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -15213,6 +15373,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **realme Narzo N53 (`hulk`):**
 
 `RMX3761`: realme Narzo N53
@@ -15249,6 +15411,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -15291,12 +15456,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **realme NARZO 70:**
 
 `RMX3869`: realme NARZO 70 5G
 
 **realme NARZO 70 Pro:**
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -15335,6 +15503,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -15365,6 +15536,7 @@
 
 `RMX3998`: realme NARZO 70x 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16121,6 +16293,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **realme NARZO 70 Turbo (`casio`):**
 
 `RMX5003`: realme NARZO 70 Turbo 5G
@@ -16148,6 +16322,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -16175,6 +16352,7 @@
 
 `RMX5111`: realme NARZO 90 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16613,6 +16791,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **realme NARZO 90x (`mumbai`):**
 
 `RMX5264`: realme NARZO 90x 5G
@@ -16628,6 +16808,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -16733,6 +16916,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -16815,6 +16999,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -16930,6 +17116,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -17025,7 +17214,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **realme Pad mini:**
+=======
+**realme Pad mini (`freyia`):**
+>>>>>>> upstream/master
 =======
 **realme Pad mini (`freyia`):**
 >>>>>>> upstream/master
@@ -17067,6 +17260,7 @@
 
 `RMP2106`: realme Pad mini Wi-Fi
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17336,6 +17530,9 @@
 =======
 **realme Pad X (`tyr`):**
 >>>>>>> upstream/master
+=======
+**realme Pad X (`tyr`):**
+>>>>>>> upstream/master
 
 `RMP2107`: realme Pad X 5G
 
@@ -17349,6 +17546,7 @@
 
 **realme Pad 2 Lite:**
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17962,6 +18160,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 `RMP2402`: realme Pad 2 Lite
 
 **realme Pad 3 (`chrome`):**
@@ -17979,6 +18179,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+`RMP2502`: realme Pad 3 Wi-Fi
+>>>>>>> upstream/master
+=======
 `RMP2502`: realme Pad 3 Wi-Fi
 >>>>>>> upstream/master
 =======
