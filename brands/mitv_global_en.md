@@ -109,8 +109,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L32MA-AIN`: Xiaomi Smart TV A 32 2024 Edition
 
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -229,6 +232,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43MA-AFIN`: Xiaomi Smart TV A 43 2024 Edition
 
 `L43MB-AFIN`: Xiaomi Smart TV A 43 2025
@@ -240,6 +244,8 @@
 `L43MA-AUIN`: Xiaomi Smart TV A Pro 4K 43
 
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -367,6 +373,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -446,6 +455,7 @@
 
 `L43M7-A2IN`: Xiaomi Smart TV X 43
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -654,6 +664,10 @@
 `L43M8-A2IN`: Xiaomi Smart TV X 43 2023
 
 >>>>>>> upstream/master
+=======
+`L43M8-A2IN`: Xiaomi Smart TV X 43 2023
+
+>>>>>>> upstream/master
 `L50M7-A2IN`: Xiaomi Smart TV X 50
 
 `L50M8-A2IN`: Xiaomi Smart TV X 50 2023
@@ -703,11 +717,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L50MA-AUIN`: Xiaomi Smart TV X 50 2024
 
 `L55MA-AIN`: Xiaomi Smart TV X 55 2024
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -821,6 +838,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -941,7 +961,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1063,6 +1086,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1196,6 +1222,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Xiaomi QLED TV X Pro:**
 
 `L43MB-APIN`: Xiaomi QLED TV X Pro 43 2025 Edition
@@ -1216,6 +1243,8 @@
 
 `L55MB-FPIN`: Xiaomi QLED TV FX Pro 55
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1346,6 +1375,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1464,7 +1496,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1584,6 +1619,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1715,6 +1753,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L32MA-FVIN`: Redmi Smart Fire TV 32 2024 Edition
 
 `L43R8-FVIN`: Redmi Smart Fire TV 43
@@ -1723,6 +1762,8 @@
 
 `L55MA-FVIN`: Redmi Smart Fire TV 4K 55 2024 Edition
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1841,6 +1882,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2005,7 +2049,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Mi TV P1 (EEA):**
+=======
+**Mi TV P1 (Europe):**
+>>>>>>> upstream/master
 =======
 **Mi TV P1 (Europe):**
 >>>>>>> upstream/master
@@ -2177,7 +2225,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Xiaomi TV P1E (EEA):**
+=======
+**Xiaomi TV P1E (Europe):**
+>>>>>>> upstream/master
 =======
 **Xiaomi TV P1E (Europe):**
 >>>>>>> upstream/master
@@ -2343,7 +2395,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Xiaomi TV Q2 (EEA):**
+=======
+**Xiaomi TV Q2 (Europe):**
+>>>>>>> upstream/master
 =======
 **Xiaomi TV Q2 (Europe):**
 >>>>>>> upstream/master
@@ -2515,7 +2571,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Xiaomi TV A2 (EEA):**
+=======
+**Xiaomi TV A2 (Europe):**
+>>>>>>> upstream/master
 =======
 **Xiaomi TV A2 (Europe):**
 >>>>>>> upstream/master
@@ -2683,9 +2743,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43M8-AFRU`: Xiaomi TV A2 FHD 43
 
 `L43M7-EARU`: Xiaomi TV A2 UHD 43
+=======
+`L43M8-AFRU`: Xiaomi TV A2 43 FHD
+
+`L43M7-EARU`: Xiaomi TV A2 43 UHD
+>>>>>>> upstream/master
 =======
 `L43M8-AFRU`: Xiaomi TV A2 43 FHD
 
@@ -2923,7 +2989,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43M7-ESEA`: Xiaomi TV A2 FHD 43
+=======
+`L43M7-ESEA`: Xiaomi TV A2 43 FHD
+>>>>>>> upstream/master
 =======
 `L43M7-ESEA`: Xiaomi TV A2 43 FHD
 >>>>>>> upstream/master
@@ -3083,7 +3153,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43M7-EAID`: Xiaomi TV A2 UHD 43
+=======
+`L43M7-EAID`: Xiaomi TV A2 43 UHD
+>>>>>>> upstream/master
 =======
 `L43M7-EAID`: Xiaomi TV A2 43 UHD
 >>>>>>> upstream/master
@@ -3241,7 +3315,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43M7-ETI`: Xiaomi TV A2 FHD 43
+=======
+`L43M7-ETI`: Xiaomi TV A2 43 FHD
+>>>>>>> upstream/master
 =======
 `L43M7-ETI`: Xiaomi TV A2 43 FHD
 >>>>>>> upstream/master
@@ -3399,7 +3477,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43M7-ETH`: Xiaomi TV A2 FHD 43
+=======
+`L43M7-ETH`: Xiaomi TV A2 43 FHD
+>>>>>>> upstream/master
 =======
 `L43M7-ETH`: Xiaomi TV A2 43 FHD
 >>>>>>> upstream/master
@@ -3563,7 +3645,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43M7-EAUKR`: Xiaomi TV A2 UHD 43
+=======
+`L43M7-EAUKR`: Xiaomi TV A2 43 UHD
+>>>>>>> upstream/master
 =======
 `L43M7-EAUKR`: Xiaomi TV A2 43 UHD
 >>>>>>> upstream/master
@@ -3729,12 +3815,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Xiaomi TV A (EEA):**
 
 `L32M8-P2EU`: Xiaomi TV A 32
 
 `L43M8-P2EU`: Xiaomi TV A FHD 43
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3851,6 +3940,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3977,7 +4069,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43M8-P2SEA`: Xiaomi TV A FHD 43
+=======
+`L43M8-P2SEA`: Xiaomi TV A 43 FHD
+>>>>>>> upstream/master
 =======
 `L43M8-P2SEA`: Xiaomi TV A 43 FHD
 >>>>>>> upstream/master
@@ -4137,12 +4233,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43M8-P2ID`: Xiaomi TV A FHD 43
 
 `L55M8-P2ID`: Xiaomi TV A 55
 
 **[`N39`] Xiaomi TV A (EEA):**
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4259,6 +4358,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4383,7 +4485,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43MA-AFRU`: Xiaomi TV A FHD 43 2025
+=======
+`L43MA-AFRU`: Xiaomi TV A 43 FHD 2025
+>>>>>>> upstream/master
 =======
 `L43MA-AFRU`: Xiaomi TV A 43 FHD 2025
 >>>>>>> upstream/master
@@ -4547,7 +4653,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43MA-AFTWN`: Xiaomi TV A FHD 43 2025
+=======
+`L43MA-AFTWN`: Xiaomi TV A 43 FHD 2025
+>>>>>>> upstream/master
 =======
 `L43MA-AFTWN`: Xiaomi TV A 43 FHD 2025
 >>>>>>> upstream/master
@@ -4711,9 +4821,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43MA-AFSEA`: Xiaomi TV A FHD 43 2025
 
 `L43MA-ASEA`: Xiaomi TV A UHD 43 2025
+=======
+`L43MA-AFSEA`: Xiaomi TV A 43 FHD 2025
+
+`L43MA-ASEA`: Xiaomi TV A 43 UHD 2025
+>>>>>>> upstream/master
 =======
 `L43MA-AFSEA`: Xiaomi TV A 43 FHD 2025
 
@@ -4947,6 +5063,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43MA-AFID`: Xiaomi TV A FHD 43 2025
 
 `L55MA-AID`: Xiaomi TV A 55 2025
@@ -4957,6 +5074,8 @@
 
 `L43MA-AME`: Xiaomi TV A UHD 43 2025
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5077,6 +5196,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5197,7 +5319,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43MA-APH`: Xiaomi TV A UHD 43 2025
+=======
+`L43MA-APH`: Xiaomi TV A 43 UHD 2025
+>>>>>>> upstream/master
 =======
 `L43MA-APH`: Xiaomi TV A 43 UHD 2025
 >>>>>>> upstream/master
@@ -5357,7 +5483,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5483,6 +5612,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5600,6 +5732,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43MB-AFEA`: Xiaomi TV A FHD 43 2026
 
 **[`O39`] Xiaomi TV A (Southeast Asia):**
@@ -5608,6 +5741,8 @@
 
 `L43MB-AUSEA`: Xiaomi TV A UHD 43 2026
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5734,6 +5869,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5852,6 +5990,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Xiaomi TV A Pro (EEA):**
 
 `L32M8-A2EU`: Xiaomi TV A Pro 32
@@ -5886,6 +6025,8 @@
 
 **Xiaomi TV A Pro (Russia):**
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6092,6 +6233,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6214,7 +6358,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6338,6 +6485,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6457,6 +6607,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43MA-STWN`: Xiaomi TV A Pro 43 2025
 
 `L43MB-APTWN`: Xiaomi TV A Pro 43 2026
@@ -6476,6 +6627,8 @@
 `L75MA-STWN`: Xiaomi TV A Pro 75 2025
 
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6609,6 +6762,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6744,6 +6900,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L32MB-APSEA`: Xiaomi TV A Pro 32 2026
 
 `L43M8-A2SEA`: Xiaomi TV A Pro 43
@@ -6763,6 +6920,8 @@
 `L65MA-SSEA`: Xiaomi TV A Pro 65 2025
 
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6894,6 +7053,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7015,6 +7177,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43MA-SID`: Xiaomi TV A Pro 43 2025
 
 `L43MB-APID`: Xiaomi TV A Pro 43 2026
@@ -7033,6 +7196,8 @@
 
 **Xiaomi TV A Pro (Middle East):**
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -7167,6 +7332,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7285,8 +7453,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43MA-SME`: Xiaomi TV A Pro 43 2025
 
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -7405,6 +7576,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L55MA-SME`: Xiaomi TV A Pro 55 2025
 
 `L65M8-A2ME`: Xiaomi TV A Pro 65
@@ -7412,6 +7584,8 @@
 `L65MA-SME`: Xiaomi TV A Pro 65 2025
 
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -7555,6 +7729,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7674,8 +7851,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L43MA-SPH`: Xiaomi TV A Pro 43 2025
 
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -7794,11 +7974,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L55MA-SPH`: Xiaomi TV A Pro 55 2025
 
 `L65M8-A2LA`: Xiaomi TV A Pro 65
 
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -7918,6 +8101,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8035,6 +8221,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Xiaomi TV F (EEA):**
 
 `L43MB-FEU`: Xiaomi TV F 43 2026
@@ -8047,6 +8234,8 @@
 
 **Xiaomi TV F Pro (EEA):**
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -8185,6 +8374,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8309,6 +8501,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **[`N32`] Xiaomi TV S Mini LED (EEA):**
 
 `L55MA-SPLEU`: Xiaomi TV S Mini LED 55
@@ -8343,6 +8536,8 @@
 
 **Xiaomi TV Max (Russia):**
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -8659,6 +8854,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8779,12 +8977,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Xiaomi TV Max (Middle East):**
 
 `L86M7-ESME`: Xiaomi TV Max 86
 
 **[`N36`] Xiaomi TV Max (EEA):**
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -8901,6 +9102,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9019,7 +9223,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **[`N36`] Xiaomi TV Max (Russia):**
+=======
+**[`N36`] Xiaomi TV Max (Russia/Belarus/Kazakhstan):**
+>>>>>>> upstream/master
 =======
 **[`N36`] Xiaomi TV Max (Russia/Belarus/Kazakhstan):**
 >>>>>>> upstream/master
@@ -9183,7 +9391,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **[`N36`] Xiaomi TV Max (Middle East):**
+=======
+**[`N36`] Xiaomi TV Max (Ukraine/Middle East):**
+>>>>>>> upstream/master
 =======
 **[`N36`] Xiaomi TV Max (Ukraine/Middle East):**
 >>>>>>> upstream/master
@@ -9351,6 +9563,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`MDZ-32-AA`: Xiaomi TV Box S (3rd Gen)
+
+>>>>>>> upstream/master
 =======
 `MDZ-32-AA`: Xiaomi TV Box S (3rd Gen)
 
@@ -9547,8 +9764,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `MDZ-27-AA`: Xiaomi TV Stick 4K
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9664,6 +9884,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+`MDZ-33-AA`: Xiaomi TV Stick 4K (2nd Gen)
+>>>>>>> upstream/master
+=======
 `MDZ-33-AA`: Xiaomi TV Stick 4K (2nd Gen)
 >>>>>>> upstream/master
 =======
