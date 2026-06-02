@@ -207,8 +207,11 @@
 
 `A2223`: iPhone 11 (China mainland, Hong Kong, Macao)
 
+<<<<<<< HEAD
 `A2222`: iPhone 11 (China Mobile)
 
+=======
+>>>>>>> upstream/master
 `A2221`: iPhone 11 (Rest of the world)
 
 **[`D421AP`] iPhone 11 Pro (`iPhone12,3`):**
@@ -217,8 +220,11 @@
 
 `A2217`: iPhone 11 Pro (China mainland, Hong Kong, Macao)
 
+<<<<<<< HEAD
 `A2216`: iPhone 11 Pro (China Mobile)
 
+=======
+>>>>>>> upstream/master
 `A2215`: iPhone 11 Pro (Rest of the world)
 
 **[`D431AP`] iPhone 11 Pro Max (`iPhone12,5`):**
@@ -227,8 +233,11 @@
 
 `A2220`: iPhone 11 Pro Max (China mainland, Hong Kong, Macao)
 
+<<<<<<< HEAD
 `A2219`: iPhone 11 Pro Max (China Mobile)
 
+=======
+>>>>>>> upstream/master
 `A2218`: iPhone 11 Pro Max (Rest of the world)
 
 **[`D79AP`] iPhone SE (2nd generation) (`iPhone12,8`):**
@@ -237,8 +246,11 @@
 
 `A2298`: iPhone SE (2nd generation) (China mainland)
 
+<<<<<<< HEAD
 `A2297`: iPhone SE (2nd generation) (China Mobile)
 
+=======
+>>>>>>> upstream/master
 `A2296`: iPhone SE (2nd generation) (Rest of the world)
 
 **[`D52gAP`] iPhone 12 mini (`iPhone13,1`):**
@@ -606,7 +618,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -873,6 +888,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1341,7 +1359,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1620,6 +1641,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2212,7 +2236,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2911,6 +2938,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3905,7 +3935,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Apple TV (1st generation) (`AppleTV1,1`):**
+=======
+**[`Mac-F4228DC8`] Apple TV (1st generation) (`AppleTV1,1`):**
+>>>>>>> upstream/master
 =======
 **[`Mac-F4228DC8`] Apple TV (1st generation) (`AppleTV1,1`):**
 >>>>>>> upstream/master
@@ -4613,7 +4647,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5296,6 +5333,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master

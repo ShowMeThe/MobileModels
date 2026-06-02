@@ -144,26 +144,38 @@
 
 `A2223`: iPhone 11 
 
+<<<<<<< HEAD
 `A2222`: iPhone 11 (中国移动)
 
+=======
+>>>>>>> upstream/master
 **[`D421AP`] iPhone 11 Pro (`iPhone12,3`):**
 
 `A2217`: iPhone 11 Pro 
 
+<<<<<<< HEAD
 `A2216`: iPhone 11 Pro (中国移动)
 
+=======
+>>>>>>> upstream/master
 **[`D431AP`] iPhone 11 Pro Max (`iPhone12,5`):**
 
 `A2220`: iPhone 11 Pro Max 
 
+<<<<<<< HEAD
 `A2219`: iPhone 11 Pro Max (中国移动)
 
+=======
+>>>>>>> upstream/master
 **[`D79AP`] iPhone SE (第 2 代) (`iPhone12,8`):**
 
 `A2298`: iPhone SE (第 2 代) 
 
+<<<<<<< HEAD
 `A2297`: iPhone SE (第 2 代) (中国移动)
 
+=======
+>>>>>>> upstream/master
 **[`D52gAP`] iPhone 12 mini (`iPhone13,1`):**
 
 `A2400`: iPhone 12 mini 
@@ -355,7 +367,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -618,6 +633,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1054,7 +1072,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1329,6 +1350,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1875,7 +1899,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2570,6 +2597,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3556,7 +3586,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4239,6 +4272,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
