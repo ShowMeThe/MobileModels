@@ -3809,6 +3809,8 @@ huawei,SGT-AL50,cn,华为, HUAWEI Mate 80 Pro (12GB 内存)
 huawei,SGT-AL00,cn,华为, HUAWEI Mate 80 Pro (16GB 内存)
 huawei,SGT-AL10,cn,华为, HUAWEI Mate 80 Pro Max
 huawei,SGT-AL10,cn,华为, HUAWEI Mate 80 Pro Max / HUAWEI Mate 80 Pro Max 风驰版
+huawei,SGT-AL50,cn,华为, HUAWEI Mate 80 Pro (麒麟 9030)
+huawei,SGT-AL00,cn,华为, HUAWEI Mate 80 Pro (麒麟 9030 Pro)
 huawei,SGU-AL10,cn,华为, HUAWEI Mate 80 RS 非凡大师
 huawei,TAH-AN00,cn,华为, HUAWEI Mate X
 huawei,TAH-AN00m,cn,华为, HUAWEI Mate Xs
@@ -3999,6 +4001,10 @@ huawei,PSD-AL80,cn,华为, HUAWEI nova Flip S
 huawei,PSN-AL00,cn,华为, HUAWEI nova 15
 huawei,KLE-AL00U,cn,华为, HUAWEI nova 15 Pro
 huawei,SLY-AL00,cn,华为, HUAWEI nova 15 Ultra
+huawei,EMA-AL00U,cn,华为, HUAWEI nova 16
+huawei,CRS-AL00,cn,华为, HUAWEI nova 16 Pro
+huawei,HIP-AL00,cn,华为, HUAWEI nova 16 Ultra
+huawei,PKN-AL00,cn,华为, HUAWEI nova 16z
 huawei,G6-T00,cn,华为, 华为 Ascend G6 移动版
 huawei,G6-U00,cn,华为, 华为 Ascend G6 联通版
 huawei,G6-C00,cn,华为, 华为 Ascend G6 电信版
@@ -4185,6 +4191,9 @@ huawei,WEB-AL10,cn,华为, HUAWEI MatePad Pro 13.2 英寸 2025 SIM 卡版
 huawei,MRDI-W00,cn,华为, HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 版
 huawei,MRDI-W10,cn,华为, HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 柔光版
 huawei,MRDI-W20,cn,华为, HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 柔光版 (16GB+1TB)
+huawei,GEM-W00,cn,华为, HUAWEI MatePad Pro Max 13.2 英寸 Wi-Fi 版
+huawei,GEM-W10,cn,华为, HUAWEI MatePad Pro Max 13.2 英寸 Wi-Fi 版 (20GB+1TB)
+huawei,GEM-W40,cn,华为, HUAWEI MatePad Pro Max 13.2 英寸 悦享款 Wi-Fi 版
 huawei,QXS-W00,cn,华为, HUAWEI MatePad Edge
 huawei,QXS-W10,cn,华为, HUAWEI MatePad Edge (24GB+1TB)
 huawei,QXS-W20,cn,华为, HUAWEI MatePad Edge 液冷版
@@ -9132,6 +9141,7 @@ honor,VKJ-NX9,en,荣耀, HONOR 600
 honor,VKP-NX9,en,荣耀, HONOR 600 Pro
 honor,LNA-NX1,en,荣耀, HONOR 600 Lite
 honor,LNA-NX3,en,荣耀, HONOR 600e
+honor,MRK-NX1,en,荣耀, HONOR 600 Smart / HONOR 600 Lite s
 honor,LGE-NX9,en,荣耀, HONOR Magic4 Pro
 honor,ANY-LX1,en,荣耀, HONOR Magic4 Lite
 honor,ANY-LX2,en,荣耀, HONOR Magic4 Lite
@@ -9212,6 +9222,8 @@ honor,LGN-LX1,en,荣耀, HONOR X7d
 honor,LGN-LX2,en,荣耀, HONOR X7d
 honor,LGN-LX3,en,荣耀, HONOR X7d
 honor,LGN-NX1,en,荣耀, HONOR X7d 5G
+honor,LAB-LX2,en,荣耀, HONOR X7e
+honor,MRK-NX1,en,荣耀, HONOR X7e Plus 5G
 honor,TFY-LX1,en,荣耀, HONOR X8
 honor,TFY-LX2,en,荣耀, HONOR X8
 honor,TFY-LX3,en,荣耀, HONOR X8
@@ -9247,6 +9259,7 @@ honor,HEY2-W09,en,荣耀, HONOR Pad 9 Wi-Fi
 honor,HEY2-N09,en,荣耀, HONOR Pad 9 5G
 honor,HEY3-W00,en,荣耀, HONOR Pad 10 Wi-Fi
 honor,HEY3-N09,en,荣耀, HONOR Pad 10 5G
+honor,HEY4-W09,en,荣耀, HONOR Pad 20 Wi-Fi
 honor,ROL-W00,en,荣耀, HONOR Pad V9
 honor,ROD2-W09,en,荣耀, HONOR MagicPad2
 honor,CGA-W00,en,荣耀, HONOR MagicPad3
