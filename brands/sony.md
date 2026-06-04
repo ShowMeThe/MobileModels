@@ -595,6 +595,23 @@
 
 `SOG16`: Xperia 10 VII Japan (KDDI)
 
+<<<<<<< HEAD
+=======
+**Xperia 1 VIII (`PDX-267`):**
+
+`XQ-GE44`: Xperia 1 VIII Japan (SIM Free)
+
+`XQ-GE54`: Xperia 1 VIII Global
+
+`XQ-GE74`: Xperia 1 VIII Asia Pacific
+
+`A601SO`: Xperia 1 VIII Japan (SoftBank)
+
+`SO-51G`: Xperia 1 VIII Japan (NTT Docomo)
+
+`SOG17`: Xperia 1 VIII Japan (KDDI)
+
+>>>>>>> upstream/master
 **Xperia Z4 Tablet (`Karin`):**
 
 `SGP712`: Xperia Z4 Tablet Wi-Fi
