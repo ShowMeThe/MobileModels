@@ -4624,6 +4624,9 @@ huawei,HD6XNEWN,cn,华为, 华为智慧屏 S7 Pro 65
 huawei,HD7XNEWN,cn,华为, 华为智慧屏 S7 Pro 75
 huawei,HD8XNEWN,cn,华为, 华为智慧屏 S7 Pro 85
 huawei,HD9XNEWN,cn,华为, 华为智慧屏 S7 Pro 98
+huawei,HD1XQINA,cn,华为, 华为智慧屏 S7X Pro 65
+huawei,HD77QINA,cn,华为, 华为智慧屏 S7X Pro 75
+huawei,HD85QINA,cn,华为, 华为智慧屏 S7X Pro 85
 huawei,HD55DESA,cn,华为, 华为智慧屏 SE 55 (2GB+16GB)
 huawei,HD55DESZ,cn,华为, 华为智慧屏 SE 55 畅连通话版 1080P (2GB+16GB)
 huawei,HD55DESY,cn,华为, 华为智慧屏 SE 55 畅连通话版 1080P 金属底座 (2GB+16GB)
@@ -4822,6 +4825,9 @@ huawei,LEA-B29B,cn,华为, 华为手环 BA-570
 huawei,ASK-B29B,cn,华为, 华为擎云 HA580
 huawei,KIM-B19B,cn,华为, 华为擎云 HA590
 huawei,KIM-B29B,cn,华为, 华为擎云 HA590
+huawei,NOR-B39B,cn,华为, 华为擎云 HA5A0
+huawei,CDY-B19B,cn,华为, 华为擎云 HA5B0
+huawei,NOR-B19,cn,华为, 华为擎云 HAY20
 huawei,SIM-AL00,cn,华为, 华为儿童手表 3 Pro
 huawei,NEO-AL10,cn,华为, 华为儿童手表 3s
 huawei,ALX-AL10,cn,华为, 华为儿童手表 3X
@@ -5896,6 +5902,8 @@ huawei,MGA-LX9N,en,华为, HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova 
 huawei,MGA-LX3,en,华为, HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71
 huawei,MGA-LX3,en,华为, HUAWEI nova Y72 / HUAWEI nova Y73
 huawei,GFY-LX1,en,华为, HUAWEI nova Y72S
+huawei,MGA-LX3,en,华为, HUAWEI nova Y72 / HUAWEI nova Y73 / HUAWEI nova Y73S / HUAWEI nova Y74 / HUAWEI nova Y74S
+huawei,GFY-LX1,en,华为, HUAWEI nova Y63 / HUAWEI nova Y72S
 huawei,CTR-LX1,en,华为, HUAWEI nova Y90
 huawei,CTR-LX2,en,华为, HUAWEI nova Y90
 huawei,CTR-LX3,en,华为, HUAWEI nova Y90
