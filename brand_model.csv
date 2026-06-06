@@ -1820,6 +1820,8 @@ oneplus,CPH2793,en,一加, OnePlus Nord 6 India
 oneplus,CPH2795,en,一加, OnePlus Nord 6 Global
 oneplus,CPH2805,en,一加, OnePlus Nord CE 6 India
 oneplus,CPH2807,en,一加, OnePlus Nord CE 6 Global
+oneplus,PYS110,en,一加, OnePlus Turbo 6X China
+oneplus,PYR110,en,一加, OnePlus Turbo 6X Pro China
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord Europe / Global
 oneplus,DN2101,en,一加, OnePlus Nord 2 India
@@ -5466,6 +5468,7 @@ vivo,V2510,en,VIVO, vivo T4 Pro
 vivo,V2504,en,VIVO, vivo T4 Ultra
 vivo,V2568,en,VIVO, vivo T5 Pro
 vivo,V2545,en,VIVO, vivo T5x 5G
+vivo,V2583,en,VIVO, vivo T5
 vivo,V2603,en,VIVO, vivo T5 Lite 5G
 vivo,V2557,en,VIVO, vivo T5 Lite 44W 5G
 vivo,V2044,en,VIVO, vivo Y3s
@@ -5568,6 +5571,7 @@ vivo,V2521,en,VIVO, vivo Y31 5G
 vivo,V2534,en,VIVO, vivo Y31 Pro 5G
 vivo,V2533,en,VIVO, vivo Y31e 5G
 vivo,V2543,en,VIVO, vivo Y31d Pro
+vivo,V2614,en,VIVO, vivo Y31s 5G
 vivo,V2057,en,VIVO, vivo Y33
 vivo,V2109-EG,en,VIVO, vivo Y33A
 vivo,V2109,en,VIVO, vivo Y33s
@@ -5666,6 +5670,7 @@ vivo,J2510,en,VIVO, JOVI X300 Ultra
 vivo,V2427,en,VIVO, JOVI V50
 vivo,V2440,en,VIVO, JOVI V50 Lite 5G
 vivo,J2507,en,VIVO, JOVI V70 5G
+vivo,J2502,en,VIVO, JOVI T1 5G
 vivo,V2425,en,VIVO, JOVI Y19s
 vivo,V2454,en,VIVO, JOVI Y19s
 vivo,J2503,en,VIVO, JOVI Y21
@@ -7430,7 +7435,9 @@ vivo,V2279A,cn,VIVO, vivo Y55t 5G
 vivo,V2559A,cn,VIVO, vivo Y60 5G
 vivo,V2559A,cn,VIVO, vivo Y60 5G / vivo Y6t 5G
 vivo,V2559BA,cn,VIVO, vivo Y60m 5G
+vivo,V2559BA,cn,VIVO, vivo Y60m 5G / vivo Y60s m 版
 vivo,V2532BA,cn,VIVO, vivo Y6m
+vivo,V2542A,cn,VIVO, vivo Y6t m 版
 vivo,V2002A,cn,VIVO, vivo Y70s 5G
 vivo,V2002A,cn,VIVO, vivo Y70t 5G
 vivo,V1731CA,cn,VIVO, vivo Y71s
@@ -9429,6 +9436,8 @@ oneplus,CPH2793,cn,一加, 一加 Nord 6 印度版
 oneplus,CPH2795,cn,一加, 一加 Nord 6 国际版
 oneplus,CPH2805,cn,一加, 一加 Nord CE 6 印度版
 oneplus,CPH2807,cn,一加, 一加 Nord CE 6 国际版
+oneplus,PYS110,cn,一加, 一加 Turbo 6X 国行版
+oneplus,PYR110,cn,一加, 一加 Turbo 6X Pro 国行版
 oneplus,AC2001,cn,一加, 一加 Nord 印度版
 oneplus,AC2003,cn,一加, 一加 Nord 欧洲版 / 国际版
 oneplus,DN2101,cn,一加, 一加 Nord 2 印度版
