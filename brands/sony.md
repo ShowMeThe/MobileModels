@@ -597,7 +597,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **Xperia 1 VIII (`PDX-267`):**
@@ -615,6 +618,9 @@
 `SOG17`: Xperia 1 VIII Japan (KDDI)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
