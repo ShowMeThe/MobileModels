@@ -839,6 +839,7 @@ honor,LYN-AN00,cn,荣耀, 荣耀 X60i
 honor,AGI-AN00,cn,荣耀, 荣耀 X60 GT
 honor,MTN-AN00,cn,荣耀, 荣耀 X70
 honor,MTN-AN80,cn,荣耀, 荣耀 X70 (12GB+512GB)
+honor,MTN-AN00,cn,荣耀, 荣耀 X70 Pro Max
 honor,ABR-AN00,cn,荣耀, 荣耀 X70i
 honor,LNA-AN00,cn,荣耀, 荣耀 X80i
 honor,BSN-AN00,cn,荣耀, 荣耀 X80 Pro Max
@@ -4783,6 +4784,7 @@ vivo,V2502DA,cn,VIVO, vivo X300 Pro 卫星通信版
 vivo,V2548A,cn,VIVO, vivo X300s
 vivo,V2547A,cn,VIVO, vivo X300 Ultra
 vivo,V2547DA,cn,VIVO, vivo X300 Ultra 卫星通信版
+vivo,V2545A,cn,VIVO, vivo X Fold6
 vivo,V1831A,cn,VIVO, vivo S1 全网通版
 vivo,V1831T,cn,VIVO, vivo S1 移动全网通版
 vivo,V1832A,cn,VIVO, vivo S1 Pro 全网通版
@@ -5052,6 +5054,7 @@ vivo,V2445A,cn,VIVO, iQOO Z10x
 vivo,V2536A,cn,VIVO, iQOO Z11 Turbo
 vivo,V2551A,cn,VIVO, iQOO Z11
 vivo,V2532A,cn,VIVO, iQOO Z11x
+vivo,V2559UA,cn,VIVO, iQOO Z11i
 vivo,V2023A,cn,VIVO, iQOO U1
 vivo,V2065A,cn,VIVO, iQOO U1x
 vivo,V2061A,cn,VIVO, iQOO U3 5G
@@ -6657,6 +6660,7 @@ xiaomi,2510DRK44C,cn,小米, REDMI K90
 xiaomi,25102RKBEC,cn,小米, REDMI K90 Pro Max
 xiaomi,25102RK69C,cn,小米, REDMI K90 Pro Max 冠军版
 xiaomi,2604FRK1EC,cn,小米, REDMI K90 Max
+xiaomi,M332BF,cn,小米, REDMI K90 至尊版
 xiaomi,2016020,cn,小米, 红米 Pro 标准版
 xiaomi,2016021,cn,小米, 红米 Pro 高配版 / 尊享版
 xiaomi,M1803E6E,cn,小米, 红米 S2 全网通版
