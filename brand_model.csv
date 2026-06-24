@@ -1937,6 +1937,11 @@ samsung,SM-A266U,en,三星, Galaxy A26 5G US Carrier
 samsung,SM-A266U1,en,三星, Galaxy A26 5G US Unlocked
 samsung,SM-S266V,en,三星, Galaxy A26 5G TracFone
 samsung,SM-A266M,en,三星, Galaxy A26 5G Latin America
+samsung,SM-A276B,en,三星, Galaxy A27 5G Global
+samsung,SM-A276U,en,三星, Galaxy A27 5G US Carrier
+samsung,SM-A276U1,en,三星, Galaxy A27 5G US Unlocked
+samsung,SM-S276V,en,三星, Galaxy A27 5G TracFone
+samsung,SM-A2760,en,三星, Galaxy A27 5G HK
 samsung,SM-A305F,en,三星, Galaxy A30 Global
 samsung,SM-A305FN,en,三星, Galaxy A30 EU
 samsung,SM-A305G,en,三星, Galaxy A30 Latin America
@@ -4633,12 +4638,14 @@ realme,RMX5253,en,真我, realme C85 5G
 realme,RMX5256,en,真我, realme C83 5G
 realme,RMX5566,en,真我, realme C85
 realme,RMX5555,en,真我, realme C85 Pro
+realme,RMX5353,en,真我, realme C100
 realme,RMX5258,en,真我, realme C100 5G
 realme,RMX5377,en,真我, realme C100i
 realme,RMX3834,en,真我, realme Note 50
 realme,RMX3933,en,真我, realme Note 60
 realme,RMX3938,en,真我, realme Note 60x
 realme,RMX5313,en,真我, realme Note 70 / realme Note 70T
+realme,RMX5366,en,真我, realme C100x
 realme,RMX5388,en,真我, realme Note 80
 realme,RMX1831,en,真我, realme U1
 realme,RMX1833,en,真我, realme U1
@@ -4657,6 +4664,7 @@ realme,RMX5110,en,真我, realme P4 5G
 realme,RMX5116,en,真我, realme P4 Pro 5G
 realme,RMX5108,en,真我, realme P4x 5G
 realme,RMX5107,en,真我, realme P4 Power 5G
+realme,RMX5367,en,真我, realme P4x
 realme,RMX5313,en,真我, realme P4 Lite
 realme,RMX5261,en,真我, realme P4 Lite 5G
 realme,RMX5266,en,真我, realme P4R 5G
@@ -6533,6 +6541,7 @@ xiaomi,23076RA4BC,cn,小米, Redmi 12R
 xiaomi,22120RN86C,cn,小米, Redmi 12C
 xiaomi,23124RN87C,cn,小米, Redmi 13C 5G / Redmi 13R 5G
 xiaomi,2409BRN2CC,cn,小米, Redmi 14C
+xiaomi,2409BRN2CC,cn,小米, Redmi 14C / REDMI 17C
 xiaomi,2411DRN47C,cn,小米, Redmi 14R 5G
 xiaomi,2508CRN2BC,cn,小米, REDMI 15C 5G
 xiaomi,25082RNC1C,cn,小米, REDMI 15R 5G
@@ -8231,6 +8240,7 @@ xiaomi,2409BRN2CA,en,小米, Redmi 14C Global
 xiaomi,2409BRN2CI,en,小米, Redmi 14C India
 xiaomi,2409BRN2CL,en,小米, Redmi 14C Latin America / Japan / Korea
 xiaomi,2409BRN2CC,en,小米, Redmi 14C China
+xiaomi,2409BRN2CC,en,小米, Redmi 14C China / REDMI 17C China
 xiaomi,2409BRN2CY,en,小米, Redmi 14C Global (NFC)
 xiaomi,2411DRN47G,en,小米, Redmi 14C 5G Global
 xiaomi,2411DRN47R,en,小米, Redmi 14C 5G Japan
@@ -8276,18 +8286,24 @@ xiaomi,2015055,en,小米, Redmi Note 2 (16GB) China Mobile
 xiaomi,2015056,en,小米, Redmi Note 2 (32GB) China Mobile
 xiaomi,2015617,en,小米, Redmi Note 3 (Mediatek) China
 xiaomi,2015611,en,小米, Redmi Note 3 (Mediatek) China Mobile
+xiaomi,2015617,en,小米, Redmi Note 3 (MediaTek) China
+xiaomi,2015611,en,小米, Redmi Note 3 (MediaTek) China Mobile
 xiaomi,2015116,en,小米, Redmi Note 3 (Qualcomm) Global
 xiaomi,2015112,en,小米, Redmi Note 3 (Qualcomm) China
 xiaomi,2015115,en,小米, Redmi Note 3 (Qualcomm) China
 xiaomi,2015161,en,小米, Redmi Note 3 (Special Edition) Taiwan
 xiaomi,2016050,en,小米, Redmi Note 4 (Mediatek) China / Global
 xiaomi,2016051,en,小米, Redmi Note 4 (Mediatek) China Mobile
+xiaomi,2016050,en,小米, Redmi Note 4 (MediaTek) China / Global
+xiaomi,2016051,en,小米, Redmi Note 4 (MediaTek) China Mobile
 xiaomi,2016100,en,小米, Redmi Note 4 (Qualcomm) Global
 xiaomi,2016102,en,小米, Redmi Note 4 (Qualcomm) Global
 xiaomi,2016101,en,小米, Redmi Note 4X (Qualcomm) China
 xiaomi,2016130,en,小米, Redmi Note 4X (Qualcomm) China Mobile
 xiaomi,MBE6A5,en,小米, Redmi Note 4X (Mediatek) China
 xiaomi,MBT6A5,en,小米, Redmi Note 4X (Mediatek) China Mobile
+xiaomi,MBE6A5,en,小米, Redmi Note 4X (MediaTek) China
+xiaomi,MBT6A5,en,小米, Redmi Note 4X (MediaTek) China Mobile
 xiaomi,MEI7,en,小米, Redmi Note 5 India
 xiaomi,M1803E7SG,en,小米, Redmi Note 5 Global
 xiaomi,M1803E7SH,en,小米, Redmi Note 5 Global
@@ -10061,6 +10077,7 @@ xiaomi,23124RN87C,cn,小米, Redmi 13C 5G 国行版 / Redmi 13R 5G
 xiaomi,23124RN87I,cn,小米, Redmi 13C 5G 印度版
 xiaomi,23124RN87G,cn,小米, Redmi 13C 5G 国际版
 xiaomi,2409BRN2CC,cn,小米, Redmi 14C 国行版
+xiaomi,2409BRN2CC,cn,小米, Redmi 14C 国行版 / REDMI 17C 国行版
 xiaomi,2409BRN2CA,cn,小米, Redmi 14C 国际版
 xiaomi,2409BRN2CI,cn,小米, Redmi 14C 印度版
 xiaomi,2409BRN2CL,cn,小米, Redmi 14C 拉美版 / 日韩版
