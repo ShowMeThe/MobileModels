@@ -2934,6 +2934,7 @@ vivo,V2504,en,VIVO, vivo T4 Ultra
 vivo,V2568,en,VIVO, vivo T5 Pro
 vivo,V2545,en,VIVO, vivo T5x 5G
 vivo,V2583,en,VIVO, vivo T5
+vivo,V2628,en,VIVO, vivo T5e
 vivo,V2603,en,VIVO, vivo T5 Lite 5G
 vivo,V2557,en,VIVO, vivo T5 Lite 44W 5G
 vivo,V2044,en,VIVO, vivo Y3s
@@ -2952,6 +2953,7 @@ vivo,V2531,en,VIVO, vivo Y04s
 vivo,V2556,en,VIVO, vivo Y05
 vivo,V2565,en,VIVO, vivo Y05
 vivo,V2575,en,VIVO, vivo Y11 5G
+vivo,V2606,en,VIVO, vivo Y05e
 vivo,V2028,en,VIVO, vivo Y11s
 vivo,V2555,en,VIVO, vivo Y11d
 vivo,V2578,en,VIVO, vivo Y11d
@@ -3177,6 +3179,11 @@ xiaomi-wear,M2457B1,cn,其他, 小米手环 10
 xiaomi-wear,M2456B1,cn,其他, 小米手环 10 NFC 版 / 陶瓷版
 xiaomi-wear,M2551B1,cn,其他, 小米手环 10 Pro 金属版
 xiaomi-wear,M2553B1,cn,其他, 小米手环 10 Pro 陶瓷版
+xiaomi-wear,M2551B1,cn,其他, 小米手环 10 Pro 金属版 国行版
+xiaomi-wear,M2553B1,cn,其他, 小米手环 10 Pro 陶瓷版 国行版
+xiaomi-wear,M2552B1,cn,其他, 小米手环 10 Pro 国际版
+xiaomi-wear,M2558B1,cn,其他, 小米手环 10 Pro NFC 版 国际版
+xiaomi-wear,M2559B1,cn,其他, 小米手环 10 Pro 陶瓷版 国际版
 xiaomi-wear,XMWT01,cn,其他, 小米手表
 xiaomi-wear,M2320W1,cn,其他, Xiaomi Watch 2
 xiaomi-wear,M2234W1,cn,其他, Xiaomi Watch 2 Pro 蓝牙版
@@ -8527,6 +8534,7 @@ xiaomi,2510DRK44C,en,小米, REDMI K90 China
 xiaomi,25102RKBEC,en,小米, REDMI K90 Pro Max China
 xiaomi,25102RK69C,en,小米, REDMI K90 Pro Max Automobili Lamborghini Squadra Corse China
 xiaomi,2604FRK1EC,en,小米, REDMI K90 Max
+xiaomi,M332BF,en,小米, REDMI K90 Ultra
 xiaomi,2016020,en,小米, Redmi Pro (32GB)
 xiaomi,2016021,en,小米, Redmi Pro (64GB & 128GB)
 xiaomi,M1803E6G,en,小米, Redmi S2 Global
