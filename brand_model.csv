@@ -3132,6 +3132,7 @@ vivo,V2440,en,VIVO, Jovi V50 Lite 5G
 vivo,V2459,en,VIVO, Jovi Y29s 5G
 vivo,I2510,en,VIVO, iQOO Z11 Lite 5G
 vivo,I2515,en,VIVO, iQOO Z11 Lite 44W 5G
+vivo,I2510,en,VIVO, iQOO Z11 Lite 44W 5G
 vivo,J2505,en,VIVO, JOVI X300 FE
 vivo,J2510,en,VIVO, JOVI X300 Ultra
 vivo,V2427,en,VIVO, JOVI V50
@@ -4671,6 +4672,7 @@ realme,RMX5110,en,真我, realme P4 5G
 realme,RMX5116,en,真我, realme P4 Pro 5G
 realme,RMX5108,en,真我, realme P4x 5G
 realme,RMX5107,en,真我, realme P4 Power 5G
+realme,RMX5555,en,真我, realme P4
 realme,RMX5367,en,真我, realme P4x
 realme,RMX5313,en,真我, realme P4 Lite
 realme,RMX5261,en,真我, realme P4 Lite 5G
@@ -4907,8 +4909,11 @@ vivo,V2559A,cn,VIVO, vivo Y60 5G / vivo Y6t 5G
 vivo,V2559BA,cn,VIVO, vivo Y60m 5G
 vivo,V2559A,cn,VIVO, vivo Y60 5G / vivo Y6t 5G / vivo Y6e 5G
 vivo,V2559BA,cn,VIVO, vivo Y60m 5G / vivo Y60s m 版
+vivo,V2559A,cn,VIVO, vivo Y60 / vivo Y6t / vivo Y6e
+vivo,V2559BA,cn,VIVO, vivo Y60m / vivo Y60s m 版
 vivo,V2532BA,cn,VIVO, vivo Y6m
 vivo,V2542A,cn,VIVO, vivo Y6t m 版
+vivo,V2542A,cn,VIVO, vivo Y60i / vivo Y60i m 版 / vivo Y6t m 版
 vivo,V2002A,cn,VIVO, vivo Y70s 5G
 vivo,V2002A,cn,VIVO, vivo Y70t 5G
 vivo,V1731CA,cn,VIVO, vivo Y71s
@@ -4996,6 +5001,7 @@ vivo,V1928T,cn,VIVO, vivo U3x 移动全网通版
 vivo,V1962BA,cn,VIVO, vivo G1
 vivo,V2318A,cn,VIVO, vivo G2
 vivo,V2443A,cn,VIVO, vivo G3
+vivo,V2531A,cn,VIVO, vivo G5i / vivo G5z
 vivo,V1824BA,cn,VIVO, iQOO (6GB+128GB)
 vivo,V1824A,cn,VIVO, iQOO (8GB+128GB/8GB+256GB/12GB+128GB/12GB+256GB)
 vivo,V1922A,cn,VIVO, iQOO Pro 全网通版
