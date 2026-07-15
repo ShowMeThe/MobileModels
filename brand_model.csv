@@ -6647,6 +6647,8 @@ xiaomi,25080RABDC,cn,小米, REDMI Note 15 Pro
 xiaomi,2510ERA8BC,cn,小米, REDMI Note 15 Pro+
 xiaomi,25104RADAC,cn,小米, REDMI Note 15 Pro+ 卫星消息版
 xiaomi,25057RA09C,cn,小米, REDMI Note 15R
+xiaomi,26021RN18C,cn,小米, REDMI Note 17
+xiaomi,2607DRA18C,cn,小米, REDMI Note 17 Pro
 xiaomi,M2004J7AC,cn,小米, Redmi 10X 5G
 xiaomi,M2004J7BC,cn,小米, Redmi 10X Pro 5G
 xiaomi,M2003J15SC,cn,小米, Redmi 10X 4G
@@ -6854,6 +6856,8 @@ huawei,HBP-LX9,en,华为, HUAWEI Pura 70 Ultra
 huawei,HED-LX9,en,华为, HUAWEI Pura 80
 huawei,LMR-LX9,en,华为, HUAWEI Pura 80 Pro
 huawei,LMU-LX9,en,华为, HUAWEI Pura 80 Ultra
+huawei,MLN-LX9,en,华为, HUAWEI Pura 90s Pro
+huawei,SCA-LX9,en,华为, HUAWEI Pura 90s Pro Max
 huawei,FIG-LA1,en,华为, HUAWEI P smart
 huawei,FIG-LX1,en,华为, HUAWEI P smart
 huawei,FIG-LX2,en,华为, HUAWEI P smart
@@ -7747,6 +7751,7 @@ nothing,A059P,cn,其他, Nothing Phone (3a) Pro
 nothing,A001T,cn,其他, Nothing Phone (3a) Lite
 nothing,A069,cn,其他, Nothing Phone (4a)
 nothing,A069P,cn,其他, Nothing Phone (4a) Pro
+nothing,A009P,cn,其他, Nothing Phone (4b)
 nothing,A015,cn,其他, CMF Phone 1
 nothing,A001,cn,其他, CMF Phone 2 Pro
 apple,A1324,cn,苹果, iPhone 3G 
@@ -8500,6 +8505,8 @@ xiaomi,2510ERA8BC,en,小米, REDMI Note 15 Pro+ 5G China
 xiaomi,2510ERA8BT,en,小米, REDMI Note 15 Pro+ 5G Saudi Arabia
 xiaomi,25104RADAC,en,小米, REDMI Note 15 Pro+ 5G Satellite China
 xiaomi,25057RA09C,en,小米, REDMI Note 15R China
+xiaomi,26021RN18C,en,小米, REDMI Note 17 5G China
+xiaomi,2607DRA18C,en,小米, REDMI Note 17 Pro 5G China
 xiaomi,M2004J7AC,en,小米, Redmi 10X 5G China
 xiaomi,M2004J7BC,en,小米, Redmi 10X Pro 5G China
 xiaomi,M2003J15SC,en,小米, Redmi 10X 4G China
@@ -8552,6 +8559,8 @@ xiaomi,25102RKBEC,en,小米, REDMI K90 Pro Max China
 xiaomi,25102RK69C,en,小米, REDMI K90 Pro Max Automobili Lamborghini Squadra Corse China
 xiaomi,2604FRK1EC,en,小米, REDMI K90 Max
 xiaomi,M332BF,en,小米, REDMI K90 Ultra
+xiaomi,2604FRK1EC,en,小米, REDMI K90 Max China
+xiaomi,M332BF,en,小米, REDMI K90 Ultra Chin
 xiaomi,2016020,en,小米, Redmi Pro (32GB)
 xiaomi,2016021,en,小米, Redmi Pro (64GB & 128GB)
 xiaomi,M1803E6G,en,小米, Redmi S2 Global
@@ -8859,6 +8868,7 @@ nubia,Z2352N,cn,努比亚, nubia Neo 2 5G
 nubia,Z2461,cn,努比亚, nubia Neo 3
 nubia,Z2464N,cn,努比亚, nubia Neo 3 5G
 nubia,Z2465N,cn,努比亚, nubia Neo 3 GT 5G
+nubia,Z2571N,cn,努比亚, nubia Neo 5 5G
 nubia,Z2570N,cn,努比亚, nubia Neo 5 GT 5G
 nubia,Z2353,cn,努比亚, nubia Music
 nubia,Z2460,cn,努比亚, nubia Music 2 / nubia Music Pro
@@ -10284,6 +10294,8 @@ xiaomi,2510ERA8BC,cn,小米, REDMI Note 15 Pro+ 国行版
 xiaomi,2510ERA8BG,cn,小米, REDMI Note 15 Pro+ 5G 国际版
 xiaomi,2510ERA8BI,cn,小米, REDMI Note 15 Pro+ 5G 印度版
 xiaomi,2510ERA8BT,cn,小米, REDMI Note 15 Pro+ 5G 沙特版
+xiaomi,26021RN18C,cn,小米, REDMI Note 17 国行版
+xiaomi,2607DRA18C,cn,小米, REDMI Note 17 Pro 国行版
 xiaomi,2511FRT34C,cn,小米, REDMI Turbo 5 国行版
 xiaomi,2606FRT34I,cn,小米, REDMI Turbo 5 印度版
 xiaomi,M1903F10I,cn,小米, Redmi K20 印度版
