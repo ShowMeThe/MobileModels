@@ -3100,6 +3100,7 @@ oppo,PLM110,cn,OPPO, OPPO K13 Turbo
 oppo,PLE110,cn,OPPO, OPPO K13 Turbo Pro
 oppo,PMH110,cn,OPPO, OPPO K15 Pro
 oppo,PMG110,cn,OPPO, OPPO K15 Pro+
+oppo,PYD110,cn,OPPO, OPPO K15
 oppo,OPD2101,cn,OPPO, OPPO Pad
 oppo,OPD2102,cn,OPPO, OPPO Pad Air
 oppo,OPD2201,cn,OPPO, OPPO Pad 2
@@ -5021,6 +5022,7 @@ honor,ROL-W00,cn,荣耀, 荣耀平板 10 Pro 11.5 英寸 Wi-Fi 版
 honor,ROL-W10,cn,荣耀, 荣耀平板 10 Pro 柔光版 11.5 英寸 Wi-Fi 版
 honor,HEY4-W09,cn,荣耀, 荣耀平板 20 12.1 英寸 Wi-Fi 版
 honor,HEY4-W19,cn,荣耀, 荣耀平板 20 柔光版 12.1 英寸 Wi-Fi 版
+honor,HEY4-AN00,cn,荣耀, 荣耀平板 20 12.1 英寸 5G 版
 honor,KRJ-W09,cn,荣耀, 荣耀平板 V6 10.4 英寸 Wi-Fi 版 (华为终端)
 honor,KRJ-AN00,cn,荣耀, 荣耀平板 V6 10.4 英寸 5G 版 (华为终端)
 honor,KJR-W09,cn,荣耀, 荣耀平板 V6 10.4 英寸 Wi-Fi 版 (荣耀终端)
@@ -7806,6 +7808,7 @@ honor,VKP-NX9,en,荣耀, HONOR 600 Pro
 honor,LNA-NX1,en,荣耀, HONOR 600 Lite
 honor,LNA-NX3,en,荣耀, HONOR 600e
 honor,MRK-NX1,en,荣耀, HONOR 600 Smart / HONOR 600 Lite s
+honor,MRK-NX3,en,荣耀, HONOR 600 Elite
 honor,LGE-NX9,en,荣耀, HONOR Magic4 Pro
 honor,ANY-LX1,en,荣耀, HONOR Magic4 Lite
 honor,ANY-LX2,en,荣耀, HONOR Magic4 Lite
@@ -7887,6 +7890,8 @@ honor,LGN-LX2,en,荣耀, HONOR X7d
 honor,LGN-LX3,en,荣耀, HONOR X7d
 honor,LGN-NX1,en,荣耀, HONOR X7d 5G
 honor,LAB-LX2,en,荣耀, HONOR X7e
+honor,LAB-LX1,en,荣耀, HONOR X7e
+honor,LAB-LX3,en,荣耀, HONOR X7e
 honor,MRK-NX1,en,荣耀, HONOR X7e Plus 5G
 honor,TFY-LX1,en,荣耀, HONOR X8
 honor,TFY-LX2,en,荣耀, HONOR X8
