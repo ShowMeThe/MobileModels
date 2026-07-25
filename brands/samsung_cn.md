@@ -408,7 +408,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -862,6 +865,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1525,7 +1531,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2211,6 +2220,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2665,6 +2675,16 @@
 =======
 >>>>>>> upstream/master
 =======
+>>>>>>> upstream/master
+=======
+**Galaxy Z Fold8 (`h8q`):**
+
+`SM-F9710`: Galaxy Z Fold8
+
+**Galaxy Z Fold8 Ultra (`q8q`):**
+
+`SM-F9760`: Galaxy Z Fold8 Ultra
+
 >>>>>>> upstream/master
 **Galaxy Z Flip (`bloomq`):**
 
@@ -2698,6 +2718,13 @@
 
 `SM-F7610`: Galaxy Z Flip7 FE
 
+<<<<<<< HEAD
+=======
+**Galaxy Z Flip8 (`b8q`):**
+
+`SM-F7760`: Galaxy Z Flip8
+
+>>>>>>> upstream/master
 ## Galaxy A 系列
 
 **Galaxy A3 (`a3ltechn`):**
@@ -2990,7 +3017,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3436,6 +3466,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4223,7 +4256,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5083,6 +5119,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6094,7 +6133,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6780,6 +6822,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7546,7 +7591,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -8155,6 +8203,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8698,4 +8749,24 @@
 
 **Galaxy Watch8 Classic (`wise8us`):**
 
+<<<<<<< HEAD
 `SM-L5050`: Galaxy Watch8 Classic LTE 46mm
+=======
+`SM-L5050`: Galaxy Watch8 Classic LTE 46mm
+
+**Galaxy Watch9 (`fresh9bs`):**
+
+`SM-L340`: Galaxy Watch9 蓝牙版 40mm
+
+**Galaxy Watch9 (`fresh9bl`):**
+
+`SM-L350`: Galaxy Watch9 蓝牙版 44mm
+
+**Galaxy Watch9 (`fresh9ul`):**
+
+`SM-L3550`: Galaxy Watch9 LTE 44mm
+
+**Galaxy Watch Ultra2 (`projectv2ul`):**
+
+`SM-L7150`: Galaxy Watch Ultra2 LTE 47mm
+>>>>>>> upstream/master

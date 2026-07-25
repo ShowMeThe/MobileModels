@@ -697,7 +697,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1215,6 +1218,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2014,7 +2020,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2567,6 +2576,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`SM-F968U1`: Galaxy Z TriFold US Unlocked
+
+>>>>>>> upstream/master
 =======
 `SM-F968U1`: Galaxy Z TriFold US Unlocked
 
@@ -3174,6 +3188,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3628,6 +3643,56 @@
 =======
 >>>>>>> upstream/master
 =======
+>>>>>>> upstream/master
+=======
+**Galaxy Z Fold8 (`h8q`):**
+
+`SM-F971B`: Galaxy Z Fold8 Global
+
+`SM-F971U`: Galaxy Z Fold8 US Carrier
+
+`SM-F971U1`: Galaxy Z Fold8 US Unlocked
+
+`SM-F971W`: Galaxy Z Fold8 Canada
+
+`SM-F9710`: Galaxy Z Fold8 China
+
+`SM-F971N`: Galaxy Z Fold8 South Korea
+
+`SM-F971Q`: Galaxy Z Fold8 Japan (SIM Free)
+
+`SM-F971Z`: Galaxy Z Fold8 Japan (SoftBank)
+
+`SM-F971C`: Galaxy Z Fold8 Japan (Rakuten Mobile)
+
+`SCG41`: Galaxy Z Fold8 Japan (au)
+
+`SC-57G`: Galaxy Z Fold8 Japan (NTT Docomo)
+
+**Galaxy Z Fold8 Ultra (`q8q`):**
+
+`SM-F976B`: Galaxy Z Fold8 Ultra Global
+
+`SM-F976U`: Galaxy Z Fold8 Ultra US Carrier
+
+`SM-F976U1`: Galaxy Z Fold8 Ultra US Unlocked
+
+`SM-F976W`: Galaxy Z Fold8 Ultra Canada
+
+`SM-F9760`: Galaxy Z Fold8 Ultra China
+
+`SM-F976N`: Galaxy Z Fold8 Ultra South Korea
+
+`SM-F976Q`: Galaxy Z Fold8 Ultra Japan (SIM Free)
+
+`SM-F976Z`: Galaxy Z Fold8 Ultra Japan (SoftBank)
+
+`SM-F976C`: Galaxy Z Fold8 Ultra Japan (Rakuten Mobile)
+
+`SCG39`: Galaxy Z Fold8 Ultra Japan (au)
+
+`SC-56G`: Galaxy Z Fold8 Ultra Japan (NTT Docomo)
+
 >>>>>>> upstream/master
 **Galaxy Z Flip (`bloomq`):**
 
@@ -3773,6 +3838,35 @@
 
 `SM-F761N`: Galaxy Z Flip7 FE South Korea
 
+<<<<<<< HEAD
+=======
+**Galaxy Z Flip8 (`b8s`):**
+
+`SM-F776B`: Galaxy Z Flip8 Global
+
+`SM-F776N`: Galaxy Z Flip8 South Korea
+
+**Galaxy Z Flip8 (`b8q`):**
+
+`SM-F776U`: Galaxy Z Flip8 US Carrier
+
+`SM-F776U1`: Galaxy Z Flip8 US Unlocked
+
+`SM-F776W`: Galaxy Z Flip8 Canada
+
+`SM-F7760`: Galaxy Z Flip8 China
+
+`SM-F776Q`: Galaxy Z Flip8 Japan (SIM Free)
+
+`SM-F776Z`: Galaxy Z Flip8 Japan (SoftBank)
+
+`SM-F776C`: Galaxy Z Flip8 Japan (Rakuten Mobile)
+
+`SCG40`: Galaxy Z Flip8 Japan (au)
+
+`SC-55G`: Galaxy Z Flip8 Japan (NTT Docomo)
+
+>>>>>>> upstream/master
 ## Galaxy A
 
 **Galaxy A01 (`a01q`):**
@@ -4094,7 +4188,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4647,6 +4744,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5484,7 +5584,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6346,6 +6449,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7104,7 +7210,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -7659,6 +7768,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8221,6 +8333,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> upstream/master
@@ -8233,6 +8346,9 @@
 =======
 >>>>>>> upstream/master
 **Galaxy A27 5G (`a26xq`):**
+=======
+**Galaxy A27 5G (`a27xq`):**
+>>>>>>> upstream/master
 =======
 **Galaxy A27 5G (`a27xq`):**
 >>>>>>> upstream/master
@@ -8349,6 +8465,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8674,7 +8793,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9132,6 +9254,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9749,6 +9874,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`SM-A546S`: Galaxy Quantum4 South Korea
+
+>>>>>>> upstream/master
 =======
 `SM-A546S`: Galaxy Quantum4 South Korea
 
@@ -10501,6 +10631,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`SM-A556S`: Galaxy Quantum5 South Korea
+
+>>>>>>> upstream/master
 =======
 `SM-A556S`: Galaxy Quantum5 South Korea
 
@@ -11247,10 +11382,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `SM-A5660`: Galaxy A56 5G China
 
 `SM-A566S`: Galaxy A56 5G South Korea
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -11711,6 +11849,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -12233,7 +12374,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -12679,6 +12823,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -13259,7 +13406,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -13810,6 +13960,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -14267,6 +14420,13 @@
 
 `SM-M426B`: Galaxy M42 5G
 
+<<<<<<< HEAD
+=======
+**Galaxy M47 5G (`m47xq`):**
+
+`SM-M476B`: Galaxy M47 5G
+
+>>>>>>> upstream/master
 **Galaxy M51 (`m51`):**
 
 `SM-M515F`: Galaxy M51
@@ -14427,6 +14587,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`SM-M536S`: Galaxy Quantum3 South Korea
+
+>>>>>>> upstream/master
 =======
 `SM-M536S`: Galaxy Quantum3 South Korea
 
@@ -15321,7 +15486,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -15872,6 +16040,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master

@@ -301,6 +301,10 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+| [sony](brands/sony.md) | Sony | All models since 2015 |
+>>>>>>> upstream/master
 =======
 | [sony](brands/sony.md) | Sony | All models since 2015 |
 >>>>>>> upstream/master
@@ -1230,6 +1234,7 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [TENAA](http://zd.taf.org.cn)
 - [CQCCMS](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
 - [MIIT](https://ythzxfw.miit.gov.cn/resultQuery)
@@ -1240,6 +1245,8 @@ Unlisted brands usually not include international models.
 - [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
 - [Huawei Open Source Release Center](https://consumer.huawei.com/en/opensource/)
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1514,6 +1521,10 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+- [CMIIT ID](https://cmiitid.cn/)
+>>>>>>> upstream/master
 =======
 - [CMIIT ID](https://cmiitid.cn/)
 >>>>>>> upstream/master
@@ -1865,6 +1876,9 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2151,7 +2165,10 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [XSMS IMEI Database](http://xsms.com.ua/phone/imei/all/1)
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
