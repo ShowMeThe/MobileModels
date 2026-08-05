@@ -331,7 +331,11 @@
 
 `ASUS_AI2401_N`: ROG Phone 9 FE
 
+<<<<<<< HEAD
 ## Other Devices
+=======
+## Other Series
+>>>>>>> upstream/master
 
 **Smartphone for Snapdragon Insiders:**
 
