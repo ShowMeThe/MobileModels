@@ -2137,6 +2137,8 @@ huawei,MRDI-W20,cn,华为, HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 柔光版 (
 huawei,GEM-W00,cn,华为, HUAWEI MatePad Pro Max 13.2 英寸 Wi-Fi 版
 huawei,GEM-W10,cn,华为, HUAWEI MatePad Pro Max 13.2 英寸 Wi-Fi 版 (20GB+1TB)
 huawei,GEM-W40,cn,华为, HUAWEI MatePad Pro Max 13.2 英寸 悦享款 Wi-Fi 版
+huawei,DAL-W00,cn,华为, HUAWEI MatePad Pro 12 英寸 Wi-Fi 版
+huawei,DAL-W20,cn,华为, HUAWEI MatePad Pro 12 英寸 悦享款 Wi-Fi 版
 huawei,QXS-W00,cn,华为, HUAWEI MatePad Edge
 huawei,QXS-W10,cn,华为, HUAWEI MatePad Edge (24GB+1TB)
 huawei,QXS-W20,cn,华为, HUAWEI MatePad Edge 液冷版
@@ -2280,6 +2282,11 @@ huawei,VGHH-32,cn,华为, HUAWEI MateBook X Pro 酷睿 Ultra (32GB 内存)
 huawei,HAD-W24,cn,华为, HUAWEI MateBook Pro (24GB 内存)
 huawei,HAD-W32,cn,华为, HUAWEI MateBook Pro (32GB 内存)
 huawei,HPR-W72,cn,华为, HUAWEI MateBook Fold 非凡大师 (32GB 内存)
+huawei,MOR-M1,cn,华为, HUAWEI MateBook Pro S 标准版 / 防窥版 / 柔光版
+huawei,MOR-M2,cn,华为, HUAWEI MateBook Pro S 典藏版
+huawei,HPR-W72,cn,华为, HUAWEI MateBook Fold 非凡大师 (麒麟 X90) (32GB 内存)
+huawei,SLM-W24,cn,华为, HUAWEI MateBook Fold 非凡大师 (麒麟 X90 Plus) (24GB 内存)
+huawei,SLM-W32,cn,华为, HUAWEI MateBook Fold 非凡大师 (麒麟 X90 Plus) (32GB 内存)
 huawei,WRT-W19,cn,华为, HUAWEI MateBook 13 i5
 huawei,WRT-W19L,cn,华为, HUAWEI MateBook 13 i5 Linux 版
 huawei,WRT-W29,cn,华为, HUAWEI MateBook 13 i7
@@ -2692,6 +2699,9 @@ huawei,KSU-B19,cn,华为, HUAWEI WATCH GT 6 41mm
 huawei,ATM-B19,cn,华为, HUAWEI WATCH GT 6 46mm
 huawei,KSU-B29,cn,华为, HUAWEI WATCH GT 6 Pro 42mm
 huawei,ATM-B29,cn,华为, HUAWEI WATCH GT 6 Pro 46mm
+huawei,NSU-B39,cn,华为, HUAWEI WATCH GT 7 41mm
+huawei,TUM-B39,cn,华为, HUAWEI WATCH GT 7 46mm
+huawei,TUM-B49,cn,华为, HUAWEI WATCH GT 7 Pro 46mm
 huawei,RUN-B19,cn,华为, HUAWEI WATCH GT Runner
 huawei,RUN-B29,cn,华为, HUAWEI WATCH GT Runner
 huawei,CHT-B19,cn,华为, HUAWEI WATCH GT Runner 2
@@ -8829,6 +8839,7 @@ zhixuan,LYOI-32,cn,华为智选, Hi MateBook D 14 (32GB 内存)
 zhixuan,NICG-16,cn,华为智选, Hi MateBook D 16 (13 代酷睿) (16GB 内存)
 zhixuan,NICI-16,cn,华为智选, Hi MateBook D 16 (16GB 内存)
 zhixuan,NICI-32,cn,华为智选, Hi MateBook D 16 (32GB 内存)
+zhixuan,RMA-X,cn,华为智选, Hi MateBook D 16 锐龙版
 asus,_Z01QD,cn,其他, ROG 游戏手机
 asus,_I001DA,cn,其他, ROG 游戏手机 2
 asus,_I001DB,cn,其他, ROG 游戏手机 2
@@ -11391,6 +11402,8 @@ honor,BRG-761,cn,荣耀, 荣耀笔记本 X16 2025 i7 (16GB+1TB)
 honor,BRG-X,cn,荣耀, 荣耀笔记本 X16 2026
 honor,GOG-X,cn,荣耀, 荣耀笔记本 X16 2026 战斗版
 honor,GOH-X,cn,荣耀, 荣耀笔记本 X16 锐龙版 2026
+honor,DNH-X,cn,荣耀, 荣耀笔记本 X16 锐龙版 2026 R5
+honor,GOH-X,cn,荣耀, 荣耀笔记本 X16 锐龙版 2026 R7
 honor,BRI-76,cn,荣耀, 荣耀笔记本 X16 Plus 2024 R7 (16GB+512GB)
 honor,BRI-721,cn,荣耀, 荣耀笔记本 X16 Plus 2024 R7 (32GB+1TB)
 honor,BRB-X,cn,荣耀, 荣耀笔记本 X16 Plus 2025
