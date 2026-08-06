@@ -292,7 +292,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -879,6 +882,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1522,7 +1528,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2029,6 +2038,7 @@
 
 `V2514`: vivo X300 Pro
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3199,6 +3209,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **vivo X300 FE (`PD2527F`):**
 
 `V2537` `V2542` `V2633`: vivo X300 FE
@@ -3263,6 +3275,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3491,6 +3506,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3925,7 +3943,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **vivo V40 Lite:**
+=======
+**vivo V40 Lite (`PD2432F`):**
+>>>>>>> upstream/master
 =======
 **vivo V40 Lite (`PD2432F`):**
 >>>>>>> upstream/master
@@ -4281,7 +4303,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **vivo V40 SE 5G:**
+=======
+**vivo V40 SE 5G (`PD2341F`):**
+>>>>>>> upstream/master
 =======
 **vivo V40 SE 5G (`PD2341F`):**
 >>>>>>> upstream/master
@@ -4631,6 +4657,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **vivo V50 Pro:**
 
 `V2504`: vivo V50 Pro
@@ -4805,10 +4832,13 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **vivo V50e (`PD2438F`):**
 
 `V2428`: vivo V50e
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5150,11 +5180,15 @@
 =======
 **vivo V50 Lite (`PD2448F`):**
 >>>>>>> upstream/master
+=======
+**vivo V50 Lite (`PD2448F`):**
+>>>>>>> upstream/master
 
 `V2441`: vivo V50 Lite
 
 **vivo V50 Lite 5G (`PD2447F`):**
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6385,12 +6419,15 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 `V2440` `V2450` `V2453`: vivo V50 Lite 5G
 
 **vivo V60 (`PD2503F`):**
 
 `V2511` `V2512`: vivo V60
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8682,6 +8719,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **vivo V60 Lite (`PD2448F`):**
 
 `V2530` `V2549`: vivo V60 Lite
@@ -8778,6 +8817,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9071,6 +9113,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9127,6 +9170,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9383,6 +9428,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9636,6 +9684,7 @@
 
 `V2518`: vivo T4R 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10089,6 +10138,9 @@
 =======
 **vivo T4 Pro (`PD2503F`):**
 >>>>>>> upstream/master
+=======
+**vivo T4 Pro (`PD2503F`):**
+>>>>>>> upstream/master
 
 `V2510`: vivo T4 Pro
 
@@ -10096,6 +10148,7 @@
 
 `V2504`: vivo T4 Ultra
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10758,6 +10811,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **vivo T5:**
 
 `V2583`: vivo T5
@@ -10826,6 +10881,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -10993,6 +11051,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **vivo T5 Lite 5G (`PD2542F`):**
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11206,6 +11265,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -11334,6 +11395,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -11546,6 +11610,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -11922,12 +11989,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **vivo Y01A:**
 
 `V2166`: vivo Y01A
 
 **vivo Y02:**
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -12269,6 +12339,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -12519,6 +12592,7 @@
 
 **vivo Y04 (`PD2442F`):**
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13240,11 +13314,15 @@
 =======
 `V2430` `V2438` `V2531` `V2547`: vivo Y04
 >>>>>>> upstream/master
+=======
+`V2430` `V2438` `V2531` `V2547`: vivo Y04
+>>>>>>> upstream/master
 
 **vivo Y04e (`PD2442F`):**
 
 `V2532`: vivo Y04e
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14105,6 +14183,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **vivo Y04s (`PD2442F`):**
 
 `V2531`: vivo Y04s
@@ -14155,7 +14235,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -14283,6 +14366,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -14482,6 +14568,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -14711,6 +14800,7 @@
 
 `V2028`: vivo Y11s
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -15585,6 +15675,11 @@
 
 `V2555` `V2578` `V2580` `V2646`: vivo Y11d
 >>>>>>> upstream/master
+=======
+**vivo Y11d (`PD2541F`):**
+
+`V2555` `V2578` `V2580` `V2646`: vivo Y11d
+>>>>>>> upstream/master
 
 **vivo Y11e (`PD2541F`):**
 
@@ -15702,6 +15797,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -16003,6 +16101,7 @@
 
 `vivo 1915`: vivo Y19
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16744,6 +16843,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **vivo Y19 5G (`PD2443F`):**
 
 `V2432`: vivo Y19 5G
@@ -16860,6 +16961,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -17089,6 +17193,7 @@
 
 `V2419` `V2423`: vivo Y19s
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -18398,6 +18503,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **vivo Y19s 5G (`PD2420F`):**
 
 `V2541`: vivo Y19s 5G
@@ -18514,6 +18621,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -18795,6 +18905,7 @@
 
 `V2149` `V2111-EG`: vivo Y21A
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -19878,6 +19989,11 @@
 
 `V2140`: vivo Y21e (2022)
 >>>>>>> upstream/master
+=======
+**vivo Y21e (2022) (`PD2158F`):**
+
+`V2140`: vivo Y21e (2022)
+>>>>>>> upstream/master
 
 **vivo Y21G (`PD2138F`):**
 
@@ -19891,6 +20007,7 @@
 
 `V2131` `V2135`: vivo Y21T
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -21175,6 +21292,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **vivo Y21d (`PD2510DF`):**
 
 `V2520` `V2524` `V2525` `V2535` `V2560`: vivo Y21d
@@ -21298,6 +21417,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -21617,7 +21739,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **vivo Y22t:**
+=======
+**vivo Y22t (`PD2226F`):**
+>>>>>>> upstream/master
 =======
 **vivo Y22t (`PD2226F`):**
 >>>>>>> upstream/master
@@ -21973,7 +22099,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **vivo Y28:**
+=======
+**vivo Y28 (`PD2365CF`):**
+>>>>>>> upstream/master
 =======
 **vivo Y28 (`PD2365CF`):**
 >>>>>>> upstream/master
@@ -22248,6 +22378,7 @@
 
 `V2434` `V2435`: vivo Y29
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -22875,6 +23006,9 @@
 =======
 **vivo Y29 5G (`PD2421F`):**
 >>>>>>> upstream/master
+=======
+**vivo Y29 5G (`PD2421F`):**
+>>>>>>> upstream/master
 
 `V2420`: vivo Y29 5G
 
@@ -22894,6 +23028,7 @@
 
 `V2036` `V2036_21`: vivo Y31
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -23731,6 +23866,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **vivo Y31 5G (`PD2511F`):**
 
 `V2521`: vivo Y31 5G
@@ -23835,6 +23972,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -23883,6 +24021,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -24067,6 +24207,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -24224,6 +24367,7 @@
 
 `V2436` `V2443` `V2447`: vivo Y39 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -24765,6 +24909,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **vivo Y51 (`PD2044F`):**
 
 `V2024` `V2030` `V2035`: vivo Y51
@@ -24773,6 +24919,7 @@
 
 `V2031` `V2031_21`: vivo Y51s
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -25341,6 +25488,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **vivo Y51 Pro 5G (`PD2532F`):**
 
 `V2544` `V2613`: vivo Y51 Pro 5G
@@ -25457,6 +25606,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -25867,7 +26019,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **vivo Y200:**
+=======
+**vivo Y200 (`PD2358F`):**
+>>>>>>> upstream/master
 =======
 **vivo Y200 (`PD2358F`):**
 >>>>>>> upstream/master
@@ -26339,7 +26495,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **vivo Y300+ 5G:**
+=======
+**vivo Y300+ 5G (`PD2422F`):**
+>>>>>>> upstream/master
 =======
 **vivo Y300+ 5G (`PD2422F`):**
 >>>>>>> upstream/master
@@ -26790,6 +26950,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **vivo Y400:**
 
 `V2455`: vivo Y400
@@ -26826,6 +26987,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -27139,6 +27302,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -27463,6 +27629,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -27987,7 +28156,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -28739,6 +28911,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -28813,6 +28986,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -29453,6 +29628,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -29982,6 +30160,7 @@
 
 `I2502`: iQOO Z10 Lite
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -31083,12 +31262,15 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **iQOO Z10R 5G (`PD2438F`):**
 
 `I2410`: iQOO Z10R 5G India
 
 **iQOO Z10R 5G:**
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -31833,6 +32015,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 `I2505`: iQOO Z10R 5G Global
 
 **iQOO Z11 5G (`PD2553F`):**
@@ -31912,6 +32096,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -32064,6 +32251,7 @@
 `I2507`: iQOO Z11x 5G
 
 **iQOO Z11 Lite 5G (`PD2542F`):**
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -32658,6 +32846,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 
 `I2510`: iQOO Z11 Lite 5G
 
@@ -32705,6 +32895,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -32891,10 +33084,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -33208,6 +33404,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -33419,6 +33618,7 @@
 
 `V2427`: JOVI V50
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -33797,10 +33997,13 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **JOVI V50 Lite 5G (`PD2447F`):**
 
 `V2440`: JOVI V50 Lite 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -34177,6 +34380,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **JOVI V70 5G (`PD2529F`):**
 
 `J2507`: JOVI V70 5G
@@ -34293,6 +34498,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -34397,6 +34603,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -34581,6 +34789,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -34706,6 +34917,7 @@
 
 `V2425` `V2454`: JOVI Y19s
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -35118,6 +35330,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **JOVI Y21 (`PD2510DF`):**
 
 `J2503`: JOVI Y21
@@ -35235,6 +35449,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -35467,6 +35684,7 @@
 
 `V2445`: JOVI Y29
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -36012,6 +36230,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **JOVI Y29s 5G (`PD2443F`):**
 
 `V2459`: JOVI Y29s 5G
@@ -36128,6 +36348,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -36483,6 +36706,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+`V2444`: JOVI Y39 5G
+>>>>>>> upstream/master
+=======
 `V2444`: JOVI Y39 5G
 >>>>>>> upstream/master
 =======

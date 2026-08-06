@@ -332,7 +332,11 @@
 `ASUS_AI2401_N`: ROG Phone 9 FE
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Other Devices
+=======
+## Other Series
+>>>>>>> upstream/master
 =======
 ## Other Series
 >>>>>>> upstream/master
