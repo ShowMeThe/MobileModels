@@ -707,6 +707,7 @@ xiaomi,2508CRN2BC,en,小米, REDMI 15C 5G China
 xiaomi,2508CRN2BR,en,小米, REDMI 15C 5G Japan
 xiaomi,25082RNC1C,en,小米, REDMI 15R 5G China
 xiaomi,2602BRNA4I,en,小米, REDMI 15A 5G India
+xiaomi,2602BRNA4C,en,小米, REDMI 17 5G China
 xiaomi,2014018,en,小米, Redmi Note WCDMA (1GB RAM)
 xiaomi,2013121,en,小米, Redmi Note WCDMA (2GB RAM)
 xiaomi,2014017,en,小米, Redmi Note TD-SCDMA (1GB RAM)
@@ -1320,6 +1321,7 @@ vivo,V2558,en,VIVO, vivo V70 FE
 vivo,V2615,en,VIVO, vivo V70 Lite 5G
 vivo,V2637,en,VIVO, vivo V70 Lite 5G
 vivo,V1937,en,VIVO, vivo S1 Prime
+vivo,V2576,en,VIVO, vivo S2
 vivo,V2153,en,VIVO, vivo T1
 vivo,V2168,en,VIVO, vivo T1
 vivo,V2141,en,VIVO, vivo T1 5G
@@ -7650,6 +7652,7 @@ xiaomi,2409BRN2CC,cn,小米, Redmi 14C / REDMI 17C
 xiaomi,2411DRN47C,cn,小米, Redmi 14R 5G
 xiaomi,2508CRN2BC,cn,小米, REDMI 15C 5G
 xiaomi,25082RNC1C,cn,小米, REDMI 15R 5G
+xiaomi,2602BRNA4C,cn,小米, REDMI 17 5G
 xiaomi,2014018,cn,小米, 红米 Note 联通 3G 标准版
 xiaomi,2013121,cn,小米, 红米 Note 联通 3G 增强版
 xiaomi,2014017,cn,小米, 红米 Note 移动 3G 标准版
@@ -8079,6 +8082,7 @@ xiaomi,2508CRN2BE,cn,小米, REDMI 15C 5G 欧洲版
 xiaomi,2508CRN2BI,cn,小米, REDMI 15C 5G 印度版
 xiaomi,2508CRN2BR,cn,小米, REDMI 15C 5G 日本版
 xiaomi,2602BRNA4I,cn,小米, REDMI 15A 5G 印度版
+xiaomi,2602BRNA4C,cn,小米, REDMI 17 5G 国行版
 xiaomi,2014715,cn,小米, 红米 Note 4G 国际版
 xiaomi,2014712,cn,小米, 红米 Note 4G 印度版
 xiaomi,2015112,cn,小米, 红米 Note 3 国行版
