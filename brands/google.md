@@ -12,7 +12,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Google Pixel
+=======
+## Phones
+>>>>>>> upstream/master
 =======
 ## Phones
 >>>>>>> upstream/master
@@ -471,7 +475,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1005,6 +1012,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1371,6 +1379,32 @@
 
 >>>>>>> upstream/master
 =======
+## Tablets
+
+>>>>>>> upstream/master
+=======
+**Pixel 11 (`cubs`):**
+
+`GPQQ7`: Pixel 11 (US, mmWave)
+
+`GUJ0N`: Pixel 11 (Global)
+
+**Pixel 11 Pro (`grizzly`):**
+
+`G7SWN`: Pixel 11 Pro (US, mmWave)
+
+`GM45K`: Pixel 11 Pro (Global)
+
+**Pixel 11 Pro XL (`kodiak`):**
+
+`GBC0H`: Pixel 11 Pro XL (US, mmWave)
+
+`G4HCD`: Pixel 11 Pro XL (Global)
+
+**Pixel 11 Pro Fold (`yogi`):**
+
+`GZDQ6`: Pixel 11 Pro Fold
+
 ## Tablets
 
 >>>>>>> upstream/master
@@ -1391,6 +1425,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+## Watch
+
+>>>>>>> upstream/master
 =======
 ## Watch
 
@@ -1751,8 +1790,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `GRY0E`: Pixel Watch 3 LTE (45mm)
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2636,6 +2678,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+`G1KAW`: Pixel Watch 4 LTE (45mm)
+>>>>>>> upstream/master
+=======
 `G1KAW`: Pixel Watch 4 LTE (45mm)
 >>>>>>> upstream/master
 =======
