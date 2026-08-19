@@ -308,7 +308,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -829,6 +832,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1437,7 +1443,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2180,6 +2189,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2868,7 +2880,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2979,6 +2994,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3214,6 +3232,7 @@
 
 `CTR-L91`: HUAWEI nova 13i
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3958,6 +3977,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **HUAWEI nova 14 (`Taylor`):**
 
 `TLR-LX9`: HUAWEI nova 14
@@ -4142,6 +4163,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4754,6 +4778,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5016,6 +5041,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5369,6 +5396,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5395,6 +5423,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5705,6 +5735,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5997,6 +6030,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **HUAWEI nova Y72 / HUAWEI nova Y73 (`Mega`):**
 
 `MGA-LX3`: HUAWEI nova Y72 / HUAWEI nova Y73
@@ -6005,6 +6039,8 @@
 
 `GFY-LX1`: HUAWEI nova Y72S
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6234,6 +6270,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6792,7 +6831,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `SLG-W09`: HUAWEI MatePad 11.5 S 2025 Wi-Fi
+=======
+`SLG-W09`: HUAWEI MatePad 11.5 S 2026 Wi-Fi
+>>>>>>> upstream/master
 =======
 `SLG-W09`: HUAWEI MatePad 11.5 S 2026 Wi-Fi
 >>>>>>> upstream/master
@@ -7561,7 +7604,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -8304,6 +8350,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8732,6 +8779,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -8832,6 +8881,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9051,6 +9103,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> upstream/master
@@ -9077,6 +9130,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9387,6 +9442,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9711,6 +9769,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
