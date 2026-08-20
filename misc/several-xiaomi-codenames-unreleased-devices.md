@@ -26,6 +26,13 @@
 
 `21081111TI`: Xiaomi 11T 印度版 (未上市)
 
+<<<<<<< HEAD
+=======
+**[`L1A`] 未知设备 (`loki`):**
+
+`2203121AC`: 该设备为小米系列，搭载骁龙 8 Gen 1，与 Xiaomi 12S Ultra 关联，但被取消。
+
+>>>>>>> upstream/master
 **[`N2`] Xiaomi 14 Pro (`shennong`):**
 
 `23116PN5BG`: Xiaomi 14 Pro 国际版 (未上市)
@@ -126,7 +133,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -392,6 +402,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -595,6 +608,7 @@
 
 **[`O8`] Xiaomi MIX Flip 2 (`bixi`):**
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1197,6 +1211,20 @@
 >>>>>>> upstream/master
 `2505APX7BG`: Xiaomi MIX Flip 2 国际版 (未上市)
 
+=======
+`2505DPXD7C`: Xiaomi MIX Flip 2 国行版 (未使用型号)
+
+`2505APX7BG`: Xiaomi MIX Flip 2 国际版 (未上市)
+
+**[`P8`] Xiaomi MIX Flip 系列 (`pixiu`):**
+
+`2603EPX2DC`: Xiaomi MIX Flip 系列 (未上市)
+
+**[`P8S`] Xiaomi MIX Flip 系列 (`pixiu`):**
+
+`2603APX0AC`: Xiaomi MIX Flip 系列 (未上市)
+
+>>>>>>> upstream/master
 **[`D9P`] 小米平板 4 Plus (`clover`):**
 
 `M1806D9PW`: 小米平板 4 Plus Wi-Fi 版 (未上市)
@@ -1503,8 +1531,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **[`N17`] Redmi Note 13 5G (`iron`):**
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2269,6 +2300,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2802,7 +2836,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2843,6 +2880,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
