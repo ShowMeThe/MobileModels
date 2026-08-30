@@ -356,7 +356,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Other Devices
+=======
+## Other Series
+>>>>>>> upstream/master
 =======
 ## Other Series
 >>>>>>> upstream/master
