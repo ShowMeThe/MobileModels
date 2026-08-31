@@ -123,7 +123,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **联想 Z5 Pro (`heart`):**
+=======
+**联想 Z5 Pro GT (`heart`):**
+>>>>>>> upstream/master
 =======
 **联想 Z5 Pro GT (`heart`):**
 >>>>>>> upstream/master
@@ -643,7 +647,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -969,6 +976,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1290,6 +1300,7 @@
 
 `TB710FU`: 小新平板 Pro GT
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2393,6 +2404,16 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+**联想 AI 平板 小新 Pro 13 (`malbec`):**
+
+`TB376FC`: 联想 AI 平板 小新 Pro 13
+
+**联想 AI 平板 小新 Pro GT 13 (`zhiyu`):**
+
+`TB378FC`: 联想 AI 平板 小新 Pro GT 13
+
+>>>>>>> upstream/master
 **小新 Pad Studio (`calla`):**
 
 `TB351FU`: 小新 Pad Studio
@@ -2620,7 +2641,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3117,6 +3141,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3437,6 +3462,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3453,6 +3480,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3574,7 +3604,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3793,6 +3826,7 @@
 
 `TB711FU`: 联想 AI 平板 拯救者 Y900 11
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4118,6 +4152,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **联想 AI 平板 拯救者 Y900 13 (`mojito`):**
 
 `TB522FU`: 联想 AI 平板 拯救者 Y900 13
@@ -4183,6 +4219,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4600,7 +4639,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4926,6 +4968,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5169,4 +5214,12 @@
 
 **ThinkBook Plus Hybrid 2024 (`gem`):**
 
+<<<<<<< HEAD
 `TB610FU`: ThinkBook Plus Hybrid 2024 (平板)
+=======
+`TB610FU`: ThinkBook Plus Hybrid 2024 (平板)
+
+**ThinkTab T11S (`sycamore`):**
+
+`TB838`: ThinkTab T11S 11 英寸 Wi-Fi 版
+>>>>>>> upstream/master
