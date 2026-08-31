@@ -1843,6 +1843,7 @@ lenovo,TB-J606N,cn,联想, 联想平板电脑 K11 11 英寸 LTE 版
 lenovo,QBH10,cn,联想, 联想平板电脑 S11 10.95 英寸 Wi-Fi 版
 lenovo,QBH11,cn,联想, 联想平板电脑 S11 Pro 11.5 英寸 Wi-Fi 版
 lenovo,TB610FU,cn,联想, ThinkBook Plus Hybrid 2024 (平板)
+lenovo,TB838,cn,联想, ThinkTab T11S 11 英寸 Wi-Fi 版
 mitv,L47M1-AA,cn,小米电视, 小米电视 47 英寸
 mitv,L40M2-AA,cn,小米电视, 小米电视 2 40 英寸
 mitv,L49M2-AA,cn,小米电视, 小米电视 2 49 英寸
@@ -8732,6 +8733,7 @@ realme,RMX5171,en,真我, realme 16 5G
 realme,RMX5120,en,真我, realme 16 Pro 5G
 realme,RMX5131,en,真我, realme 16 Pro+ 5G
 realme,RMX5268,en,真我, realme 16T 5G
+realme,RMX5270,en,真我, realme 16x 5G
 realme,RMX1901,en,真我, realme X
 realme,RMX1921,en,真我, realme XT Global
 realme,RMX1922,en,真我, realme XT India
@@ -8847,7 +8849,10 @@ realme,RMX3933,en,真我, realme Note 60
 realme,RMX3938,en,真我, realme Note 60x
 realme,RMX5313,en,真我, realme Note 70 / realme Note 70T
 realme,RMX5366,en,真我, realme C100x
+realme,RMX5377,en,真我, realme C100i Global
+realme,RMX5399,en,真我, realme C100i India
 realme,RMX5388,en,真我, realme Note 80
+realme,RMX5363,en,真我, realme C100d
 realme,RMX3933,en,真我, realme Note 60 / realme Note 60s
 realme,RMX5313,en,真我, realme Note 70 / realme Note 70T / realme Note 70s
 realme,RMX5388,en,真我, realme Note 80 / realme Note 80s
@@ -8874,6 +8879,7 @@ realme,RMX5367,en,真我, realme P4x
 realme,RMX5313,en,真我, realme P4 Lite
 realme,RMX5261,en,真我, realme P4 Lite 5G
 realme,RMX5266,en,真我, realme P4R 5G
+realme,RMX5125,en,真我, realme P4s 5G
 realme,RMX2002,en,真我, realme Narzo Indonesia
 realme,RMX2040,en,真我, realme Narzo 10 India
 realme,RMX2020,en,真我, realme Narzo 10A India
@@ -9158,6 +9164,8 @@ vivo,V2534,en,VIVO, vivo Y31 Pro 5G
 vivo,V2533,en,VIVO, vivo Y31e 5G
 vivo,V2543,en,VIVO, vivo Y31d Pro
 vivo,V2614,en,VIVO, vivo Y31s 5G
+vivo,V2571,en,VIVO, vivo Y31t 5G
+vivo,V2574,en,VIVO, vivo Y31t 5G
 vivo,V2057,en,VIVO, vivo Y33
 vivo,V2109-EG,en,VIVO, vivo Y33A
 vivo,V2109,en,VIVO, vivo Y33s
