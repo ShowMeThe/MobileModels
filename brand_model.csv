@@ -2027,6 +2027,14 @@ mitv,L65MC-SP,cn,小米电视, 小米电视 S Pro 65 Mini LED 2026
 mitv,L75MC-SP,cn,小米电视, 小米电视 S Pro 75 Mini LED 2026
 mitv,L85MC-SP,cn,小米电视, 小米电视 S Pro 85 Mini LED 2026
 mitv,L98MC-SP,cn,小米电视, 小米电视 S Pro 98 Mini LED 2026
+mitv,L65MD-SP,cn,小米电视, 小米电视 S Pro 65 RGB-Mini LED 2027
+mitv,L65MD-SPD,cn,小米电视, 小米电视 S Pro 65 RGB-Mini LED 2027 至尊版
+mitv,L75MD-SP,cn,小米电视, 小米电视 S Pro 75 RGB-Mini LED 2027
+mitv,L75MD-SPD,cn,小米电视, 小米电视 S Pro 75 RGB-Mini LED 2027 至尊版
+mitv,L85MD-SP,cn,小米电视, 小米电视 S Pro 85 RGB-Mini LED 2027
+mitv,L85MD-SPD,cn,小米电视, 小米电视 S Pro 85 RGB-Mini LED 2027 至尊版
+mitv,L98MD-SP,cn,小米电视, 小米电视 S Pro 98 RGB-Mini LED 2027
+mitv,L98MD-SPD,cn,小米电视, 小米电视 S Pro 98 RGB-Mini LED 2027 至尊版
 mitv,L65M5-BH,cn,小米电视, 小米壁画电视 65 英寸
 mitv,L75M5-BH,cn,小米电视, 小米壁画电视 75 英寸
 mitv,L55M6-TM,cn,小米电视, 小米透明电视 55 英寸
@@ -10191,6 +10199,7 @@ oneplus,CPH2717,cn,一加, 一加 Nord CE 5 印度版
 oneplus,CPH2719,cn,一加, 一加 Nord CE 5 国际版
 oneplus,CPH2943,cn,一加, 一加 Nord CE 6 Lite 印度版
 oneplus,CPH2955,cn,一加, 一加 N6 印度版
+oneplus,CPH2971,cn,一加, 一加 N6x 印度版
 oneplus,BE2025,cn,一加, 一加 Nord N10 Metro 版
 oneplus,BE2026,cn,一加, 一加 Nord N10 北美版
 oneplus,BE2029,cn,一加, 一加 Nord N10 欧洲版 / 国际版
@@ -10420,6 +10429,7 @@ oneplus,CPH2717,en,一加, OnePlus Nord CE 5 India
 oneplus,CPH2719,en,一加, OnePlus Nord CE 5 Global
 oneplus,CPH2943,en,一加, OnePlus Nord CE 6 Lite India
 oneplus,CPH2955,en,一加, OnePlus N6 India
+oneplus,CPH2971,en,一加, OnePlus N6x India
 oneplus,BE2025,en,一加, OnePlus Nord N10 Metro
 oneplus,BE2026,en,一加, OnePlus Nord N10 North America
 oneplus,BE2029,en,一加, OnePlus Nord N10 Europe / Global
