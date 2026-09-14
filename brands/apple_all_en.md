@@ -2,9 +2,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Apple "iDevices" Models
 
 - Range: iPhone, iPad, iPod touch, Apple Watch, Apple TV and Apple Vision
+=======
+# Apple Devices Models
+
+- Range: iPhone, iPad, iPod touch, Apple Watch, Apple TV, Apple Vision, AirPods, AirTag, HomePod and Mac (Apple Silicon)
+>>>>>>> upstream/master
 =======
 # Apple Devices Models
 
@@ -335,8 +341,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `A2222`: iPhone 11 (China Mobile)
 
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -657,8 +666,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `A2216`: iPhone 11 Pro (China Mobile)
 
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -979,8 +991,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `A2219`: iPhone 11 Pro Max (China Mobile)
 
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1301,8 +1316,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `A2297`: iPhone SE (2nd generation) (China Mobile)
 
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1982,7 +2000,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2561,6 +2582,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2942,6 +2964,40 @@
 =======
 >>>>>>> upstream/master
 =======
+>>>>>>> upstream/master
+=======
+**[`V63AP`] iPhone 18 Pro (`iPhone19,2`):**
+
+`A3472`: iPhone 18 Pro (United States)
+
+`A3713`: iPhone 18 Pro (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+
+`A3715`: iPhone 18 Pro (China mainland)
+
+`A3714`: iPhone 18 Pro (Rest of the world)
+
+**[`V64AP`] iPhone 18 Pro Max (`iPhone19,3`):**
+
+`A3473`: iPhone 18 Pro Max (United States)
+
+**[`V64sAP`] iPhone 18 Pro Max (`iPhone19,7`):**
+
+`A3716`: iPhone 18 Pro Max (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+
+`A3718`: iPhone 18 Pro Max (China mainland)
+
+`A3717`: iPhone 18 Pro Max (Rest of the world)
+
+**[`V68AP`] iPhone Duo (`iPhone19,4`):**
+
+`A3447`: iPhone Duo (United States)
+
+`A3719`: iPhone Duo (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+
+`A3721`: iPhone Duo (China mainland)
+
+`A3720`: iPhone Duo (Rest of the world)
+
 >>>>>>> upstream/master
 ## iPad
 
@@ -2950,6 +3006,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3075,7 +3134,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## iPad Air
+=======
+### iPad Air
+>>>>>>> upstream/master
 =======
 ### iPad Air
 >>>>>>> upstream/master
@@ -3370,7 +3433,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3961,6 +4027,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4335,6 +4402,9 @@
 =======
 >>>>>>> upstream/master
 ## iPad Pro
+=======
+### iPad Pro
+>>>>>>> upstream/master
 =======
 ### iPad Pro
 >>>>>>> upstream/master
@@ -4869,7 +4939,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5880,6 +5953,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6546,6 +6620,9 @@
 =======
 ### iPad mini
 >>>>>>> upstream/master
+=======
+### iPad mini
+>>>>>>> upstream/master
 
 **[`P105AP`] iPad mini (`iPad2,5`):**
 
@@ -6625,7 +6702,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6653,6 +6733,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6886,6 +6969,33 @@
 
 `A3453`: Apple Watch Series 11 (GPS + Cellular) (46mm case) (China mainland)
 
+<<<<<<< HEAD
+=======
+**[`N237sAP`] Apple Watch Series 12 (`Watch8,2`):**
+
+`A3581`: Apple Watch Series 12 (GPS) (42mm case) (Global)
+
+`A3583`: Apple Watch Series 12 (GPS) (42mm case) (China mainland)
+
+**[`N237bAP`] Apple Watch Series 12 (`Watch8,3`):**
+
+`A3584`: Apple Watch Series 12 (GPS) (46mm case) (Global)
+
+`A3585`: Apple Watch Series 12 (GPS) (46mm case) (China mainland)
+
+**[`N238sAP`] Apple Watch Series 12 (`Watch8,4`):**
+
+`A3582`: Apple Watch Series 12 (GPS + Cellular) (42mm case) (Global)
+
+`A3586`: Apple Watch Series 12 (GPS + Cellular) (42mm case) (China mainland)
+
+**[`N238bAP`] Apple Watch Series 12 (`Watch8,5`):**
+
+`A3587`: Apple Watch Series 12 (GPS + Cellular) (46mm case) (Global)
+
+`A3588`: Apple Watch Series 12 (GPS + Cellular) (46mm case) (China mainland)
+
+>>>>>>> upstream/master
 **[`N140sAP`] Apple Watch SE (`Watch5,9`):**
 
 `A2351`: Apple Watch SE (GPS) (40mm case)
@@ -6976,6 +7086,7 @@
 
 `A3282`: Apple Watch Ultra 3 (China mainland)
 
+<<<<<<< HEAD
 ## Apple TV
 
 <<<<<<< HEAD
@@ -7983,6 +8094,17 @@
 =======
 **[`Mac-F4228DC8`] Apple TV (1st generation) (`AppleTV1,1`):**
 >>>>>>> upstream/master
+=======
+**[`N240AP`] Apple Watch Ultra 4 (`Watch8,1`):**
+
+`A3579`: Apple Watch Ultra 4 (Global)
+
+`A3580`: Apple Watch Ultra 4 (China mainland)
+
+## Apple TV
+
+**[`Mac-F4228DC8`] Apple TV (1st generation) (`AppleTV1,1`):**
+>>>>>>> upstream/master
 
 `A1218`: Apple TV (1st generation)
 
@@ -8353,7 +8475,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9348,6 +9473,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -10046,7 +10174,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -10352,7 +10483,11 @@
 
 `A2566`: AirPods (3rd generation) (charging case)
 
+<<<<<<< HEAD
 **[`B768AP`] AirPods 4 (`AirPods1,4`):**
+=======
+**[`B768EAP`] AirPods 4 (`AirPods1,4`):**
+>>>>>>> upstream/master
 
 `A3053`: AirPods 4 (left AirPod)
 
@@ -10360,12 +10495,36 @@
 
 `A3058`: AirPods 4 (charging case)
 
+<<<<<<< HEAD
+=======
+**[`B768MAP`] AirPods 4 (ANC) (`AirPods1,4`):**
+
+>>>>>>> upstream/master
 `A3056`: AirPods 4 (ANC) (left AirPod)
 
 `A3055`: AirPods 4 (ANC) (right AirPod)
 
 `A3059`: AirPods 4 (ANC) (charging case)
 
+<<<<<<< HEAD
+=======
+**[`B868EAP`] AirPods 5:**
+
+`A3531`: AirPods 5 (left AirPod)
+
+`A3532`: AirPods 5 (right AirPod)
+
+`A3530`: AirPods 5 (charging case)
+
+**[`B868MAP`] AirPods 5 (Wireless Charging Case):**
+
+`A3440`: AirPods 5 (Wireless Charging Case) (left AirPod)
+
+`A3439`: AirPods 5 (Wireless Charging Case) (right AirPod)
+
+`A3529`: AirPods 5 (Wireless Charging Case) (charging case)
+
+>>>>>>> upstream/master
 **[`B298AP`] AirPods Pro (`AirPodsPro1,1`):**
 
 `A2083`: AirPods Pro (left AirPod)
@@ -10436,6 +10595,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
