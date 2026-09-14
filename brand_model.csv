@@ -856,6 +856,11 @@ xiaomi,25097RP43G,cn,小米, Xiaomi Pad 8 国际版
 xiaomi,25097RP43I,cn,小米, Xiaomi Pad 8 印度版
 xiaomi,25091RP04C,cn,小米, Xiaomi Pad 8 Pro 国行版
 xiaomi,25091RP04G,cn,小米, Xiaomi Pad 8 Pro 国际版
+xiaomi,M656BA,cn,小米, Xiaomi Pad 9 国行版
+xiaomi,26103RP65G,cn,小米, Xiaomi Pad 9 国际版
+xiaomi,26103RP65I,cn,小米, Xiaomi Pad 9 印度版
+xiaomi,2612CRPFFC,cn,小米, Xiaomi Pad 9 Pro 国行版
+xiaomi,2612CRPFFG,cn,小米, Xiaomi Pad 9 Pro 国际版
 xiaomi,M367FC,cn,小米, Xiaomi Pad 9 Pro Max
 xiaomi,2013022,cn,小米, 红米手机 移动版
 xiaomi,2013023,cn,小米, 红米手机 联通版
@@ -1417,6 +1422,7 @@ xiaomi,2604ERP4DI,cn,小米, REDMI Pad 2 9.7 4G 印度版
 xiaomi,25079RPDCC,cn,小米, REDMI K Pad
 xiaomi,26048RP6AC,cn,小米, REDMI K Pad 2
 xiaomi,M1805E10A,cn,小米, POCO F1
+xiaomi,M1805E10A,cn,小米, POCO F1 国际版
 xiaomi,M2004J11G,cn,小米, POCO F2 Pro 国际版
 xiaomi,M2012K11AG,cn,小米, POCO F3 国际版
 xiaomi,M2104K10I,cn,小米, POCO F3 GT 印度版
@@ -1626,6 +1632,9 @@ apple,A3518,cn,苹果, iPhone Air
 apple,A3524,cn,苹果, iPhone 17 Pro
 apple,A3527,cn,苹果, iPhone 17 Pro Max
 apple,A3635,cn,苹果, iPhone 17e
+apple,A3715,cn,苹果, iPhone 18 Pro
+apple,A3718,cn,苹果, iPhone 18 Pro Max
+apple,A3721,cn,苹果, iPhone Duo
 apple,A1219,cn,苹果, iPad (无线局域网)
 apple,A1337,cn,苹果, iPad (无线局域网 + 3G)
 apple,A1395,cn,苹果, iPad 2 (无线局域网)
@@ -1778,6 +1787,10 @@ apple,A3450,cn,苹果, Apple Watch Series 11 (GPS) (42 毫米表壳)
 apple,A3451,cn,苹果, Apple Watch Series 11 (GPS) (46 毫米表壳)
 apple,A3452,cn,苹果, Apple Watch Series 11 (GPS + 蜂窝网络) (42 毫米表壳)
 apple,A3453,cn,苹果, Apple Watch Series 11 (GPS + 蜂窝网络) (46 毫米表壳)
+apple,A3583,cn,苹果, Apple Watch Series 12 (GPS) (42 毫米表壳)
+apple,A3585,cn,苹果, Apple Watch Series 12 (GPS) (46 毫米表壳)
+apple,A3586,cn,苹果, Apple Watch Series 12 (GPS + 蜂窝网络) (42 毫米表壳)
+apple,A3588,cn,苹果, Apple Watch Series 12 (GPS + 蜂窝网络) (46 毫米表壳)
 apple,A2351,cn,苹果, Apple Watch SE (GPS) (40 毫米表壳)
 apple,A2352,cn,苹果, Apple Watch SE (GPS) (44 毫米表壳)
 apple,A2355,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) 
@@ -1793,6 +1806,7 @@ apple,A3329,cn,苹果, Apple Watch SE 3 (GPS + 蜂窝网络) (44 毫米表壳)
 apple,A2859,cn,苹果, Apple Watch Ultra
 apple,A2987,cn,苹果, Apple Watch Ultra 2
 apple,A3282,cn,苹果, Apple Watch Ultra 3
+apple,A3580,cn,苹果, Apple Watch Ultra 4
 apple,A2117,cn,苹果, Apple Vision Pro
 apple,A3416,cn,苹果, Apple Vision Pro (M5)
 apple,A1213,cn,苹果, iPod touch
@@ -1882,6 +1896,12 @@ apple,A3058,cn,苹果, AirPods 4 (充电盒)
 apple,A3056,cn,苹果, AirPods 4 (主动降噪版) (左耳塞)
 apple,A3055,cn,苹果, AirPods 4 (主动降噪版) (右耳塞)
 apple,A3059,cn,苹果, AirPods 4 (主动降噪版) (充电盒)
+apple,A3531,cn,苹果, AirPods 5 (左耳塞)
+apple,A3532,cn,苹果, AirPods 5 (右耳塞)
+apple,A3530,cn,苹果, AirPods 5 (充电盒)
+apple,A3440,cn,苹果, AirPods 5 (配无线充电盒) (左耳塞)
+apple,A3439,cn,苹果, AirPods 5 (配无线充电盒) (右耳塞)
+apple,A3529,cn,苹果, AirPods 5 (无线充电盒)
 apple,A2083,cn,苹果, AirPods Pro (左耳塞)
 apple,A2084,cn,苹果, AirPods Pro (右耳塞)
 apple,A2190,cn,苹果, AirPods Pro (充电盒)
@@ -2065,6 +2085,8 @@ xiaomi,2410CRP4CC,cn,小米, Xiaomi Pad 7
 xiaomi,24091RPADC,cn,小米, Xiaomi Pad 7 Pro
 xiaomi,25097RP43C,cn,小米, Xiaomi Pad 8
 xiaomi,25091RP04C,cn,小米, Xiaomi Pad 8 Pro
+xiaomi,M656BA,cn,小米, Xiaomi Pad 9
+xiaomi,2612CRPFFC,cn,小米, Xiaomi Pad 9 Pro
 xiaomi,2016030,cn,小米, 红米 3S
 xiaomi,M1908C3KE,cn,小米, Redmi 8A
 xiaomi,M2004J19C,cn,小米, Redmi 9
@@ -3103,6 +3125,18 @@ apple,A3526,cn,苹果, iPhone 17 Pro Max (其他国家和地区)
 apple,A3575,cn,苹果," iPhone 17e (北美, 日本, 部分中东国家)"
 apple,A3635,cn,苹果, iPhone 17e (中国大陆)
 apple,A3634,cn,苹果, iPhone 17e (其他国家和地区)
+apple,A3472,cn,苹果, iPhone 18 Pro (美国)
+apple,A3713,cn,苹果," iPhone 18 Pro (加拿大, 日本, 墨西哥, 部分中东国家)"
+apple,A3715,cn,苹果, iPhone 18 Pro (中国大陆)
+apple,A3714,cn,苹果, iPhone 18 Pro (其他国家和地区)
+apple,A3473,cn,苹果, iPhone 18 Pro Max (美国)
+apple,A3716,cn,苹果," iPhone 18 Pro Max (加拿大, 日本, 墨西哥, 部分中东国家)"
+apple,A3718,cn,苹果, iPhone 18 Pro Max (中国大陆)
+apple,A3717,cn,苹果, iPhone 18 Pro Max (其他国家和地区)
+apple,A3447,cn,苹果, iPhone Duo (美国)
+apple,A3719,cn,苹果," iPhone Duo (加拿大, 日本, 墨西哥, 部分中东国家)"
+apple,A3721,cn,苹果, iPhone Duo (中国大陆)
+apple,A3720,cn,苹果, iPhone Duo (其他国家和地区)
 apple,A1403,cn,苹果, iPad (第 3 代) (无线局域网 + 蜂窝网络) (VZ)
 apple,A1459,cn,苹果, iPad (第 4 代) (无线局域网 + 蜂窝网络)
 apple,A1460,cn,苹果, iPad (第 4 代) (无线局域网 + 蜂窝网络) (中国大陆)
@@ -3231,6 +3265,14 @@ apple,A3335,cn,苹果, Apple Watch Series 11 (GPS + 蜂窝网络) (42 毫米表�
 apple,A3452,cn,苹果, Apple Watch Series 11 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆)
 apple,A3337,cn,苹果, Apple Watch Series 11 (GPS + 蜂窝网络) (46 毫米表壳) (全球)
 apple,A3453,cn,苹果, Apple Watch Series 11 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆)
+apple,A3581,cn,苹果, Apple Watch Series 12 (GPS) (42 毫米表壳) (全球)
+apple,A3583,cn,苹果, Apple Watch Series 12 (GPS) (42 毫米表壳) (中国大陆)
+apple,A3584,cn,苹果, Apple Watch Series 12 (GPS) (46 毫米表壳) (全球)
+apple,A3585,cn,苹果, Apple Watch Series 12 (GPS) (46 毫米表壳) (中国大陆)
+apple,A3582,cn,苹果, Apple Watch Series 12 (GPS + 蜂窝网络) (42 毫米表壳) (全球)
+apple,A3586,cn,苹果, Apple Watch Series 12 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆)
+apple,A3587,cn,苹果, Apple Watch Series 12 (GPS + 蜂窝网络) (46 毫米表壳) (全球)
+apple,A3588,cn,苹果, Apple Watch Series 12 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆)
 apple,A2353,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (北美)
 apple,A2355,cn,苹果," Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (欧亚, 中国大陆)"
 apple,A2354,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (北美)
@@ -3256,6 +3298,8 @@ apple,A2986,cn,苹果, Apple Watch Ultra 2 (全球)
 apple,A2987,cn,苹果, Apple Watch Ultra 2 (中国大陆 & 港澳)
 apple,A3281,cn,苹果, Apple Watch Ultra 3 (全球)
 apple,A3282,cn,苹果, Apple Watch Ultra 3 (中国大陆)
+apple,A3579,cn,苹果, Apple Watch Ultra 4 (全球)
+apple,A3580,cn,苹果, Apple Watch Ultra 4 (中国大陆)
 apple,A1218,cn,苹果, Apple TV (第 1 代)
 apple,A1378,cn,苹果, Apple TV (第 2 代)
 apple,A1427,cn,苹果, Apple TV (第 3 代)
@@ -3269,6 +3313,7 @@ apple,A1288,cn,苹果, iPod touch (第 2 代)
 apple,A1319,cn,苹果, iPod touch (第 2 代) (中国大陆)
 apple,A1938,cn,苹果, AirPods (第 2 代) (无线充电盒)
 apple,A2566,cn,苹果, AirPods (第 3 代) (MagSafe 充电盒)
+apple,A3529,cn,苹果, AirPods 5 (配无线充电盒) (充电盒)
 apple,A2190,cn,苹果, AirPods Pro (MagSafe 充电盒)
 apple,A2699,cn,苹果, AirPods Pro (第 2 代) (左耳塞)
 apple,A2698,cn,苹果, AirPods Pro (第 2 代) (右耳塞)
@@ -3491,6 +3536,11 @@ vivo,V2547A,cn,VIVO, vivo X300 Ultra
 vivo,V2547DA,cn,VIVO, vivo X300 Ultra 卫星通信版
 vivo,V2612A,cn,VIVO, vivo X300 E
 vivo,V2545A,cn,VIVO, vivo X Fold6
+vivo,V2609A,cn,VIVO, vivo X500
+vivo,V2608A,cn,VIVO, vivo X500 Pro
+vivo,V2608DA,cn,VIVO, vivo X500 Pro eSIM 版
+vivo,V2602A,cn,VIVO, vivo X500 Pro Max
+vivo,V2602DA,cn,VIVO, vivo X500 Pro Max 卫星通信版
 vivo,V1831A,cn,VIVO, vivo S1 全网通版
 vivo,V1831T,cn,VIVO, vivo S1 移动全网通版
 vivo,V1832A,cn,VIVO, vivo S1 Pro 全网通版
@@ -3802,6 +3852,7 @@ vivo,iPA2575,cn,VIVO, iQOO Pad5 Pro
 vivo,iPA2537,cn,VIVO, iQOO Pad5e
 vivo,iPA2537,cn,VIVO, iQOO Pad5e / iQOO Pad5c
 vivo,iPA2673,cn,VIVO, iQOO Pad6 Pro
+vivo,iPA2691,cn,VIVO, iQOO Pad Ultra
 vivo,WA2052,cn,VIVO, vivo WATCH 42mm
 vivo,WA2056,cn,VIVO, vivo WATCH 46mm
 vivo,WA2156A,cn,VIVO, vivo WATCH 2 eSIM 版
@@ -3813,6 +3864,8 @@ vivo,WA2556A,cn,VIVO, vivo WATCH 5 蓝牙版
 vivo,WA2556B,cn,VIVO, vivo WATCH 5 eSIM 版
 vivo,WA2536A,cn,VIVO, vivo WATCH GT 2 蓝牙版
 vivo,WA2536B,cn,VIVO, vivo WATCH GT 2 eSIM 版
+vivo,WA2656A,cn,VIVO, vivo WATCH 6 蓝牙版
+vivo,WA2656B,cn,VIVO, vivo WATCH 6 eSIM 版
 vivo,iWA2356A,cn,VIVO, iQOO WATCH eSIM 版
 vivo,iWA2356C,cn,VIVO, iQOO WATCH 蓝牙版
 vivo,iWA2456A,cn,VIVO, iQOO WATCH GT eSIM 版
@@ -5008,6 +5061,18 @@ apple,A3526,en,苹果, iPhone 17 Pro Max (Rest of the world)
 apple,A3575,en,苹果," iPhone 17e (United States, Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
 apple,A3635,en,苹果, iPhone 17e (China mainland)
 apple,A3634,en,苹果, iPhone 17e (Rest of the world)
+apple,A3472,en,苹果, iPhone 18 Pro (United States)
+apple,A3713,en,苹果," iPhone 18 Pro (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+apple,A3715,en,苹果, iPhone 18 Pro (China mainland)
+apple,A3714,en,苹果, iPhone 18 Pro (Rest of the world)
+apple,A3473,en,苹果, iPhone 18 Pro Max (United States)
+apple,A3716,en,苹果," iPhone 18 Pro Max (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+apple,A3718,en,苹果, iPhone 18 Pro Max (China mainland)
+apple,A3717,en,苹果, iPhone 18 Pro Max (Rest of the world)
+apple,A3447,en,苹果, iPhone Duo (United States)
+apple,A3719,en,苹果," iPhone Duo (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+apple,A3721,en,苹果, iPhone Duo (China mainland)
+apple,A3720,en,苹果, iPhone Duo (Rest of the world)
 apple,A1219,en,苹果, iPad Wi-Fi
 apple,A1337,en,苹果, iPad Wi-Fi + 3G
 apple,A1395,en,苹果, iPad 2 Wi-Fi
@@ -5227,6 +5292,14 @@ apple,A3335,en,苹果, Apple Watch Series 11 (GPS + Cellular) (42mm case) (Globa
 apple,A3452,en,苹果, Apple Watch Series 11 (GPS + Cellular) (42mm case) (China mainland)
 apple,A3337,en,苹果, Apple Watch Series 11 (GPS + Cellular) (46mm case) (Global)
 apple,A3453,en,苹果, Apple Watch Series 11 (GPS + Cellular) (46mm case) (China mainland)
+apple,A3581,en,苹果, Apple Watch Series 12 (GPS) (42mm case) (Global)
+apple,A3583,en,苹果, Apple Watch Series 12 (GPS) (42mm case) (China mainland)
+apple,A3584,en,苹果, Apple Watch Series 12 (GPS) (46mm case) (Global)
+apple,A3585,en,苹果, Apple Watch Series 12 (GPS) (46mm case) (China mainland)
+apple,A3582,en,苹果, Apple Watch Series 12 (GPS + Cellular) (42mm case) (Global)
+apple,A3586,en,苹果, Apple Watch Series 12 (GPS + Cellular) (42mm case) (China mainland)
+apple,A3587,en,苹果, Apple Watch Series 12 (GPS + Cellular) (46mm case) (Global)
+apple,A3588,en,苹果, Apple Watch Series 12 (GPS + Cellular) (46mm case) (China mainland)
 apple,A2351,en,苹果, Apple Watch SE (GPS) (40mm case)
 apple,A2352,en,苹果, Apple Watch SE (GPS) (44mm case)
 apple,A2353,en,苹果, Apple Watch SE (GPS + Cellular) (40mm case) (North America)
@@ -5256,6 +5329,8 @@ apple,A2986,en,苹果, Apple Watch Ultra 2 (Global)
 apple,A2987,en,苹果," Apple Watch Ultra 2 (China mainland, Hong Kong, Macao)"
 apple,A3281,en,苹果, Apple Watch Ultra 3 (Global)
 apple,A3282,en,苹果, Apple Watch Ultra 3 (China mainland)
+apple,A3579,en,苹果, Apple Watch Ultra 4 (Global)
+apple,A3580,en,苹果, Apple Watch Ultra 4 (China mainland)
 apple,A1218,en,苹果, Apple TV (1st generation)
 apple,A1378,en,苹果, Apple TV (2nd generation)
 apple,A1427,en,苹果, Apple TV (3rd generation)
@@ -5355,6 +5430,12 @@ apple,A3058,en,苹果, AirPods 4 (charging case)
 apple,A3056,en,苹果, AirPods 4 (ANC) (left AirPod)
 apple,A3055,en,苹果, AirPods 4 (ANC) (right AirPod)
 apple,A3059,en,苹果, AirPods 4 (ANC) (charging case)
+apple,A3531,en,苹果, AirPods 5 (left AirPod)
+apple,A3532,en,苹果, AirPods 5 (right AirPod)
+apple,A3530,en,苹果, AirPods 5 (charging case)
+apple,A3440,en,苹果, AirPods 5 (Wireless Charging Case) (left AirPod)
+apple,A3439,en,苹果, AirPods 5 (Wireless Charging Case) (right AirPod)
+apple,A3529,en,苹果, AirPods 5 (Wireless Charging Case) (charging case)
 apple,A2083,en,苹果, AirPods Pro (left AirPod)
 apple,A2084,en,苹果, AirPods Pro (right AirPod)
 apple,A2190,en,苹果, AirPods Pro (charging case)
@@ -7183,6 +7264,7 @@ xiaomi,26020RN1AI,en,小米, REDMI A7 Pro 5G India
 xiaomi,26020RN1AC,en,小米, REDMI R70 5G China / REDMI R70m 5G China
 xiaomi,26062RN92C,en,小米, REDMI M100 China
 xiaomi,M1805E10A,en,小米, POCO F1
+xiaomi,M1805E10A,en,小米, POCO F1 Global
 xiaomi,M2004J11G,en,小米, POCO F2 Pro Global
 xiaomi,M2012K11AG,en,小米, POCO F3 Global
 xiaomi,M2104K10I,en,小米, POCO F3 GT India
@@ -7333,6 +7415,11 @@ xiaomi,25097RP43C,en,小米, Xiaomi Pad 8 China
 xiaomi,25097RP43I,en,小米, Xiaomi Pad 8 India
 xiaomi,25091RP04G,en,小米, Xiaomi Pad 8 Pro Global
 xiaomi,25091RP04C,en,小米, Xiaomi Pad 8 Pro China
+xiaomi,26103RP65G,en,小米, Xiaomi Pad 9 Global
+xiaomi,26103RP65I,en,小米, Xiaomi Pad 9 India
+xiaomi,M656BA,en,小米, Xiaomi Pad 9 China
+xiaomi,2612CRPFFG,en,小米, Xiaomi Pad 9 Pro Global
+xiaomi,2612CRPFFC,en,小米, Xiaomi Pad 9 Pro China
 xiaomi,M367FC,en,小米, Xiaomi Pad 9 Pro Max China
 xiaomi,22081283G,en,小米, Redmi Pad Global
 xiaomi,22081283C,en,小米, Redmi Pad China
@@ -8008,6 +8095,10 @@ honor,LDY-AN00,cn,荣耀, 荣耀 Magic8 Pro Air
 honor,BKQ-AN20,cn,荣耀, 荣耀 Magic8 RSR 保时捷设计
 honor,PNM-AN10,cn,荣耀, 荣耀 Magic V6
 honor,PNM-AN20,cn,荣耀, 荣耀 Magic V6 (16GB+1TB)
+honor,MLY-AN00,cn,荣耀, 荣耀 Magic9
+honor,MLM-AN00,cn,荣耀, 荣耀 Magic9 超能版
+honor,WKL-AN20,cn,荣耀, 荣耀 Magic9 Pro Max
+honor,WKL-AN80,cn,荣耀, 荣耀 Magic9 Pro Max (16GB+1TB)
 honor,APH-AN00,cn,荣耀, 荣耀 Robot Phone
 honor,H60-L01,cn,荣耀, 荣耀 6 移动版
 honor,H60-L02,cn,荣耀, 荣耀 6 联通版
@@ -8619,7 +8710,9 @@ honor,IVY-B39,cn,荣耀, 荣耀手表 Fit
 honor,IVY-B39,cn,荣耀, 荣耀手表 GS 5 / 荣耀手表 Fit
 honor,LWS-WB10,cn,荣耀, 荣耀手表 X5
 honor,WTS-B19,cn,荣耀, 荣耀手表 X5i
+honor,WSS-B19,cn,荣耀, 荣耀手表 X5s
 honor,ROM-B19,cn,荣耀, 荣耀手表 6 Plus
+honor,HLO-B19,cn,荣耀, 荣耀手表 6 Pro
 honor,NYX-B10HN,cn,荣耀, 荣耀手环 3 标准版
 honor,NYX-B20HN,cn,荣耀, 荣耀手环 3 NFC 版
 honor,CRS-B19,cn,荣耀, 荣耀手环 4 标准版
@@ -11602,6 +11695,9 @@ oppo,PLG120,cn,OPPO, OPPO Find X9 Pro 卫星通信版
 oppo,PME110,cn,OPPO, OPPO Find X9s Pro
 oppo,PMA110,cn,OPPO, OPPO Find X9 Ultra
 oppo,PMA120,cn,OPPO, OPPO Find X9 Ultra 卫星通信版
+oppo,PMW110,cn,OPPO, OPPO Find X10
+oppo,PNA110,cn,OPPO, OPPO Find X10 E
+oppo,PMX110,cn,OPPO, OPPO Find X10 Pro Max
 oppo,PEUM00,cn,OPPO, OPPO Find N
 oppo,PGU110,cn,OPPO, OPPO Find N2
 oppo,PGT110,cn,OPPO, OPPO Find N2 Flip
@@ -11843,6 +11939,7 @@ oppo,OWW251,cn,OPPO, OPPO Watch X2
 oppo,OWW262,cn,OPPO, OPPO Watch S
 oppo,OWW261,cn,OPPO, OPPO Watch X3
 oppo,OWW263,cn,OPPO, OPPO Watch X3 Mini
+oppo,OWW265,cn,OPPO, OPPO Watch S2
 oneplus,A0001,cn,一加, 一加手机 全网通版 / 移动版 / 国际版
 oneplus,A1001,cn,一加, 一加手机 联通版
 oneplus,A2001,cn,一加, 一加手机 2
