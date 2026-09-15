@@ -749,7 +749,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1423,6 +1426,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1821,6 +1825,20 @@
 =======
 >>>>>>> upstream/master
 =======
+>>>>>>> upstream/master
+=======
+**Galaxy S26 FE (`r14s`):**
+
+`SM-S741B`: Galaxy S26 FE Global
+
+`SM-S741U`: Galaxy S26 FE US Carrier
+
+`SM-S741U1`: Galaxy S26 FE US Unlocked
+
+`SM-S741W`: Galaxy S26 FE Canada
+
+`SM-S741N`: Galaxy S26 FE South Korea
+
 >>>>>>> upstream/master
 ## Galaxy Note
 
@@ -2378,7 +2396,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3087,6 +3108,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`SM-F968U1`: Galaxy Z TriFold US Unlocked
+
+>>>>>>> upstream/master
 =======
 `SM-F968U1`: Galaxy Z TriFold US Unlocked
 
@@ -3954,6 +3980,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4410,6 +4437,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4611,6 +4640,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4910,7 +4942,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5090,6 +5125,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5566,7 +5604,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6275,6 +6316,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6743,6 +6785,20 @@
 =======
 >>>>>>> upstream/master
 =======
+>>>>>>> upstream/master
+=======
+**Galaxy A07s (`a07ve`):**
+
+`SM-A077F`: Galaxy A07s Global
+
+`SM-A077M`: Galaxy A07s Latin America
+
+**Galaxy A08 (`a08`):**
+
+`SM-A085F`: Galaxy A08 Global
+
+`SM-A085M`: Galaxy A08 Latin America
+
 >>>>>>> upstream/master
 **Galaxy A10 (`a10`):**
 
@@ -7268,7 +7324,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -8286,6 +8345,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9200,7 +9262,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9911,6 +9976,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -10382,6 +10448,20 @@
 >>>>>>> upstream/master
 `SM-A1760`: Galaxy A17 5G HK & TW
 
+=======
+`SM-A1760`: Galaxy A17 5G HK & TW
+
+**Galaxy A18 (`a18`):**
+
+`SM-A185F`: Galaxy A18 Global (Exynos)
+
+`SM-A185N`: Galaxy A18 South Korea
+
+**Galaxy A18 (`a18m`):**
+
+`SM-A185G`: Galaxy A18 Global (MediaTek)
+
+>>>>>>> upstream/master
 **Galaxy A2 Core (`a2corelte`):**
 
 `SM-A260F`: Galaxy A2 Core Global
@@ -10546,6 +10626,7 @@
 
 `SM-A266M`: Galaxy A26 5G Latin America
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10872,6 +10953,9 @@
 =======
 **Galaxy A27 5G (`a27xq`):**
 >>>>>>> upstream/master
+=======
+**Galaxy A27 5G (`a27xq`):**
+>>>>>>> upstream/master
 
 `SM-A276B`: Galaxy A27 5G Global
 
@@ -10965,6 +11049,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -11446,7 +11533,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -12060,6 +12150,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -12833,6 +12926,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`SM-A546S`: Galaxy Quantum4 South Korea
+
+>>>>>>> upstream/master
 =======
 `SM-A546S`: Galaxy Quantum4 South Korea
 
@@ -13845,6 +13943,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`SM-A556S`: Galaxy Quantum5 South Korea
+
+>>>>>>> upstream/master
 =======
 `SM-A556S`: Galaxy Quantum5 South Korea
 
@@ -14851,10 +14954,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `SM-A5660`: Galaxy A56 5G China
 
 `SM-A566S`: Galaxy A56 5G South Korea
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -15471,6 +15577,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -15949,6 +16058,7 @@
 
 `SM-A908N`: Galaxy A90 5G South Korea
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17026,6 +17136,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **Galaxy Quantum2 (`a82xq`):**
 
 `SM-A826S`: Galaxy Quantum2 South Korea
@@ -17070,6 +17182,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -17193,6 +17308,13 @@
 
 `SM-M075F`: Galaxy M07
 
+<<<<<<< HEAD
+=======
+**Galaxy M08 (`a08`):**
+
+`SM-M085F`: Galaxy M08
+
+>>>>>>> upstream/master
 **Galaxy M10 (`m10lte`):**
 
 `SM-M105G`: Galaxy M10 Global
@@ -17488,7 +17610,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -18195,6 +18320,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -18808,7 +18936,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -18966,6 +19097,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -19281,6 +19415,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+`SM-M536S`: Galaxy Quantum3 South Korea
+
+>>>>>>> upstream/master
 =======
 `SM-M536S`: Galaxy Quantum3 South Korea
 
@@ -20129,6 +20268,13 @@
 
 `SM-E075F`: Galaxy F07
 
+<<<<<<< HEAD
+=======
+**Galaxy F08 (`a08`):**
+
+`SM-E085F`: Galaxy F08
+
+>>>>>>> upstream/master
 **Galaxy F12 (`f12`):**
 
 `SM-F127G`: Galaxy F12
@@ -20435,7 +20581,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -21142,6 +21291,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -21610,4 +21760,10 @@
 =======
 >>>>>>> upstream/master
 =======
+>>>>>>> upstream/master
+=======
+
+**Galaxy F70 Pro 5G:**
+
+`SM-E476B`: Galaxy F70 Pro 5G
 >>>>>>> upstream/master
