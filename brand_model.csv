@@ -2475,6 +2475,10 @@ mitv,L55RC-AP,cn,小米电视, REDMI 电视 A Pro 55 2026
 mitv,L65RC-AP,cn,小米电视, REDMI 电视 A Pro 65 2026
 mitv,L70RB-APD,cn,小米电视, REDMI 电视 A Pro 70 2026
 mitv,L75RC-AP,cn,小米电视, REDMI 电视 A Pro 75 2026
+mitv,L55RD-APD,cn,小米电视, REDMI 电视 A Pro 55 2027 优选版
+mitv,L65RD-APD,cn,小米电视, REDMI 电视 A Pro 65 2027 优选版
+mitv,L75RD-APD,cn,小米电视, REDMI 电视 A Pro 75 2027 优选版
+mitv,L85RD-APD,cn,小米电视, REDMI 电视 A Pro 85 2027 优选版
 mitv,L50M5-RK,cn,小米电视, Redmi 智能电视 X50 (2020)
 mitv,L55M5-RK,cn,小米电视, Redmi 智能电视 X55 (2020)
 mitv,L65M5-RK,cn,小米电视, Redmi 智能电视 X65 (2020)
@@ -10416,6 +10420,9 @@ huawei,MLY-B11,cn,华为, HUAWEI WATCH D 米白色氟橡胶表带
 huawei,LCA-B10,cn,华为, HUAWEI WATCH D2 幻夜黑
 huawei,LCA-B11,cn,华为, HUAWEI WATCH D2 晨曦金
 huawei,LCA-B29,cn,华为, HUAWEI WATCH D2 星云蓝
+huawei,RIV-B10,cn,华为, HUAWEI WATCH D3 曜石黑
+huawei,RIV-B11,cn,华为, HUAWEI WATCH D3 羽砂金
+huawei,RIV-B12,cn,华为, HUAWEI WATCH D3 摩卡金
 huawei,SGA-B19,cn,华为, HUAWEI WATCH Buds
 huawei,LBA-B19,cn,华为, HUAWEI WATCH Buds 2
 huawei,MIL-B29B,cn,华为, HUAWEI WATCH B5-532
@@ -10757,6 +10764,11 @@ samsung,SM-S948Z,en,三星, Galaxy S26 Ultra Japan (SoftBank)
 samsung,SM-S948C,en,三星, Galaxy S26 Ultra Japan (Rakuten Mobile)
 samsung,SCG37,en,三星, Galaxy S26 Ultra Japan (au)
 samsung,SC-53G,en,三星, Galaxy S26 Ultra Japan (NTT Docomo)
+samsung,SM-S741B,en,三星, Galaxy S26 FE Global
+samsung,SM-S741U,en,三星, Galaxy S26 FE US Carrier
+samsung,SM-S741U1,en,三星, Galaxy S26 FE US Unlocked
+samsung,SM-S741W,en,三星, Galaxy S26 FE Canada
+samsung,SM-S741N,en,三星, Galaxy S26 FE South Korea
 samsung,SM-N960F,en,三星, Galaxy Note9 Global
 samsung,SM-N960U,en,三星, Galaxy Note9 US Carrier
 samsung,SM-N960U1,en,三星, Galaxy Note9 US Unlocked
@@ -11015,6 +11027,10 @@ samsung,SM-A075M,en,三星, Galaxy A07 Latin America
 samsung,SM-A076E,en,三星, Galaxy A07 5G Global
 samsung,SM-A076B,en,三星, Galaxy A07 5G Global
 samsung,SM-A076M,en,三星, Galaxy A07 5G Latin America
+samsung,SM-A077F,en,三星, Galaxy A07s Global
+samsung,SM-A077M,en,三星, Galaxy A07s Latin America
+samsung,SM-A085F,en,三星, Galaxy A08 Global
+samsung,SM-A085M,en,三星, Galaxy A08 Latin America
 samsung,SM-A105F,en,三星, Galaxy A10 Global
 samsung,SM-A015FN,en,三星, Galaxy A10 Global
 samsung,SM-A015G,en,三星, Galaxy A10 Global
@@ -11101,6 +11117,9 @@ samsung,SM-A176U1,en,三星, Galaxy A17 5G US Unlocked
 samsung,SM-S176V,en,三星, Galaxy A17 5G TracFone
 samsung,SM-A176W,en,三星, Galaxy A17 5G Canada
 samsung,SM-A1760,en,三星, Galaxy A17 5G HK & TW
+samsung,SM-A185F,en,三星, Galaxy A18 Global (Exynos)
+samsung,SM-A185N,en,三星, Galaxy A18 South Korea
+samsung,SM-A185G,en,三星, Galaxy A18 Global (MediaTek)
 samsung,SM-A260F,en,三星, Galaxy A2 Core Global
 samsung,SM-A260G,en,三星, Galaxy A2 Core India
 samsung,SM-A205F,en,三星, Galaxy A20 Global
@@ -11367,6 +11386,7 @@ samsung,SM-M045F,en,三星, Galaxy M04
 samsung,SM-M055F,en,三星, Galaxy M05
 samsung,SM-M066B,en,三星, Galaxy M06 5G
 samsung,SM-M075F,en,三星, Galaxy M07
+samsung,SM-M085F,en,三星, Galaxy M08
 samsung,SM-M105G,en,三星, Galaxy M10 Global
 samsung,SM-M105F,en,三星, Galaxy M10 India
 samsung,SM-M105M,en,三星, Galaxy M10 Latin America
@@ -11434,6 +11454,7 @@ samsung,SM-E045F,en,三星, Galaxy F04
 samsung,SM-E055F,en,三星, Galaxy F05
 samsung,SM-E066B,en,三星, Galaxy F06 5G
 samsung,SM-E075F,en,三星, Galaxy F07
+samsung,SM-E085F,en,三星, Galaxy F08
 samsung,SM-F127G,en,三星, Galaxy F12
 samsung,SM-E135F,en,三星, Galaxy F13
 samsung,SM-E145F,en,三星, Galaxy F14
@@ -11453,6 +11474,7 @@ samsung,SM-E556B,en,三星, Galaxy F55 5G
 samsung,SM-E566B,en,三星, Galaxy F56 5G
 samsung,SM-E625F,en,三星, Galaxy F62
 samsung,SM-E076B,en,三星, Galaxy F70e 5G
+samsung,SM-E476B,en,三星, Galaxy F70 Pro 5G
 google,G-2PW4100,cn,Google, Pixel (North America)
 google,G-2PW4200,cn,Google, Pixel (Rest of the world)
 google,G-2PW2100,cn,Google, Pixel XL (North America)
