@@ -6,7 +6,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - 汇总范围: 全部国行 iPhone/iPad/iPod touch/Apple Watch/Apple Vision
+=======
+- 汇总范围: 全部国行 iPhone/iPad/iPod touch/Apple Watch/Apple Vision/AirPods/AirTag/HomePod/Mac(Apple Silicon)
+>>>>>>> upstream/master
 =======
 - 汇总范围: 全部国行 iPhone/iPad/iPod touch/Apple Watch/Apple Vision/AirPods/AirTag/HomePod/Mac(Apple Silicon)
 >>>>>>> upstream/master
@@ -274,8 +278,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `A2222`: iPhone 11 (中国移动)
 
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -598,8 +605,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `A2216`: iPhone 11 Pro (中国移动)
 
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -922,8 +932,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `A2219`: iPhone 11 Pro Max (中国移动)
 
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1246,8 +1259,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `A2297`: iPhone SE (第 2 代) (中国移动)
 
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1757,7 +1773,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2338,6 +2357,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2721,6 +2741,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **[`V63AP`] iPhone 18 Pro (`iPhone19,2`):**
@@ -2736,6 +2758,9 @@
 `A3721`: iPhone Duo
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2748,6 +2773,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2861,7 +2889,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## iPad Air
+=======
+### iPad Air
+>>>>>>> upstream/master
 =======
 ### iPad Air
 >>>>>>> upstream/master
@@ -3150,7 +3182,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3743,6 +3778,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4117,6 +4153,9 @@
 =======
 >>>>>>> upstream/master
 ## iPad Pro
+=======
+### iPad Pro
+>>>>>>> upstream/master
 =======
 ### iPad Pro
 >>>>>>> upstream/master
@@ -4613,7 +4652,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5626,6 +5668,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6298,6 +6341,9 @@
 =======
 ### iPad mini
 >>>>>>> upstream/master
+=======
+### iPad mini
+>>>>>>> upstream/master
 
 **[`P105AP`] iPad mini (`iPad2,5`):**
 
@@ -6369,7 +6415,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6403,6 +6452,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6590,7 +6642,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **[`N237sAP`] Apple Watch Series 12 (`Watch8,2`):**
@@ -6610,6 +6665,9 @@
 `A3588`: Apple Watch Series 12 (GPS + 蜂窝网络) (46 毫米表壳)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6675,7 +6733,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **[`N240AP`] Apple Watch Ultra 4 (`Watch8,1`):**
@@ -6683,6 +6744,9 @@
 `A3580`: Apple Watch Ultra 4
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7025,7 +7089,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -8026,6 +8093,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8728,7 +8798,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9040,7 +9113,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **[`B768AP`] AirPods 4 (`AirPods1,4`):**
+=======
+**[`B768EAP`] AirPods 4 (`AirPods1,4`):**
+>>>>>>> upstream/master
 =======
 **[`B768EAP`] AirPods 4 (`AirPods1,4`):**
 >>>>>>> upstream/master
@@ -9056,6 +9133,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+**[`B768MAP`] AirPods 4 (主动降噪版) (`AirPods1,4`):**
+
+>>>>>>> upstream/master
 =======
 **[`B768MAP`] AirPods 4 (主动降噪版) (`AirPods1,4`):**
 
@@ -9072,7 +9154,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **[`B868EAP`] AirPods 5:**
@@ -9092,6 +9177,9 @@
 `A3529`: AirPods 5 (无线充电盒)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9167,6 +9255,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
