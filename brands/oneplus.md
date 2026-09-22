@@ -196,7 +196,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `LE2119`: 一加 9 Verzion 版
+=======
+`LE2119`: 一加 9 Verizon 版
+>>>>>>> upstream/master
 =======
 `LE2119`: 一加 9 Verizon 版
 >>>>>>> upstream/master
@@ -384,6 +388,7 @@
 
 `PLF110`: 一加 Ace 5 竞速版 国行版
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1459,6 +1464,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **一加 15 (`infiniti`):**
 
 `PLK110`: 一加 15 国行版
@@ -1769,7 +1776,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2691,6 +2701,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3306,6 +3319,7 @@
 
 `PLQ110`: 一加 Ace 6 国行版
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4378,6 +4392,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **一加 Ace 6T / 一加 15R (`macan`):**
 
 `PLR110`: 一加 Ace 6T 国行版
@@ -4388,6 +4404,7 @@
 
 `CPH2771`: 一加 15R 北美版
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5564,10 +5581,13 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **一加 15T (`fairlady`):**
 
 `PLZ110`: 一加 15T 国行版
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6267,6 +6287,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **一加 Ace 6 至尊版 (`roadster`):**
 
 `PMB110`: 一加 Ace 6 至尊版 国行版
@@ -6351,6 +6373,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6526,6 +6551,7 @@
 
 `CPH2805`: 一加 Nord CE 6 印度版
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7167,6 +7193,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 `CPH2807`: 一加 Nord CE 6 国际版
 
 **一加 Turbo 6X (`kof`):**
@@ -7257,6 +7285,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7494,6 +7525,7 @@
 
 `CPH2719`: 一加 Nord CE 5 国际版
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8072,10 +8104,13 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **一加 Nord CE 6 Lite (`suzuki-o`):**
 
 `CPH2943`: 一加 Nord CE 6 Lite 印度版
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8510,6 +8545,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **一加 N6 (`mumbai-o`):**
 
 `CPH2955`: 一加 N6 印度版
@@ -8537,6 +8574,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8612,6 +8652,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `GN2200`: 一加 Nord N20
 
 `CPH2459`: 一加 Nord N20
@@ -8620,6 +8661,8 @@
 
 `CPH2469`: 一加 Nord N20 SE
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -8660,6 +8703,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8698,6 +8744,7 @@
 
 **一加 Nord N300 (`hilda`):**
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9976,6 +10023,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 `CPH2389`: 一加 Nord N300 北美版
 
 **一加 Open (`hedwig`) (`xueying-9`):**
@@ -9992,6 +10041,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -10066,6 +10118,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -10166,6 +10221,7 @@
 
 **一加平板 Go (`bluey-o`):**
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11164,6 +11220,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 `OPD2304`: 一加平板 Go LTE 国际版
 
 `OPD2305`: 一加平板 Go Wi-Fi 国际版
@@ -11179,6 +11237,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -11254,7 +11315,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **一加平板 2 (2024) / 一加平板 Pro (`rainbow`) (~`caihong-o`~):**
+=======
+**一加平板 2 (2024) / 一加平板 Pro (`rainbow`) (`caihong-o`):**
+>>>>>>> upstream/master
 =======
 **一加平板 2 (2024) / 一加平板 Pro (`rainbow`) (`caihong-o`):**
 >>>>>>> upstream/master
@@ -11731,6 +11796,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -12395,6 +12463,7 @@
 
 `OPD2415`: 一加平板 3 国际版
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16178,6 +16247,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **一加平板 Lite (`fiji-o`):**
 
 `OPD2480`: 一加平板 Lite Wi-Fi 国际版
@@ -16200,6 +16271,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -16308,6 +16382,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -16606,6 +16683,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -16895,7 +16975,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `OPBBE221`: 一加 Nord Watch
+=======
+`OPBBE221`: 一加 Nord Watch 印度版
+>>>>>>> upstream/master
 =======
 `OPBBE221`: 一加 Nord Watch 印度版
 >>>>>>> upstream/master
@@ -17285,6 +17369,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 `OPWE242`: 一加手表 3 43mm 国际版
@@ -17974,6 +18059,8 @@
 `OPWE242`: 一加手表 3 43mm 国际版
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -18447,6 +18534,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+`OPWWE261`: 一加手表 4 国际版
+>>>>>>> upstream/master
+=======
 `OPWWE261`: 一加手表 4 国际版
 >>>>>>> upstream/master
 =======
