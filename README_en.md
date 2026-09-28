@@ -24,10 +24,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Collecting device names, models and internal codenames.
 
 [Issue submission](https://github.com/KHwang9883/MobileModels/issues) and [Pull Requests](https://github.com/KHwang9883/MobileModels/pulls) are welcomed if you find mistakes.
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -84,6 +87,9 @@ Collecting device names, models and internal codenames.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -142,7 +148,11 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 | [apple_all_en](brands/apple_all_en.md) | Apple | iPhone, iPad, iPod touch, Apple Watch, Apple TV and Apple Vision |
+=======
+| [apple_all_en](brands/apple_all_en.md) | Apple | iPhone, iPad, iPod touch, Apple Watch, Apple TV, Apple Vision, AirPods, AirTag, HomePod and Mac (Apple Silicon) |
+>>>>>>> upstream/master
 =======
 | [apple_all_en](brands/apple_all_en.md) | Apple | iPhone, iPad, iPod touch, Apple Watch, Apple TV, Apple Vision, AirPods, AirTag, HomePod and Mac (Apple Silicon) |
 >>>>>>> upstream/master
@@ -223,6 +233,7 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 | [oneplus_en](brands/oneplus_en.md) | OnePlus | All models |
 | [oppo_global_en](brands/oppo_global_en.md) | OPPO | International models since 2018 |
 | [samsung_global_en](brands/samsung_global_en.md) | Samsung | International models since 2019 |
@@ -1515,6 +1526,8 @@ Unlisted brands usually not include international models.
 | [sony](brands/sony.md) | Sony | All models since 2015 |
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1571,6 +1584,9 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1616,6 +1632,7 @@ Unlisted brands usually not include international models.
 
 ## References
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2101,6 +2118,8 @@ Unlisted brands usually not include international models.
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 - [TAF](http://zd.taf.org.cn)
 - [CQCCMS](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
 - [MIIT](https://ythzxfw.miit.gov.cn/jgcx/index.html)
@@ -2254,6 +2273,10 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+- [CMIIT ID](https://cmiitid.cn/)
+>>>>>>> upstream/master
 =======
 - [CMIIT ID](https://cmiitid.cn/)
 >>>>>>> upstream/master
@@ -2865,6 +2888,9 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3346,7 +3372,10 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [XSMS IMEI Database](http://xsms.com.ua/phone/imei/all/1)
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
