@@ -6433,6 +6433,8 @@ honor,VNE-B19,cn,荣耀, 荣耀手环 10 标准版
 honor,VNE-B39,cn,荣耀, 荣耀手环 10 NFC 版
 honor,MLA-B19,cn,荣耀, 荣耀手环 11 标准版
 honor,MLA-B39,cn,荣耀, 荣耀手环 11 Pro
+honor,MLA-B19,cn,荣耀, 荣耀手环 11 / 荣耀手环 11 Lite
+honor,MLA-B39,cn,荣耀, 荣耀手环 11 Pro / 荣耀手环 11 Pro GPS 版
 honor,CGN-A00,cn,荣耀, 荣耀观影眼镜
 honor,U8860,cn,荣耀, 荣耀 Honor 联通版
 honor,C8860E,cn,荣耀, 荣耀 Honor 电信版
@@ -9209,6 +9211,7 @@ vivo,V2402,en,VIVO, vivo Y300 Pro 5G
 vivo,V2455,en,VIVO, vivo Y400
 vivo,V2506,en,VIVO, vivo Y400 5G
 vivo,V2439,en,VIVO, vivo Y400 Pro 5G
+vivo,V2655,en,VIVO, vivo Y600 5G
 vivo,I1927,en,VIVO, iQOO 3 4G
 vivo,I1928,en,VIVO, iQOO 3 5G
 vivo,I2009,en,VIVO, iQOO 7 Global
@@ -9270,10 +9273,12 @@ vivo,V2425,en,VIVO, JOVI Y19s
 vivo,V2454,en,VIVO, JOVI Y19s
 vivo,J2503,en,VIVO, JOVI Y21
 vivo,J2508,en,VIVO, JOVI Y21 5G
+vivo,J2601,en,VIVO, JOVI Y21e
 vivo,V2445,en,VIVO, JOVI Y29
 vivo,V2459,en,VIVO, JOVI Y29s 5G
 vivo,V2444,en,VIVO, JOVI Y39 5G
 vivo,J2506,en,VIVO, JOVI Y31
+vivo,J2608,en,VIVO, JOVI V600 Pro 5G
 apple,A1203,cn,苹果, iPhone
 apple,A1241,cn,苹果, iPhone 3G
 apple,A1324,cn,苹果, iPhone 3G (中国大陆)
@@ -10344,6 +10349,8 @@ oppo,PMH110,cn,OPPO, OPPO K15 Pro
 oppo,PMG110,cn,OPPO, OPPO K15 Pro+
 oppo,PYD110,cn,OPPO, OPPO K15
 oppo,OPD2101,cn,OPPO, OPPO Pad
+oppo,PYE130,cn,OPPO, OPPO K15s
+oppo,PLT150,cn,OPPO, OPPO K15x
 oppo,OPD2102,cn,OPPO, OPPO Pad Air
 oppo,OPD2201,cn,OPPO, OPPO Pad 2
 oppo,OPD2301,cn,OPPO, OPPO Pad Air2
