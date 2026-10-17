@@ -355,11 +355,17 @@
 `NX809J`: 红魔 11S Pro / 红魔 11S Pro+
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **红魔 12 Pro+:**
 
 `NX819J`: 红魔 12 Pro+
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 ## 红魔平板
 
