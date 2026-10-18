@@ -77,7 +77,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Google Pixel
+=======
+## Phones
+>>>>>>> upstream/master
 =======
 ## Phones
 >>>>>>> upstream/master
@@ -796,7 +800,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1525,6 +1532,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1895,6 +1903,8 @@
 
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2111,6 +2121,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2322,6 +2335,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+## Watch
+
+>>>>>>> upstream/master
 =======
 ## Watch
 
@@ -3007,8 +3025,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `GRY0E`: Pixel Watch 3 LTE (45mm)
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4087,6 +4108,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `G1KAW`: Pixel Watch 4 LTE (45mm)
 >>>>>>> upstream/master
 =======
@@ -5032,6 +5054,8 @@
 `G1KAW`: Pixel Watch 4 LTE (45mm)
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5165,6 +5189,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+`G25QD`: Pixel Watch 5 LTE (45mm)
+>>>>>>> upstream/master
+=======
 `G25QD`: Pixel Watch 5 LTE (45mm)
 >>>>>>> upstream/master
 =======
