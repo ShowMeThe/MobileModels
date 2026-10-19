@@ -1597,6 +1597,7 @@ apple,A1842,en,苹果, Apple TV 4K
 apple,A2169,en,苹果, Apple TV 4K (2nd generation)
 apple,A2737,en,苹果, Apple TV 4K (3rd generation) Wi-Fi
 apple,A2843,en,苹果, Apple TV 4K (3rd generation) Wi-Fi + Ethernet
+apple,A3593,en,苹果, Apple TV 4K (4th generation)
 apple,A2117,en,苹果, Apple Vision Pro
 apple,A3416,en,苹果, Apple Vision Pro (M5)
 apple,A1213,en,苹果, iPod touch (1st generation)
@@ -1713,6 +1714,9 @@ apple,A2937,en,苹果, AirTag (2nd generation)
 apple,A1639,en,苹果, HomePod (1st generation)
 apple,A2374,en,苹果, HomePod mini
 apple,A2825,en,苹果, HomePod (2nd generation)
+apple,A3374,en,苹果, HomePod mini 2
+apple,A3218,en,苹果, Apple HomeView
+apple,A3300,en,苹果, Apple HomeView (Wall Mounted)
 samsung,SM-G970F,en,三星, Galaxy S10e Global
 samsung,SM-G970N,en,三星, Galaxy S10e South Korea
 samsung,SM-G970U,en,三星, Galaxy S10e US Carrier
@@ -6956,6 +6960,7 @@ apple,A2937,cn,苹果, AirTag (第 2 代)
 apple,A1639,cn,苹果, HomePod
 apple,A2374,cn,苹果, HomePod mini
 apple,A2825,cn,苹果, HomePod (第 2 代)
+apple,A3374,cn,苹果, HomePod mini 2
 huawei,MT1-T00,cn,华为, 华为 Ascend Mate 移动版
 huawei,MT1-U06,cn,华为, 华为 Ascend Mate 联通版
 huawei,MT2-U071,cn,华为, 华为 Ascend Mate 2 联通 3G 版
@@ -9684,6 +9689,7 @@ apple,A1842,cn,苹果, Apple TV 4K
 apple,A2169,cn,苹果, Apple TV 4K (第 2 代)
 apple,A2737,cn,苹果, Apple TV 4K (第 3 代) (无线局域网)
 apple,A2843,cn,苹果, Apple TV 4K (第 3 代) (无线局域网 + 以太网)
+apple,A3593,cn,苹果, Apple TV 4K (第 4 代)
 apple,A1288,cn,苹果, iPod touch (第 2 代)
 apple,A1319,cn,苹果, iPod touch (第 2 代) (中国大陆)
 apple,A1938,cn,苹果, AirPods (第 2 代) (无线充电盒)
@@ -9696,6 +9702,8 @@ apple,A2700,cn,苹果, AirPods Pro (第 2 代) (MagSafe 充电盒)
 apple,A3047,cn,苹果," AirPods Pro (第 2 代, USB-C) (左耳塞)"
 apple,A3048,cn,苹果," AirPods Pro (第 2 代, USB-C) (右耳塞)"
 apple,A2968,cn,苹果," AirPods Pro (第 2 代, USB-C) (USB-C 充电盒)"
+apple,A3218,cn,苹果, Apple HomeView
+apple,A3300,cn,苹果, Apple HomeView (壁挂式)
 realme,CPH1859,en,真我, realme 1
 realme,CPH1861,en,真我, realme 1
 realme,RMX1805,en,真我, realme 2
