@@ -581,6 +581,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> upstream/master
@@ -1384,6 +1385,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **[`P1`] Xiaomi 17 Ultra / Xiaomi 17 Ultra by Leica (`nezha`):**
 
 `2512BPNDAC`: Xiaomi 17 Ultra / Xiaomi 17 Ultra by Leica (非卫星)
@@ -1392,6 +1395,7 @@
 
 `25128PNA1C`: Xiaomi 17 Ultra by Leica (卫星通讯)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2095,6 +2099,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **[`P3S`] Xiaomi 17 Max (`byron`):**
 
 `2605EPN8EC`: Xiaomi 17 Max
@@ -2258,6 +2264,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2507,6 +2514,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2593,6 +2602,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2692,6 +2704,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2877,6 +2892,7 @@
 
 **[`B3`] 小米 Max (`hydrogen`):**
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4074,6 +4090,9 @@
 =======
 `2016001`: 小米 Max 标准版
 >>>>>>> upstream/master
+=======
+`2016001`: 小米 Max 标准版
+>>>>>>> upstream/master
 
 **[`B3_PRO`] 小米 Max (`helium`):**
 
@@ -4268,6 +4287,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> upstream/master
@@ -4280,6 +4300,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4396,6 +4418,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4515,6 +4540,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4809,7 +4837,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **[`C3L2`] Redmi 10A (`dandelion`):**
+=======
+**[`C3L2`] Redmi 10A (`dandelion_c3l2`) (`dandelion`):**
+>>>>>>> upstream/master
 =======
 **[`C3L2`] Redmi 10A (`dandelion_c3l2`) (`dandelion`):**
 >>>>>>> upstream/master
@@ -4958,6 +4990,7 @@
 
 `23124RN87C`: Redmi 13C 5G / Redmi 13R 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5675,11 +5708,17 @@
 
 `2409BRN2CC`: Redmi 14C / REDMI 17C
 >>>>>>> upstream/master
+=======
+**[`C3N`] Redmi 14C / REDMI 17C (`lake`) (`pond`):**
+
+`2409BRN2CC`: Redmi 14C / REDMI 17C
+>>>>>>> upstream/master
 
 **[`C3F`] Redmi 14R 5G (`flame`):**
 
 `2411DRN47C`: Redmi 14R 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5909,10 +5948,13 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **[`P15X`] REDMI 15R 5G (`tornado`):**
 
 `25082RNC1C`: REDMI 15R 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6150,6 +6192,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **[`P25X`] REDMI 17 5G (`somalia`):**
 
 `2602BRNA4C`: REDMI 17 5G
@@ -6224,6 +6268,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6576,7 +6623,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **[`L19X`] Redmi Note 11R (`light`) (`lightcm`):**
+=======
+**[`L19X`] Redmi Note 11R (`lightcm`) (`light`):**
+>>>>>>> upstream/master
 =======
 **[`L19X`] Redmi Note 11R (`lightcm`) (`light`):**
 >>>>>>> upstream/master
@@ -6765,6 +6816,7 @@
 
 `2311FRAFDC`: Redmi Note 13R Pro
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7848,6 +7900,11 @@
 
 `24094RAD4C`: Redmi Note 14 5G / REDMI Note 15R Pro
 >>>>>>> upstream/master
+=======
+**[`O17`] Redmi Note 14 5G / REDMI Note 15R Pro (`beryl`):**
+
+`24094RAD4C`: Redmi Note 14 5G / REDMI Note 15R Pro
+>>>>>>> upstream/master
 
 **[`O16`] Redmi Note 14 Pro (`malachite`):**
 
@@ -7975,7 +8032,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -8174,6 +8234,7 @@
 
 `26021RN18C`: REDMI Note 17
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8746,6 +8807,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **[`Q16`] REDMI Note 17 Pro / REDMI Note 17 Pro 焕新版 (`iolite`) (`moscow`):**
 
 `2607DRA18C`: REDMI Note 17 Pro / REDMI Note 17 Pro 焕新版
@@ -8753,6 +8816,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9055,7 +9121,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9862,6 +9931,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -10462,7 +10534,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **[`G7A`] Redmi K30i 5G (`picasso48m`):**
+=======
+**[`G7A`] Redmi K30i 5G (`picasso_48m`) (`picasso`):**
+>>>>>>> upstream/master
 =======
 **[`G7A`] Redmi K30i 5G (`picasso_48m`) (`picasso`):**
 >>>>>>> upstream/master
@@ -11071,7 +11147,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -12159,6 +12238,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -12882,10 +12962,13 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **[`P12`] REDMI K90 Max (`prague`):**
 
 `2604FRK1EC`: REDMI K90 Max
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13178,6 +13261,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -13505,6 +13590,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 其他 REDMI 手机
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13812,6 +13898,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **[`Q11A`] REDMI K100 (`warsaw`) (`warsaw_y`) (`yanan`):**
 
 `M786BC`: REDMI K100
@@ -13819,6 +13907,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -13905,6 +13996,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -14243,7 +14337,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -14791,6 +14888,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -15013,6 +15111,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -15227,6 +15327,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -15401,6 +15504,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **[`M84`] Redmi Pad SE (`xun`):**
 
 `23073RPBFC`: Redmi Pad SE
@@ -15408,6 +15512,11 @@
 **[`M84`] Redmi Pad M7 (`xun`):**
 
 `23073RPBFC`: Redmi Pad M7
+=======
+**[`M84`] Redmi Pad SE / Redmi Pad M7 (`xun`):**
+
+`23073RPBFC`: Redmi Pad SE / Redmi Pad M7
+>>>>>>> upstream/master
 =======
 **[`M84`] Redmi Pad SE / Redmi Pad M7 (`xun`):**
 
@@ -15746,7 +15855,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -16298,6 +16410,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -16847,7 +16962,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -17395,6 +17513,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -17950,7 +18071,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -18502,6 +18626,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -18564,6 +18689,11 @@
 **[`P802`] Xiaomi YU7 后排移动控制屏 (`konghou`):**
 
 `2503CVPC6C`: Xiaomi YU7 后排移动控制屏
+=======
+**[`P802`] 小米汽车后排移动控制屏 (`konghou`):**
+
+`2503CVPC6C`: 小米汽车后排移动控制屏
+>>>>>>> upstream/master
 =======
 **[`P802`] 小米汽车后排移动控制屏 (`konghou`):**
 
