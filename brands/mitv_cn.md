@@ -184,7 +184,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - 汇总范围: 全部国行小米/Redmi 电视、机顶盒
+=======
+- 汇总范围: 全部国行小米/REDMI 电视、智能显示器、机顶盒
+>>>>>>> upstream/master
 =======
 - 汇总范围: 全部国行小米/REDMI 电视、智能显示器、机顶盒
 >>>>>>> upstream/master
@@ -1308,7 +1312,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1905,6 +1912,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `L65MC-S`: 小米电视 S65 Mini LED 2026
 
 `L75MC-S`: 小米电视 S75 Mini LED 2026
@@ -1948,6 +1956,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2533,6 +2543,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2993,7 +3006,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3162,6 +3178,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3473,7 +3492,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Redmi 电视
+=======
+## REDMI 电视
+>>>>>>> upstream/master
 =======
 ## REDMI 电视
 >>>>>>> upstream/master
@@ -4317,6 +4340,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 `L50RA-RAD`: REDMI 电视 A50 一级能效版
 
@@ -4447,6 +4471,10 @@
 >>>>>>> upstream/master
 =======
 `L50RA-RAD`: REDMI 电视 A50 一级能效版
+
+>>>>>>> upstream/master
+=======
+`L50RB-RAD`: REDMI 电视 A50 一级能效版
 
 >>>>>>> upstream/master
 =======
@@ -5421,6 +5449,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> upstream/master
@@ -5887,6 +5916,9 @@
 =======
 **REDMI 电视 A Pro 2026:**
 >>>>>>> upstream/master
+=======
+**REDMI 电视 A Pro 2026:**
+>>>>>>> upstream/master
 
 `L43RC-AP`: REDMI 电视 A Pro 43 2026
 
@@ -6113,6 +6145,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6465,6 +6498,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6586,6 +6621,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6772,7 +6810,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -6855,6 +6896,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7136,7 +7180,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **[`N36`] Redmi 智能电视 MAX:**
+=======
+**[`N36`] Redmi 智能电视 MAX 2025:**
+>>>>>>> upstream/master
 =======
 **[`N36`] Redmi 智能电视 MAX 2025:**
 >>>>>>> upstream/master
@@ -8002,7 +8050,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -8652,6 +8703,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -8712,6 +8764,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9275,6 +9329,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
