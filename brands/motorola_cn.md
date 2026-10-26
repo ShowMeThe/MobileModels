@@ -593,6 +593,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **moto g100:**
 
 `XT2533-4`: moto g100
@@ -1329,10 +1330,13 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **moto g100 (`portov`):**
 
 `XT2533-4`: moto g100
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2787,6 +2791,9 @@
 =======
 **moto g100s (`mumba`):**
 >>>>>>> upstream/master
+=======
+**moto g100s (`mumba`):**
+>>>>>>> upstream/master
 
 `XT2537-4`: moto g100s
 
@@ -3150,6 +3157,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `XT2601-1`: moto X70 Air
 >>>>>>> upstream/master
 =======
@@ -3354,6 +3362,8 @@
 `XT2601-1`: moto X70 Air
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4228,6 +4238,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `XT2603-1`: moto X70 Air Pro
 >>>>>>> upstream/master
 =======
@@ -4624,6 +4635,8 @@
 `XT2603-1`: moto X70 Air Pro
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -5106,6 +5119,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+`XT2655-4`: moto razr 70 Ultra
+>>>>>>> upstream/master
+=======
 `XT2655-4`: moto razr 70 Ultra
 >>>>>>> upstream/master
 =======
