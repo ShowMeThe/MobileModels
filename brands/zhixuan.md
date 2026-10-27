@@ -81,7 +81,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 华为智选设备型号汇总
+=======
+# 华为智选手机型号汇总
+>>>>>>> upstream/master
 =======
 # 华为智选手机型号汇总
 >>>>>>> upstream/master
@@ -631,8 +635,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 雷鸟 FFALCON
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1169,6 +1176,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1727,6 +1737,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Hi 畅享 60:**
 
 `GAR-AN00`: Hi 畅享 60 5G
@@ -1745,6 +1756,8 @@
 
 **Hi 畅享 70 Pro:**
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2293,6 +2306,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2663,6 +2679,7 @@
 
 `JLG-AN80`: Hi 畅享 80 GT 5G
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4673,6 +4690,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **Hi 畅享 80 Pro (`Shera`):**
 
 `SHR-AN00`: Hi 畅享 80 Pro 5G
@@ -4685,6 +4704,7 @@
 
 `CHE-AN00`: WIKO X70
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5341,11 +5361,15 @@
 =======
 **Hi MateBook 14 (`MarseilleH`):**
 >>>>>>> upstream/master
+=======
+**Hi MateBook 14 (`MarseilleH`):**
+>>>>>>> upstream/master
 
 `MASH-16`: Hi MateBook 14 (16GB 内存)
 
 `MASH-32`: Hi MateBook 14 (32GB 内存)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6452,6 +6476,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **Hi MateBook 14 (`MarseilleI`):**
 
 `MASI-16`: Hi MateBook 14 酷睿 Ultra 2 (16GB 内存) (方形键盘)
@@ -6580,6 +6606,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7007,6 +7036,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+**Hi MateBook 14 (`MunichA`):**
+
+>>>>>>> upstream/master
 =======
 **Hi MateBook 14 (`MunichA`):**
 
@@ -7724,6 +7758,7 @@
 `MNCAA-32`: Hi MateBook 14 锐龙 200 (32GB 内存) (方形键盘)
 
 `MNCAC-32`: Hi MateBook 14 锐龙 200 (32GB 内存) (圆形键盘)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9122,6 +9157,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 
 **Hi MateBook 14 (`MarseilleJ`):**
 
@@ -9156,6 +9193,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9218,6 +9258,7 @@
 
 `LYOI-32`: Hi MateBook D 14 (32GB 内存)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9754,6 +9795,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **Hi MateBook D 14 (`MoscowA`):**
 
 `MSCA-X`: Hi MateBook D 14 锐龙版
@@ -9776,6 +9819,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9819,6 +9865,7 @@
 
 **Hi MateBook D 16 (`NiceI`):**
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10191,6 +10238,8 @@
 
 `NICI-32`: Hi MateBook D 16 (32GB 内存)
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -10441,6 +10490,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
