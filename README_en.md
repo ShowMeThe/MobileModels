@@ -58,10 +58,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Collecting device names, models and internal codenames.
 
 [Issue submission](https://github.com/KHwang9883/MobileModels/issues) and [Pull Requests](https://github.com/KHwang9883/MobileModels/pulls) are welcomed if you find mistakes.
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -220,6 +223,9 @@ Collecting device names, models and internal codenames.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -328,6 +334,7 @@ Unlisted brands usually not include international models.
 
 | Name | Brand | Range |
 | :-: | :-: | :-: |
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -537,6 +544,9 @@ Unlisted brands usually not include international models.
 =======
 | [apple_all_en](brands/apple_all_en.md) | Apple | iPhone, iPad, iPod touch, Apple Watch, Mac (Apple Silicon), Apple TV, Apple Vision, AirPods, AirTag, HomePod and HomeView |
 >>>>>>> upstream/master
+=======
+| [apple_all_en](brands/apple_all_en.md) | Apple | iPhone, iPad, iPod touch, Apple Watch, Mac (Apple Silicon), Apple TV, Apple Vision, AirPods, AirTag, HomePod and HomeView |
+>>>>>>> upstream/master
 | [asus_en](brands/asus_en.md) | ASUS | ROG Phone, Zenfone |
 | [blackshark_en](brands/blackshark_en.md) | Black Shark | All models |
 | [google](brands/google.md) | Google | Google Pixel phones, tablets & watch |
@@ -545,6 +555,7 @@ Unlisted brands usually not include international models.
 | [meizu_en](brands/meizu_en.md) | Meizu | All models |
 | [mitv_global_en](brands/mitv_global_en.md) | Xiaomi | All international/Indian Xiaomi & Redmi TV models (excluding Chinese models) |
 | [nothing](brands/nothing.md) | Nothing | All models |
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1889,6 +1900,8 @@ Unlisted brands usually not include international models.
 | [sony](brands/sony.md) | Sony | All models since 2015 |
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -2047,6 +2060,9 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2158,6 +2174,7 @@ Unlisted brands usually not include international models.
 
 [CHANGELOG_en.md](CHANGELOG_en.md)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2746,6 +2763,8 @@ Unlisted brands usually not include international models.
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 <a href="https://www.star-history.com/?repos=khwang9883%2Fmobilemodels&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=khwang9883/mobilemodels&type=date&theme=dark&legend=top-left" />
@@ -2773,6 +2792,9 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2995,6 +3017,10 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+- [CMIIT ID](https://cmiitid.cn/)
+>>>>>>> upstream/master
 =======
 - [CMIIT ID](https://cmiitid.cn/)
 >>>>>>> upstream/master
@@ -3742,6 +3768,9 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -4325,7 +4354,10 @@ Unlisted brands usually not include international models.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [XSMS IMEI Database](http://xsms.com.ua/phone/imei/all/1)
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
