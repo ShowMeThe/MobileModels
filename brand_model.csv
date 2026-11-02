@@ -6959,6 +6959,9 @@ apple,A2569,cn,苹果, iPad mini (第 6 代) (无线局域网 + 蜂窝网络) (�
 apple,A2993,cn,苹果, iPad mini (A17 Pro) (无线局域网)
 apple,A2995,cn,苹果, iPad mini (A17 Pro) (无线局域网 + 蜂窝网络)
 apple,A2996,cn,苹果, iPad mini (A17 Pro) (无线局域网 + 蜂窝网络) (中国大陆)
+apple,A3595,cn,苹果, iPad mini (A20 Pro) (无线局域网)
+apple,A3596,cn,苹果, iPad mini (A20 Pro) (无线局域网 + 蜂窝网络)
+apple,A3597,cn,苹果, iPad mini (A20 Pro) (无线局域网 + 蜂窝网络) (中国大陆)
 apple,A1603,cn,苹果, Apple Pencil (第 1 代)
 apple,A2051,cn,苹果, Apple Pencil (第 2 代)
 apple,A3085,cn,苹果, Apple Pencil (USB-C)
@@ -7130,12 +7133,19 @@ apple,A3426,cn,苹果," MacBook Pro (14 英寸, M5 Pro)"
 apple,A3427,cn,苹果," MacBook Pro (14 英寸, M5 Max)"
 apple,A3428,cn,苹果," MacBook Pro (16 英寸, M5 Pro)"
 apple,A3429,cn,苹果," MacBook Pro (16 英寸, M5 Max)"
+apple,A3536,cn,苹果," MacBook Pro (14 英寸, M6)"
+apple,A3468,cn,苹果," MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Pro)"
+apple,A3375,cn,苹果," MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Max)"
+apple,A3469,cn,苹果," MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Pro)"
+apple,A3376,cn,苹果," MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Max)"
 apple,A2438,cn,苹果," iMac (24 英寸, M1) (2 个 USB-C 端口)"
 apple,A2439,cn,苹果," iMac (24 英寸, M1) (4 个 USB-C 端口)"
 apple,A2874,cn,苹果," iMac (24 英寸, M3) (2 个 USB-C 端口)"
 apple,A2873,cn,苹果," iMac (24 英寸, M3) (4 个 USB-C 端口)"
 apple,A3247,cn,苹果," iMac (24 英寸, M4) (2 个 USB-C 端口)"
 apple,A3137,cn,苹果," iMac (24 英寸, M4) (4 个 USB-C 端口)"
+apple,A3589,cn,苹果," iMac (24 英寸, M6) (2 个 USB-C 端口)"
+apple,A3590,cn,苹果," iMac (24 英寸, M6) (4 个 USB-C 端口)"
 apple,A2348,cn,苹果, Mac mini (M1)
 apple,A2686,cn,苹果, Mac mini (M2)
 apple,A2816,cn,苹果, Mac mini (M2 Pro)
@@ -7584,6 +7594,7 @@ apple,A1455,cn,苹果, iPad mini (无线局域网 + 蜂窝网络)
 apple,A2125,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络)
 apple,A2569,cn,苹果, iPad mini (第 6 代) (无线局域网 + 蜂窝网络)
 apple,A2996,cn,苹果, iPad mini (A17 Pro) (无线局域网 + 蜂窝网络)
+apple,A3597,cn,苹果, iPad mini (A20 Pro) (无线局域网 + 蜂窝网络)
 apple,A1890,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (38 毫米表壳) 
 apple,A1892,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (42 毫米表壳) 
 apple,A2007,cn,苹果, Apple Watch Series 4 (GPS + 蜂窝网络) (40 毫米表壳) 
@@ -9763,6 +9774,7 @@ honor,WTS-B19,cn,荣耀, 荣耀手表 X5i
 honor,WSS-B19,cn,荣耀, 荣耀手表 X5s
 honor,ROM-B19,cn,荣耀, 荣耀手表 6 Plus
 honor,HLO-B19,cn,荣耀, 荣耀手表 6 Pro
+honor,RIO-B09,cn,荣耀, 荣耀手表 Fit 6
 honor,NYX-B10HN,cn,荣耀, 荣耀手环 3 标准版
 honor,NYX-B20HN,cn,荣耀, 荣耀手环 3 NFC 版
 honor,CRS-B19,cn,荣耀, 荣耀手环 4 标准版
@@ -10518,6 +10530,9 @@ apple,A2569,en,苹果, iPad mini (6th generation) Wi-Fi + Cellular (China mainla
 apple,A2993,en,苹果, iPad mini (A17 Pro) Wi-Fi
 apple,A2995,en,苹果, iPad mini (A17 Pro) Wi-Fi + Cellular
 apple,A2996,en,苹果, iPad mini (A17 Pro) Wi-Fi + Cellular (China mainland)
+apple,A3595,en,苹果, iPad mini (A20 Pro) Wi-Fi
+apple,A3596,en,苹果, iPad mini (A20 Pro) Wi-Fi + Cellular
+apple,A3597,en,苹果, iPad mini (A20 Pro) Wi-Fi + Cellular (China mainland)
 apple,A1603,en,苹果, Apple Pencil (1st generation)
 apple,A2051,en,苹果, Apple Pencil (2nd generation)
 apple,A3085,en,苹果, Apple Pencil (USB-C)
@@ -10689,12 +10704,19 @@ apple,A3426,en,苹果," MacBook Pro (14-inch, M5 Pro)"
 apple,A3427,en,苹果," MacBook Pro (14-inch, M5 Max)"
 apple,A3428,en,苹果," MacBook Pro (16-inch, M5 Pro)"
 apple,A3429,en,苹果," MacBook Pro (16-inch, M5 Max)"
+apple,A3536,en,苹果," MacBook Pro (14-inch, M6)"
+apple,A3468,en,苹果," MacBook Pro (14-inch PROLED XDR Display, M5 Pro)"
+apple,A3375,en,苹果," MacBook Pro (14-inch PROLED XDR Display, M5 Max)"
+apple,A3469,en,苹果," MacBook Pro (16-inch PROLED XDR Display, M5 Pro)"
+apple,A3376,en,苹果," MacBook Pro (16-inch PROLED XDR Display, M5 Max)"
 apple,A2438,en,苹果," iMac (24-inch, M1) (2 USB-C ports)"
 apple,A2439,en,苹果," iMac (24-inch, M1) (4 USB-C ports)"
 apple,A2874,en,苹果," iMac (24-inch, M3) (2 USB-C ports)"
 apple,A2873,en,苹果," iMac (24-inch, M3) (4 USB-C ports)"
 apple,A3247,en,苹果," iMac (24-inch, M4) (2 USB-C ports)"
 apple,A3137,en,苹果," iMac (24-inch, M4) (4 USB-C ports)"
+apple,A3589,en,苹果," iMac (24-inch, M6) (2 USB-C ports)"
+apple,A3590,en,苹果," iMac (24-inch, M6) (4 USB-C ports)"
 apple,A2348,en,苹果, Mac mini (M1)
 apple,A2686,en,苹果, Mac mini (M2)
 apple,A2816,en,苹果, Mac mini (M2 Pro)
