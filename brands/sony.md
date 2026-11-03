@@ -747,7 +747,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -1215,6 +1218,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -1517,6 +1521,22 @@
 =======
 >>>>>>> upstream/master
 =======
+>>>>>>> upstream/master
+=======
+**Xperia 10 VIII (`PDX-268`):**
+
+`XQ-GH44`: Xperia 10 VIII Japan (SIM Free)
+
+`XQ-GH54`: Xperia 10 VIII Global
+
+`XQ-GH74`: Xperia 10 VIII Asia Pacific
+
+`A502SO`: Xperia 10 VIII Japan (SoftBank)
+
+`SO-52G`: Xperia 10 VIII Japan (NTT Docomo)
+
+`SOG18`: Xperia 10 VIII Japan (KDDI)
+
 >>>>>>> upstream/master
 **Xperia Z4 Tablet (`Karin`):**
 

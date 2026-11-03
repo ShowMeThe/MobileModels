@@ -29,6 +29,13 @@
 
 `Z2570N`: nubia Neo 5 GT 5G
 
+<<<<<<< HEAD
+=======
+**nubia Neo 5 Max:**
+
+`Z2572N`: nubia Neo 5 Max 5G
+
+>>>>>>> upstream/master
 **nubia Music:**
 
 `Z2353`: nubia Music
@@ -59,10 +66,24 @@
 
 `Z2468N`: nubia Air
 
+<<<<<<< HEAD
+=======
+**nubia Air Pro:**
+
+`Z2587N`: nubia Air Pro
+
+>>>>>>> upstream/master
 **nubia A56:**
 
 `Z2473`: nubia A56
 
+<<<<<<< HEAD
+=======
+**nubia A57:**
+
+`Z2581`: nubia A57
+
+>>>>>>> upstream/master
 **nubia A75:**
 
 `Z6255CA`: nubia A75
@@ -73,6 +94,13 @@
 
 `Z2469N`: nubia A76 5G
 
+<<<<<<< HEAD
+=======
+**nubia A77:**
+
+`Z2582`: nubia A77
+
+>>>>>>> upstream/master
 **nubia V50 Vita:**
 
 `nubia 8550`: nubia V50 Vita
@@ -97,6 +125,21 @@
 
 `Z2467`: nubia V70 Max
 
+<<<<<<< HEAD
+=======
+**nubia V80 Pro:**
+
+`Z2576`: nubia V80 Pro
+
+**nubia V80 Design:**
+
+`Z2575`: nubia V80 Design
+
+**nubia V80 Max:**
+
+`Z2577`: nubia V80 Max
+
+>>>>>>> upstream/master
 **nubia S:**
 
 `A403ZT`: nubia S 5G SoftBank
@@ -107,4 +150,96 @@
 
 **nubia S2R:**
 
+<<<<<<< HEAD
 `Z6305R`: nubia S2R
+=======
+`Z6305R`: nubia S2R
+
+**REDMAGIC Mars:**
+
+`NX619J`: REDMAGIC Mars
+
+**REDMAGIC 3 / REDMAGIC 3S:**
+
+`NX629J`: REDMAGIC 3
+
+**REDMAGIC 5G / REDMAGIC 5S:**
+
+`NX659J`: REDMAGIC 5G / REDMAGIC 5S
+
+**REDMAGIC 5G Lite:**
+
+`NX651J`: REDMAGIC 5G Lite
+
+**REDMAGIC 6:**
+
+`NX669J`: REDMAGIC 6
+
+**REDMAGIC 6 Pro:**
+
+`NX669J-P`: REDMAGIC 6 Pro
+
+**REDMAGIC 6R:**
+
+`NX666J`: REDMAGIC 6R
+
+**REDMAGIC 6S Pro:**
+
+`NX669J-S`: REDMAGIC 6S Pro
+
+**REDMAGIC 7:**
+
+`NX679J`: REDMAGIC 7
+
+**REDMAGIC 7 Pro:**
+
+`NX709J`: REDMAGIC 7 Pro
+
+**REDMAGIC 7S Pro:**
+
+`NX709S`: REDMAGIC 7S Pro
+
+**REDMAGIC 8 Pro / REDMAGIC 8S Pro:**
+
+`NX729J`: REDMAGIC 8 Pro / REDMAGIC 8S Pro
+
+**REDMAGIC 9 Pro / REDMAGIC 9S Pro:**
+
+`NX769J`: REDMAGIC 9 Pro / REDMAGIC 9S Pro
+
+**REDMAGIC 10 Pro / REDMAGIC 10S Pro:**
+
+`NX789J`: REDMAGIC 10 Pro / REDMAGIC 10S Pro
+
+**REDMAGIC 10 Air:**
+
+`NX779J`: REDMAGIC 10 Air
+
+**REDMAGIC 11 Pro / REDMAGIC 11S Pro:**
+
+`NX809J`: REDMAGIC 11 Pro / REDMAGIC 11S Pro
+
+**REDMAGIC 11 Air:**
+
+`NX799J`: REDMAGIC 11 Air
+
+**REDMAGIC 12 Pro:**
+
+`NX819J`: REDMAGIC 12 Pro
+
+**nubia Pad SE:**
+
+`K99J`: nubia Pad SE
+
+**REDMAGIC Nova Gaming Tablet:**
+
+`NP03J`: REDMAGIC Nova Gaming Tablet
+
+**REDMAGIC Astra Gaming Tablet:**
+
+`NP05J`: REDMAGIC Astra Gaming Tablet
+
+**REDMAGIC Astra 2 Gaming Tablet:**
+
+`NP06J`: REDMAGIC Astra 2 Gaming Tablet
+>>>>>>> upstream/master
