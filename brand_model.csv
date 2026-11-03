@@ -2903,6 +2903,7 @@ vivo,V2574,en,VIVO, vivo Y31t 5G
 vivo,V2638,en,VIVO, vivo Y32
 vivo,V2641,en,VIVO, vivo Y32
 vivo,V2642,en,VIVO, vivo Y32
+vivo,V2639,en,VIVO, vivo Y32 5G
 vivo,V2057,en,VIVO, vivo Y33
 vivo,V2109-EG,en,VIVO, vivo Y33A
 vivo,V2109,en,VIVO, vivo Y33s
@@ -2996,6 +2997,7 @@ vivo,V2427,en,VIVO, Jovi V50
 vivo,V2440,en,VIVO, Jovi V50 Lite 5G
 vivo,V2459,en,VIVO, Jovi Y29s 5G
 vivo,I2510,en,VIVO, iQOO Z11 Lite 5G
+vivo,I2605,en,VIVO, iQOO Z11xa 5G
 vivo,I2515,en,VIVO, iQOO Z11 Lite 44W 5G
 vivo,I2510,en,VIVO, iQOO Z11 Lite 44W 5G
 vivo,J2505,en,VIVO, JOVI X300 FE
@@ -3890,6 +3892,7 @@ mitv,L43MA-AUIN,en,小米电视, Xiaomi Smart TV X 43 2024
 mitv,L43MB-AIN,en,小米电视, Xiaomi 4K TV X 43
 mitv,L50MB-AIN,en,小米电视, Xiaomi 4K TV X 50
 mitv,L55MB-AIN,en,小米电视, Xiaomi 4K TV X 55
+mitv,L65MB-AIN,en,小米电视, Xiaomi 4K TV X 65
 mitv,L32MB-FIN,en,小米电视, Xiaomi Smart TV F 32
 mitv,L43MB-FIN,en,小米电视, Xiaomi 4K TV FX 43
 mitv,L55MB-FIN,en,小米电视, Xiaomi 4K TV FX 55
@@ -4242,27 +4245,6 @@ mitv,L75MA-SPLEA,en,小米电视, Xiaomi TV S Mini LED 75 2025
 mitv,L55MA-SPLME,en,小米电视, Xiaomi TV S Mini LED 55 2025
 mitv,L65MA-SPLME,en,小米电视, Xiaomi TV S Mini LED 65 2025
 mitv,L75MA-SPLME,en,小米电视, Xiaomi TV S Mini LED 75 2025
-mitv,L55MB-SEU,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
-mitv,L65MB-SEU,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
-mitv,L75MB-SEU,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
-mitv,L55MB-SRU,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
-mitv,L65MB-SRU,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
-mitv,L75MB-SRU,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
-mitv,L55MB-STWN,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
-mitv,L65MB-STWN,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
-mitv,L75MB-STWN,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
-mitv,L55MB-SSEA,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
-mitv,L65MB-SSEA,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
-mitv,L75MB-SSEA,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
-mitv,L55MB-SME,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
-mitv,L65MB-SME,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
-mitv,L75MB-SME,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
-mitv,L55MB-SPH,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
-mitv,L65MB-SPH,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
-mitv,L75MB-SPH,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
-mitv,L55MB-SMX,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
-mitv,L65MB-SMX,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
-mitv,L75MB-SMX,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
 mitv,L55MC-SEU,en,小米电视, Xiaomi TV S Mini LED 55 2026
 mitv,L65MC-SEU,en,小米电视, Xiaomi TV S Mini LED 65 2026
 mitv,L75MC-SEU,en,小米电视, Xiaomi TV S Mini LED 75 2026
@@ -4311,6 +4293,47 @@ mitv,L65MC-SMX,en,小米电视, Xiaomi TV S Mini LED 65 2026
 mitv,L75MC-SMX,en,小米电视, Xiaomi TV S Mini LED 75 2026
 mitv,L85MC-SMX,en,小米电视, Xiaomi TV S Mini LED 85 2026
 mitv,L98MC-SMX,en,小米电视, Xiaomi TV S Mini LED 98 2026
+mitv,L55MB-SEU,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
+mitv,L65MB-SEU,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
+mitv,L75MB-SEU,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
+mitv,L55MB-SRU,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
+mitv,L65MB-SRU,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
+mitv,L75MB-SRU,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
+mitv,L55MB-STWN,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
+mitv,L65MB-STWN,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
+mitv,L75MB-STWN,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
+mitv,L55MB-SSEA,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
+mitv,L65MB-SSEA,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
+mitv,L75MB-SSEA,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
+mitv,L55MB-SME,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
+mitv,L65MB-SME,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
+mitv,L75MB-SME,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
+mitv,L55MB-SPH,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
+mitv,L65MB-SPH,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
+mitv,L75MB-SPH,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
+mitv,L55MB-SMX,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
+mitv,L65MB-SMX,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
+mitv,L75MB-SMX,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
+mitv,L43MC-SMEU,en,小米电视, Xiaomi TV X Mini LED 43
+mitv,L55MC-SMEU,en,小米电视, Xiaomi TV X Mini LED 55
+mitv,L65MC-SMEU,en,小米电视, Xiaomi TV X Mini LED 65
+mitv,L75MC-SMEU,en,小米电视, Xiaomi TV X Mini LED 75
+mitv,L43MC-SMRU,en,小米电视, Xiaomi TV X Mini LED 43
+mitv,L55MC-SMRU,en,小米电视, Xiaomi TV X Mini LED 55
+mitv,L65MC-SMRU,en,小米电视, Xiaomi TV X Mini LED 65
+mitv,L75MC-SMRU,en,小米电视, Xiaomi TV X Mini LED 75
+mitv,L43MC-SMSEA,en,小米电视, Xiaomi TV X Mini LED 43
+mitv,L55MC-SMSEA,en,小米电视, Xiaomi TV X Mini LED 55
+mitv,L65MC-SMSEA,en,小米电视, Xiaomi TV X Mini LED 65
+mitv,L75MC-SMSEA,en,小米电视, Xiaomi TV X Mini LED 75
+mitv,L43MC-SMME,en,小米电视, Xiaomi TV X Mini LED 43
+mitv,L55MC-SMME,en,小米电视, Xiaomi TV X Mini LED 55
+mitv,L65MC-SMME,en,小米电视, Xiaomi TV X Mini LED 65
+mitv,L75MC-SMME,en,小米电视, Xiaomi TV X Mini LED 75
+mitv,L43MC-FSMEU,en,小米电视, Xiaomi TV FX Mini LED 43
+mitv,L55MC-FSMEU,en,小米电视, Xiaomi TV FX Mini LED 55
+mitv,L65MC-FSMEU,en,小米电视, Xiaomi TV FX Mini LED 65
+mitv,L75MC-FSMEU,en,小米电视, Xiaomi TV FX Mini LED 75
 mitv,L86M7-ESRU,en,小米电视, Xiaomi TV Max 86
 mitv,L86M7-ESTWN,en,小米电视, Xiaomi TV Max 86
 mitv,L86M7-ESME,en,小米电视, Xiaomi TV Max 86
@@ -5419,6 +5442,7 @@ huawei,JUY-AL50,cn,华为, 华为畅享 90 Plus
 huawei,JUY-AL50,cn,华为, 华为畅享 90 Plus / 华为畅享 90m Plus
 huawei,CHZ-AL00,cn,华为, 华为畅享 90 Pro Max
 huawei,JAL-AL90,cn,华为, 华为畅享 100
+huawei,JAL-AL90,cn,华为, 华为畅享 100 / 华为畅享 100m
 huawei,CHZ-AL60,cn,华为, 华为畅享 100 Pro
 huawei,YEW-AL80,cn,华为, 华为畅享 100 Pro Max (麒麟 8020A)
 huawei,YEW-AL90,cn,华为, 华为畅享 100 Pro Max (麒麟 8020)
@@ -11179,6 +11203,12 @@ sony,XQ-GE74,cn,索尼, Xperia 1 VIII Asia Pacific
 sony,A601SO,cn,索尼, Xperia 1 VIII Japan (SoftBank)
 sony,SO-51G,cn,索尼, Xperia 1 VIII Japan (NTT Docomo)
 sony,SOG17,cn,索尼, Xperia 1 VIII Japan (KDDI)
+sony,XQ-GH44,cn,索尼, Xperia 10 VIII Japan (SIM Free)
+sony,XQ-GH54,cn,索尼, Xperia 10 VIII Global
+sony,XQ-GH74,cn,索尼, Xperia 10 VIII Asia Pacific
+sony,A502SO,cn,索尼, Xperia 10 VIII Japan (SoftBank)
+sony,SO-52G,cn,索尼, Xperia 10 VIII Japan (NTT Docomo)
+sony,SOG18,cn,索尼, Xperia 10 VIII Japan (KDDI)
 sony,SGP712,cn,索尼, Xperia Z4 Tablet Wi-Fi
 sony,SGP771,cn,索尼, Xperia Z4 Tablet LTE
 sony,SO-05G,cn,索尼, Xperia Z4 Tablet LTE Japan (NTT Docomo)
@@ -12020,6 +12050,7 @@ nubia,Z2464N,en,努比亚, nubia Neo 3 5G
 nubia,Z2465N,en,努比亚, nubia Neo 3 GT 5G
 nubia,Z2571N,en,努比亚, nubia Neo 5 5G
 nubia,Z2570N,en,努比亚, nubia Neo 5 GT 5G
+nubia,Z2572N,en,努比亚, nubia Neo 5 Max 5G
 nubia,Z2353,en,努比亚, nubia Music
 nubia,Z2460,en,努比亚, nubia Music 2 / nubia Music Pro
 nubia,Z2455,en,努比亚, nubia Focus
@@ -12028,17 +12059,45 @@ nubia,Z2462N,en,努比亚, nubia Focus 2 5G
 nubia,Z2463N,en,努比亚, nubia Focus 2 Ultra 5G
 nubia,A502ZT,en,努比亚, nubia Fold SoftBank
 nubia,Z2468N,en,努比亚, nubia Air
+nubia,Z2587N,en,努比亚, nubia Air Pro
 nubia,Z2473,en,努比亚, nubia A56
+nubia,Z2581,en,努比亚, nubia A57
 nubia,Z6255CA,en,努比亚, nubia A75
 nubia,Z2469N,en,努比亚, nubia A76 5G
+nubia,Z2582,en,努比亚, nubia A77
 nubia,Z2356,en,努比亚, nubia V60
 nubia,Z2350,en,努比亚, nubia V60 Design
 nubia,Z2459,en,努比亚, nubia V70
 nubia,Z2458,en,努比亚, nubia V70 Design
 nubia,Z2467,en,努比亚, nubia V70 Max
+nubia,Z2576,en,努比亚, nubia V80 Pro
+nubia,Z2575,en,努比亚, nubia V80 Design
+nubia,Z2577,en,努比亚, nubia V80 Max
 nubia,A403ZT,en,努比亚, nubia S 5G SoftBank
 nubia,A507ZT,en,努比亚, nubia S2e SoftBank
 nubia,Z6305R,en,努比亚, nubia S2R
+nubia,NX619J,en,努比亚, REDMAGIC Mars
+nubia,NX629J,en,努比亚, REDMAGIC 3
+nubia,NX659J,en,努比亚, REDMAGIC 5G / REDMAGIC 5S
+nubia,NX651J,en,努比亚, REDMAGIC 5G Lite
+nubia,NX669J,en,努比亚, REDMAGIC 6
+nubia,NX669J-P,en,努比亚, REDMAGIC 6 Pro
+nubia,NX666J,en,努比亚, REDMAGIC 6R
+nubia,NX669J-S,en,努比亚, REDMAGIC 6S Pro
+nubia,NX679J,en,努比亚, REDMAGIC 7
+nubia,NX709J,en,努比亚, REDMAGIC 7 Pro
+nubia,NX709S,en,努比亚, REDMAGIC 7S Pro
+nubia,NX729J,en,努比亚, REDMAGIC 8 Pro / REDMAGIC 8S Pro
+nubia,NX769J,en,努比亚, REDMAGIC 9 Pro / REDMAGIC 9S Pro
+nubia,NX789J,en,努比亚, REDMAGIC 10 Pro / REDMAGIC 10S Pro
+nubia,NX779J,en,努比亚, REDMAGIC 10 Air
+nubia,NX809J,en,努比亚, REDMAGIC 11 Pro / REDMAGIC 11S Pro
+nubia,NX799J,en,努比亚, REDMAGIC 11 Air
+nubia,NX819J,en,努比亚, REDMAGIC 12 Pro
+nubia,K99J,en,努比亚, nubia Pad SE
+nubia,NP03J,en,努比亚, REDMAGIC Nova Gaming Tablet
+nubia,NP05J,en,努比亚, REDMAGIC Astra Gaming Tablet
+nubia,NP06J,en,努比亚, REDMAGIC Astra 2 Gaming Tablet
 realme,CPH1859,en,真我, realme 1
 realme,CPH1861,en,真我, realme 1
 realme,RMX1805,en,真我, realme 2
