@@ -30,11 +30,17 @@
 `Z2570N`: nubia Neo 5 GT 5G
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **nubia Neo 5 Max:**
 
 `Z2572N`: nubia Neo 5 Max 5G
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **nubia Music:**
 
@@ -67,22 +73,34 @@
 `Z2468N`: nubia Air
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **nubia Air Pro:**
 
 `Z2587N`: nubia Air Pro
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **nubia A56:**
 
 `Z2473`: nubia A56
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **nubia A57:**
 
 `Z2581`: nubia A57
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **nubia A75:**
 
@@ -95,11 +113,17 @@
 `Z2469N`: nubia A76 5G
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **nubia A77:**
 
 `Z2582`: nubia A77
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **nubia V50 Vita:**
 
@@ -126,7 +150,10 @@
 `Z2467`: nubia V70 Max
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 **nubia V80 Pro:**
 
 `Z2576`: nubia V80 Pro
@@ -139,6 +166,9 @@
 
 `Z2577`: nubia V80 Max
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 **nubia S:**
 
@@ -151,8 +181,11 @@
 **nubia S2R:**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 `Z6305R`: nubia S2R
 =======
+=======
+>>>>>>> upstream/master
 `Z6305R`: nubia S2R
 
 **REDMAGIC Mars:**
@@ -242,4 +275,7 @@
 **REDMAGIC Astra 2 Gaming Tablet:**
 
 `NP06J`: REDMAGIC Astra 2 Gaming Tablet
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master

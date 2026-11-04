@@ -249,10 +249,13 @@
 `NP02J`: nubia Pad 3D II
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **nubia Pad SE:**
 
 `K99J`: nubia Pad SE
 
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 **nubia Pad Pro:**
@@ -376,7 +379,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -435,6 +441,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
