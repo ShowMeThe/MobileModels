@@ -198,7 +198,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - 汇总范围: 全部国行小米/Redmi 电视、机顶盒
+=======
+- 汇总范围: 全部国行小米/REDMI 电视、智能显示器、机顶盒
+>>>>>>> upstream/master
 =======
 - 汇总范围: 全部国行小米/REDMI 电视、智能显示器、机顶盒
 >>>>>>> upstream/master
@@ -1162,6 +1166,7 @@
 
 `L98MB-S`: 小米电视 S98 Mini LED 2025
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2456,12 +2461,17 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **[`P32`] 小米电视 S Mini LED 2026:**
 
 `L55MC-S`: 小米电视 S55 Mini LED 2026
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -2688,6 +2698,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3190,7 +3203,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3401,6 +3417,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -3754,7 +3773,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Redmi 电视
+=======
+## REDMI 电视
+>>>>>>> upstream/master
 =======
 ## REDMI 电视
 >>>>>>> upstream/master
@@ -4654,6 +4677,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 `L50RA-RAD`: REDMI 电视 A50 一级能效版
 
@@ -4784,6 +4808,10 @@
 >>>>>>> upstream/master
 =======
 `L50RA-RAD`: REDMI 电视 A50 一级能效版
+
+>>>>>>> upstream/master
+=======
+`L50RB-RAD`: REDMI 电视 A50 一级能效版
 
 >>>>>>> upstream/master
 =======
@@ -5577,7 +5605,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Redmi 智能电视 A Pro:**
+=======
+**[`O39P`] Redmi 智能电视 A Pro:**
+>>>>>>> upstream/master
 =======
 **[`O39P`] Redmi 智能电视 A Pro:**
 >>>>>>> upstream/master
@@ -5603,7 +5635,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **REDMI 智能电视 A Pro 2025:**
+=======
+**[`O39P`] REDMI 智能电视 A Pro 2025:**
+>>>>>>> upstream/master
 =======
 **[`O39P`] REDMI 智能电视 A Pro 2025:**
 >>>>>>> upstream/master
@@ -5624,6 +5660,7 @@
 
 `L75RB-APE`: REDMI 智能电视 A Pro 75 2025 节能版 (一级能效)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6360,6 +6397,9 @@
 =======
 **REDMI 电视 A Pro 2026:**
 >>>>>>> upstream/master
+=======
+**REDMI 电视 A Pro 2026:**
+>>>>>>> upstream/master
 
 `L43RC-AP`: REDMI 电视 A Pro 43 2026
 
@@ -6600,6 +6640,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -6952,6 +6993,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -7115,6 +7158,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7295,7 +7341,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **REDMI 电视 X 2026:**
+=======
+**[`P37`] REDMI 电视 X 2026:**
+>>>>>>> upstream/master
 =======
 **[`P37`] REDMI 电视 X 2026:**
 >>>>>>> upstream/master
@@ -7355,7 +7405,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -7480,6 +7533,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -7803,7 +7859,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **[`N36`] Redmi 智能电视 MAX:**
+=======
+**[`N36`] Redmi 智能电视 MAX 2025:**
+>>>>>>> upstream/master
 =======
 **[`N36`] Redmi 智能电视 MAX 2025:**
 >>>>>>> upstream/master
@@ -8725,7 +8785,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -9417,6 +9480,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9477,6 +9541,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -10082,6 +10148,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
