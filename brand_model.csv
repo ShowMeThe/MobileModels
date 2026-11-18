@@ -4214,9 +4214,11 @@ xiaomi,2508CRN2BC,en,小米, REDMI 15C 5G China
 xiaomi,2508CRN2BR,en,小米, REDMI 15C 5G Japan
 xiaomi,25082RNC1C,en,小米, REDMI 15R 5G China
 xiaomi,2602BRNA4I,en,小米, REDMI 15A 5G India
+xiaomi,25082RNC1C,en,小米, REDMI 15R 5G China / REDMI R80 5G China / REDMI R80m 5G China
 xiaomi,2602BRNA4C,en,小米, REDMI 17 5G China
 xiaomi,26062RN92G,en,小米, REDMI 17 5G Global
 xiaomi,26062RN92I,en,小米, REDMI 17 5G India
+xiaomi,26062RN92C,en,小米, REDMI M100 China
 xiaomi,2606FRN72Y,en,小米, REDMI 17 Global
 xiaomi,2606FRN72L,en,小米, REDMI 17 Latin America / Japan
 xiaomi,2607FRNEAG,en,小米, REDMI 17C 5G Global
@@ -4556,7 +4558,6 @@ xiaomi,25128RN17L,en,小米, REDMI A7 Pro Latin America
 xiaomi,25128RN17I,en,小米, REDMI A7 Pro India
 xiaomi,26020RN1AI,en,小米, REDMI A7 Pro 5G India
 xiaomi,26020RN1AC,en,小米, REDMI R70 5G China / REDMI R70m 5G China
-xiaomi,26062RN92C,en,小米, REDMI M100 China
 xiaomi,M1805E10A,en,小米, POCO F1
 xiaomi,M1805E10A,en,小米, POCO F1 Global
 xiaomi,M2004J11G,en,小米, POCO F2 Pro Global
@@ -5999,6 +6000,7 @@ xiaomi,2411DRN47C,cn,小米, Redmi 14R 5G
 xiaomi,2508CRN2BC,cn,小米, REDMI 15C 5G
 xiaomi,25082RNC1C,cn,小米, REDMI 15R 5G
 xiaomi,2602BRNA4C,cn,小米, REDMI 17 5G
+xiaomi,25082RNC1C,cn,小米, REDMI 15R 5G / REDMI R80 5G / REDMI R80m 5G
 xiaomi,2014018,cn,小米, 红米 Note 联通 3G 标准版
 xiaomi,2013121,cn,小米, 红米 Note 联通 3G 增强版
 xiaomi,2014017,cn,小米, 红米 Note 移动 3G 标准版
@@ -6448,6 +6450,7 @@ xiaomi,2508CRN2BI,cn,小米, REDMI 15C 5G 印度版
 xiaomi,2508CRN2BR,cn,小米, REDMI 15C 5G 日本版
 xiaomi,2602BRNA4I,cn,小米, REDMI 15A 5G 印度版
 xiaomi,2602BRNA4C,cn,小米, REDMI 17 5G 国行版
+xiaomi,26062RN92C,cn,小米, REDMI M100 国行版
 xiaomi,26062RN92G,cn,小米, REDMI 17 5G 国际版
 xiaomi,26062RN92I,cn,小米, REDMI 17 5G 印度版
 xiaomi,2606FRN72Y,cn,小米, REDMI 17 国际版
