@@ -210,7 +210,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `IN2019`: OnePlus 8 Visible / Verzion
+=======
+`IN2019`: OnePlus 8 Visible / Verizon
+>>>>>>> upstream/master
 =======
 `IN2019`: OnePlus 8 Visible / Verizon
 >>>>>>> upstream/master
@@ -558,7 +562,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `LE2119`: OnePlus 9 Verzion
+=======
+`LE2119`: OnePlus 9 Verizon
+>>>>>>> upstream/master
 =======
 `LE2119`: OnePlus 9 Verizon
 >>>>>>> upstream/master
@@ -921,6 +929,7 @@
 
 `PKR110`: OnePlus Ace 5 Pro China
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2192,6 +2201,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **OnePlus Ace 5 Ultra (`emira`):**
 
 `PLC110`: OnePlus Ace 5 Ultra China
@@ -2592,7 +2603,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -3754,7 +3768,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -4865,6 +4882,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -5606,6 +5626,7 @@
 
 `PLQ110`: OnePlus Ace 6 China
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6867,6 +6888,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **OnePlus Ace 6T / OnePlus 15R (`macan`):**
 
 `PLR110`: OnePlus Ace 6T China
@@ -6877,6 +6900,7 @@
 
 `CPH2771`: OnePlus 15R North America
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8242,10 +8266,13 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **OnePlus 15T (`fairlady`):**
 
 `PLZ110`: OnePlus 15T China
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9134,6 +9161,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **OnePlus Ace 6 Ultra (`roadster`):**
 
 `PMB110`: OnePlus Ace 6 Ultra China
@@ -9281,6 +9310,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -9576,6 +9608,7 @@
 
 `CPH2795`: OnePlus Nord 6 Global
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10411,6 +10444,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **OnePlus Turbo 6V / OnePlus Turbo 6Vs / OnePlus Nord CE 6 (`prado`):**
 
 `PLY110`: OnePlus Turbo 6V China / OnePlus 6Vs China
@@ -10439,6 +10474,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -10494,6 +10532,7 @@
 
 `PYR110`: OnePlus Turbo 6X Pro China
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10930,10 +10969,13 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **OnePlus 16 (`pokemon`):**
 
 `PYB110`: OnePlus 16 China
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11086,6 +11128,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **OnePlus Ace 7 (`mario`):**
 
 `PYF110`: OnePlus Ace 7 China
@@ -11118,6 +11162,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -11243,6 +11290,7 @@
 
 `CPH2719`: OnePlus Nord CE 5 Global
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12010,10 +12058,13 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **OnePlus Nord CE 6 Lite (`suzuki-o`):**
 
 `CPH2943`: OnePlus Nord CE 6 Lite India
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12637,6 +12688,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **OnePlus N6 (`mumbai-o`):**
 
 `CPH2955`: OnePlus N6 India
@@ -12727,6 +12780,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -12769,6 +12823,8 @@
 =======
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -12956,6 +13012,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -13103,6 +13162,7 @@
 
 **OnePlus Nord N20 (`gunnar`):**
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13334,6 +13394,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 `GN2200`: OnePlus Nord N20 North America Carrier Version
 
 `CPH2459`: OnePlus Nord N20 North America Unlocked Version
@@ -13415,6 +13477,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -13579,6 +13644,7 @@
 
 **OnePlus Nord N300 (`hilda`):**
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -15230,6 +15296,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 `CPH2389`: OnePlus Nord N300 North America
 
 **OnePlus Open (`hedwig`) (`xueying-9`):**
@@ -15309,6 +15377,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -15464,6 +15535,7 @@
 **OnePlus Pad (2023) (`aries-o`):**
 
 `OPD2203`: OnePlus Pad (2023) Global
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17942,6 +18014,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 
 **OnePlus Pad Go (`bluey-o`):**
 
@@ -18023,6 +18097,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -18176,6 +18253,7 @@
 
 `OPD2407`: OnePlus Pad (2024) China
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -18621,6 +18699,9 @@
 =======
 **OnePlus Pad 2 (2024) / OnePlus Pad Pro (`rainbow`) (`caihong-o`):**
 >>>>>>> upstream/master
+=======
+**OnePlus Pad 2 (2024) / OnePlus Pad Pro (`rainbow`) (`caihong-o`):**
+>>>>>>> upstream/master
 
 `OPD2404`: OnePlus Pad Pro China
 
@@ -18632,6 +18713,7 @@
 
 `OPD2415`: OnePlus Pad 3 Global
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -21879,6 +21961,8 @@
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
+=======
+>>>>>>> upstream/master
 **OnePlus Pad Lite (`fiji-o`):**
 
 `OPD2480`: OnePlus Pad Lite Wi-Fi Global
@@ -21964,6 +22048,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -22261,6 +22348,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -22748,6 +22838,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
@@ -23226,7 +23319,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 `OPBBE221`: OnePlus Nord Watch
+=======
+`OPBBE221`: OnePlus Nord Watch India
+>>>>>>> upstream/master
 =======
 `OPBBE221`: OnePlus Nord Watch India
 >>>>>>> upstream/master
@@ -23868,6 +23965,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 `OPWE242`: OnePlus Watch 3 43mm (Global)
@@ -24557,6 +24655,8 @@
 `OPWE242`: OnePlus Watch 3 43mm (Global)
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 =======
@@ -25220,6 +25320,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
