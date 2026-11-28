@@ -4199,6 +4199,7 @@ vivo,V2648,en,VIVO, vivo V80
 vivo,V2649,en,VIVO, vivo V80
 vivo,V2626,en,VIVO, vivo V80 Lite 5G
 vivo,V2655,en,VIVO, vivo V80 Lite 5G
+vivo,V2624,en,VIVO, vivo V80 FE
 vivo,V1937,en,VIVO, vivo S1 Prime
 vivo,V2576,en,VIVO, vivo S2
 vivo,V2640,en,VIVO, vivo S2 FE
@@ -4229,6 +4230,7 @@ vivo,V2583,en,VIVO, vivo T5
 vivo,V2628,en,VIVO, vivo T5e
 vivo,V2603,en,VIVO, vivo T5 Lite 5G
 vivo,V2557,en,VIVO, vivo T5 Lite 44W 5G
+vivo,V2667,en,VIVO, vivo T6 Lite 5G
 vivo,V2044,en,VIVO, vivo Y3s
 vivo,V2118,en,VIVO, vivo Y01
 vivo,V2166,en,VIVO, vivo Y01A
@@ -4251,6 +4253,7 @@ vivo,V2555,en,VIVO, vivo Y11d
 vivo,V2578,en,VIVO, vivo Y11d
 vivo,V2580,en,VIVO, vivo Y11d
 vivo,V2577,en,VIVO, vivo Y11e
+vivo,V2669,en,VIVO, vivo Y11s 5G
 vivo,V2026,en,VIVO, vivo Y12A
 vivo,V2048,en,VIVO, vivo Y12D
 vivo,V2026,en,VIVO, vivo Y12s
@@ -4304,6 +4307,7 @@ vivo,V2560,en,VIVO, vivo Y21d
 vivo,V2525,en,VIVO, vivo Y21e (2025)
 vivo,V2553,en,VIVO, vivo Y21 5G
 vivo,V2554,en,VIVO, vivo Y21 5G
+vivo,V2670,en,VIVO, vivo Y21s 5G
 vivo,V2207,en,VIVO, vivo Y22
 vivo,V2238,en,VIVO, vivo Y22
 vivo,V2206,en,VIVO, vivo Y22s
@@ -5134,6 +5138,9 @@ mitv,L55RB-RAE,cn,小米电视, REDMI 电视 A55 2025 节能版 (一级能效)
 mitv,L65RB-RAE,cn,小米电视, REDMI 电视 A65 2025 节能版 (一级能效)
 mitv,L70RB-RAE,cn,小米电视, REDMI 电视 A70 2025 节能版 (一级能效)
 mitv,L75MA-RAE,cn,小米电视, REDMI 电视 A75 2025 节能版 (一级能效)
+mitv,L55RD-RAE,cn,小米电视, REDMI 电视 A55 2027 一级能效版
+mitv,L65RD-RAE,cn,小米电视, REDMI 电视 A65 2027 一级能效版
+mitv,L75RD-RAE,cn,小米电视, REDMI 电视 A75 2027 一级能效版
 mitv,L43RB-AP,cn,小米电视, Redmi 智能电视 A Pro 43
 mitv,L50RB-AP,cn,小米电视, Redmi 智能电视 A Pro 50 节能版 (二级能效)
 mitv,L55RB-AP,cn,小米电视, Redmi 智能电视 A Pro 55 节能版 (二级能效)
@@ -8978,6 +8985,7 @@ oneplus,CPH2807,cn,一加, 一加 Nord CE 6 国际版
 oneplus,PYS110,cn,一加, 一加 Turbo 6X 国行版
 oneplus,PYR110,cn,一加, 一加 Turbo 6X Pro 国行版
 oneplus,PLY110,cn,一加, 一加 Turbo 6V 国行版 / 一加 Turbo 6Vs 国行版
+oneplus,PYS110,cn,一加, 一加 Turbo 6X 国行版 / 一加 Turbo 6Xs 国行版
 oneplus,PYB110,cn,一加, 一加 16 国行版
 oneplus,PYF110,cn,一加, 一加 Ace 7 国行版
 oneplus,PMS110,cn,一加, 一加 Ace 7 Pro 国行版
@@ -9204,6 +9212,8 @@ oneplus,CPH2807,en,一加, OnePlus Nord CE 6 Global
 oneplus,PYS110,en,一加, OnePlus Turbo 6X China
 oneplus,PYR110,en,一加, OnePlus Turbo 6X Pro China
 oneplus,PLY110,en,一加, OnePlus Turbo 6V China / OnePlus 6Vs China
+oneplus,PLY110,en,一加, OnePlus Turbo 6V China / OnePlus Turbo 6Vs China
+oneplus,PYS110,en,一加, OnePlus Turbo 6X China / OnePlus Turbo 6Xs China
 oneplus,PYB110,en,一加, OnePlus 16 China
 oneplus,PYF110,en,一加, OnePlus Ace 7 China
 oneplus,PMS110,en,一加, OnePlus Ace 7 Pro China
